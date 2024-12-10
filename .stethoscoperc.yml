@@ -23,5 +23,8 @@ integrations:
   #   frequency: "daily"
   #   all: true
   # clockify:
-  # spotify:
+  spotify:
+    frequency: "daily"
+    all: true
+
   # goodreads:

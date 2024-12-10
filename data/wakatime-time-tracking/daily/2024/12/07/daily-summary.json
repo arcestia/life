@@ -1,0 +1,214 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 3557.084,
+        "digital": "0:59:17",
+        "decimal": "0.98",
+        "text": "59 mins",
+        "hours": 0,
+        "minutes": 59,
+        "seconds": 17,
+        "percent": 95.48
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 95.429277,
+        "digital": "0:01:35",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 35,
+        "percent": 2.56
+      },
+      {
+        "name": "PHP",
+        "total_seconds": 41.197419,
+        "digital": "0:00:41",
+        "decimal": "0.00",
+        "text": "41 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 41,
+        "percent": 1.11
+      },
+      {
+        "name": "Git",
+        "total_seconds": 16.198573,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.43
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 15.684284,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.42
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 2,
+      "total_seconds": 3725.593553,
+      "digital": "1:02",
+      "decimal": "1.03",
+      "text": "1 hr 2 mins"
+    },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 3557.084,
+        "digital": "0:59:17",
+        "decimal": "0.98",
+        "text": "59 mins",
+        "hours": 0,
+        "minutes": 59,
+        "seconds": 17,
+        "percent": 95.48
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 168.509553,
+        "digital": "0:02:48",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 48,
+        "percent": 4.52
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 3725.593553,
+        "digital": "1:02:05",
+        "decimal": "1.03",
+        "text": "1 hr 2 mins",
+        "hours": 1,
+        "minutes": 2,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 3557.084,
+        "digital": "0:59:17",
+        "decimal": "0.98",
+        "text": "59 mins",
+        "hours": 0,
+        "minutes": 59,
+        "seconds": 17,
+        "percent": 95.48
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 168.509553,
+        "digital": "0:02:48",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 48,
+        "percent": 4.52
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "Illuminate",
+        "total_seconds": 41.197419,
+        "digital": "0:00:41",
+        "decimal": "0.00",
+        "text": "41 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 41,
+        "percent": 100
+      }
+    ],
+    "machines": [
+      {
+        "name": "Unknown Hostname",
+        "total_seconds": 3557.084,
+        "machine_name_id": "f03586f1-864b-4208-8dc4-3dec42522f13",
+        "digital": "0:59:17",
+        "decimal": "0.98",
+        "text": "59 mins",
+        "hours": 0,
+        "minutes": 59,
+        "seconds": 17,
+        "percent": 95.48
+      },
+      {
+        "name": "HS-COMP23021",
+        "total_seconds": 168.509553,
+        "machine_name_id": "eba734a9-f958-4c17-a792-a9cdde215498",
+        "digital": "0:02:48",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 48,
+        "percent": 4.52
+      }
+    ],
+    "projects": [
+      {
+        "name": "location",
+        "total_seconds": 3557.084,
+        "color": null,
+        "digital": "0:59:17",
+        "decimal": "0.98",
+        "text": "59 mins",
+        "hours": 0,
+        "minutes": 59,
+        "seconds": 17,
+        "percent": 95.48
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 95.429277,
+        "color": null,
+        "digital": "0:01:35",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 35,
+        "percent": 2.56
+      },
+      {
+        "name": "HS Gaming",
+        "total_seconds": 73.080276,
+        "color": null,
+        "digital": "0:01:13",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 13,
+        "percent": 1.96
+      }
+    ],
+    "range": {
+      "start": "2024-12-07T17:00:00Z",
+      "end": "2024-12-08T16:59:59Z",
+      "date": "2024-12-08",
+      "text": "Sun Dec 8th 2024",
+      "timezone": "Asia/Bangkok"
+    }
+  }
+]

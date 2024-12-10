@@ -1,0 +1,1166 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+          },
+          "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+          "id": "6udveWUgX4vu75FF0DTrXV",
+          "name": "TAEYANG",
+          "type": "artist",
+          "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+          "id": "1OQxmfKN9UG5C7nr4MkasO",
+          "name": "DAESUNG",
+          "type": "artist",
+          "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5fo3PoBblMOTbg7SXPNspq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bcacb16531b21146ed9dc2a0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bcacb16531b21146ed9dc2a0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bcacb16531b21146ed9dc2a0",
+          "width": 64
+        }
+      ],
+      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+      "release_date": "2024-11-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5fo3PoBblMOTbg7SXPNspq"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+        "id": "6udveWUgX4vu75FF0DTrXV",
+        "name": "TAEYANG",
+        "type": "artist",
+        "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        },
+        "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+        "id": "1OQxmfKN9UG5C7nr4MkasO",
+        "name": "DAESUNG",
+        "type": "artist",
+        "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0Cu8JdYvV9DdmzLzhxaZLH",
+    "is_local": false,
+    "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+          },
+          "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+          "id": "6udveWUgX4vu75FF0DTrXV",
+          "name": "TAEYANG",
+          "type": "artist",
+          "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+          "id": "1OQxmfKN9UG5C7nr4MkasO",
+          "name": "DAESUNG",
+          "type": "artist",
+          "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5fo3PoBblMOTbg7SXPNspq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bcacb16531b21146ed9dc2a0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bcacb16531b21146ed9dc2a0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bcacb16531b21146ed9dc2a0",
+          "width": 64
+        }
+      ],
+      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+      "release_date": "2024-11-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5fo3PoBblMOTbg7SXPNspq"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+        "id": "6udveWUgX4vu75FF0DTrXV",
+        "name": "TAEYANG",
+        "type": "artist",
+        "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        },
+        "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+        "id": "1OQxmfKN9UG5C7nr4MkasO",
+        "name": "DAESUNG",
+        "type": "artist",
+        "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0Cu8JdYvV9DdmzLzhxaZLH",
+    "is_local": false,
+    "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+          },
+          "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+          "id": "6udveWUgX4vu75FF0DTrXV",
+          "name": "TAEYANG",
+          "type": "artist",
+          "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+          "id": "1OQxmfKN9UG5C7nr4MkasO",
+          "name": "DAESUNG",
+          "type": "artist",
+          "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5fo3PoBblMOTbg7SXPNspq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bcacb16531b21146ed9dc2a0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bcacb16531b21146ed9dc2a0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bcacb16531b21146ed9dc2a0",
+          "width": 64
+        }
+      ],
+      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+      "release_date": "2024-11-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5fo3PoBblMOTbg7SXPNspq"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+        "id": "6udveWUgX4vu75FF0DTrXV",
+        "name": "TAEYANG",
+        "type": "artist",
+        "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        },
+        "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+        "id": "1OQxmfKN9UG5C7nr4MkasO",
+        "name": "DAESUNG",
+        "type": "artist",
+        "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0Cu8JdYvV9DdmzLzhxaZLH",
+    "is_local": false,
+    "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+          },
+          "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+          "id": "6udveWUgX4vu75FF0DTrXV",
+          "name": "TAEYANG",
+          "type": "artist",
+          "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+          "id": "1OQxmfKN9UG5C7nr4MkasO",
+          "name": "DAESUNG",
+          "type": "artist",
+          "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5fo3PoBblMOTbg7SXPNspq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bcacb16531b21146ed9dc2a0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bcacb16531b21146ed9dc2a0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bcacb16531b21146ed9dc2a0",
+          "width": 64
+        }
+      ],
+      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+      "release_date": "2024-11-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5fo3PoBblMOTbg7SXPNspq"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+        "id": "6udveWUgX4vu75FF0DTrXV",
+        "name": "TAEYANG",
+        "type": "artist",
+        "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        },
+        "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+        "id": "1OQxmfKN9UG5C7nr4MkasO",
+        "name": "DAESUNG",
+        "type": "artist",
+        "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0Cu8JdYvV9DdmzLzhxaZLH",
+    "is_local": false,
+    "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+          },
+          "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+          "id": "6udveWUgX4vu75FF0DTrXV",
+          "name": "TAEYANG",
+          "type": "artist",
+          "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+          "id": "1OQxmfKN9UG5C7nr4MkasO",
+          "name": "DAESUNG",
+          "type": "artist",
+          "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5fo3PoBblMOTbg7SXPNspq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bcacb16531b21146ed9dc2a0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bcacb16531b21146ed9dc2a0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bcacb16531b21146ed9dc2a0",
+          "width": 64
+        }
+      ],
+      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+      "release_date": "2024-11-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5fo3PoBblMOTbg7SXPNspq"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+        "id": "6udveWUgX4vu75FF0DTrXV",
+        "name": "TAEYANG",
+        "type": "artist",
+        "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        },
+        "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+        "id": "1OQxmfKN9UG5C7nr4MkasO",
+        "name": "DAESUNG",
+        "type": "artist",
+        "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0Cu8JdYvV9DdmzLzhxaZLH",
+    "is_local": false,
+    "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+          },
+          "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+          "id": "6udveWUgX4vu75FF0DTrXV",
+          "name": "TAEYANG",
+          "type": "artist",
+          "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+          "id": "1OQxmfKN9UG5C7nr4MkasO",
+          "name": "DAESUNG",
+          "type": "artist",
+          "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5fo3PoBblMOTbg7SXPNspq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bcacb16531b21146ed9dc2a0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bcacb16531b21146ed9dc2a0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bcacb16531b21146ed9dc2a0",
+          "width": 64
+        }
+      ],
+      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+      "release_date": "2024-11-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5fo3PoBblMOTbg7SXPNspq"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+        "id": "6udveWUgX4vu75FF0DTrXV",
+        "name": "TAEYANG",
+        "type": "artist",
+        "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        },
+        "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+        "id": "1OQxmfKN9UG5C7nr4MkasO",
+        "name": "DAESUNG",
+        "type": "artist",
+        "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0Cu8JdYvV9DdmzLzhxaZLH",
+    "is_local": false,
+    "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+          },
+          "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+          "id": "6udveWUgX4vu75FF0DTrXV",
+          "name": "TAEYANG",
+          "type": "artist",
+          "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+          "id": "1OQxmfKN9UG5C7nr4MkasO",
+          "name": "DAESUNG",
+          "type": "artist",
+          "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5fo3PoBblMOTbg7SXPNspq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bcacb16531b21146ed9dc2a0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bcacb16531b21146ed9dc2a0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bcacb16531b21146ed9dc2a0",
+          "width": 64
+        }
+      ],
+      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+      "release_date": "2024-11-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5fo3PoBblMOTbg7SXPNspq"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+        "id": "6udveWUgX4vu75FF0DTrXV",
+        "name": "TAEYANG",
+        "type": "artist",
+        "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        },
+        "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+        "id": "1OQxmfKN9UG5C7nr4MkasO",
+        "name": "DAESUNG",
+        "type": "artist",
+        "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0Cu8JdYvV9DdmzLzhxaZLH",
+    "is_local": false,
+    "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+          },
+          "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+          "id": "6udveWUgX4vu75FF0DTrXV",
+          "name": "TAEYANG",
+          "type": "artist",
+          "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+          "id": "1OQxmfKN9UG5C7nr4MkasO",
+          "name": "DAESUNG",
+          "type": "artist",
+          "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5fo3PoBblMOTbg7SXPNspq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bcacb16531b21146ed9dc2a0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bcacb16531b21146ed9dc2a0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bcacb16531b21146ed9dc2a0",
+          "width": 64
+        }
+      ],
+      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+      "release_date": "2024-11-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5fo3PoBblMOTbg7SXPNspq"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+        "id": "6udveWUgX4vu75FF0DTrXV",
+        "name": "TAEYANG",
+        "type": "artist",
+        "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        },
+        "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+        "id": "1OQxmfKN9UG5C7nr4MkasO",
+        "name": "DAESUNG",
+        "type": "artist",
+        "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0Cu8JdYvV9DdmzLzhxaZLH",
+    "is_local": false,
+    "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+          },
+          "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+          "id": "6udveWUgX4vu75FF0DTrXV",
+          "name": "TAEYANG",
+          "type": "artist",
+          "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+          "id": "1OQxmfKN9UG5C7nr4MkasO",
+          "name": "DAESUNG",
+          "type": "artist",
+          "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5fo3PoBblMOTbg7SXPNspq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bcacb16531b21146ed9dc2a0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bcacb16531b21146ed9dc2a0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bcacb16531b21146ed9dc2a0",
+          "width": 64
+        }
+      ],
+      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+      "release_date": "2024-11-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5fo3PoBblMOTbg7SXPNspq"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+        "id": "6udveWUgX4vu75FF0DTrXV",
+        "name": "TAEYANG",
+        "type": "artist",
+        "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        },
+        "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+        "id": "1OQxmfKN9UG5C7nr4MkasO",
+        "name": "DAESUNG",
+        "type": "artist",
+        "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0Cu8JdYvV9DdmzLzhxaZLH",
+    "is_local": false,
+    "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+          },
+          "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+          "id": "6udveWUgX4vu75FF0DTrXV",
+          "name": "TAEYANG",
+          "type": "artist",
+          "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+          "id": "1OQxmfKN9UG5C7nr4MkasO",
+          "name": "DAESUNG",
+          "type": "artist",
+          "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5fo3PoBblMOTbg7SXPNspq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bcacb16531b21146ed9dc2a0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bcacb16531b21146ed9dc2a0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bcacb16531b21146ed9dc2a0",
+          "width": 64
+        }
+      ],
+      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+      "release_date": "2024-11-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5fo3PoBblMOTbg7SXPNspq"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+        "id": "6udveWUgX4vu75FF0DTrXV",
+        "name": "TAEYANG",
+        "type": "artist",
+        "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        },
+        "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+        "id": "1OQxmfKN9UG5C7nr4MkasO",
+        "name": "DAESUNG",
+        "type": "artist",
+        "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0Cu8JdYvV9DdmzLzhxaZLH",
+    "is_local": false,
+    "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+          },
+          "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+          "id": "6udveWUgX4vu75FF0DTrXV",
+          "name": "TAEYANG",
+          "type": "artist",
+          "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+          "id": "1OQxmfKN9UG5C7nr4MkasO",
+          "name": "DAESUNG",
+          "type": "artist",
+          "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5fo3PoBblMOTbg7SXPNspq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bcacb16531b21146ed9dc2a0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bcacb16531b21146ed9dc2a0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bcacb16531b21146ed9dc2a0",
+          "width": 64
+        }
+      ],
+      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+      "release_date": "2024-11-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5fo3PoBblMOTbg7SXPNspq"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+        "id": "6udveWUgX4vu75FF0DTrXV",
+        "name": "TAEYANG",
+        "type": "artist",
+        "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        },
+        "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+        "id": "1OQxmfKN9UG5C7nr4MkasO",
+        "name": "DAESUNG",
+        "type": "artist",
+        "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0Cu8JdYvV9DdmzLzhxaZLH",
+    "is_local": false,
+    "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+          },
+          "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+          "id": "6udveWUgX4vu75FF0DTrXV",
+          "name": "TAEYANG",
+          "type": "artist",
+          "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+          "id": "1OQxmfKN9UG5C7nr4MkasO",
+          "name": "DAESUNG",
+          "type": "artist",
+          "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5fo3PoBblMOTbg7SXPNspq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bcacb16531b21146ed9dc2a0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bcacb16531b21146ed9dc2a0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bcacb16531b21146ed9dc2a0",
+          "width": 64
+        }
+      ],
+      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+      "release_date": "2024-11-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5fo3PoBblMOTbg7SXPNspq"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+        "id": "6udveWUgX4vu75FF0DTrXV",
+        "name": "TAEYANG",
+        "type": "artist",
+        "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        },
+        "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+        "id": "1OQxmfKN9UG5C7nr4MkasO",
+        "name": "DAESUNG",
+        "type": "artist",
+        "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0Cu8JdYvV9DdmzLzhxaZLH",
+    "is_local": false,
+    "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+    "preview_url": null
+  }
+]

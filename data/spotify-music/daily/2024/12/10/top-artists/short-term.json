@@ -1,0 +1,548 @@
+[
+  {
+    "genres": [
+      "indonesian worship"
+    ],
+    "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+    "id": "7KLAD4XVPPCQ9G4Hgox94N",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebf310dcdf2a812747e546fa07",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174f310dcdf2a812747e546fa07",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178f310dcdf2a812747e546fa07",
+        "width": 160
+      }
+    ],
+    "name": "LOJ Worship",
+    "type": "artist",
+    "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+  },
+  {
+    "genres": [
+      "indonesian worship",
+      "world worship"
+    ],
+    "href": "https://api.spotify.com/v1/artists/0p8hh2OM0WjsT772VC1Mgj",
+    "id": "0p8hh2OM0WjsT772VC1Mgj",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebb0c8a2e4f8f5bf438db4cb8f",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174b0c8a2e4f8f5bf438db4cb8f",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178b0c8a2e4f8f5bf438db4cb8f",
+        "width": 160
+      }
+    ],
+    "name": "Symphony Worship",
+    "type": "artist",
+    "uri": "spotify:artist:0p8hh2OM0WjsT772VC1Mgj"
+  },
+  {
+    "genres": [
+      "indonesian worship"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4Qcaozre1Spe8vbQtolgWu",
+    "id": "4Qcaozre1Spe8vbQtolgWu",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebfa20a872cdd5d9a05fd066f7",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174fa20a872cdd5d9a05fd066f7",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178fa20a872cdd5d9a05fd066f7",
+        "width": 160
+      }
+    ],
+    "name": "Melitha Sidabutar",
+    "type": "artist",
+    "uri": "spotify:artist:4Qcaozre1Spe8vbQtolgWu"
+  },
+  {
+    "genres": [
+      "indonesian worship"
+    ],
+    "href": "https://api.spotify.com/v1/artists/6SY2Eq0rtKAVSa38ZzwzO6",
+    "id": "6SY2Eq0rtKAVSa38ZzwzO6",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb65460045f463db2f8f4e4124",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab6761610000517465460045f463db2f8f4e4124",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f17865460045f463db2f8f4e4124",
+        "width": 160
+      }
+    ],
+    "name": "HSM Worship",
+    "type": "artist",
+    "uri": "spotify:artist:6SY2Eq0rtKAVSa38ZzwzO6"
+  },
+  {
+    "genres": [
+      "indonesian worship"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1Y8hFoCrm04oTNDQPw2vz4",
+    "id": "1Y8hFoCrm04oTNDQPw2vz4",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733668736bb02455d65af85ab5",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023668736bb02455d65af85ab5",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513668736bb02455d65af85ab5",
+        "width": 64
+      }
+    ],
+    "name": "Sudirman Worship",
+    "type": "artist",
+    "uri": "spotify:artist:1Y8hFoCrm04oTNDQPw2vz4"
+  },
+  {
+    "genres": [
+      "indonesian worship"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1M2r6drZKKx40iwgn7EEdJ",
+    "id": "1M2r6drZKKx40iwgn7EEdJ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebf834c9eb73ed6123861cf376",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174f834c9eb73ed6123861cf376",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178f834c9eb73ed6123861cf376",
+        "width": 160
+      }
+    ],
+    "name": "Eldhy Victor",
+    "type": "artist",
+    "uri": "spotify:artist:1M2r6drZKKx40iwgn7EEdJ"
+  },
+  {
+    "genres": [
+      "indonesian worship",
+      "world worship"
+    ],
+    "href": "https://api.spotify.com/v1/artists/7ACfqIqZKmDoUsNc4bRiX8",
+    "id": "7ACfqIqZKmDoUsNc4bRiX8",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb4db206a7b628a61a108d8785",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab676161000051744db206a7b628a61a108d8785",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f1784db206a7b628a61a108d8785",
+        "width": 160
+      }
+    ],
+    "name": "JPCC Worship Youth",
+    "type": "artist",
+    "uri": "spotify:artist:7ACfqIqZKmDoUsNc4bRiX8"
+  },
+  {
+    "genres": [
+      "indonesian worship"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1jC51JEsnJIaoFq10BJPwj",
+    "id": "1jC51JEsnJIaoFq10BJPwj",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a8015d86d3d9412c818f4d49",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a8015d86d3d9412c818f4d49",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a8015d86d3d9412c818f4d49",
+        "width": 64
+      }
+    ],
+    "name": "GMS Live Kidz",
+    "type": "artist",
+    "uri": "spotify:artist:1jC51JEsnJIaoFq10BJPwj"
+  },
+  {
+    "genres": [
+      "indonesian worship"
+    ],
+    "href": "https://api.spotify.com/v1/artists/79NLN4NT1VU3JkaRdzuvMF",
+    "id": "79NLN4NT1VU3JkaRdzuvMF",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eba18ff25db6a445b88f5574a3",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174a18ff25db6a445b88f5574a3",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178a18ff25db6a445b88f5574a3",
+        "width": 160
+      }
+    ],
+    "name": "Sound Of Hope",
+    "type": "artist",
+    "uri": "spotify:artist:79NLN4NT1VU3JkaRdzuvMF"
+  },
+  {
+    "genres": [
+      "indonesian worship"
+    ],
+    "href": "https://api.spotify.com/v1/artists/2ZY6YlpPDjuswdopxrnoxw",
+    "id": "2ZY6YlpPDjuswdopxrnoxw",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb2fd2084e1dba4f6d9bf6bb0d",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab676161000051742fd2084e1dba4f6d9bf6bb0d",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f1782fd2084e1dba4f6d9bf6bb0d",
+        "width": 160
+      }
+    ],
+    "name": "Yeshua Abraham",
+    "type": "artist",
+    "uri": "spotify:artist:2ZY6YlpPDjuswdopxrnoxw"
+  },
+  {
+    "genres": [
+      "indonesian worship"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3D9NDcZAyhtQdEuDdqsAx6",
+    "id": "3D9NDcZAyhtQdEuDdqsAx6",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d2f2abd7895049b613ada257",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d2f2abd7895049b613ada257",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d2f2abd7895049b613ada257",
+        "width": 64
+      }
+    ],
+    "name": "Andy Ambarita",
+    "type": "artist",
+    "uri": "spotify:artist:3D9NDcZAyhtQdEuDdqsAx6"
+  },
+  {
+    "genres": [
+      "indonesian worship"
+    ],
+    "href": "https://api.spotify.com/v1/artists/0CZ2Rvo8wR9NtUoMI1vOk1",
+    "id": "0CZ2Rvo8wR9NtUoMI1vOk1",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737d7da20b70f4441ca4576c83",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027d7da20b70f4441ca4576c83",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517d7da20b70f4441ca4576c83",
+        "width": 64
+      }
+    ],
+    "name": "UX Singer",
+    "type": "artist",
+    "uri": "spotify:artist:0CZ2Rvo8wR9NtUoMI1vOk1"
+  },
+  {
+    "genres": [
+      "indonesian worship"
+    ],
+    "href": "https://api.spotify.com/v1/artists/0fNP7vT8e4iwS6zHp8BZI6",
+    "id": "0fNP7vT8e4iwS6zHp8BZI6",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb2a3120b88bd4049b8122bcdd",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab676161000051742a3120b88bd4049b8122bcdd",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f1782a3120b88bd4049b8122bcdd",
+        "width": 160
+      }
+    ],
+    "name": "Hillsong Dalam Bahasa Indonesia",
+    "type": "artist",
+    "uri": "spotify:artist:0fNP7vT8e4iwS6zHp8BZI6"
+  },
+  {
+    "genres": [
+      "indonesian jazz",
+      "indonesian pop",
+      "indonesian worship"
+    ],
+    "href": "https://api.spotify.com/v1/artists/0uGUpFXAdhKMgiHwbueiuf",
+    "id": "0uGUpFXAdhKMgiHwbueiuf",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb9ab5f5473ed3216f804df152",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab676161000051749ab5f5473ed3216f804df152",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f1789ab5f5473ed3216f804df152",
+        "width": 160
+      }
+    ],
+    "name": "Mike Mohede",
+    "type": "artist",
+    "uri": "spotify:artist:0uGUpFXAdhKMgiHwbueiuf"
+  },
+  {
+    "genres": [
+      "indonesian pop",
+      "indonesian worship"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1jWIP5sLhDZttQeR0mPffn",
+    "id": "1jWIP5sLhDZttQeR0mPffn",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb6b80f30ab9610eb08bfa80df",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab676161000051746b80f30ab9610eb08bfa80df",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f1786b80f30ab9610eb08bfa80df",
+        "width": 160
+      }
+    ],
+    "name": "Citra Scholastika",
+    "type": "artist",
+    "uri": "spotify:artist:1jWIP5sLhDZttQeR0mPffn"
+  },
+  {
+    "genres": [
+      "indonesian worship"
+    ],
+    "href": "https://api.spotify.com/v1/artists/2WpoRlrOOfkMhOzPlpc0xS",
+    "id": "2WpoRlrOOfkMhOzPlpc0xS",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d9569dca3321c5eb8f34ec24",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c13b41426a1d9d343b215276",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d9569dca3321c5eb8f34ec24",
+        "width": 64
+      }
+    ],
+    "name": "JCC Worship",
+    "type": "artist",
+    "uri": "spotify:artist:2WpoRlrOOfkMhOzPlpc0xS"
+  },
+  {
+    "genres": [
+      "indonesian worship"
+    ],
+    "href": "https://api.spotify.com/v1/artists/33RKUJ8xVfD8MMlG3uqOvL",
+    "id": "33RKUJ8xVfD8MMlG3uqOvL",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739fba7b6d2f9f09e9b3b17b06",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029fba7b6d2f9f09e9b3b17b06",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519fba7b6d2f9f09e9b3b17b06",
+        "width": 64
+      }
+    ],
+    "name": "WTC Worship",
+    "type": "artist",
+    "uri": "spotify:artist:33RKUJ8xVfD8MMlG3uqOvL"
+  },
+  {
+    "genres": [
+      "indonesian worship"
+    ],
+    "href": "https://api.spotify.com/v1/artists/36OJnNvSfiD4SvEjLheENn",
+    "id": "36OJnNvSfiD4SvEjLheENn",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebd084914139b5a1fa410991aa",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174d084914139b5a1fa410991aa",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178d084914139b5a1fa410991aa",
+        "width": 160
+      }
+    ],
+    "name": "Kevin Lim",
+    "type": "artist",
+    "uri": "spotify:artist:36OJnNvSfiD4SvEjLheENn"
+  },
+  {
+    "genres": [
+      "indonesian worship"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4bT41417k6fO14RdxgyYg7",
+    "id": "4bT41417k6fO14RdxgyYg7",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb1f97f8627b10790cd02f6dc7",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab676161000051741f97f8627b10790cd02f6dc7",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f1781f97f8627b10790cd02f6dc7",
+        "width": 160
+      }
+    ],
+    "name": "Angel Pieters",
+    "type": "artist",
+    "uri": "spotify:artist:4bT41417k6fO14RdxgyYg7"
+  },
+  {
+    "genres": [
+      "indonesian worship",
+      "world worship"
+    ],
+    "href": "https://api.spotify.com/v1/artists/5GzMf6JA2osjw26fIgzOqO",
+    "id": "5GzMf6JA2osjw26fIgzOqO",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f10c75acd350972dde34829b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f10c75acd350972dde34829b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f10c75acd350972dde34829b",
+        "width": 64
+      }
+    ],
+    "name": "Festival Kuasa Allah Worship",
+    "type": "artist",
+    "uri": "spotify:artist:5GzMf6JA2osjw26fIgzOqO"
+  }
+]

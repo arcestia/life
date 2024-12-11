@@ -1,0 +1,1292 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+          },
+          "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+          "id": "6udveWUgX4vu75FF0DTrXV",
+          "name": "TAEYANG",
+          "type": "artist",
+          "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+          "id": "1OQxmfKN9UG5C7nr4MkasO",
+          "name": "DAESUNG",
+          "type": "artist",
+          "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5fo3PoBblMOTbg7SXPNspq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bcacb16531b21146ed9dc2a0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bcacb16531b21146ed9dc2a0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bcacb16531b21146ed9dc2a0",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+      "release_date": "2024-11-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5fo3PoBblMOTbg7SXPNspq"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+        "id": "6udveWUgX4vu75FF0DTrXV",
+        "name": "TAEYANG",
+        "type": "artist",
+        "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        },
+        "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+        "id": "1OQxmfKN9UG5C7nr4MkasO",
+        "name": "DAESUNG",
+        "type": "artist",
+        "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0Cu8JdYvV9DdmzLzhxaZLH",
+    "is_local": false,
+    "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          },
+          "href": "https://api.spotify.com/v1/artists/3HqSLMAZ3g3d5poNaI7GOU",
+          "id": "3HqSLMAZ3g3d5poNaI7GOU",
+          "name": "IU",
+          "type": "artist",
+          "uri": "spotify:artist:3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2bwwRhKbLeD3LvNDXauV2T",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b79a12d47af18d1d83a5caf9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b79a12d47af18d1d83a5caf9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b79a12d47af18d1d83a5caf9",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Love wins all",
+      "release_date": "2024-01-24",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2bwwRhKbLeD3LvNDXauV2T"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        },
+        "href": "https://api.spotify.com/v1/artists/3HqSLMAZ3g3d5poNaI7GOU",
+        "id": "3HqSLMAZ3g3d5poNaI7GOU",
+        "name": "IU",
+        "type": "artist",
+        "uri": "spotify:artist:3HqSLMAZ3g3d5poNaI7GOU"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0djkJ3iAARXRCbfbwwVc3o",
+    "is_local": false,
+    "name": "Love wins all",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4msI9bSfKohOPFic15aLR4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733dbdbd0023f1e1c08cd5a6c9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023dbdbd0023f1e1c08cd5a6c9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513dbdbd0023f1e1c08cd5a6c9",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "COUP D'ETAT",
+      "release_date": "2013-09-05",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:4msI9bSfKohOPFic15aLR4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4EwNWRBWdZ6bgvxRHlZ8OO",
+    "is_local": false,
+    "name": "CROOKED",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3w2XYofMZpf1FA5wkkcBfx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bca5394fa6d2809b261abf5c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bca5394fa6d2809b261abf5c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bca5394fa6d2809b261abf5c",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "POWER",
+      "release_date": "2024-10-31",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3w2XYofMZpf1FA5wkkcBfx"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4XsJiRJQAK8TWcZCn0Dxlh",
+    "is_local": false,
+    "name": "POWER",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7dWCUs7VGjsopOEB6VoQYv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c853c4b9e0523f82f17c5e20",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c853c4b9e0523f82f17c5e20",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c853c4b9e0523f82f17c5e20",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Keith",
+      "release_date": "2019-02-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7dWCUs7VGjsopOEB6VoQYv"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7pcekwb2T8L4MIc29f9GXB",
+    "is_local": false,
+    "name": "Keith",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+          "id": "7KLAD4XVPPCQ9G4Hgox94N",
+          "name": "LOJ Worship",
+          "type": "artist",
+          "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4nMJuyKmxb7MWpwLQz0MC6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27367686b38f6d9d34e8679b046",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0267686b38f6d9d34e8679b046",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485167686b38f6d9d34e8679b046",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Brave",
+      "release_date": "2020-08-17",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:4nMJuyKmxb7MWpwLQz0MC6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+        },
+        "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+        "id": "7KLAD4XVPPCQ9G4Hgox94N",
+        "name": "LOJ Worship",
+        "type": "artist",
+        "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0xzeRn9UApZUT7Qhonim3R",
+    "is_local": false,
+    "name": "Nyata KebesaranMu",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2koSNfchdUxqw1rPJO87aH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732d56768bc14df3b0b3982efd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022d56768bc14df3b0b3982efd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512d56768bc14df3b0b3982efd",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "KWON JI YONG",
+      "release_date": "2017-06-08",
+      "release_date_precision": "day",
+      "total_tracks": 5,
+      "type": "album",
+      "uri": "spotify:album:2koSNfchdUxqw1rPJO87aH"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/16BS342F89MDqouSxgLaUK",
+    "is_local": false,
+    "name": "무제(無題) (Untitled, 2014)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7cGYemTtKlqYqR61wETgU4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273055d0344b18d8831c996c34f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02055d0344b18d8831c996c34f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851055d0344b18d8831c996c34f",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Nights Like This",
+      "release_date": "2024-03-15",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:7cGYemTtKlqYqR61wETgU4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/60utjxPySCYZTh1gW7m8CW",
+    "is_local": false,
+    "name": "Boots 'N All",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
+          },
+          "href": "https://api.spotify.com/v1/artists/1McMRetlMqavXFC8TCVfma",
+          "id": "1McMRetlMqavXFC8TCVfma",
+          "name": "The Wolfe Brothers",
+          "type": "artist",
+          "uri": "spotify:artist:1McMRetlMqavXFC8TCVfma"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0IUXMhyp3x5iUeap5FVjOA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273217db88332e6d28c2aab0748",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02217db88332e6d28c2aab0748",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851217db88332e6d28c2aab0748",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Beer In A Bar",
+      "release_date": "2024-09-13",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0IUXMhyp3x5iUeap5FVjOA"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
+        },
+        "href": "https://api.spotify.com/v1/artists/1McMRetlMqavXFC8TCVfma",
+        "id": "1McMRetlMqavXFC8TCVfma",
+        "name": "The Wolfe Brothers",
+        "type": "artist",
+        "uri": "spotify:artist:1McMRetlMqavXFC8TCVfma"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6Kkp5WoAenzM0epmr4qPDf",
+    "is_local": false,
+    "name": "Beer In A Bar",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+          },
+          "href": "https://api.spotify.com/v1/artists/69HMYPrcstafeCTHI3Dcp1",
+          "id": "69HMYPrcstafeCTHI3Dcp1",
+          "name": "James Johnston",
+          "type": "artist",
+          "uri": "spotify:artist:69HMYPrcstafeCTHI3Dcp1"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5uNnUouM3cuuYYzGoHd6Kb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737852cbaf2e23003347883fa5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027852cbaf2e23003347883fa5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517852cbaf2e23003347883fa5",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "RAISED LIKE THAT",
+      "release_date": "2023-09-29",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:5uNnUouM3cuuYYzGoHd6Kb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        },
+        "href": "https://api.spotify.com/v1/artists/69HMYPrcstafeCTHI3Dcp1",
+        "id": "69HMYPrcstafeCTHI3Dcp1",
+        "name": "James Johnston",
+        "type": "artist",
+        "uri": "spotify:artist:69HMYPrcstafeCTHI3Dcp1"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6v95FnJmLnVs4mAUAIm1vx",
+    "is_local": false,
+    "name": "SAME SONGS",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+          },
+          "href": "https://api.spotify.com/v1/artists/3eVa5w3URK5duf6eyVDbu9",
+          "id": "3eVa5w3URK5duf6eyVDbu9",
+          "name": "ROSÉ",
+          "type": "artist",
+          "uri": "spotify:artist:3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          },
+          "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars",
+          "type": "artist",
+          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2IYQwwgxgOIn7t3iF6ufFD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27336032cb4acd9df050bc2e197",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0236032cb4acd9df050bc2e197",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485136032cb4acd9df050bc2e197",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "APT.",
+      "release_date": "2024-10-18",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2IYQwwgxgOIn7t3iF6ufFD"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        "href": "https://api.spotify.com/v1/artists/3eVa5w3URK5duf6eyVDbu9",
+        "id": "3eVa5w3URK5duf6eyVDbu9",
+        "name": "ROSÉ",
+        "type": "artist",
+        "uri": "spotify:artist:3eVa5w3URK5duf6eyVDbu9"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+        "id": "0du5cEVh5yTK9QJze8zA0C",
+        "name": "Bruno Mars",
+        "type": "artist",
+        "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5vNRhkKd0yEAg8suGBpjeY",
+    "is_local": false,
+    "name": "APT.",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+          "id": "7KLAD4XVPPCQ9G4Hgox94N",
+          "name": "LOJ Worship",
+          "type": "artist",
+          "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6SY2Eq0rtKAVSa38ZzwzO6"
+          },
+          "href": "https://api.spotify.com/v1/artists/6SY2Eq0rtKAVSa38ZzwzO6",
+          "id": "6SY2Eq0rtKAVSa38ZzwzO6",
+          "name": "HSM Worship",
+          "type": "artist",
+          "uri": "spotify:artist:6SY2Eq0rtKAVSa38ZzwzO6"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1FZbg6PrG1Q6Tc4IQSC2p7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d2582ea596d2aa8bda678b21",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d2582ea596d2aa8bda678b21",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d2582ea596d2aa8bda678b21",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Brighter Days",
+      "release_date": "2022-10-17",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:1FZbg6PrG1Q6Tc4IQSC2p7"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6SY2Eq0rtKAVSa38ZzwzO6"
+        },
+        "href": "https://api.spotify.com/v1/artists/6SY2Eq0rtKAVSa38ZzwzO6",
+        "id": "6SY2Eq0rtKAVSa38ZzwzO6",
+        "name": "HSM Worship",
+        "type": "artist",
+        "uri": "spotify:artist:6SY2Eq0rtKAVSa38ZzwzO6"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0Wyc2GkiYfSYaoD2aEbmo8",
+    "is_local": false,
+    "name": "Sepasti Mentari",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+          },
+          "href": "https://api.spotify.com/v1/artists/1SIocsqdEefUTE6XKGUiVS",
+          "id": "1SIocsqdEefUTE6XKGUiVS",
+          "name": "BABYMONSTER",
+          "type": "artist",
+          "uri": "spotify:artist:1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6Lp82GTJXzgtIopT0g7N7k",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273119800c5fc88785ee3ed1524",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02119800c5fc88785ee3ed1524",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851119800c5fc88785ee3ed1524",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "DRIP",
+      "release_date": "2024-11-01",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:6Lp82GTJXzgtIopT0g7N7k"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        },
+        "href": "https://api.spotify.com/v1/artists/1SIocsqdEefUTE6XKGUiVS",
+        "id": "1SIocsqdEefUTE6XKGUiVS",
+        "name": "BABYMONSTER",
+        "type": "artist",
+        "uri": "spotify:artist:1SIocsqdEefUTE6XKGUiVS"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6b6KXDbDn0s0Jepxm8a3nr",
+    "is_local": false,
+    "name": "FOREVER",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Y7gOnKYWfQlEdgXag0Z6W",
+          "id": "3Y7gOnKYWfQlEdgXag0Z6W",
+          "name": "Regina Song",
+          "type": "artist",
+          "uri": "spotify:artist:3Y7gOnKYWfQlEdgXag0Z6W"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/46n9YK2DE6B0CMk8qx4Twt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731387e8826137f656487152b3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021387e8826137f656487152b3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511387e8826137f656487152b3",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "fangirl",
+      "release_date": "2024-06-14",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:46n9YK2DE6B0CMk8qx4Twt"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+        },
+        "href": "https://api.spotify.com/v1/artists/3Y7gOnKYWfQlEdgXag0Z6W",
+        "id": "3Y7gOnKYWfQlEdgXag0Z6W",
+        "name": "Regina Song",
+        "type": "artist",
+        "uri": "spotify:artist:3Y7gOnKYWfQlEdgXag0Z6W"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0VVD95cRAppHSOGPYrfIG2",
+    "is_local": false,
+    "name": "the cutest pair",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+          },
+          "href": "https://api.spotify.com/v1/artists/2elBjNSdBE2Y3f0j1mjrql",
+          "id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "Jay Chou",
+          "type": "artist",
+          "uri": "spotify:artist:2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5JNrPPT60TzrqBxsY3hn0A",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27377b87d409cbbd955a5aa905a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0277b87d409cbbd955a5aa905a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485177b87d409cbbd955a5aa905a",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "我很忙",
+      "release_date": "2007-11-02",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:5JNrPPT60TzrqBxsY3hn0A"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        },
+        "href": "https://api.spotify.com/v1/artists/2elBjNSdBE2Y3f0j1mjrql",
+        "id": "2elBjNSdBE2Y3f0j1mjrql",
+        "name": "Jay Chou",
+        "type": "artist",
+        "uri": "spotify:artist:2elBjNSdBE2Y3f0j1mjrql"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/10VuSw48iPN2UK2xX9Y6P0",
+    "is_local": false,
+    "name": "青花瓷",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD"
+          },
+          "href": "https://api.spotify.com/v1/artists/7rXM91kSsqGzvYANukdQJD",
+          "id": "7rXM91kSsqGzvYANukdQJD",
+          "name": "單依純",
+          "type": "artist",
+          "uri": "spotify:artist:7rXM91kSsqGzvYANukdQJD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
+          },
+          "href": "https://api.spotify.com/v1/artists/5PNcqs6EtD6gSXgUiiJIUU",
+          "id": "5PNcqs6EtD6gSXgUiiJIUU",
+          "name": "颜人中",
+          "type": "artist",
+          "uri": "spotify:artist:5PNcqs6EtD6gSXgUiiJIUU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5sO3BrkxBUqkWfESF4s0Ab"
+          },
+          "href": "https://api.spotify.com/v1/artists/5sO3BrkxBUqkWfESF4s0Ab",
+          "id": "5sO3BrkxBUqkWfESF4s0Ab",
+          "name": "白鹿",
+          "type": "artist",
+          "uri": "spotify:artist:5sO3BrkxBUqkWfESF4s0Ab"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5ogT7zNGY23j24jrLiC6BF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a7f36e0907f34506a38de9f5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a7f36e0907f34506a38de9f5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a7f36e0907f34506a38de9f5",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "《一生一世》電視劇原聲帶",
+      "release_date": "2021-10-20",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:5ogT7zNGY23j24jrLiC6BF"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD"
+        },
+        "href": "https://api.spotify.com/v1/artists/7rXM91kSsqGzvYANukdQJD",
+        "id": "7rXM91kSsqGzvYANukdQJD",
+        "name": "單依純",
+        "type": "artist",
+        "uri": "spotify:artist:7rXM91kSsqGzvYANukdQJD"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1FlpplhWTy9ggovOGVTJ6K",
+    "is_local": false,
+    "name": "續寫 - 電視劇《一生一世》主題曲",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
+          },
+          "href": "https://api.spotify.com/v1/artists/14bJhryXGk6H6qlGzwj3W5",
+          "id": "14bJhryXGk6H6qlGzwj3W5",
+          "name": "Hebe Tien",
+          "type": "artist",
+          "uri": "spotify:artist:14bJhryXGk6H6qlGzwj3W5"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6PqQY9oiU7zXQEuWUYBZs5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a3ce9a779e12c842f77ad60e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a3ce9a779e12c842f77ad60e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a3ce9a779e12c842f77ad60e",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "小幸運",
+      "release_date": "2015-07-10",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6PqQY9oiU7zXQEuWUYBZs5"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
+        },
+        "href": "https://api.spotify.com/v1/artists/14bJhryXGk6H6qlGzwj3W5",
+        "id": "14bJhryXGk6H6qlGzwj3W5",
+        "name": "Hebe Tien",
+        "type": "artist",
+        "uri": "spotify:artist:14bJhryXGk6H6qlGzwj3W5"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1ZeVIrCWzEmsJexkrgvjFv",
+    "is_local": false,
+    "name": "小幸運",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+          },
+          "href": "https://api.spotify.com/v1/artists/5fEQLwq1BWWQNR8GzhOIvi",
+          "id": "5fEQLwq1BWWQNR8GzhOIvi",
+          "name": "Eric Chou",
+          "type": "artist",
+          "uri": "spotify:artist:5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4qDKkkL98yqdv85xqYfyUc",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d306bf8358bb305b84eb4b3b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d306bf8358bb305b84eb4b3b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d306bf8358bb305b84eb4b3b",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "愛，教會我們的事",
+      "release_date": "2016-08-05",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:4qDKkkL98yqdv85xqYfyUc"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        },
+        "href": "https://api.spotify.com/v1/artists/5fEQLwq1BWWQNR8GzhOIvi",
+        "id": "5fEQLwq1BWWQNR8GzhOIvi",
+        "name": "Eric Chou",
+        "type": "artist",
+        "uri": "spotify:artist:5fEQLwq1BWWQNR8GzhOIvi"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2gug6MRv4xQFYi9LA3PJCS",
+    "is_local": false,
+    "name": "你，好不好？ - TVBS連續劇【遺憾拼圖】片尾曲",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+          },
+          "href": "https://api.spotify.com/v1/artists/2elBjNSdBE2Y3f0j1mjrql",
+          "id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "Jay Chou",
+          "type": "artist",
+          "uri": "spotify:artist:2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7sydOexyOcfIdE9Pt4WR1H",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d8e5c2ba79fbc0b700662a1c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d8e5c2ba79fbc0b700662a1c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d8e5c2ba79fbc0b700662a1c",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "周杰倫的床邊故事",
+      "release_date": "2016-06-24",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:7sydOexyOcfIdE9Pt4WR1H"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        },
+        "href": "https://api.spotify.com/v1/artists/2elBjNSdBE2Y3f0j1mjrql",
+        "id": "2elBjNSdBE2Y3f0j1mjrql",
+        "name": "Jay Chou",
+        "type": "artist",
+        "uri": "spotify:artist:2elBjNSdBE2Y3f0j1mjrql"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2tqF9MPNdYdJU70U0ULO23",
+    "is_local": false,
+    "name": "告白氣球",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+          },
+          "href": "https://api.spotify.com/v1/artists/2elBjNSdBE2Y3f0j1mjrql",
+          "id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "Jay Chou",
+          "type": "artist",
+          "uri": "spotify:artist:2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1TborQGeHwJaEjPnUR9siC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732642de36b3fed494f653b015",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022642de36b3fed494f653b015",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512642de36b3fed494f653b015",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "11月的蕭邦",
+      "release_date": "2005-11-11",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:1TborQGeHwJaEjPnUR9siC"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        },
+        "href": "https://api.spotify.com/v1/artists/2elBjNSdBE2Y3f0j1mjrql",
+        "id": "2elBjNSdBE2Y3f0j1mjrql",
+        "name": "Jay Chou",
+        "type": "artist",
+        "uri": "spotify:artist:2elBjNSdBE2Y3f0j1mjrql"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW"
+        },
+        "href": "https://api.spotify.com/v1/artists/4VgfrD5wuAoN428fBZNSyW",
+        "id": "4VgfrD5wuAoN428fBZNSyW",
+        "name": "Lara Liang",
+        "type": "artist",
+        "uri": "spotify:artist:4VgfrD5wuAoN428fBZNSyW"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3Qj9Fy8BPbWmICTiNkuqB7",
+    "is_local": false,
+    "name": "珊瑚海",
+    "preview_url": null
+  }
+]

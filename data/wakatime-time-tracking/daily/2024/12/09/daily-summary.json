@@ -1,116 +1,27 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 46,
-      "total_seconds": 6369.994,
-      "digital": "1:46",
-      "decimal": "1.77",
-      "text": "1 hr 46 mins"
-    },
-    "range": {
-      "start": "2024-12-09T17:00:00Z",
-      "end": "2024-12-10T16:59:59Z",
-      "date": "2024-12-10",
-      "text": "Tue Dec 10th 2024",
-      "timezone": "Asia/Bangkok"
-    },
-    "projects": [
-      {
-        "name": "life",
-        "total_seconds": 4748.636,
-        "color": null,
-        "digital": "1:19:08",
-        "decimal": "1.32",
-        "text": "1 hr 19 mins",
-        "hours": 1,
-        "minutes": 19,
-        "seconds": 8,
-        "percent": 74.55
-      },
-      {
-        "name": "HS Gaming",
-        "total_seconds": 1355.886,
-        "color": null,
-        "digital": "0:22:35",
-        "decimal": "0.37",
-        "text": "22 mins",
-        "hours": 0,
-        "minutes": 22,
-        "seconds": 35,
-        "percent": 21.29
-      },
-      {
-        "name": "stethoscope",
-        "total_seconds": 205.713,
-        "color": null,
-        "digital": "0:03:25",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 25,
-        "percent": 3.23
-      },
-      {
-        "name": "monitoring",
-        "total_seconds": 41.369,
-        "color": null,
-        "digital": "0:00:41",
-        "decimal": "0.00",
-        "text": "41 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 41,
-        "percent": 0.65
-      },
-      {
-        "name": "api-trustpositif",
-        "total_seconds": 14.809,
-        "color": null,
-        "digital": "0:00:14",
-        "decimal": "0.00",
-        "text": "14 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 14,
-        "percent": 0.23
-      },
-      {
-        "name": "arcestia",
-        "total_seconds": 3.581,
-        "color": null,
-        "digital": "0:00:03",
-        "decimal": "0.00",
-        "text": "3 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 3,
-        "percent": 0.06
-      }
-    ],
     "languages": [
       {
         "name": "Other",
-        "total_seconds": 4832.405802,
-        "digital": "1:20:32",
-        "decimal": "1.33",
-        "text": "1 hr 20 mins",
+        "total_seconds": 5485.464802,
+        "digital": "1:31:25",
+        "decimal": "1.52",
+        "text": "1 hr 31 mins",
         "hours": 1,
-        "minutes": 20,
-        "seconds": 32,
-        "percent": 75.86
+        "minutes": 31,
+        "seconds": 25,
+        "percent": 76.47
       },
       {
         "name": "YAML",
-        "total_seconds": 1324.652198,
-        "digital": "0:22:04",
-        "decimal": "0.37",
-        "text": "22 mins",
+        "total_seconds": 1475.363198,
+        "digital": "0:24:35",
+        "decimal": "0.40",
+        "text": "24 mins",
         "hours": 0,
-        "minutes": 22,
-        "seconds": 4,
-        "percent": 20.8
+        "minutes": 24,
+        "seconds": 35,
+        "percent": 20.57
       },
       {
         "name": "PHP",
@@ -121,22 +32,91 @@
         "hours": 0,
         "minutes": 3,
         "seconds": 32,
-        "percent": 3.34
+        "percent": 2.97
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 59,
+      "total_seconds": 7173.764,
+      "digital": "1:59",
+      "decimal": "1.98",
+      "text": "1 hr 59 mins"
+    },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 6972.977446,
+        "digital": "1:56:12",
+        "decimal": "1.93",
+        "text": "1 hr 56 mins",
+        "hours": 1,
+        "minutes": 56,
+        "seconds": 12,
+        "percent": 97.2
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 200.786554,
+        "digital": "0:03:20",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 20,
+        "percent": 2.8
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 7173.764,
+        "digital": "1:59:33",
+        "decimal": "1.98",
+        "text": "1 hr 59 mins",
+        "hours": 1,
+        "minutes": 59,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 6972.977446,
+        "digital": "1:56:12",
+        "decimal": "1.93",
+        "text": "1 hr 56 mins",
+        "hours": 1,
+        "minutes": 56,
+        "seconds": 12,
+        "percent": 97.2
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 200.786554,
+        "digital": "0:03:20",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 20,
+        "percent": 2.8
       }
     ],
     "dependencies": [],
     "machines": [
       {
         "name": "Unknown Hostname",
-        "total_seconds": 6169.207446,
+        "total_seconds": 6972.977446,
         "machine_name_id": "f03586f1-864b-4208-8dc4-3dec42522f13",
-        "digital": "1:42:49",
-        "decimal": "1.70",
-        "text": "1 hr 42 mins",
+        "digital": "1:56:12",
+        "decimal": "1.93",
+        "text": "1 hr 56 mins",
         "hours": 1,
-        "minutes": 42,
-        "seconds": 49,
-        "percent": 96.85
+        "minutes": 56,
+        "seconds": 12,
+        "percent": 97.2
       },
       {
         "name": "HS-COMP23021",
@@ -148,69 +128,83 @@
         "hours": 0,
         "minutes": 3,
         "seconds": 20,
-        "percent": 3.15
+        "percent": 2.8
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "Chrome",
-        "total_seconds": 6169.207446,
-        "digital": "1:42:49",
-        "decimal": "1.70",
-        "text": "1 hr 42 mins",
+        "name": "life",
+        "total_seconds": 5552.406,
+        "digital": "1:32:32",
+        "decimal": "1.53",
+        "text": "1 hr 32 mins",
         "hours": 1,
-        "minutes": 42,
-        "seconds": 49,
-        "percent": 96.85
+        "minutes": 32,
+        "seconds": 32,
+        "percent": 77.4
       },
       {
-        "name": "VS Code",
-        "total_seconds": 200.786554,
-        "digital": "0:03:20",
+        "name": "HS Gaming",
+        "total_seconds": 1355.886,
+        "digital": "0:22:35",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 35,
+        "percent": 18.9
+      },
+      {
+        "name": "stethoscope",
+        "total_seconds": 205.713,
+        "digital": "0:03:25",
         "decimal": "0.05",
         "text": "3 mins",
         "hours": 0,
         "minutes": 3,
-        "seconds": 20,
-        "percent": 3.15
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 6369.994,
-        "digital": "1:46:09",
-        "decimal": "1.77",
-        "text": "1 hr 46 mins",
-        "hours": 1,
-        "minutes": 46,
-        "seconds": 9,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Browsing",
-        "total_seconds": 6169.207446,
-        "digital": "1:42:49",
-        "decimal": "1.70",
-        "text": "1 hr 42 mins",
-        "hours": 1,
-        "minutes": 42,
-        "seconds": 49,
-        "percent": 96.85
+        "seconds": 25,
+        "percent": 2.87
       },
       {
-        "name": "Coding",
-        "total_seconds": 200.786554,
-        "digital": "0:03:20",
-        "decimal": "0.05",
-        "text": "3 mins",
+        "name": "monitoring",
+        "total_seconds": 41.369,
+        "digital": "0:00:41",
+        "decimal": "0.00",
+        "text": "41 secs",
         "hours": 0,
-        "minutes": 3,
-        "seconds": 20,
-        "percent": 3.15
+        "minutes": 0,
+        "seconds": 41,
+        "percent": 0.58
+      },
+      {
+        "name": "api-trustpositif",
+        "total_seconds": 14.809,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 0.21
+      },
+      {
+        "name": "arcestia",
+        "total_seconds": 3.581,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.05
       }
-    ]
+    ],
+    "range": {
+      "start": "2024-12-09T17:00:00Z",
+      "end": "2024-12-10T16:59:59Z",
+      "date": "2024-12-10",
+      "text": "Tue Dec 10th 2024",
+      "timezone": "Asia/Bangkok"
+    }
   }
 ]

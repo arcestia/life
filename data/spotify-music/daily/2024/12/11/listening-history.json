@@ -1,0 +1,287 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7nKA1c1Qn6nI0XA8yburf3"
+          },
+          "href": "https://api.spotify.com/v1/artists/7nKA1c1Qn6nI0XA8yburf3",
+          "id": "7nKA1c1Qn6nI0XA8yburf3",
+          "name": "程響",
+          "type": "artist",
+          "uri": "spotify:artist:7nKA1c1Qn6nI0XA8yburf3"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/25IglxVmbGUl92NJZ0Pvo9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737be012a78642eb8ff67b16d7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027be012a78642eb8ff67b16d7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517be012a78642eb8ff67b16d7",
+          "width": 64
+        }
+      ],
+      "name": "四季予你",
+      "release_date": "2020-12-19",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:25IglxVmbGUl92NJZ0Pvo9"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7nKA1c1Qn6nI0XA8yburf3"
+        },
+        "href": "https://api.spotify.com/v1/artists/7nKA1c1Qn6nI0XA8yburf3",
+        "id": "7nKA1c1Qn6nI0XA8yburf3",
+        "name": "程響",
+        "type": "artist",
+        "uri": "spotify:artist:7nKA1c1Qn6nI0XA8yburf3"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4BGkSCrjiLao1bpibNptTD",
+    "is_local": false,
+    "name": "四季予你",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
+          },
+          "href": "https://api.spotify.com/v1/artists/5PNcqs6EtD6gSXgUiiJIUU",
+          "id": "5PNcqs6EtD6gSXgUiiJIUU",
+          "name": "颜人中",
+          "type": "artist",
+          "uri": "spotify:artist:5PNcqs6EtD6gSXgUiiJIUU"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6aj0kJpJduwr88St06JJqh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d852245f429159c1a0ac498c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d852245f429159c1a0ac498c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d852245f429159c1a0ac498c",
+          "width": 64
+        }
+      ],
+      "name": "慢慢",
+      "release_date": "2022-01-11",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6aj0kJpJduwr88St06JJqh"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
+        },
+        "href": "https://api.spotify.com/v1/artists/5PNcqs6EtD6gSXgUiiJIUU",
+        "id": "5PNcqs6EtD6gSXgUiiJIUU",
+        "name": "颜人中",
+        "type": "artist",
+        "uri": "spotify:artist:5PNcqs6EtD6gSXgUiiJIUU"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6T9U0cmsbaooGWFe7pSE8W",
+    "is_local": false,
+    "name": "慢慢",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+          },
+          "href": "https://api.spotify.com/v1/artists/2elBjNSdBE2Y3f0j1mjrql",
+          "id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "Jay Chou",
+          "type": "artist",
+          "uri": "spotify:artist:2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/284sMgc5vlNarGC1QgL2gp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730a97a517ea1c4f493e76defb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020a97a517ea1c4f493e76defb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510a97a517ea1c4f493e76defb",
+          "width": 64
+        }
+      ],
+      "name": "跨時代",
+      "release_date": "2010-05-18",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:284sMgc5vlNarGC1QgL2gp"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        },
+        "href": "https://api.spotify.com/v1/artists/2elBjNSdBE2Y3f0j1mjrql",
+        "id": "2elBjNSdBE2Y3f0j1mjrql",
+        "name": "Jay Chou",
+        "type": "artist",
+        "uri": "spotify:artist:2elBjNSdBE2Y3f0j1mjrql"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6X4gGPP7K1ElsNnmc6BYKs",
+    "is_local": false,
+    "name": "我落淚．情緒零碎",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0iMFttJ05HMGTKWRPHlFOF"
+          },
+          "href": "https://api.spotify.com/v1/artists/0iMFttJ05HMGTKWRPHlFOF",
+          "id": "0iMFttJ05HMGTKWRPHlFOF",
+          "name": "胡66",
+          "type": "artist",
+          "uri": "spotify:artist:0iMFttJ05HMGTKWRPHlFOF"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5KrqUYJ32RDyvMTAdD35ve",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738461b9680e95f459925f5ac1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028461b9680e95f459925f5ac1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518461b9680e95f459925f5ac1",
+          "width": 64
+        }
+      ],
+      "name": "另一个我",
+      "release_date": "2020-03-20",
+      "release_date_precision": "day",
+      "total_tracks": 23,
+      "type": "album",
+      "uri": "spotify:album:5KrqUYJ32RDyvMTAdD35ve"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0iMFttJ05HMGTKWRPHlFOF"
+        },
+        "href": "https://api.spotify.com/v1/artists/0iMFttJ05HMGTKWRPHlFOF",
+        "id": "0iMFttJ05HMGTKWRPHlFOF",
+        "name": "胡66",
+        "type": "artist",
+        "uri": "spotify:artist:0iMFttJ05HMGTKWRPHlFOF"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/11599Lzs7uN93HM40T120j",
+    "is_local": false,
+    "name": "都怪我",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+          },
+          "href": "https://api.spotify.com/v1/artists/5fEQLwq1BWWQNR8GzhOIvi",
+          "id": "5fEQLwq1BWWQNR8GzhOIvi",
+          "name": "Eric Chou",
+          "type": "artist",
+          "uri": "spotify:artist:5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4qDKkkL98yqdv85xqYfyUc",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d306bf8358bb305b84eb4b3b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d306bf8358bb305b84eb4b3b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d306bf8358bb305b84eb4b3b",
+          "width": 64
+        }
+      ],
+      "name": "愛，教會我們的事",
+      "release_date": "2016-08-05",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:4qDKkkL98yqdv85xqYfyUc"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        },
+        "href": "https://api.spotify.com/v1/artists/5fEQLwq1BWWQNR8GzhOIvi",
+        "id": "5fEQLwq1BWWQNR8GzhOIvi",
+        "name": "Eric Chou",
+        "type": "artist",
+        "uri": "spotify:artist:5fEQLwq1BWWQNR8GzhOIvi"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0uidt7CE3gvBVWrqnacIOM",
+    "is_local": false,
+    "name": "This is love",
+    "preview_url": null
+  }
+]

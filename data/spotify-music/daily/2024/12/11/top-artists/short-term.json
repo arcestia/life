@@ -1,0 +1,340 @@
+[
+  {
+    "genres": [
+      "c-pop",
+      "mandopop",
+      "taiwan pop",
+      "zhongguo feng"
+    ],
+    "href": "https://api.spotify.com/v1/artists/2elBjNSdBE2Y3f0j1mjrql",
+    "id": "2elBjNSdBE2Y3f0j1mjrql",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab6761610000517402b3aa55ba238b2ceafb09da",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f17802b3aa55ba238b2ceafb09da",
+        "width": 160
+      }
+    ],
+    "name": "Jay Chou",
+    "type": "artist",
+    "uri": "spotify:artist:2elBjNSdBE2Y3f0j1mjrql"
+  },
+  {
+    "genres": [
+      "k-pop",
+      "k-rap"
+    ],
+    "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+    "id": "30b9WulBM8sFuBo17nNq9c",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb99234fca18ba6bc8e75620ca",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab6761610000517499234fca18ba6bc8e75620ca",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f17899234fca18ba6bc8e75620ca",
+        "width": 160
+      }
+    ],
+    "name": "G-DRAGON",
+    "type": "artist",
+    "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+  },
+  {
+    "genres": [
+      "mandopop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/5fEQLwq1BWWQNR8GzhOIvi",
+    "id": "5fEQLwq1BWWQNR8GzhOIvi",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb32cabef34602bad95decc49e",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab6761610000517432cabef34602bad95decc49e",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f17832cabef34602bad95decc49e",
+        "width": 160
+      }
+    ],
+    "name": "Eric Chou",
+    "type": "artist",
+    "uri": "spotify:artist:5fEQLwq1BWWQNR8GzhOIvi"
+  },
+  {
+    "genres": [
+      "mandopop",
+      "singaporean mandopop",
+      "singaporean pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+    "id": "7Dx7RhX0mFuXhCOUgB01uM",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb181b3f24c2a457e7fa3edb59",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174181b3f24c2a457e7fa3edb59",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178181b3f24c2a457e7fa3edb59",
+        "width": 160
+      }
+    ],
+    "name": "JJ Lin",
+    "type": "artist",
+    "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+  },
+  {
+    "genres": [
+      "mandopop",
+      "singaporean mandopop",
+      "singaporean pop",
+      "singaporean singer-songwriter"
+    ],
+    "href": "https://api.spotify.com/v1/artists/0SIXZXJCAhNU8sxK0qm7hn",
+    "id": "0SIXZXJCAhNU8sxK0qm7hn",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb744989ed737112f4edbd2cc3",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174744989ed737112f4edbd2cc3",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178744989ed737112f4edbd2cc3",
+        "width": 160
+      }
+    ],
+    "name": "Stefanie Sun",
+    "type": "artist",
+    "uri": "spotify:artist:0SIXZXJCAhNU8sxK0qm7hn"
+  },
+  {
+    "genres": [
+      "taiwan singer-songwriter"
+    ],
+    "href": "https://api.spotify.com/v1/artists/5PNcqs6EtD6gSXgUiiJIUU",
+    "id": "5PNcqs6EtD6gSXgUiiJIUU",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c17714a11ba7db7fda4787fe",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c17714a11ba7db7fda4787fe",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c17714a11ba7db7fda4787fe",
+        "width": 64
+      }
+    ],
+    "name": "颜人中",
+    "type": "artist",
+    "uri": "spotify:artist:5PNcqs6EtD6gSXgUiiJIUU"
+  },
+  {
+    "genres": [
+      "mainland chinese pop",
+      "mandopop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/6f4srX54JFrLNK4aTJe2Sc",
+    "id": "6f4srX54JFrLNK4aTJe2Sc",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732bb557cdf5b938ae0f151165",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029d77e62263fa79342cab8e08",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517c80dac63140c967b1dbf570",
+        "width": 64
+      }
+    ],
+    "name": "Ren Ran",
+    "type": "artist",
+    "uri": "spotify:artist:6f4srX54JFrLNK4aTJe2Sc"
+  },
+  {
+    "genres": [
+      "mandopop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/7aRC4L63dBn3CiLDuWaLSI",
+    "id": "7aRC4L63dBn3CiLDuWaLSI",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb22b67d7e8a5482991c7da510",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab6761610000517422b67d7e8a5482991c7da510",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f17822b67d7e8a5482991c7da510",
+        "width": 160
+      }
+    ],
+    "name": "G.E.M.",
+    "type": "artist",
+    "uri": "spotify:artist:7aRC4L63dBn3CiLDuWaLSI"
+  },
+  {
+    "genres": [
+      "mandopop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1cg0bYpP5e2DNG0RgK2CMN",
+    "id": "1cg0bYpP5e2DNG0RgK2CMN",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb729b7e9f6f0539bd01dff7e5",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174729b7e9f6f0539bd01dff7e5",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178729b7e9f6f0539bd01dff7e5",
+        "width": 160
+      }
+    ],
+    "name": "Joker Xue",
+    "type": "artist",
+    "uri": "spotify:artist:1cg0bYpP5e2DNG0RgK2CMN"
+  },
+  {
+    "genres": [
+      "chinese viral pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/07h8O5G4IO8l723aNOqip2",
+    "id": "07h8O5G4IO8l723aNOqip2",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27334d69d5c74992cb602440484",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0234d69d5c74992cb602440484",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485134d69d5c74992cb602440484",
+        "width": 64
+      }
+    ],
+    "name": "Yihuik苡慧",
+    "type": "artist",
+    "uri": "spotify:artist:07h8O5G4IO8l723aNOqip2"
+  },
+  {
+    "genres": [
+      "mandopop",
+      "singaporean mandopop",
+      "singaporean pop",
+      "singaporean singer-songwriter",
+      "taiwan singer-songwriter"
+    ],
+    "href": "https://api.spotify.com/v1/artists/376pcuw4IgWBMOUwCr8kIm",
+    "id": "376pcuw4IgWBMOUwCr8kIm",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb6a0678a926bd4812fb8a4099",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab676161000051746a0678a926bd4812fb8a4099",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f1786a0678a926bd4812fb8a4099",
+        "width": 160
+      }
+    ],
+    "name": "Tanya Chua",
+    "type": "artist",
+    "uri": "spotify:artist:376pcuw4IgWBMOUwCr8kIm"
+  },
+  {
+    "genres": [
+      "mandopop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/6DuHQk8gJbyVlhajer8IuF",
+    "id": "6DuHQk8gJbyVlhajer8IuF",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebbdfbc4f14c0f490f452a68e0",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174bdfbc4f14c0f490f452a68e0",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178bdfbc4f14c0f490f452a68e0",
+        "width": 160
+      }
+    ],
+    "name": "Nicky Lee",
+    "type": "artist",
+    "uri": "spotify:artist:6DuHQk8gJbyVlhajer8IuF"
+  }
+]

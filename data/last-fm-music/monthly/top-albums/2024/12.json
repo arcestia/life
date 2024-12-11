@@ -417,38 +417,6 @@
   },
   {
     "artist": {
-      "url": "https://www.last.fm/music/%E7%8E%8B%E5%8A%9B%E5%AE%8F",
-      "name": "王力宏",
-      "mbid": "ae0fd83f-8e50-4cb4-935e-ac7c0b7d7d17"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cc8c20911911431086c9fde6d6f7f242.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cc8c20911911431086c9fde6d6f7f242.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cc8c20911911431086c9fde6d6f7f242.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cc8c20911911431086c9fde6d6f7f242.png"
-      }
-    ],
-    "mbid": "1b833f92-9f0a-4961-a8ae-31f402f02138",
-    "url": "https://www.last.fm/music/%E7%8E%8B%E5%8A%9B%E5%AE%8F/%E5%8D%81%E5%85%AB%E8%88%AC%E6%AD%A6%E8%97%9D",
-    "playcount": "3",
-    "@attr": {
-      "rank": "14"
-    },
-    "name": "十八般武藝"
-  },
-  {
-    "artist": {
       "url": "https://www.last.fm/music/Beyond",
       "name": "Beyond",
       "mbid": ""
@@ -475,7 +443,7 @@
     "url": "https://www.last.fm/music/Beyond/My+Lovely+Legend+-+Beyond",
     "playcount": "2",
     "@attr": {
-      "rank": "15"
+      "rank": "14"
     },
     "name": "My Lovely Legend - Beyond"
   },
@@ -507,7 +475,7 @@
     "url": "https://www.last.fm/music/En/%E7%94%9F%E5%88%86",
     "playcount": "2",
     "@attr": {
-      "rank": "16"
+      "rank": "15"
     },
     "name": "生分"
   },
@@ -539,7 +507,7 @@
     "url": "https://www.last.fm/music/Eric+Chou/The+Chaos+After+You",
     "playcount": "2",
     "@attr": {
-      "rank": "17"
+      "rank": "16"
     },
     "name": "The Chaos After You"
   },
@@ -571,7 +539,7 @@
     "url": "https://www.last.fm/music/G.E.M./Heartbeat",
     "playcount": "2",
     "@attr": {
-      "rank": "18"
+      "rank": "17"
     },
     "name": "Heartbeat"
   },
@@ -603,7 +571,7 @@
     "url": "https://www.last.fm/music/G.E.M./T.I.M.E.",
     "playcount": "2",
     "@attr": {
-      "rank": "19"
+      "rank": "18"
     },
     "name": "T.I.M.E."
   },
@@ -635,8 +603,40 @@
     "url": "https://www.last.fm/music/M2M/Shades+of+Purple",
     "playcount": "2",
     "@attr": {
-      "rank": "20"
+      "rank": "19"
     },
     "name": "Shades of Purple"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/RuoFan+Chang",
+      "name": "RuoFan Chang",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": ""
+      },
+      {
+        "size": "medium",
+        "#text": ""
+      },
+      {
+        "size": "large",
+        "#text": ""
+      },
+      {
+        "size": "extralarge",
+        "#text": ""
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/RuoFan+Chang/SONY+LUVS+ME",
+    "playcount": "2",
+    "@attr": {
+      "rank": "20"
+    },
+    "name": "SONY LUVS ME"
   }
 ]

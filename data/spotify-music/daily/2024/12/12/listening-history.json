@@ -1,0 +1,59 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ylMYNmAVRn0ROcAuIFgEC"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ylMYNmAVRn0ROcAuIFgEC",
+          "id": "6ylMYNmAVRn0ROcAuIFgEC",
+          "name": "Ghasel",
+          "type": "artist",
+          "uri": "spotify:artist:6ylMYNmAVRn0ROcAuIFgEC"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4q9CspBJjcPmfewtSY5tAg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732c31c9c32a36064e92bc2538",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022c31c9c32a36064e92bc2538",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512c31c9c32a36064e92bc2538",
+          "width": 64
+        }
+      ],
+      "name": "Seasons",
+      "release_date": "2022-11-07",
+      "release_date_precision": "day",
+      "total_tracks": 3,
+      "type": "album",
+      "uri": "spotify:album:4q9CspBJjcPmfewtSY5tAg"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6ylMYNmAVRn0ROcAuIFgEC"
+        },
+        "href": "https://api.spotify.com/v1/artists/6ylMYNmAVRn0ROcAuIFgEC",
+        "id": "6ylMYNmAVRn0ROcAuIFgEC",
+        "name": "Ghasel",
+        "type": "artist",
+        "uri": "spotify:artist:6ylMYNmAVRn0ROcAuIFgEC"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/26aVqLHRrWVeWkeDF7BcnS",
+    "is_local": false,
+    "name": "Winter",
+    "preview_url": null
+  }
+]

@@ -1,5 +1,40 @@
 [
   {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 5485.464802,
+        "digital": "1:31:25",
+        "decimal": "1.52",
+        "text": "1 hr 31 mins",
+        "hours": 1,
+        "minutes": 31,
+        "seconds": 25,
+        "percent": 76.47
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 1475.363198,
+        "digital": "0:24:35",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 35,
+        "percent": 20.57
+      },
+      {
+        "name": "PHP",
+        "total_seconds": 212.936,
+        "digital": "0:03:32",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 32,
+        "percent": 2.97
+      }
+    ],
     "grand_total": {
       "hours": 1,
       "minutes": 59,
@@ -8,13 +43,94 @@
       "decimal": "1.98",
       "text": "1 hr 59 mins"
     },
-    "range": {
-      "start": "2024-12-09T17:00:00Z",
-      "end": "2024-12-10T16:59:59Z",
-      "date": "2024-12-10",
-      "text": "Tue Dec 10th 2024",
-      "timezone": "Asia/Bangkok"
-    },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 6972.977446,
+        "digital": "1:56:12",
+        "decimal": "1.93",
+        "text": "1 hr 56 mins",
+        "hours": 1,
+        "minutes": 56,
+        "seconds": 12,
+        "percent": 97.2
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 200.786554,
+        "digital": "0:03:20",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 20,
+        "percent": 2.8
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 7173.764,
+        "digital": "1:59:33",
+        "decimal": "1.98",
+        "text": "1 hr 59 mins",
+        "hours": 1,
+        "minutes": 59,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 6972.977446,
+        "digital": "1:56:12",
+        "decimal": "1.93",
+        "text": "1 hr 56 mins",
+        "hours": 1,
+        "minutes": 56,
+        "seconds": 12,
+        "percent": 97.2
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 200.786554,
+        "digital": "0:03:20",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 20,
+        "percent": 2.8
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Unknown Hostname",
+        "total_seconds": 6972.977446,
+        "machine_name_id": "f03586f1-864b-4208-8dc4-3dec42522f13",
+        "digital": "1:56:12",
+        "decimal": "1.93",
+        "text": "1 hr 56 mins",
+        "hours": 1,
+        "minutes": 56,
+        "seconds": 12,
+        "percent": 97.2
+      },
+      {
+        "name": "HS-COMP23021",
+        "total_seconds": 200.786554,
+        "machine_name_id": "eba734a9-f958-4c17-a792-a9cdde215498",
+        "digital": "0:03:20",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 20,
+        "percent": 2.8
+      }
+    ],
     "projects": [
       {
         "name": "life",
@@ -89,128 +205,12 @@
         "percent": 0.05
       }
     ],
-    "languages": [
-      {
-        "name": "Other",
-        "total_seconds": 5485.464802,
-        "digital": "1:31:25",
-        "decimal": "1.52",
-        "text": "1 hr 31 mins",
-        "hours": 1,
-        "minutes": 31,
-        "seconds": 25,
-        "percent": 76.47
-      },
-      {
-        "name": "YAML",
-        "total_seconds": 1475.363198,
-        "digital": "0:24:35",
-        "decimal": "0.40",
-        "text": "24 mins",
-        "hours": 0,
-        "minutes": 24,
-        "seconds": 35,
-        "percent": 20.57
-      },
-      {
-        "name": "PHP",
-        "total_seconds": 212.936,
-        "digital": "0:03:32",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 32,
-        "percent": 2.97
-      }
-    ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "Unknown Hostname",
-        "total_seconds": 6972.977446,
-        "machine_name_id": "f03586f1-864b-4208-8dc4-3dec42522f13",
-        "digital": "1:56:12",
-        "decimal": "1.93",
-        "text": "1 hr 56 mins",
-        "hours": 1,
-        "minutes": 56,
-        "seconds": 12,
-        "percent": 97.2
-      },
-      {
-        "name": "HS-COMP23021",
-        "total_seconds": 200.786554,
-        "machine_name_id": "eba734a9-f958-4c17-a792-a9cdde215498",
-        "digital": "0:03:20",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 20,
-        "percent": 2.8
-      }
-    ],
-    "editors": [
-      {
-        "name": "Chrome",
-        "total_seconds": 6972.977446,
-        "digital": "1:56:12",
-        "decimal": "1.93",
-        "text": "1 hr 56 mins",
-        "hours": 1,
-        "minutes": 56,
-        "seconds": 12,
-        "percent": 97.2
-      },
-      {
-        "name": "VS Code",
-        "total_seconds": 200.786554,
-        "digital": "0:03:20",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 20,
-        "percent": 2.8
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 7173.764,
-        "digital": "1:59:33",
-        "decimal": "1.98",
-        "text": "1 hr 59 mins",
-        "hours": 1,
-        "minutes": 59,
-        "seconds": 33,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Browsing",
-        "total_seconds": 6972.977446,
-        "digital": "1:56:12",
-        "decimal": "1.93",
-        "text": "1 hr 56 mins",
-        "hours": 1,
-        "minutes": 56,
-        "seconds": 12,
-        "percent": 97.2
-      },
-      {
-        "name": "Coding",
-        "total_seconds": 200.786554,
-        "digital": "0:03:20",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 20,
-        "percent": 2.8
-      }
-    ]
+    "range": {
+      "start": "2024-12-09T17:00:00Z",
+      "end": "2024-12-10T16:59:59Z",
+      "date": "2024-12-10",
+      "text": "Tue Dec 10th 2024",
+      "timezone": "Asia/Bangkok"
+    }
   }
 ]

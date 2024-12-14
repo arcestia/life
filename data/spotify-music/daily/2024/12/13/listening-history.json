@@ -1,0 +1,1142 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6MO9osXm49WjTRkjDJh3PJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27351223145039bdf1a515d1320",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0251223145039bdf1a515d1320",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485151223145039bdf1a515d1320",
+          "width": 64
+        }
+      ],
+      "name": "JJ的咖啡調調, Vol.1",
+      "release_date": "2023-02-03",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:6MO9osXm49WjTRkjDJh3PJ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5MqfLe7IYYHqqp9MKBJhOp",
+    "is_local": false,
+    "name": "聖所",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6MO9osXm49WjTRkjDJh3PJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27351223145039bdf1a515d1320",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0251223145039bdf1a515d1320",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485151223145039bdf1a515d1320",
+          "width": 64
+        }
+      ],
+      "name": "JJ的咖啡調調, Vol.1",
+      "release_date": "2023-02-03",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:6MO9osXm49WjTRkjDJh3PJ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5ef00eVVP4Sson4BbCEPx8",
+    "is_local": false,
+    "name": "咖啡+交換餘生",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6MO9osXm49WjTRkjDJh3PJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27351223145039bdf1a515d1320",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0251223145039bdf1a515d1320",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485151223145039bdf1a515d1320",
+          "width": 64
+        }
+      ],
+      "name": "JJ的咖啡調調, Vol.1",
+      "release_date": "2023-02-03",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:6MO9osXm49WjTRkjDJh3PJ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/49XEPYYOr95TRCS7Xk2QDn",
+    "is_local": false,
+    "name": "You Are The Reason",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6MO9osXm49WjTRkjDJh3PJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27351223145039bdf1a515d1320",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0251223145039bdf1a515d1320",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485151223145039bdf1a515d1320",
+          "width": 64
+        }
+      ],
+      "name": "JJ的咖啡調調, Vol.1",
+      "release_date": "2023-02-03",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:6MO9osXm49WjTRkjDJh3PJ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5oj5xjufoh6AazZX6NSEgu",
+    "is_local": false,
+    "name": "恨幸福來過",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6MO9osXm49WjTRkjDJh3PJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27351223145039bdf1a515d1320",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0251223145039bdf1a515d1320",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485151223145039bdf1a515d1320",
+          "width": 64
+        }
+      ],
+      "name": "JJ的咖啡調調, Vol.1",
+      "release_date": "2023-02-03",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:6MO9osXm49WjTRkjDJh3PJ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7HNUZMyUPNhwdnaiVVY9Th",
+    "is_local": false,
+    "name": "想見你想見你想見你",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6MO9osXm49WjTRkjDJh3PJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27351223145039bdf1a515d1320",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0251223145039bdf1a515d1320",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485151223145039bdf1a515d1320",
+          "width": 64
+        }
+      ],
+      "name": "JJ的咖啡調調, Vol.1",
+      "release_date": "2023-02-03",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:6MO9osXm49WjTRkjDJh3PJ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5ENCqeZvPVx5eMZLGrbMRQ",
+    "is_local": false,
+    "name": "身後",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6MO9osXm49WjTRkjDJh3PJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27351223145039bdf1a515d1320",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0251223145039bdf1a515d1320",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485151223145039bdf1a515d1320",
+          "width": 64
+        }
+      ],
+      "name": "JJ的咖啡調調, Vol.1",
+      "release_date": "2023-02-03",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:6MO9osXm49WjTRkjDJh3PJ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/28r6l7zjoM3ixA1fEmtK1z",
+    "is_local": false,
+    "name": "Too Bad",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6MO9osXm49WjTRkjDJh3PJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27351223145039bdf1a515d1320",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0251223145039bdf1a515d1320",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485151223145039bdf1a515d1320",
+          "width": 64
+        }
+      ],
+      "name": "JJ的咖啡調調, Vol.1",
+      "release_date": "2023-02-03",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:6MO9osXm49WjTRkjDJh3PJ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/24fEIDceSzRFYSGAwkOjSD",
+    "is_local": false,
+    "name": "Intro",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3KEUzl4MC7mw0tNypb2WUm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dc3c71a6a96136d52669118a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dc3c71a6a96136d52669118a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dc3c71a6a96136d52669118a",
+          "width": 64
+        }
+      ],
+      "name": "重拾_快樂",
+      "release_date": "2023-04-21",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3KEUzl4MC7mw0tNypb2WUm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4rEDIiEOXZDIAb2aXxBMJv",
+    "is_local": false,
+    "name": "7千3百多天",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3KEUzl4MC7mw0tNypb2WUm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dc3c71a6a96136d52669118a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dc3c71a6a96136d52669118a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dc3c71a6a96136d52669118a",
+          "width": 64
+        }
+      ],
+      "name": "重拾_快樂",
+      "release_date": "2023-04-21",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3KEUzl4MC7mw0tNypb2WUm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6zkiTqLpmNOeCRHVOTQk2T",
+    "is_local": false,
+    "name": "Castle In The Air",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3KEUzl4MC7mw0tNypb2WUm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dc3c71a6a96136d52669118a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dc3c71a6a96136d52669118a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dc3c71a6a96136d52669118a",
+          "width": 64
+        }
+      ],
+      "name": "重拾_快樂",
+      "release_date": "2023-04-21",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3KEUzl4MC7mw0tNypb2WUm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1edKrqk7YCriloCaIi7ooC",
+    "is_local": false,
+    "name": "一時的選擇",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3KEUzl4MC7mw0tNypb2WUm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dc3c71a6a96136d52669118a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dc3c71a6a96136d52669118a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dc3c71a6a96136d52669118a",
+          "width": 64
+        }
+      ],
+      "name": "重拾_快樂",
+      "release_date": "2023-04-21",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3KEUzl4MC7mw0tNypb2WUm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7yY5cyMr4cHGwPYIG2gp43",
+    "is_local": false,
+    "name": "你都在",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3KEUzl4MC7mw0tNypb2WUm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dc3c71a6a96136d52669118a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dc3c71a6a96136d52669118a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dc3c71a6a96136d52669118a",
+          "width": 64
+        }
+      ],
+      "name": "重拾_快樂",
+      "release_date": "2023-04-21",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3KEUzl4MC7mw0tNypb2WUm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1Dhly8FoIiwHg983Y5AdHo",
+    "is_local": false,
+    "name": "黑色泡沫",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3KEUzl4MC7mw0tNypb2WUm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dc3c71a6a96136d52669118a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dc3c71a6a96136d52669118a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dc3c71a6a96136d52669118a",
+          "width": 64
+        }
+      ],
+      "name": "重拾_快樂",
+      "release_date": "2023-04-21",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3KEUzl4MC7mw0tNypb2WUm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1yF0TL45iq2OPUnnZJONMa",
+    "is_local": false,
+    "name": "如果我還剩一件事情可以做",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3KEUzl4MC7mw0tNypb2WUm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dc3c71a6a96136d52669118a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dc3c71a6a96136d52669118a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dc3c71a6a96136d52669118a",
+          "width": 64
+        }
+      ],
+      "name": "重拾_快樂",
+      "release_date": "2023-04-21",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3KEUzl4MC7mw0tNypb2WUm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4Q3jDxNOBIroWYuAXUdzix",
+    "is_local": false,
+    "name": "謝幕",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3KEUzl4MC7mw0tNypb2WUm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dc3c71a6a96136d52669118a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dc3c71a6a96136d52669118a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dc3c71a6a96136d52669118a",
+          "width": 64
+        }
+      ],
+      "name": "重拾_快樂",
+      "release_date": "2023-04-21",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3KEUzl4MC7mw0tNypb2WUm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/17RHsGZoe2YWoaQA9HFzeP",
+    "is_local": false,
+    "name": "自畫像",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3KEUzl4MC7mw0tNypb2WUm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dc3c71a6a96136d52669118a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dc3c71a6a96136d52669118a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dc3c71a6a96136d52669118a",
+          "width": 64
+        }
+      ],
+      "name": "重拾_快樂",
+      "release_date": "2023-04-21",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3KEUzl4MC7mw0tNypb2WUm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0wxd5IGCSX2lOWJCmpzAQL",
+    "is_local": false,
+    "name": "夢不凌亂",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3KEUzl4MC7mw0tNypb2WUm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dc3c71a6a96136d52669118a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dc3c71a6a96136d52669118a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dc3c71a6a96136d52669118a",
+          "width": 64
+        }
+      ],
+      "name": "重拾_快樂",
+      "release_date": "2023-04-21",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3KEUzl4MC7mw0tNypb2WUm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1DuFU3yhIFi8kYwI3BlmnA",
+    "is_local": false,
+    "name": "孤獨娛樂",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3KEUzl4MC7mw0tNypb2WUm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dc3c71a6a96136d52669118a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dc3c71a6a96136d52669118a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dc3c71a6a96136d52669118a",
+          "width": 64
+        }
+      ],
+      "name": "重拾_快樂",
+      "release_date": "2023-04-21",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3KEUzl4MC7mw0tNypb2WUm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1Vhc7hTMXS3mQIu89JxSq5",
+    "is_local": false,
+    "name": "逆光白",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3KEUzl4MC7mw0tNypb2WUm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dc3c71a6a96136d52669118a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dc3c71a6a96136d52669118a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dc3c71a6a96136d52669118a",
+          "width": 64
+        }
+      ],
+      "name": "重拾_快樂",
+      "release_date": "2023-04-21",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3KEUzl4MC7mw0tNypb2WUm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4ANuvW01ynBAu7rUS6sarM",
+    "is_local": false,
+    "name": "願與愁",
+    "preview_url": null
+  }
+]

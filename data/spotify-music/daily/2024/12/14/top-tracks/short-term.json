@@ -1,0 +1,1242 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+          },
+          "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+          "id": "6udveWUgX4vu75FF0DTrXV",
+          "name": "TAEYANG",
+          "type": "artist",
+          "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+          "id": "1OQxmfKN9UG5C7nr4MkasO",
+          "name": "DAESUNG",
+          "type": "artist",
+          "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5fo3PoBblMOTbg7SXPNspq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bcacb16531b21146ed9dc2a0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bcacb16531b21146ed9dc2a0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bcacb16531b21146ed9dc2a0",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+      "release_date": "2024-11-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5fo3PoBblMOTbg7SXPNspq"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+        "id": "6udveWUgX4vu75FF0DTrXV",
+        "name": "TAEYANG",
+        "type": "artist",
+        "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        },
+        "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+        "id": "1OQxmfKN9UG5C7nr4MkasO",
+        "name": "DAESUNG",
+        "type": "artist",
+        "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0Cu8JdYvV9DdmzLzhxaZLH",
+    "is_local": false,
+    "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2koSNfchdUxqw1rPJO87aH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732d56768bc14df3b0b3982efd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022d56768bc14df3b0b3982efd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512d56768bc14df3b0b3982efd",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "KWON JI YONG",
+      "release_date": "2017-06-08",
+      "release_date_precision": "day",
+      "total_tracks": 5,
+      "type": "album",
+      "uri": "spotify:album:2koSNfchdUxqw1rPJO87aH"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/16BS342F89MDqouSxgLaUK",
+    "is_local": false,
+    "name": "무제(無題) (Untitled, 2014)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4msI9bSfKohOPFic15aLR4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733dbdbd0023f1e1c08cd5a6c9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023dbdbd0023f1e1c08cd5a6c9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513dbdbd0023f1e1c08cd5a6c9",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "COUP D'ETAT",
+      "release_date": "2013-09-05",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:4msI9bSfKohOPFic15aLR4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4EwNWRBWdZ6bgvxRHlZ8OO",
+    "is_local": false,
+    "name": "CROOKED",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3w2XYofMZpf1FA5wkkcBfx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bca5394fa6d2809b261abf5c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bca5394fa6d2809b261abf5c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bca5394fa6d2809b261abf5c",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "POWER",
+      "release_date": "2024-10-31",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3w2XYofMZpf1FA5wkkcBfx"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4XsJiRJQAK8TWcZCn0Dxlh",
+    "is_local": false,
+    "name": "POWER",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4EitCfNTOlnqtRrmBBuwGQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734687bc7a0bda65c282c13afa",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024687bc7a0bda65c282c13afa",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514687bc7a0bda65c282c13afa",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "One of a Kind",
+      "release_date": "2012-09-15",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:4EitCfNTOlnqtRrmBBuwGQ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        "href": "https://api.spotify.com/v1/artists/3eVa5w3URK5duf6eyVDbu9",
+        "id": "3eVa5w3URK5duf6eyVDbu9",
+        "name": "ROSÉ",
+        "type": "artist",
+        "uri": "spotify:artist:3eVa5w3URK5duf6eyVDbu9"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3V375E3xldRPEEcIKiw83l",
+    "is_local": false,
+    "name": "Without You (Feat. ROSE)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4kXABOKrhJ2jKUNYGRQPr8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a5f5d2df443e110d9e1f2212",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a5f5d2df443e110d9e1f2212",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a5f5d2df443e110d9e1f2212",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "新地球",
+      "release_date": "2014-12-27",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:4kXABOKrhJ2jKUNYGRQPr8"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6WoQzK5Exbfcmow1AoNRkl",
+    "is_local": false,
+    "name": "可惜沒如果",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6A5g9sz5nChdBMdcATcCjB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738993cee2c10adefcac0a3654",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028993cee2c10adefcac0a3654",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518993cee2c10adefcac0a3654",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "COUP D'ETAT (Korean Version)",
+      "release_date": "2013-09-05",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:6A5g9sz5nChdBMdcATcCjB"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        "href": "https://api.spotify.com/v1/artists/250b0Wlc5Vk0CoUsaCY84M",
+        "id": "250b0Wlc5Vk0CoUsaCY84M",
+        "name": "JENNIE",
+        "type": "artist",
+        "uri": "spotify:artist:250b0Wlc5Vk0CoUsaCY84M"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/44f1TNdoQUgf3PUYraCTsH",
+    "is_local": false,
+    "name": "Black (Feat. JENNIE of BLACKPINK)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1yfwMCcUlm0mewJVrJIEfk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c1b6b271b5229e2f006f0336",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c1b6b271b5229e2f006f0336",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c1b6b271b5229e2f006f0336",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "JJ陸",
+      "release_date": "2008-10-18",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:1yfwMCcUlm0mewJVrJIEfk"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6wBoKKHhGDrxVtp6XMFpIP"
+        },
+        "href": "https://api.spotify.com/v1/artists/6wBoKKHhGDrxVtp6XMFpIP",
+        "id": "6wBoKKHhGDrxVtp6XMFpIP",
+        "name": "Charlene Choi",
+        "type": "artist",
+        "uri": "spotify:artist:6wBoKKHhGDrxVtp6XMFpIP"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/53WV5mAY2opmFC0r0LjRdM",
+    "is_local": false,
+    "name": "小酒窩",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4kXABOKrhJ2jKUNYGRQPr8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a5f5d2df443e110d9e1f2212",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a5f5d2df443e110d9e1f2212",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a5f5d2df443e110d9e1f2212",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "新地球",
+      "release_date": "2014-12-27",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:4kXABOKrhJ2jKUNYGRQPr8"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+        },
+        "href": "https://api.spotify.com/v1/artists/7aRC4L63dBn3CiLDuWaLSI",
+        "id": "7aRC4L63dBn3CiLDuWaLSI",
+        "name": "G.E.M.",
+        "type": "artist",
+        "uri": "spotify:artist:7aRC4L63dBn3CiLDuWaLSI"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/07DWACsD58aEdq6XnDadLh",
+    "is_local": false,
+    "name": "手心的薔薇",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2BllRBDJwm9kthtOoYTzNK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273317c82406b3670a1f1b65179",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02317c82406b3670a1f1b65179",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851317c82406b3670a1f1b65179",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "\"和自己對話\" 實驗專輯",
+      "release_date": "2015-12-18",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:2BllRBDJwm9kthtOoYTzNK"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0VqSdtXseb9khdZrnYVyM1",
+    "is_local": false,
+    "name": "不為誰而作的歌",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4HIHR7UP1Wc04zwGkJDKX4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d007039d7dbb3ac88b4c5686",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d007039d7dbb3ac88b4c5686",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d007039d7dbb3ac88b4c5686",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "因你 而在",
+      "release_date": "2013-03-13",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:4HIHR7UP1Wc04zwGkJDKX4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/101iWa6yaODTI0RWewMK1B",
+    "is_local": false,
+    "name": "修煉愛情",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5nAilSc60xebtjFfRr6m2V",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ed2bffaaea5b89bf5c0e5da4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ed2bffaaea5b89bf5c0e5da4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ed2bffaaea5b89bf5c0e5da4",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "學不會",
+      "release_date": "2012-01-12",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:5nAilSc60xebtjFfRr6m2V"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2aMN1ky0SzSEcV1QdBYbW9",
+    "is_local": false,
+    "name": "那些你很冒險的夢",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2BllRBDJwm9kthtOoYTzNK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273317c82406b3670a1f1b65179",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02317c82406b3670a1f1b65179",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851317c82406b3670a1f1b65179",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "\"和自己對話\" 實驗專輯",
+      "release_date": "2015-12-18",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:2BllRBDJwm9kthtOoYTzNK"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/35B0D3BnZfxl0mA3KkstVK",
+    "is_local": false,
+    "name": "關鍵詞",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3KEUzl4MC7mw0tNypb2WUm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dc3c71a6a96136d52669118a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dc3c71a6a96136d52669118a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dc3c71a6a96136d52669118a",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "重拾_快樂",
+      "release_date": "2023-04-21",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3KEUzl4MC7mw0tNypb2WUm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4ANuvW01ynBAu7rUS6sarM",
+    "is_local": false,
+    "name": "願與愁",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2jzTdhgI2kvDx6NerFsRe8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731e7c1f167d1a6fdd2d8cab10",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021e7c1f167d1a6fdd2d8cab10",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511e7c1f167d1a6fdd2d8cab10",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "她說",
+      "release_date": "2010-12-08",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:2jzTdhgI2kvDx6NerFsRe8"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/632VyMrvhsHIsO4zq9khts",
+    "is_local": false,
+    "name": "她說",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3Hl00RKpdMnWtOal6WBlGK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730d39c7f4416b6655c664bad3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020d39c7f4416b6655c664bad3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510d39c7f4416b6655c664bad3",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "第二天堂",
+      "release_date": "2004-06-04",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:3Hl00RKpdMnWtOal6WBlGK"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0YgvF6fNWydNGzCY3pzK4Y",
+    "is_local": false,
+    "name": "江南",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3KEUzl4MC7mw0tNypb2WUm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dc3c71a6a96136d52669118a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dc3c71a6a96136d52669118a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dc3c71a6a96136d52669118a",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "重拾_快樂",
+      "release_date": "2023-04-21",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3KEUzl4MC7mw0tNypb2WUm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4Q3jDxNOBIroWYuAXUdzix",
+    "is_local": false,
+    "name": "謝幕",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/67GVCR4Gh0Z0TS36AfhRJd",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273527ad36b7207f2cde36b4350",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02527ad36b7207f2cde36b4350",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851527ad36b7207f2cde36b4350",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "G-DRAGON 2017 WORLD TOUR <ACT III, M.O.T.T.E> IN JAPAN",
+      "release_date": "2018-02-07",
+      "release_date_precision": "day",
+      "total_tracks": 22,
+      "type": "album",
+      "uri": "spotify:album:67GVCR4Gh0Z0TS36AfhRJd"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0QRQ4mW056YLXlaXE50tCd",
+    "is_local": false,
+    "name": "BREATHE - G-DRAGON 2017 WORLD TOUR <ACT III, M.O.T.T.E> IN JAPAN",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3KEUzl4MC7mw0tNypb2WUm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dc3c71a6a96136d52669118a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dc3c71a6a96136d52669118a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dc3c71a6a96136d52669118a",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "重拾_快樂",
+      "release_date": "2023-04-21",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3KEUzl4MC7mw0tNypb2WUm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0wxd5IGCSX2lOWJCmpzAQL",
+    "is_local": false,
+    "name": "夢不凌亂",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+          "id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "JJ Lin",
+          "type": "artist",
+          "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3KEUzl4MC7mw0tNypb2WUm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dc3c71a6a96136d52669118a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dc3c71a6a96136d52669118a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dc3c71a6a96136d52669118a",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "重拾_快樂",
+      "release_date": "2023-04-21",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3KEUzl4MC7mw0tNypb2WUm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+        "id": "7Dx7RhX0mFuXhCOUgB01uM",
+        "name": "JJ Lin",
+        "type": "artist",
+        "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/17RHsGZoe2YWoaQA9HFzeP",
+    "is_local": false,
+    "name": "自畫像",
+    "preview_url": null
+  }
+]

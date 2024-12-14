@@ -1,26 +1,343 @@
 [
   {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 1612.27076,
+        "digital": "0:26:52",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 52,
+        "percent": 35.11
+      },
+      {
+        "name": "TSConfig",
+        "total_seconds": 1380.636531,
+        "digital": "0:23:00",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 0,
+        "percent": 30.06
+      },
+      {
+        "name": "Other",
+        "total_seconds": 1083.030871,
+        "digital": "0:18:03",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 3,
+        "percent": 23.58
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 485.46317,
+        "digital": "0:08:05",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 5,
+        "percent": 10.57
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 20.697963,
+        "digital": "0:00:20",
+        "decimal": "0.00",
+        "text": "20 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 20,
+        "percent": 0.45
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 10.20015,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.22
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 1,
+      "minutes": 16,
+      "total_seconds": 4592.299445,
+      "digital": "1:16",
+      "decimal": "1.27",
+      "text": "1 hr 16 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3858.302705,
+        "digital": "1:04:18",
+        "decimal": "1.07",
+        "text": "1 hr 4 mins",
+        "hours": 1,
+        "minutes": 4,
+        "seconds": 18,
+        "percent": 84.02
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 733.99674,
+        "digital": "0:12:13",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 13,
+        "percent": 15.98
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4592.299445,
+        "digital": "1:16:32",
+        "decimal": "1.27",
+        "text": "1 hr 16 mins",
+        "hours": 1,
+        "minutes": 16,
+        "seconds": 32,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3858.302705,
+        "digital": "1:04:18",
+        "decimal": "1.07",
+        "text": "1 hr 4 mins",
+        "hours": 1,
+        "minutes": 4,
+        "seconds": 18,
+        "percent": 84.02
+      },
+      {
+        "name": "Browsing",
+        "total_seconds": 733.99674,
+        "digital": "0:12:13",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 13,
+        "percent": 15.98
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js\"",
+        "total_seconds": 485.46317,
+        "digital": "0:08:05",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 5,
+        "percent": 31.78
+      },
+      {
+        "name": "\"https://cdn.socket.io/4.7.2/socket.io.min.js\"",
+        "total_seconds": 485.46317,
+        "digital": "0:08:05",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 5,
+        "percent": 31.78
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js\"",
+        "total_seconds": 485.46317,
+        "digital": "0:08:05",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 5,
+        "percent": 31.78
+      },
+      {
+        "name": "logger",
+        "total_seconds": 10.20015,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.67
+      },
+      {
+        "name": "config",
+        "total_seconds": 10.20015,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.67
+      },
+      {
+        "name": "dns",
+        "total_seconds": 10.20015,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.67
+      },
+      {
+        "name": "http",
+        "total_seconds": 10.20015,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.67
+      },
+      {
+        "name": "blocklist",
+        "total_seconds": 10.20015,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.67
+      },
+      {
+        "name": "express",
+        "total_seconds": 10.20015,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.67
+      },
+      {
+        "name": "metrics",
+        "total_seconds": 10.20015,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.67
+      }
+    ],
+    "machines": [
+      {
+        "name": "HS-INCAMKT001",
+        "total_seconds": 3858.302705,
+        "machine_name_id": "b1903e6c-fdb7-4c8e-b8d0-6b159691bafa",
+        "digital": "1:04:18",
+        "decimal": "1.07",
+        "text": "1 hr 4 mins",
+        "hours": 1,
+        "minutes": 4,
+        "seconds": 18,
+        "percent": 84.02
+      },
+      {
+        "name": "Unknown Hostname",
+        "total_seconds": 733.99674,
+        "machine_name_id": "f03586f1-864b-4208-8dc4-3dec42522f13",
+        "digital": "0:12:13",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 13,
+        "percent": 15.98
+      }
+    ],
+    "projects": [
+      {
+        "name": "apinawala",
+        "total_seconds": 1480.893436,
+        "digital": "0:24:40",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 40,
+        "percent": 32.25
+      },
+      {
+        "name": "HS Gaming",
+        "total_seconds": 1215.300234,
+        "digital": "0:20:15",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 15,
+        "percent": 26.46
+      },
+      {
+        "name": "websocket server ready",
+        "total_seconds": 1017.03761,
+        "digital": "0:16:57",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 57,
+        "percent": 22.15
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 800.36791,
+        "digital": "0:13:20",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 20,
+        "percent": 17.43
+      },
+      {
+        "name": "whatscheck",
+        "total_seconds": 78.700255,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 1.71
+      }
+    ],
     "range": {
       "start": "2024-12-12T17:00:00Z",
       "end": "2024-12-13T16:59:59Z",
       "date": "2024-12-13",
       "text": "Fri Dec 13th 2024",
       "timezone": "Asia/Bangkok"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]

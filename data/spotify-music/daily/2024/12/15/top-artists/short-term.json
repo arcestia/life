@@ -1,0 +1,558 @@
+[
+  {
+    "genres": [
+      "australian country"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+    "id": "4J3TXBvAMckFbTxqxNYpDj",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebdd3d039c1c65f6785163454c",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174dd3d039c1c65f6785163454c",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178dd3d039c1c65f6785163454c",
+        "width": 160
+      }
+    ],
+    "name": "Kaylee Bell",
+    "type": "artist",
+    "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+  },
+  {
+    "genres": [
+      "k-pop",
+      "k-rap"
+    ],
+    "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+    "id": "30b9WulBM8sFuBo17nNq9c",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb99234fca18ba6bc8e75620ca",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab6761610000517499234fca18ba6bc8e75620ca",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f17899234fca18ba6bc8e75620ca",
+        "width": 160
+      }
+    ],
+    "name": "G-DRAGON",
+    "type": "artist",
+    "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+  },
+  {
+    "genres": [
+      "mandopop",
+      "singaporean mandopop",
+      "singaporean pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+    "id": "7Dx7RhX0mFuXhCOUgB01uM",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb181b3f24c2a457e7fa3edb59",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174181b3f24c2a457e7fa3edb59",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178181b3f24c2a457e7fa3edb59",
+        "width": 160
+      }
+    ],
+    "name": "JJ Lin",
+    "type": "artist",
+    "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+  },
+  {
+    "genres": [
+      "c-pop",
+      "mandopop",
+      "taiwan pop",
+      "zhongguo feng"
+    ],
+    "href": "https://api.spotify.com/v1/artists/2elBjNSdBE2Y3f0j1mjrql",
+    "id": "2elBjNSdBE2Y3f0j1mjrql",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab6761610000517402b3aa55ba238b2ceafb09da",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f17802b3aa55ba238b2ceafb09da",
+        "width": 160
+      }
+    ],
+    "name": "Jay Chou",
+    "type": "artist",
+    "uri": "spotify:artist:2elBjNSdBE2Y3f0j1mjrql"
+  },
+  {
+    "genres": [
+      "mandopop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/5fEQLwq1BWWQNR8GzhOIvi",
+    "id": "5fEQLwq1BWWQNR8GzhOIvi",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb32cabef34602bad95decc49e",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab6761610000517432cabef34602bad95decc49e",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f17832cabef34602bad95decc49e",
+        "width": 160
+      }
+    ],
+    "name": "Eric Chou",
+    "type": "artist",
+    "uri": "spotify:artist:5fEQLwq1BWWQNR8GzhOIvi"
+  },
+  {
+    "genres": [
+      "pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+    "id": "06HL4z0CvFAxyc27GXpf02",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174e672b5f553298dcdccb0e676",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178e672b5f553298dcdccb0e676",
+        "width": 160
+      }
+    ],
+    "name": "Taylor Swift",
+    "type": "artist",
+    "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+  },
+  {
+    "genres": [
+      "dance pop",
+      "pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+    "id": "0du5cEVh5yTK9QJze8zA0C",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174c36dd9eb55fb0db4911f25dd",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178c36dd9eb55fb0db4911f25dd",
+        "width": 160
+      }
+    ],
+    "name": "Bruno Mars",
+    "type": "artist",
+    "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+  },
+  {
+    "genres": [
+      "pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP",
+    "id": "04gDigrS5kc9YWfZHwBETP",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174f8349dfb619a7f842242de77",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178f8349dfb619a7f842242de77",
+        "width": 160
+      }
+    ],
+    "name": "Maroon 5",
+    "type": "artist",
+    "uri": "spotify:artist:04gDigrS5kc9YWfZHwBETP"
+  },
+  {
+    "genres": [
+      "taiwan singer-songwriter"
+    ],
+    "href": "https://api.spotify.com/v1/artists/5PNcqs6EtD6gSXgUiiJIUU",
+    "id": "5PNcqs6EtD6gSXgUiiJIUU",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c17714a11ba7db7fda4787fe",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c17714a11ba7db7fda4787fe",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c17714a11ba7db7fda4787fe",
+        "width": 64
+      }
+    ],
+    "name": "颜人中",
+    "type": "artist",
+    "uri": "spotify:artist:5PNcqs6EtD6gSXgUiiJIUU"
+  },
+  {
+    "genres": [
+      "mainland chinese pop",
+      "mandopop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/6f4srX54JFrLNK4aTJe2Sc",
+    "id": "6f4srX54JFrLNK4aTJe2Sc",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732bb557cdf5b938ae0f151165",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029d77e62263fa79342cab8e08",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517c80dac63140c967b1dbf570",
+        "width": 64
+      }
+    ],
+    "name": "Ren Ran",
+    "type": "artist",
+    "uri": "spotify:artist:6f4srX54JFrLNK4aTJe2Sc"
+  },
+  {
+    "genres": [
+      "mandopop",
+      "singaporean mandopop",
+      "singaporean pop",
+      "singaporean singer-songwriter"
+    ],
+    "href": "https://api.spotify.com/v1/artists/0SIXZXJCAhNU8sxK0qm7hn",
+    "id": "0SIXZXJCAhNU8sxK0qm7hn",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb744989ed737112f4edbd2cc3",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174744989ed737112f4edbd2cc3",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178744989ed737112f4edbd2cc3",
+        "width": 160
+      }
+    ],
+    "name": "Stefanie Sun",
+    "type": "artist",
+    "uri": "spotify:artist:0SIXZXJCAhNU8sxK0qm7hn"
+  },
+  {
+    "genres": [
+      "t-pop",
+      "thai indie pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+    "id": "1Twi7NfmUzbXF7lEMaGCqF",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebdfca7b30f2938f459607e457",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174dfca7b30f2938f459607e457",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178dfca7b30f2938f459607e457",
+        "width": 160
+      }
+    ],
+    "name": "Ink Waruntorn",
+    "type": "artist",
+    "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+  },
+  {
+    "genres": [
+      "pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+    "id": "74KM79TiuVKeVCqs8QtB0B",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebe053b8338322b9c8609ee7ae",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174e053b8338322b9c8609ee7ae",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178e053b8338322b9c8609ee7ae",
+        "width": 160
+      }
+    ],
+    "name": "Sabrina Carpenter",
+    "type": "artist",
+    "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+  },
+  {
+    "genres": [
+      "mandopop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/7aRC4L63dBn3CiLDuWaLSI",
+    "id": "7aRC4L63dBn3CiLDuWaLSI",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb22b67d7e8a5482991c7da510",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab6761610000517422b67d7e8a5482991c7da510",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f17822b67d7e8a5482991c7da510",
+        "width": 160
+      }
+    ],
+    "name": "G.E.M.",
+    "type": "artist",
+    "uri": "spotify:artist:7aRC4L63dBn3CiLDuWaLSI"
+  },
+  {
+    "genres": [
+      "t-pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/2a727ekkPaUHk0bMifk7fj",
+    "id": "2a727ekkPaUHk0bMifk7fj",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebaa69cfd6ff574ddea5e8fe52",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174aa69cfd6ff574ddea5e8fe52",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178aa69cfd6ff574ddea5e8fe52",
+        "width": 160
+      }
+    ],
+    "name": "Billkin",
+    "type": "artist",
+    "uri": "spotify:artist:2a727ekkPaUHk0bMifk7fj"
+  },
+  {
+    "genres": [
+      "k-pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3eVa5w3URK5duf6eyVDbu9",
+    "id": "3eVa5w3URK5duf6eyVDbu9",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb727a1f1f508238a20ac9fdbf",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174727a1f1f508238a20ac9fdbf",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178727a1f1f508238a20ac9fdbf",
+        "width": 160
+      }
+    ],
+    "name": "ROSÉ",
+    "type": "artist",
+    "uri": "spotify:artist:3eVa5w3URK5duf6eyVDbu9"
+  },
+  {
+    "genres": [
+      "pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab6761610000517440b5c07ab77b6b1a9075fdc0",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f17840b5c07ab77b6b1a9075fdc0",
+        "width": 160
+      }
+    ],
+    "name": "Ariana Grande",
+    "type": "artist",
+    "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+  },
+  {
+    "genres": [
+      "mandopop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1cg0bYpP5e2DNG0RgK2CMN",
+    "id": "1cg0bYpP5e2DNG0RgK2CMN",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb729b7e9f6f0539bd01dff7e5",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174729b7e9f6f0539bd01dff7e5",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178729b7e9f6f0539bd01dff7e5",
+        "width": 160
+      }
+    ],
+    "name": "Joker Xue",
+    "type": "artist",
+    "uri": "spotify:artist:1cg0bYpP5e2DNG0RgK2CMN"
+  },
+  {
+    "genres": [
+      "t-pop",
+      "thai indie pop",
+      "thai indie rock",
+      "thai pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3zSMaWnvUzyNlOW0Tj2s4N",
+    "id": "3zSMaWnvUzyNlOW0Tj2s4N",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebab8a20e93cb7d9349c5f7b0a",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174ab8a20e93cb7d9349c5f7b0a",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178ab8a20e93cb7d9349c5f7b0a",
+        "width": 160
+      }
+    ],
+    "name": "SCRUBB",
+    "type": "artist",
+    "uri": "spotify:artist:3zSMaWnvUzyNlOW0Tj2s4N"
+  },
+  {
+    "genres": [
+      "pop",
+      "viral pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/6VuMaDnrHyPL1p4EHjYLi7",
+    "id": "6VuMaDnrHyPL1p4EHjYLi7",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebd5594e3ae145bbb2c096366d",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174d5594e3ae145bbb2c096366d",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178d5594e3ae145bbb2c096366d",
+        "width": 160
+      }
+    ],
+    "name": "Charlie Puth",
+    "type": "artist",
+    "uri": "spotify:artist:6VuMaDnrHyPL1p4EHjYLi7"
+  }
+]

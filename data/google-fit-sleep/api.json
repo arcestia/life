@@ -1,9 +1,5 @@
 {
-  "days": {
-    "2024": [
-      "12.json"
-    ]
-  },
+  "days": "days.json",
   "months": [
     "2024.json"
   ],

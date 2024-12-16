@@ -12,5 +12,19 @@
     "activityType": 72,
     "startTime": "2024-12-14T17:50:57.117Z",
     "endTime": "2024-12-14T17:51:04.375Z"
+  },
+  {
+    "id": "33625ce61a2aa0cf056b725322784c6f",
+    "name": "Sleep",
+    "description": "",
+    "startTimeMillis": "1734204296424",
+    "endTimeMillis": "1734230576424",
+    "modifiedTimeMillis": "1734233388193",
+    "application": {
+      "packageName": "com.urbandroid.sleep"
+    },
+    "activityType": 72,
+    "startTime": "2024-12-14T19:24:56.424Z",
+    "endTime": "2024-12-15T02:42:56.424Z"
   }
 ]

@@ -1,16 +1,93 @@
 [
   {
+    "grand_total": {
+      "hours": 1,
+      "minutes": 0,
+      "total_seconds": 3651.587248,
+      "digital": "1:00",
+      "decimal": "1.00",
+      "text": "1 hr"
+    },
+    "range": {
+      "start": "2024-12-13T17:00:00Z",
+      "end": "2024-12-14T16:59:59Z",
+      "date": "2024-12-14",
+      "text": "Sat Dec 14th 2024",
+      "timezone": "Asia/Bangkok"
+    },
+    "projects": [
+      {
+        "name": "newtest",
+        "total_seconds": 1847.194757,
+        "color": null,
+        "digital": "0:30:47",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 47,
+        "percent": 50.59
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 935.104596,
+        "color": null,
+        "digital": "0:15:35",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 35,
+        "percent": 25.61
+      },
+      {
+        "name": "websocket",
+        "total_seconds": 559.173031,
+        "color": null,
+        "digital": "0:09:19",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 19,
+        "percent": 15.31
+      },
+      {
+        "name": "Nawala",
+        "total_seconds": 229.620072,
+        "color": null,
+        "digital": "0:03:49",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 49,
+        "percent": 6.29
+      },
+      {
+        "name": "testing",
+        "total_seconds": 80.494792,
+        "color": null,
+        "digital": "0:01:20",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 20,
+        "percent": 2.2
+      }
+    ],
     "languages": [
       {
         "name": "JavaScript",
-        "total_seconds": 2413.830764,
-        "digital": "0:40:13",
+        "total_seconds": 2425.084095,
+        "digital": "0:40:25",
         "decimal": "0.67",
         "text": "40 mins",
         "hours": 0,
         "minutes": 40,
-        "seconds": 13,
-        "percent": 66.31
+        "seconds": 25,
+        "percent": 66.41
       },
       {
         "name": "Bash",
@@ -21,7 +98,7 @@
         "hours": 0,
         "minutes": 15,
         "seconds": 35,
-        "percent": 25.69
+        "percent": 25.61
       },
       {
         "name": "HTML",
@@ -32,54 +109,7 @@
         "hours": 0,
         "minutes": 4,
         "seconds": 51,
-        "percent": 8
-      }
-    ],
-    "grand_total": {
-      "hours": 1,
-      "minutes": 0,
-      "total_seconds": 3640.333917,
-      "digital": "1:00",
-      "decimal": "1.00",
-      "text": "1 hr"
-    },
-    "editors": [
-      {
-        "name": "VS Code",
-        "total_seconds": 3640.333917,
-        "digital": "1:00:40",
-        "decimal": "1.00",
-        "text": "1 hr",
-        "hours": 1,
-        "minutes": 0,
-        "seconds": 40,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 3640.333917,
-        "digital": "1:00:40",
-        "decimal": "1.00",
-        "text": "1 hr",
-        "hours": 1,
-        "minutes": 0,
-        "seconds": 40,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 3640.333917,
-        "digital": "1:00:40",
-        "decimal": "1.00",
-        "text": "1 hr",
-        "hours": 1,
-        "minutes": 0,
-        "seconds": 40,
-        "percent": 100
+        "percent": 7.98
       }
     ],
     "dependencies": [
@@ -142,80 +172,55 @@
     "machines": [
       {
         "name": "HS-INCAMKT001",
-        "total_seconds": 3640.333917,
+        "total_seconds": 3651.587248,
         "machine_name_id": "b1903e6c-fdb7-4c8e-b8d0-6b159691bafa",
-        "digital": "1:00:40",
+        "digital": "1:00:51",
         "decimal": "1.00",
         "text": "1 hr",
         "hours": 1,
         "minutes": 0,
-        "seconds": 40,
+        "seconds": 51,
         "percent": 100
       }
     ],
-    "projects": [
+    "editors": [
       {
-        "name": "newtest",
-        "total_seconds": 1835.941426,
-        "digital": "0:30:35",
-        "decimal": "0.50",
-        "text": "30 mins",
-        "hours": 0,
-        "minutes": 30,
-        "seconds": 35,
-        "percent": 50.43
-      },
-      {
-        "name": "Unknown Project",
-        "total_seconds": 935.104596,
-        "digital": "0:15:35",
-        "decimal": "0.25",
-        "text": "15 mins",
-        "hours": 0,
-        "minutes": 15,
-        "seconds": 35,
-        "percent": 25.69
-      },
-      {
-        "name": "websocket",
-        "total_seconds": 559.173031,
-        "digital": "0:09:19",
-        "decimal": "0.15",
-        "text": "9 mins",
-        "hours": 0,
-        "minutes": 9,
-        "seconds": 19,
-        "percent": 15.36
-      },
-      {
-        "name": "Nawala",
-        "total_seconds": 229.620072,
-        "digital": "0:03:49",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 49,
-        "percent": 6.31
-      },
-      {
-        "name": "testing",
-        "total_seconds": 80.494792,
-        "digital": "0:01:20",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 20,
-        "percent": 2.21
+        "name": "VS Code",
+        "total_seconds": 3651.587248,
+        "digital": "1:00:51",
+        "decimal": "1.00",
+        "text": "1 hr",
+        "hours": 1,
+        "minutes": 0,
+        "seconds": 51,
+        "percent": 100
       }
     ],
-    "range": {
-      "start": "2024-12-13T17:00:00Z",
-      "end": "2024-12-14T16:59:59Z",
-      "date": "2024-12-14",
-      "text": "Sat Dec 14th 2024",
-      "timezone": "Asia/Bangkok"
-    }
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 3651.587248,
+        "digital": "1:00:51",
+        "decimal": "1.00",
+        "text": "1 hr",
+        "hours": 1,
+        "minutes": 0,
+        "seconds": 51,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3651.587248,
+        "digital": "1:00:51",
+        "decimal": "1.00",
+        "text": "1 hr",
+        "hours": 1,
+        "minutes": 0,
+        "seconds": 51,
+        "percent": 100
+      }
+    ]
   }
 ]

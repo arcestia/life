@@ -1,26 +1,409 @@
 [
   {
+    "languages": [
+      {
+        "name": "HTML",
+        "total_seconds": 4294.573197,
+        "digital": "1:11:34",
+        "decimal": "1.18",
+        "text": "1 hr 11 mins",
+        "hours": 1,
+        "minutes": 11,
+        "seconds": 34,
+        "percent": 47.79
+      },
+      {
+        "name": "Other",
+        "total_seconds": 4137.120348,
+        "digital": "1:08:57",
+        "decimal": "1.13",
+        "text": "1 hr 8 mins",
+        "hours": 1,
+        "minutes": 8,
+        "seconds": 57,
+        "percent": 46.04
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 553.915135,
+        "digital": "0:09:13",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 13,
+        "percent": 6.16
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 2,
+      "minutes": 29,
+      "total_seconds": 8985.60868,
+      "digital": "2:29",
+      "decimal": "2.48",
+      "text": "2 hrs 29 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 8660.32368,
+        "digital": "2:24:20",
+        "decimal": "2.40",
+        "text": "2 hrs 24 mins",
+        "hours": 2,
+        "minutes": 24,
+        "seconds": 20,
+        "percent": 96.38
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 325.285,
+        "digital": "0:05:25",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 25,
+        "percent": 3.62
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 8985.60868,
+        "digital": "2:29:45",
+        "decimal": "2.48",
+        "text": "2 hrs 29 mins",
+        "hours": 2,
+        "minutes": 29,
+        "seconds": 45,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 8660.32368,
+        "digital": "2:24:20",
+        "decimal": "2.40",
+        "text": "2 hrs 24 mins",
+        "hours": 2,
+        "minutes": 24,
+        "seconds": 20,
+        "percent": 96.38
+      },
+      {
+        "name": "Browsing",
+        "total_seconds": 325.285,
+        "digital": "0:05:25",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 25,
+        "percent": 3.62
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js\"",
+        "total_seconds": 1822.594372,
+        "digital": "0:30:22",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 22,
+        "percent": 15.33
+      },
+      {
+        "name": "\"https://cdn.socket.io/4.7.2/socket.io.min.js\"",
+        "total_seconds": 1822.594372,
+        "digital": "0:30:22",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 22,
+        "percent": 15.33
+      },
+      {
+        "name": "\"https://cdn.d32jers.com/others/snowy-js/snowy.js\"",
+        "total_seconds": 1619.143285,
+        "digital": "0:26:59",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 59,
+        "percent": 13.62
+      },
+      {
+        "name": "\"https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js\"",
+        "total_seconds": 1491.118862,
+        "digital": "0:24:51",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 51,
+        "percent": 12.54
+      },
+      {
+        "name": "\"//images.dmca.com/Badges/DMCABadgeHelper.min.js\"",
+        "total_seconds": 1491.118862,
+        "digital": "0:24:51",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 51,
+        "percent": 12.54
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js\"",
+        "total_seconds": 589.403874,
+        "digital": "0:09:49",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 49,
+        "percent": 4.96
+      },
+      {
+        "name": "\"https://www.googletagmanager.com/gtag/js?id=G-Z15HLQY1T5\"",
+        "total_seconds": 416.97221,
+        "digital": "0:06:56",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 56,
+        "percent": 3.51
+      },
+      {
+        "name": "\"https://www.googletagmanager.com/gtag/js?id=G-Y108D2WHRQ\"",
+        "total_seconds": 357.116292,
+        "digital": "0:05:57",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 57,
+        "percent": 3
+      },
+      {
+        "name": "\"https://cdn.bunkerkiamat.com/others/snowy-js/snowy.js\"",
+        "total_seconds": 353.129408,
+        "digital": "0:05:53",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 53,
+        "percent": 2.97
+      },
+      {
+        "name": "\"https://www.googletagmanager.com/gtag/js?id=G-LSLN3JDKG4\"",
+        "total_seconds": 322.789201,
+        "digital": "0:05:22",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 22,
+        "percent": 2.71
+      },
+      {
+        "name": "\"https://www.googletagmanager.com/gtag/js?id=G-ZE46X08T1Z\"",
+        "total_seconds": 261.552809,
+        "digital": "0:04:21",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 21,
+        "percent": 2.2
+      },
+      {
+        "name": "\"https://www.googletagmanager.com/gtag/js?id=G-JZDDDKZEE5\"",
+        "total_seconds": 240.743016,
+        "digital": "0:04:00",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 0,
+        "percent": 2.02
+      },
+      {
+        "name": "\"https://www.googletagmanager.com/gtag/js?id=G-4L5LPLX21S\"",
+        "total_seconds": 191.110929,
+        "digital": "0:03:11",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 11,
+        "percent": 1.61
+      },
+      {
+        "name": "\"https://www.googletagmanager.com/gtag/js?id=G-HF46TW9TKZ\"",
+        "total_seconds": 183.849227,
+        "digital": "0:03:03",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 3,
+        "percent": 1.55
+      },
+      {
+        "name": "http",
+        "total_seconds": 95.507193,
+        "digital": "0:01:35",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 35,
+        "percent": 0.8
+      },
+      {
+        "name": "promise",
+        "total_seconds": 95.507193,
+        "digital": "0:01:35",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 35,
+        "percent": 0.8
+      },
+      {
+        "name": "cors",
+        "total_seconds": 95.507193,
+        "digital": "0:01:35",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 35,
+        "percent": 0.8
+      },
+      {
+        "name": "socket",
+        "total_seconds": 95.507193,
+        "digital": "0:01:35",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 35,
+        "percent": 0.8
+      },
+      {
+        "name": "express",
+        "total_seconds": 95.507193,
+        "digital": "0:01:35",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 35,
+        "percent": 0.8
+      },
+      {
+        "name": "crypto-js",
+        "total_seconds": 95.507193,
+        "digital": "0:01:35",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 35,
+        "percent": 0.8
+      },
+      {
+        "name": "config",
+        "total_seconds": 95.507193,
+        "digital": "0:01:35",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 35,
+        "percent": 0.8
+      },
+      {
+        "name": "\"https://www.googletagmanager.com/gtag/js?id=G-TFSL9RPYR7\"",
+        "total_seconds": 57.705168,
+        "digital": "0:00:57",
+        "decimal": "0.00",
+        "text": "57 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 57,
+        "percent": 0.49
+      }
+    ],
+    "machines": [
+      {
+        "name": "HS-INCAMKT001",
+        "total_seconds": 8660.32368,
+        "machine_name_id": "b1903e6c-fdb7-4c8e-b8d0-6b159691bafa",
+        "digital": "2:24:20",
+        "decimal": "2.40",
+        "text": "2 hrs 24 mins",
+        "hours": 2,
+        "minutes": 24,
+        "seconds": 20,
+        "percent": 96.38
+      },
+      {
+        "name": "Unknown Hostname",
+        "total_seconds": 325.285,
+        "machine_name_id": "f03586f1-864b-4208-8dc4-3dec42522f13",
+        "digital": "0:05:25",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 25,
+        "percent": 3.62
+      }
+    ],
+    "projects": [
+      {
+        "name": "BACKUP",
+        "total_seconds": 7517.004671,
+        "digital": "2:05:17",
+        "decimal": "2.08",
+        "text": "2 hrs 5 mins",
+        "hours": 2,
+        "minutes": 5,
+        "seconds": 17,
+        "percent": 83.66
+      },
+      {
+        "name": "newtest",
+        "total_seconds": 1468.604009,
+        "digital": "0:24:28",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 28,
+        "percent": 16.34
+      }
+    ],
     "range": {
       "start": "2024-12-14T17:00:00Z",
       "end": "2024-12-15T16:59:59Z",
       "date": "2024-12-15",
       "text": "Sun Dec 15th 2024",
       "timezone": "Asia/Bangkok"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]

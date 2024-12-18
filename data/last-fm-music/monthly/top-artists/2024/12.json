@@ -24,42 +24,10 @@
       }
     ],
     "mbid": "",
-    "url": "https://www.last.fm/music/20th+Century+Studios+Singapore",
-    "playcount": "48",
+    "url": "https://www.last.fm/music/%E5%91%A8%E6%9D%B0%E5%80%AB",
+    "playcount": "14",
     "@attr": {
       "rank": "1"
-    },
-    "name": "20th Century Studios Singapore"
-  },
-  {
-    "streamable": "0",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "mega",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/%E5%91%A8%E6%9D%B0%E5%80%AB",
-    "playcount": "33",
-    "@attr": {
-      "rank": "2"
     },
     "name": "周杰倫"
   },
@@ -89,9 +57,9 @@
     ],
     "mbid": "f6069b0c-a148-4343-9ffb-bc9694adc442",
     "url": "https://www.last.fm/music/Priscilla+Abby",
-    "playcount": "13",
+    "playcount": "9",
     "@attr": {
-      "rank": "3"
+      "rank": "2"
     },
     "name": "Priscilla Abby"
   },
@@ -119,9 +87,41 @@
         "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       }
     ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/20th+Century+Studios+Singapore",
+    "playcount": "7",
+    "@attr": {
+      "rank": "3"
+    },
+    "name": "20th Century Studios Singapore"
+  },
+  {
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "mega",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
     "mbid": "e5d8c705-8ea4-4820-b11d-fbf580d85ce4",
     "url": "https://www.last.fm/music/%E6%9E%97%E4%BF%8A%E5%82%91",
-    "playcount": "12",
+    "playcount": "7",
     "@attr": {
       "rank": "4"
     },
@@ -153,7 +153,7 @@
     ],
     "mbid": "a7779ea3-b8f6-4e58-9c33-45cb839bc7ee",
     "url": "https://www.last.fm/music/Eric+Chou",
-    "playcount": "7",
+    "playcount": "5",
     "@attr": {
       "rank": "5"
     },
@@ -185,7 +185,7 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/%E4%BA%8E%E5%86%AC%E7%84%B6",
-    "playcount": "7",
+    "playcount": "5",
     "@attr": {
       "rank": "6"
     },
@@ -217,7 +217,7 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/Ge+Bi+Lao+Fan",
-    "playcount": "6",
+    "playcount": "4",
     "@attr": {
       "rank": "7"
     },
@@ -249,7 +249,7 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/%E8%96%9B%E4%B9%8B+%E8%AC%99",
-    "playcount": "6",
+    "playcount": "4",
     "@attr": {
       "rank": "8"
     },
@@ -281,7 +281,7 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/Boon+Hui+Lu",
-    "playcount": "5",
+    "playcount": "3",
     "@attr": {
       "rank": "9"
     },
@@ -311,43 +311,11 @@
         "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       }
     ],
-    "mbid": "755c0e6d-ffcd-4d6c-ba46-96d3a260ec3e",
-    "url": "https://www.last.fm/music/Ren+Ran",
-    "playcount": "5",
-    "@attr": {
-      "rank": "10"
-    },
-    "name": "Ren Ran"
-  },
-  {
-    "streamable": "0",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "mega",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
     "mbid": "",
     "url": "https://www.last.fm/music/Da+Zhuang",
-    "playcount": "4",
+    "playcount": "3",
     "@attr": {
-      "rank": "11"
+      "rank": "10"
     },
     "name": "Da Zhuang"
   },
@@ -377,9 +345,9 @@
     ],
     "mbid": "421ea8b6-cfff-4ea3-b88e-56deae51e26d",
     "url": "https://www.last.fm/music/G.E.M.",
-    "playcount": "4",
+    "playcount": "3",
     "@attr": {
-      "rank": "12"
+      "rank": "11"
     },
     "name": "G.E.M."
   },
@@ -409,9 +377,9 @@
     ],
     "mbid": "7ca8c0f6-49a9-4725-8dda-7a99cca54466",
     "url": "https://www.last.fm/music/%E5%BC%A0%E8%BF%9C",
-    "playcount": "4",
+    "playcount": "3",
     "@attr": {
-      "rank": "13"
+      "rank": "12"
     },
     "name": "张远"
   },
@@ -441,9 +409,9 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/%E6%84%9F%E8%AC%9D%E4%BD%A0%E7%89%B9%E5%88%A5%E9%82%80%E8%AB%8B+%E4%BE%86%E8%A6%8B%E8%AD%89%E4%BD%A0%E7%9A%84%E6%84%9B%E6%83%85",
-    "playcount": "4",
+    "playcount": "3",
     "@attr": {
-      "rank": "14"
+      "rank": "13"
     },
     "name": "感謝你特別邀請 來見證你的愛情"
   },
@@ -473,9 +441,9 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/%E6%9D%8E%E5%A4%A2%E5%B0%B9",
-    "playcount": "4",
+    "playcount": "3",
     "@attr": {
-      "rank": "15"
+      "rank": "14"
     },
     "name": "李夢尹"
   },
@@ -505,9 +473,9 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/%E7%8E%8B%E8%B2%B3%E6%B5%AA",
-    "playcount": "4",
+    "playcount": "3",
     "@attr": {
-      "rank": "16"
+      "rank": "15"
     },
     "name": "王貳浪"
   },
@@ -536,8 +504,40 @@
       }
     ],
     "mbid": "",
-    "url": "https://www.last.fm/music/Andrew+Tan",
+    "url": "https://www.last.fm/music/%E8%8F%AF%E7%A0%94%E5%9C%8B%E9%9A%9B",
     "playcount": "3",
+    "@attr": {
+      "rank": "16"
+    },
+    "name": "華研國際"
+  },
+  {
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "mega",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/Andrew+Tan",
+    "playcount": "2",
     "@attr": {
       "rank": "17"
     },
@@ -567,13 +567,13 @@
         "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       }
     ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/JiaJia",
-    "playcount": "3",
+    "mbid": "012618a1-6890-400d-ab8f-1cd60c903d05",
+    "url": "https://www.last.fm/music/Jess+Lee",
+    "playcount": "2",
     "@attr": {
       "rank": "18"
     },
-    "name": "JiaJia"
+    "name": "Jess Lee"
   },
   {
     "streamable": "0",
@@ -601,7 +601,7 @@
     ],
     "mbid": "82c314c4-0498-466a-9093-79cef38875a0",
     "url": "https://www.last.fm/music/Li+Ronghao",
-    "playcount": "3",
+    "playcount": "2",
     "@attr": {
       "rank": "19"
     },
@@ -633,7 +633,7 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/Nana+Lee+%E6%9D%8E%E5%8D%83%E9%82%A3",
-    "playcount": "3",
+    "playcount": "2",
     "@attr": {
       "rank": "20"
     },

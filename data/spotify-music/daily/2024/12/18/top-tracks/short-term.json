@@ -1,0 +1,1312 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+          },
+          "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+          "id": "6udveWUgX4vu75FF0DTrXV",
+          "name": "TAEYANG",
+          "type": "artist",
+          "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+          "id": "1OQxmfKN9UG5C7nr4MkasO",
+          "name": "DAESUNG",
+          "type": "artist",
+          "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5fo3PoBblMOTbg7SXPNspq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bcacb16531b21146ed9dc2a0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bcacb16531b21146ed9dc2a0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bcacb16531b21146ed9dc2a0",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+      "release_date": "2024-11-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5fo3PoBblMOTbg7SXPNspq"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+        "id": "6udveWUgX4vu75FF0DTrXV",
+        "name": "TAEYANG",
+        "type": "artist",
+        "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        },
+        "href": "https://api.spotify.com/v1/artists/1OQxmfKN9UG5C7nr4MkasO",
+        "id": "1OQxmfKN9UG5C7nr4MkasO",
+        "name": "DAESUNG",
+        "type": "artist",
+        "uri": "spotify:artist:1OQxmfKN9UG5C7nr4MkasO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0Cu8JdYvV9DdmzLzhxaZLH",
+    "is_local": false,
+    "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7dWCUs7VGjsopOEB6VoQYv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c853c4b9e0523f82f17c5e20",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c853c4b9e0523f82f17c5e20",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c853c4b9e0523f82f17c5e20",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Keith",
+      "release_date": "2019-02-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7dWCUs7VGjsopOEB6VoQYv"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7pcekwb2T8L4MIc29f9GXB",
+    "is_local": false,
+    "name": "Keith",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7cGYemTtKlqYqR61wETgU4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273055d0344b18d8831c996c34f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02055d0344b18d8831c996c34f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851055d0344b18d8831c996c34f",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Nights Like This",
+      "release_date": "2024-03-15",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:7cGYemTtKlqYqR61wETgU4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/62ydigyjJjnnDglH1F31ov",
+    "is_local": false,
+    "name": "Take It To The Highway",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7cGYemTtKlqYqR61wETgU4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273055d0344b18d8831c996c34f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02055d0344b18d8831c996c34f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851055d0344b18d8831c996c34f",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Nights Like This",
+      "release_date": "2024-03-15",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:7cGYemTtKlqYqR61wETgU4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/60utjxPySCYZTh1gW7m8CW",
+    "is_local": false,
+    "name": "Boots 'N All",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/49tcLtFqwq1xhzLWHddssL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d1b41099dd186f703660eb50",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d1b41099dd186f703660eb50",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d1b41099dd186f703660eb50",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Cowboy Up",
+      "release_date": "2024-11-14",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:49tcLtFqwq1xhzLWHddssL"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4d4vlF9uJtiJRajBPZlKMa",
+    "is_local": false,
+    "name": "Cowboy Up",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7cGYemTtKlqYqR61wETgU4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273055d0344b18d8831c996c34f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02055d0344b18d8831c996c34f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851055d0344b18d8831c996c34f",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Nights Like This",
+      "release_date": "2024-03-15",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:7cGYemTtKlqYqR61wETgU4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4g6nTnBBeaE1AOd0YtY5xv",
+    "is_local": false,
+    "name": "Good Things",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
+          },
+          "href": "https://api.spotify.com/v1/artists/1McMRetlMqavXFC8TCVfma",
+          "id": "1McMRetlMqavXFC8TCVfma",
+          "name": "The Wolfe Brothers",
+          "type": "artist",
+          "uri": "spotify:artist:1McMRetlMqavXFC8TCVfma"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0IUXMhyp3x5iUeap5FVjOA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273217db88332e6d28c2aab0748",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02217db88332e6d28c2aab0748",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851217db88332e6d28c2aab0748",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Beer In A Bar",
+      "release_date": "2024-09-13",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0IUXMhyp3x5iUeap5FVjOA"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
+        },
+        "href": "https://api.spotify.com/v1/artists/1McMRetlMqavXFC8TCVfma",
+        "id": "1McMRetlMqavXFC8TCVfma",
+        "name": "The Wolfe Brothers",
+        "type": "artist",
+        "uri": "spotify:artist:1McMRetlMqavXFC8TCVfma"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6Kkp5WoAenzM0epmr4qPDf",
+    "is_local": false,
+    "name": "Beer In A Bar",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2koSNfchdUxqw1rPJO87aH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732d56768bc14df3b0b3982efd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022d56768bc14df3b0b3982efd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512d56768bc14df3b0b3982efd",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "KWON JI YONG",
+      "release_date": "2017-06-08",
+      "release_date_precision": "day",
+      "total_tracks": 5,
+      "type": "album",
+      "uri": "spotify:album:2koSNfchdUxqw1rPJO87aH"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/16BS342F89MDqouSxgLaUK",
+    "is_local": false,
+    "name": "무제(無題) (Untitled, 2014)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0H2mWrAuc4RzRwr2SkpG2y"
+          },
+          "href": "https://api.spotify.com/v1/artists/0H2mWrAuc4RzRwr2SkpG2y",
+          "id": "0H2mWrAuc4RzRwr2SkpG2y",
+          "name": "Y.O.G.A.",
+          "type": "artist",
+          "uri": "spotify:artist:0H2mWrAuc4RzRwr2SkpG2y"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5vgHNldnm1RN43ET7vWow6"
+          },
+          "href": "https://api.spotify.com/v1/artists/5vgHNldnm1RN43ET7vWow6",
+          "id": "5vgHNldnm1RN43ET7vWow6",
+          "name": "Blake O'Connor",
+          "type": "artist",
+          "uri": "spotify:artist:5vgHNldnm1RN43ET7vWow6"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6pa9tFzCCn7FQdobQ2Rdyk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732c9e4b669029c506fd5116fc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022c9e4b669029c506fd5116fc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512c9e4b669029c506fd5116fc",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Down In Boots",
+      "release_date": "2024-09-27",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6pa9tFzCCn7FQdobQ2Rdyk"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0H2mWrAuc4RzRwr2SkpG2y"
+        },
+        "href": "https://api.spotify.com/v1/artists/0H2mWrAuc4RzRwr2SkpG2y",
+        "id": "0H2mWrAuc4RzRwr2SkpG2y",
+        "name": "Y.O.G.A.",
+        "type": "artist",
+        "uri": "spotify:artist:0H2mWrAuc4RzRwr2SkpG2y"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5vgHNldnm1RN43ET7vWow6"
+        },
+        "href": "https://api.spotify.com/v1/artists/5vgHNldnm1RN43ET7vWow6",
+        "id": "5vgHNldnm1RN43ET7vWow6",
+        "name": "Blake O'Connor",
+        "type": "artist",
+        "uri": "spotify:artist:5vgHNldnm1RN43ET7vWow6"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2L2U4LFR1cYUQbckzdlnO4",
+    "is_local": false,
+    "name": "Down In Boots",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2H0ixr01bPLofyeanCtq87",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735a08d821845a72a1c9135128",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025a08d821845a72a1c9135128",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515a08d821845a72a1c9135128",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "KEITH (Pop Remix)",
+      "release_date": "2022-03-31",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2H0ixr01bPLofyeanCtq87"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4CzCd0VNYi5r3NI8MOyrrl",
+    "is_local": false,
+    "name": "KEITH - Pop Remix",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+          },
+          "href": "https://api.spotify.com/v1/artists/69HMYPrcstafeCTHI3Dcp1",
+          "id": "69HMYPrcstafeCTHI3Dcp1",
+          "name": "James Johnston",
+          "type": "artist",
+          "uri": "spotify:artist:69HMYPrcstafeCTHI3Dcp1"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5uNnUouM3cuuYYzGoHd6Kb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737852cbaf2e23003347883fa5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027852cbaf2e23003347883fa5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517852cbaf2e23003347883fa5",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "RAISED LIKE THAT",
+      "release_date": "2023-09-29",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:5uNnUouM3cuuYYzGoHd6Kb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        },
+        "href": "https://api.spotify.com/v1/artists/69HMYPrcstafeCTHI3Dcp1",
+        "id": "69HMYPrcstafeCTHI3Dcp1",
+        "name": "James Johnston",
+        "type": "artist",
+        "uri": "spotify:artist:69HMYPrcstafeCTHI3Dcp1"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6v95FnJmLnVs4mAUAIm1vx",
+    "is_local": false,
+    "name": "SAME SONGS",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7cGYemTtKlqYqR61wETgU4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273055d0344b18d8831c996c34f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02055d0344b18d8831c996c34f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851055d0344b18d8831c996c34f",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Nights Like This",
+      "release_date": "2024-03-15",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:7cGYemTtKlqYqR61wETgU4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6xKrWtuPagRLIPNcCkav3S",
+    "is_local": false,
+    "name": "Small Town Friday Nights",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4msI9bSfKohOPFic15aLR4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733dbdbd0023f1e1c08cd5a6c9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023dbdbd0023f1e1c08cd5a6c9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513dbdbd0023f1e1c08cd5a6c9",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "COUP D'ETAT",
+      "release_date": "2013-09-05",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:4msI9bSfKohOPFic15aLR4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4EwNWRBWdZ6bgvxRHlZ8OO",
+    "is_local": false,
+    "name": "CROOKED",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3w2XYofMZpf1FA5wkkcBfx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bca5394fa6d2809b261abf5c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bca5394fa6d2809b261abf5c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bca5394fa6d2809b261abf5c",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "POWER",
+      "release_date": "2024-10-31",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3w2XYofMZpf1FA5wkkcBfx"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4XsJiRJQAK8TWcZCn0Dxlh",
+    "is_local": false,
+    "name": "POWER",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3sJZ4bPGiUVmgHUC02frvL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732b0a1acbec05d32e13c4e38d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022b0a1acbec05d32e13c4e38d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512b0a1acbec05d32e13c4e38d",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Silver Linings",
+      "release_date": "2021-11-26",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:3sJZ4bPGiUVmgHUC02frvL"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5yIc9HsZE58OX5go39FivW",
+    "is_local": false,
+    "name": "Be With You",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3sJZ4bPGiUVmgHUC02frvL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732b0a1acbec05d32e13c4e38d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022b0a1acbec05d32e13c4e38d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512b0a1acbec05d32e13c4e38d",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Silver Linings",
+      "release_date": "2021-11-26",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:3sJZ4bPGiUVmgHUC02frvL"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB"
+        },
+        "href": "https://api.spotify.com/v1/artists/5zmTJA6eWcsmxevyQoK9iB",
+        "id": "5zmTJA6eWcsmxevyQoK9iB",
+        "name": "Josh Mirenda",
+        "type": "artist",
+        "uri": "spotify:artist:5zmTJA6eWcsmxevyQoK9iB"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/00oJcls7l9XuLAroemBLy8",
+    "is_local": false,
+    "name": "That Summer",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7cGYemTtKlqYqR61wETgU4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273055d0344b18d8831c996c34f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02055d0344b18d8831c996c34f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851055d0344b18d8831c996c34f",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Nights Like This",
+      "release_date": "2024-03-15",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:7cGYemTtKlqYqR61wETgU4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1hsWUhVUOVGDrrJopMHjCv",
+    "is_local": false,
+    "name": "Nights Like This",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3sJZ4bPGiUVmgHUC02frvL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732b0a1acbec05d32e13c4e38d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022b0a1acbec05d32e13c4e38d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512b0a1acbec05d32e13c4e38d",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Silver Linings",
+      "release_date": "2021-11-26",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:3sJZ4bPGiUVmgHUC02frvL"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q"
+        },
+        "href": "https://api.spotify.com/v1/artists/4lpA7MWpQpY7hKkwfLxw2Q",
+        "id": "4lpA7MWpQpY7hKkwfLxw2Q",
+        "name": "Lindsay Ell",
+        "type": "artist",
+        "uri": "spotify:artist:4lpA7MWpQpY7hKkwfLxw2Q"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4IwQb4CHIErxJugzJGXRzH",
+    "is_local": false,
+    "name": "Living Free",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24"
+          },
+          "href": "https://api.spotify.com/v1/artists/59uIMi3xrGO0kwfy7Zea24",
+          "id": "59uIMi3xrGO0kwfy7Zea24",
+          "name": "Navvy",
+          "type": "artist",
+          "uri": "spotify:artist:59uIMi3xrGO0kwfy7Zea24"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4IWrXa3u5YCQ1tVdGn7epT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b07131cfcd141c83db9b69eb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b07131cfcd141c83db9b69eb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b07131cfcd141c83db9b69eb",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Life Is Tough (But So Am I)",
+      "release_date": "2024-01-26",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4IWrXa3u5YCQ1tVdGn7epT"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24"
+        },
+        "href": "https://api.spotify.com/v1/artists/59uIMi3xrGO0kwfy7Zea24",
+        "id": "59uIMi3xrGO0kwfy7Zea24",
+        "name": "Navvy",
+        "type": "artist",
+        "uri": "spotify:artist:59uIMi3xrGO0kwfy7Zea24"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/53zYH64CbS2SxcNDFJxlC5",
+    "is_local": false,
+    "name": "Life Is Tough (But So Am I)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7cGYemTtKlqYqR61wETgU4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273055d0344b18d8831c996c34f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02055d0344b18d8831c996c34f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851055d0344b18d8831c996c34f",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Nights Like This",
+      "release_date": "2024-03-15",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:7cGYemTtKlqYqR61wETgU4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5GeMr9lBzX93BkxqqNCbg9",
+    "is_local": false,
+    "name": "When Summer Rolls Around",
+    "preview_url": null
+  }
+]

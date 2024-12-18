@@ -1,26 +1,155 @@
 [
   {
+    "languages": [
+      {
+        "name": "PHP",
+        "total_seconds": 1168.801963,
+        "digital": "0:19:28",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 28,
+        "percent": 54.75
+      },
+      {
+        "name": "Other",
+        "total_seconds": 922.769614,
+        "digital": "0:15:22",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 22,
+        "percent": 43.22
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 31.297018,
+        "digital": "0:00:31",
+        "decimal": "0.00",
+        "text": "31 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 31,
+        "percent": 1.47
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 12.115151,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.57
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 35,
+      "total_seconds": 2134.983746,
+      "digital": "0:35",
+      "decimal": "0.58",
+      "text": "35 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2134.983746,
+        "digital": "0:35:34",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2134.983746,
+        "digital": "0:35:34",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2134.983746,
+        "digital": "0:35:34",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "Illuminate",
+        "total_seconds": 185.452975,
+        "digital": "0:03:05",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 5,
+        "percent": 58.83
+      },
+      {
+        "name": "Yajra",
+        "total_seconds": 129.808981,
+        "digital": "0:02:09",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 9,
+        "percent": 41.17
+      }
+    ],
+    "machines": [
+      {
+        "name": "HS-INCAMKT001",
+        "total_seconds": 2134.983746,
+        "machine_name_id": "b1903e6c-fdb7-4c8e-b8d0-6b159691bafa",
+        "digital": "0:35:34",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "newtest",
+        "total_seconds": 2134.983746,
+        "digital": "0:35:34",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2024-12-16T17:00:00Z",
       "end": "2024-12-17T16:59:59Z",
       "date": "2024-12-17",
       "text": "Tue Dec 17th 2024",
       "timezone": "Asia/Bangkok"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]

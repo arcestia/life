@@ -1,70 +1,6 @@
 [
   {
     "artist": {
-      "url": "https://www.last.fm/music/%E5%91%A8%E6%9D%B0%E5%80%AB",
-      "name": "周杰倫",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0e00e28eb033586ca1f6f98e82b205c2.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0e00e28eb033586ca1f6f98e82b205c2.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0e00e28eb033586ca1f6f98e82b205c2.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0e00e28eb033586ca1f6f98e82b205c2.jpg"
-      }
-    ],
-    "mbid": "1e1b48ef-61ba-477e-8039-dee9c6818fbd",
-    "url": "https://www.last.fm/music/%E5%91%A8%E6%9D%B0%E5%80%AB/%E6%88%91%E5%BE%88%E5%BF%99",
-    "playcount": "4",
-    "@attr": {
-      "rank": "1"
-    },
-    "name": "我很忙"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/%E5%91%A8%E6%9D%B0%E5%80%AB",
-      "name": "周杰倫",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/aeb6f3284cc6bff7e8ad8fbceaa3ee42.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/aeb6f3284cc6bff7e8ad8fbceaa3ee42.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/aeb6f3284cc6bff7e8ad8fbceaa3ee42.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aeb6f3284cc6bff7e8ad8fbceaa3ee42.jpg"
-      }
-    ],
-    "mbid": "4444ffbf-56fd-49c9-ac76-f226945c5a16",
-    "url": "https://www.last.fm/music/%E5%91%A8%E6%9D%B0%E5%80%AB/%E9%AD%94%E6%9D%B0%E5%BA%A7",
-    "playcount": "4",
-    "@attr": {
-      "rank": "2"
-    },
-    "name": "魔杰座"
-  },
-  {
-    "artist": {
       "url": "https://www.last.fm/music/%E7%8E%8B%E8%B2%B3%E6%B5%AA",
       "name": "王貳浪",
       "mbid": ""
@@ -89,9 +25,9 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/%E7%8E%8B%E8%B2%B3%E6%B5%AA/%E6%8A%8A%E5%9B%9E%E5%BF%86%E6%8B%BC%E5%A5%BD%E7%BB%99%E4%BD%A0",
-    "playcount": "4",
+    "playcount": "3",
     "@attr": {
-      "rank": "3"
+      "rank": "1"
     },
     "name": "把回忆拼好给你"
   },
@@ -121,203 +57,11 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/Eric+Chou/You+Don%27t+Belong+to+Me",
-    "playcount": "3",
+    "playcount": "2",
     "@attr": {
-      "rank": "4"
+      "rank": "2"
     },
     "name": "You Don't Belong to Me"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/%E6%9D%8E%E5%A4%A2%E5%B0%B9",
-      "name": "李夢尹",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/71df5f822e84f149bcc606821d687d26.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/71df5f822e84f149bcc606821d687d26.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/71df5f822e84f149bcc606821d687d26.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/71df5f822e84f149bcc606821d687d26.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/%E6%9D%8E%E5%A4%A2%E5%B0%B9/%E9%9B%A8%E4%B8%8B%E7%9A%84%E7%9E%AC%E9%96%93",
-    "playcount": "3",
-    "@attr": {
-      "rank": "5"
-    },
-    "name": "雨下的瞬間"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/%E6%9E%97%E4%BF%8A%E5%82%91",
-      "name": "林俊傑",
-      "mbid": "e5d8c705-8ea4-4820-b11d-fbf580d85ce4"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3cf45cd434154cacb70831b86410c3f4.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3cf45cd434154cacb70831b86410c3f4.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3cf45cd434154cacb70831b86410c3f4.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3cf45cd434154cacb70831b86410c3f4.png"
-      }
-    ],
-    "mbid": "65924db8-f5d3-4686-b93c-ba089617a062",
-    "url": "https://www.last.fm/music/%E6%9E%97%E4%BF%8A%E5%82%91/Stories+Untold",
-    "playcount": "3",
-    "@attr": {
-      "rank": "6"
-    },
-    "name": "Stories Untold"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/Andiez",
-      "name": "Andiez",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": ""
-      },
-      {
-        "size": "medium",
-        "#text": ""
-      },
-      {
-        "size": "large",
-        "#text": ""
-      },
-      {
-        "size": "extralarge",
-        "#text": ""
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/Andiez/Su%C3%BDt+N%E1%BB%AFa+Th%C3%AC...",
-    "playcount": "2",
-    "@attr": {
-      "rank": "7"
-    },
-    "name": "Suýt Nữa Thì..."
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/Beyond",
-      "name": "Beyond",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/498ce3564e570cd9c1f066850ca7f016.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/498ce3564e570cd9c1f066850ca7f016.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/498ce3564e570cd9c1f066850ca7f016.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/498ce3564e570cd9c1f066850ca7f016.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/Beyond/My+Lovely+Legend+-+Beyond",
-    "playcount": "2",
-    "@attr": {
-      "rank": "8"
-    },
-    "name": "My Lovely Legend - Beyond"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/En",
-      "name": "En",
-      "mbid": "2086dd8c-76d6-4f0b-81b0-5af8fef1b4f7"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e8d3f63d156963e4520378210c4d8e60.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e8d3f63d156963e4520378210c4d8e60.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e8d3f63d156963e4520378210c4d8e60.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e8d3f63d156963e4520378210c4d8e60.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/En/%E7%94%9F%E5%88%86",
-    "playcount": "2",
-    "@attr": {
-      "rank": "9"
-    },
-    "name": "生分"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/Eric+Chou",
-      "name": "Eric Chou",
-      "mbid": "a7779ea3-b8f6-4e58-9c33-45cb839bc7ee"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cfcf17083202ecab126cd086cdf9250f.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cfcf17083202ecab126cd086cdf9250f.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cfcf17083202ecab126cd086cdf9250f.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cfcf17083202ecab126cd086cdf9250f.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/Eric+Chou/The+Chaos+After+You",
-    "playcount": "2",
-    "@attr": {
-      "rank": "10"
-    },
-    "name": "The Chaos After You"
   },
   {
     "artist": {
@@ -347,9 +91,265 @@
     "url": "https://www.last.fm/music/G.E.M./Heartbeat",
     "playcount": "2",
     "@attr": {
-      "rank": "11"
+      "rank": "3"
     },
     "name": "Heartbeat"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/%E5%91%A8%E6%9D%B0%E5%80%AB",
+      "name": "周杰倫",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0e00e28eb033586ca1f6f98e82b205c2.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0e00e28eb033586ca1f6f98e82b205c2.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0e00e28eb033586ca1f6f98e82b205c2.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0e00e28eb033586ca1f6f98e82b205c2.jpg"
+      }
+    ],
+    "mbid": "1e1b48ef-61ba-477e-8039-dee9c6818fbd",
+    "url": "https://www.last.fm/music/%E5%91%A8%E6%9D%B0%E5%80%AB/%E6%88%91%E5%BE%88%E5%BF%99",
+    "playcount": "2",
+    "@attr": {
+      "rank": "4"
+    },
+    "name": "我很忙"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/%E6%9D%8E%E5%A4%A2%E5%B0%B9",
+      "name": "李夢尹",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/71df5f822e84f149bcc606821d687d26.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/71df5f822e84f149bcc606821d687d26.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/71df5f822e84f149bcc606821d687d26.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/71df5f822e84f149bcc606821d687d26.jpg"
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/%E6%9D%8E%E5%A4%A2%E5%B0%B9/%E9%9B%A8%E4%B8%8B%E7%9A%84%E7%9E%AC%E9%96%93",
+    "playcount": "2",
+    "@attr": {
+      "rank": "5"
+    },
+    "name": "雨下的瞬間"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/%E6%9D%8E%E8%81%96%E5%82%91",
+      "name": "李聖傑",
+      "mbid": "6dc6104c-4779-4d84-8148-894a604cec96"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": ""
+      },
+      {
+        "size": "medium",
+        "#text": ""
+      },
+      {
+        "size": "large",
+        "#text": ""
+      },
+      {
+        "size": "extralarge",
+        "#text": ""
+      }
+    ],
+    "mbid": "a2b7f673-b57d-45fb-b1e4-8f47b2f593fe",
+    "url": "https://www.last.fm/music/%E6%9D%8E%E8%81%96%E5%82%91/Jue+Dui+Chi+Xin+.+Shou+Fang+Kai",
+    "playcount": "2",
+    "@attr": {
+      "rank": "6"
+    },
+    "name": "Jue Dui Chi Xin . Shou Fang Kai"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/%E6%9E%97%E4%BF%8A%E5%82%91",
+      "name": "林俊傑",
+      "mbid": "e5d8c705-8ea4-4820-b11d-fbf580d85ce4"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3cf45cd434154cacb70831b86410c3f4.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3cf45cd434154cacb70831b86410c3f4.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3cf45cd434154cacb70831b86410c3f4.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3cf45cd434154cacb70831b86410c3f4.png"
+      }
+    ],
+    "mbid": "65924db8-f5d3-4686-b93c-ba089617a062",
+    "url": "https://www.last.fm/music/%E6%9E%97%E4%BF%8A%E5%82%91/Stories+Untold",
+    "playcount": "2",
+    "@attr": {
+      "rank": "7"
+    },
+    "name": "Stories Untold"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/%E8%8B%8F%E6%98%9F%E5%A9%95",
+      "name": "苏星婕",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": ""
+      },
+      {
+        "size": "medium",
+        "#text": ""
+      },
+      {
+        "size": "large",
+        "#text": ""
+      },
+      {
+        "size": "extralarge",
+        "#text": ""
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/%E8%8B%8F%E6%98%9F%E5%A9%95/%E9%A3%8E%E5%90%B9%E8%BF%87%E5%85%AB%E5%8D%83%E9%87%8C",
+    "playcount": "2",
+    "@attr": {
+      "rank": "8"
+    },
+    "name": "风吹过八千里"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/Beyond",
+      "name": "Beyond",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/498ce3564e570cd9c1f066850ca7f016.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/498ce3564e570cd9c1f066850ca7f016.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/498ce3564e570cd9c1f066850ca7f016.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/498ce3564e570cd9c1f066850ca7f016.jpg"
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/Beyond/My+Lovely+Legend+-+Beyond",
+    "playcount": "1",
+    "@attr": {
+      "rank": "9"
+    },
+    "name": "My Lovely Legend - Beyond"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/En",
+      "name": "En",
+      "mbid": "2086dd8c-76d6-4f0b-81b0-5af8fef1b4f7"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e8d3f63d156963e4520378210c4d8e60.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e8d3f63d156963e4520378210c4d8e60.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e8d3f63d156963e4520378210c4d8e60.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e8d3f63d156963e4520378210c4d8e60.jpg"
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/En/%E7%94%9F%E5%88%86",
+    "playcount": "1",
+    "@attr": {
+      "rank": "10"
+    },
+    "name": "生分"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/Eric+Chou",
+      "name": "Eric Chou",
+      "mbid": "a7779ea3-b8f6-4e58-9c33-45cb839bc7ee"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cfcf17083202ecab126cd086cdf9250f.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cfcf17083202ecab126cd086cdf9250f.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cfcf17083202ecab126cd086cdf9250f.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cfcf17083202ecab126cd086cdf9250f.jpg"
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/Eric+Chou/The+Chaos+After+You",
+    "playcount": "1",
+    "@attr": {
+      "rank": "11"
+    },
+    "name": "The Chaos After You"
   },
   {
     "artist": {
@@ -377,7 +377,7 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/G.E.M./T.I.M.E.",
-    "playcount": "2",
+    "playcount": "1",
     "@attr": {
       "rank": "12"
     },
@@ -409,11 +409,107 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/RuoFan+Chang/SONY+LUVS+ME",
-    "playcount": "2",
+    "playcount": "1",
     "@attr": {
       "rank": "13"
     },
     "name": "SONY LUVS ME"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/Wanting",
+      "name": "Wanting",
+      "mbid": "03616770-d402-4b1f-8c40-d33948430370"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e97593e82e6f435fc3286e98f27a731c.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e97593e82e6f435fc3286e98f27a731c.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e97593e82e6f435fc3286e98f27a731c.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e97593e82e6f435fc3286e98f27a731c.jpg"
+      }
+    ],
+    "mbid": "130fae7a-1437-4e28-801f-7f83a68d1131",
+    "url": "https://www.last.fm/music/Wanting/Everything+in+the+World",
+    "playcount": "1",
+    "@attr": {
+      "rank": "14"
+    },
+    "name": "Everything in the World"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/%E4%B9%B0%E8%BE%A3%E6%A4%92%E4%B9%9F%E7%94%A8%E5%88%B8",
+      "name": "买辣椒也用券",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": ""
+      },
+      {
+        "size": "medium",
+        "#text": ""
+      },
+      {
+        "size": "large",
+        "#text": ""
+      },
+      {
+        "size": "extralarge",
+        "#text": ""
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/%E4%B9%B0%E8%BE%A3%E6%A4%92%E4%B9%9F%E7%94%A8%E5%88%B8/%E8%B5%B7%E9%A3%8E%E4%BA%86%EF%BC%88The+Wind%EF%BC%89",
+    "playcount": "1",
+    "@attr": {
+      "rank": "15"
+    },
+    "name": "起风了（The Wind）"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/%E4%BA%8E%E5%86%AC%E7%84%B6",
+      "name": "于冬然",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/590b724bc582b3917d0625df4810ac31.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/590b724bc582b3917d0625df4810ac31.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/590b724bc582b3917d0625df4810ac31.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/590b724bc582b3917d0625df4810ac31.jpg"
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/%E4%BA%8E%E5%86%AC%E7%84%B6/%E7%A9%BA%E7%99%BD%E6%A0%BC",
+    "playcount": "1",
+    "@attr": {
+      "rank": "16"
+    },
+    "name": "空白格"
   },
   {
     "artist": {
@@ -441,11 +537,43 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/%E4%BA%8E%E5%86%AC%E7%84%B6/%E8%83%BD%E4%B8%8D%E8%83%BD%E6%94%BE%E8%BF%87%E6%88%91",
-    "playcount": "2",
+    "playcount": "1",
     "@attr": {
-      "rank": "14"
+      "rank": "17"
     },
     "name": "能不能放过我"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/%E4%BB%BB%E7%84%B6",
+      "name": "任然",
+      "mbid": "755c0e6d-ffcd-4d6c-ba46-96d3a260ec3e"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": ""
+      },
+      {
+        "size": "medium",
+        "#text": ""
+      },
+      {
+        "size": "large",
+        "#text": ""
+      },
+      {
+        "size": "extralarge",
+        "#text": ""
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/%E4%BB%BB%E7%84%B6/%E7%88%B1%E8%BF%87%E7%9A%84%E4%BA%BA",
+    "playcount": "1",
+    "@attr": {
+      "rank": "18"
+    },
+    "name": "爱过的人"
   },
   {
     "artist": {
@@ -473,9 +601,9 @@
     ],
     "mbid": "d6d895bc-8075-4de2-ad6b-12619e488e02",
     "url": "https://www.last.fm/music/%E5%91%A8%E6%9D%B0%E5%80%AB/Initial+J",
-    "playcount": "2",
+    "playcount": "1",
     "@attr": {
-      "rank": "15"
+      "rank": "19"
     },
     "name": "Initial J"
   },
@@ -505,138 +633,10 @@
     ],
     "mbid": "b98ea2d6-d9bb-4df6-8a12-d3d3e2ef8eab",
     "url": "https://www.last.fm/music/%E5%91%A8%E6%9D%B0%E5%80%AB/On+The+Run",
-    "playcount": "2",
-    "@attr": {
-      "rank": "16"
-    },
-    "name": "On The Run"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/%E5%91%A8%E6%9D%B0%E5%80%AB",
-      "name": "周杰倫",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1362a12238451242f13cdb81eb957bbe.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1362a12238451242f13cdb81eb957bbe.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1362a12238451242f13cdb81eb957bbe.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1362a12238451242f13cdb81eb957bbe.jpg"
-      }
-    ],
-    "mbid": "a2d2ad17-8af7-4900-8e42-8a5282897481",
-    "url": "https://www.last.fm/music/%E5%91%A8%E6%9D%B0%E5%80%AB/%E4%BE%9D%E7%84%B6%E8%8C%83%E7%89%B9%E8%A5%BF",
-    "playcount": "2",
-    "@attr": {
-      "rank": "17"
-    },
-    "name": "依然范特西"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/%E5%91%A8%E6%9D%B0%E5%80%AB",
-      "name": "周杰倫",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/179555ca1c19bc316baa3f5b59ef6fcf.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/179555ca1c19bc316baa3f5b59ef6fcf.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/179555ca1c19bc316baa3f5b59ef6fcf.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/179555ca1c19bc316baa3f5b59ef6fcf.jpg"
-      }
-    ],
-    "mbid": "78221dd9-6857-4cb7-9fe5-6c50b59e4d1a",
-    "url": "https://www.last.fm/music/%E5%91%A8%E6%9D%B0%E5%80%AB/%E5%93%8E%E5%91%A6+%E4%B8%8D%E9%8C%AF%E5%93%A6",
-    "playcount": "2",
-    "@attr": {
-      "rank": "18"
-    },
-    "name": "哎呦 不錯哦"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/%E6%89%BF%E6%A1%93",
-      "name": "承桓",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5c20b07aa28ab3fd6150fa6b7de74b6a.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5c20b07aa28ab3fd6150fa6b7de74b6a.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5c20b07aa28ab3fd6150fa6b7de74b6a.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5c20b07aa28ab3fd6150fa6b7de74b6a.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/%E6%89%BF%E6%A1%93/%E6%88%91%E4%BC%9A%E7%AD%89",
-    "playcount": "2",
-    "@attr": {
-      "rank": "19"
-    },
-    "name": "我会等"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/%E6%9D%8E%E8%81%96%E5%82%91",
-      "name": "李聖傑",
-      "mbid": "6dc6104c-4779-4d84-8148-894a604cec96"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": ""
-      },
-      {
-        "size": "medium",
-        "#text": ""
-      },
-      {
-        "size": "large",
-        "#text": ""
-      },
-      {
-        "size": "extralarge",
-        "#text": ""
-      }
-    ],
-    "mbid": "a2b7f673-b57d-45fb-b1e4-8f47b2f593fe",
-    "url": "https://www.last.fm/music/%E6%9D%8E%E8%81%96%E5%82%91/Jue+Dui+Chi+Xin+.+Shou+Fang+Kai",
-    "playcount": "2",
+    "playcount": "1",
     "@attr": {
       "rank": "20"
     },
-    "name": "Jue Dui Chi Xin . Shou Fang Kai"
+    "name": "On The Run"
   }
 ]

@@ -1,0 +1,126 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+          },
+          "href": "https://api.spotify.com/v1/artists/69HMYPrcstafeCTHI3Dcp1",
+          "id": "69HMYPrcstafeCTHI3Dcp1",
+          "name": "James Johnston",
+          "type": "artist",
+          "uri": "spotify:artist:69HMYPrcstafeCTHI3Dcp1"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5uNnUouM3cuuYYzGoHd6Kb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737852cbaf2e23003347883fa5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027852cbaf2e23003347883fa5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517852cbaf2e23003347883fa5",
+          "width": 64
+        }
+      ],
+      "name": "RAISED LIKE THAT",
+      "release_date": "2023-09-29",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:5uNnUouM3cuuYYzGoHd6Kb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        },
+        "href": "https://api.spotify.com/v1/artists/69HMYPrcstafeCTHI3Dcp1",
+        "id": "69HMYPrcstafeCTHI3Dcp1",
+        "name": "James Johnston",
+        "type": "artist",
+        "uri": "spotify:artist:69HMYPrcstafeCTHI3Dcp1"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6v95FnJmLnVs4mAUAIm1vx",
+    "is_local": false,
+    "name": "SAME SONGS",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7dWCUs7VGjsopOEB6VoQYv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c853c4b9e0523f82f17c5e20",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c853c4b9e0523f82f17c5e20",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c853c4b9e0523f82f17c5e20",
+          "width": 64
+        }
+      ],
+      "name": "Keith",
+      "release_date": "2019-02-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7dWCUs7VGjsopOEB6VoQYv"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7pcekwb2T8L4MIc29f9GXB",
+    "is_local": false,
+    "name": "Keith",
+    "preview_url": null
+  }
+]

@@ -1,5 +1,34 @@
 [
   {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 36,
+      "total_seconds": 2160.62843,
+      "digital": "0:36",
+      "decimal": "0.60",
+      "text": "36 mins"
+    },
+    "range": {
+      "start": "2024-12-16T17:00:00Z",
+      "end": "2024-12-17T16:59:59Z",
+      "date": "2024-12-17",
+      "text": "Tue Dec 17th 2024",
+      "timezone": "Asia/Bangkok"
+    },
+    "projects": [
+      {
+        "name": "newtest",
+        "total_seconds": 2160.62843,
+        "color": null,
+        "digital": "0:36:00",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 0,
+        "percent": 100
+      }
+    ],
     "languages": [
       {
         "name": "PHP",
@@ -10,18 +39,18 @@
         "hours": 0,
         "minutes": 19,
         "seconds": 28,
-        "percent": 54.75
+        "percent": 54.1
       },
       {
         "name": "Other",
-        "total_seconds": 922.769614,
-        "digital": "0:15:22",
+        "total_seconds": 948.414298,
+        "digital": "0:15:48",
         "decimal": "0.25",
         "text": "15 mins",
         "hours": 0,
         "minutes": 15,
-        "seconds": 22,
-        "percent": 43.22
+        "seconds": 48,
+        "percent": 43.9
       },
       {
         "name": "JavaScript",
@@ -32,7 +61,7 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 31,
-        "percent": 1.47
+        "percent": 1.45
       },
       {
         "name": "JSON",
@@ -43,54 +72,7 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 12,
-        "percent": 0.57
-      }
-    ],
-    "grand_total": {
-      "hours": 0,
-      "minutes": 35,
-      "total_seconds": 2134.983746,
-      "digital": "0:35",
-      "decimal": "0.58",
-      "text": "35 mins"
-    },
-    "editors": [
-      {
-        "name": "VS Code",
-        "total_seconds": 2134.983746,
-        "digital": "0:35:34",
-        "decimal": "0.58",
-        "text": "35 mins",
-        "hours": 0,
-        "minutes": 35,
-        "seconds": 34,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 2134.983746,
-        "digital": "0:35:34",
-        "decimal": "0.58",
-        "text": "35 mins",
-        "hours": 0,
-        "minutes": 35,
-        "seconds": 34,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 2134.983746,
-        "digital": "0:35:34",
-        "decimal": "0.58",
-        "text": "35 mins",
-        "hours": 0,
-        "minutes": 35,
-        "seconds": 34,
-        "percent": 100
+        "percent": 0.56
       }
     ],
     "dependencies": [
@@ -120,36 +102,55 @@
     "machines": [
       {
         "name": "HS-INCAMKT001",
-        "total_seconds": 2134.983746,
+        "total_seconds": 2160.62843,
         "machine_name_id": "b1903e6c-fdb7-4c8e-b8d0-6b159691bafa",
-        "digital": "0:35:34",
-        "decimal": "0.58",
-        "text": "35 mins",
+        "digital": "0:36:00",
+        "decimal": "0.60",
+        "text": "36 mins",
         "hours": 0,
-        "minutes": 35,
-        "seconds": 34,
+        "minutes": 36,
+        "seconds": 0,
         "percent": 100
       }
     ],
-    "projects": [
+    "editors": [
       {
-        "name": "newtest",
-        "total_seconds": 2134.983746,
-        "digital": "0:35:34",
-        "decimal": "0.58",
-        "text": "35 mins",
+        "name": "VS Code",
+        "total_seconds": 2160.62843,
+        "digital": "0:36:00",
+        "decimal": "0.60",
+        "text": "36 mins",
         "hours": 0,
-        "minutes": 35,
-        "seconds": 34,
+        "minutes": 36,
+        "seconds": 0,
         "percent": 100
       }
     ],
-    "range": {
-      "start": "2024-12-16T17:00:00Z",
-      "end": "2024-12-17T16:59:59Z",
-      "date": "2024-12-17",
-      "text": "Tue Dec 17th 2024",
-      "timezone": "Asia/Bangkok"
-    }
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2160.62843,
+        "digital": "0:36:00",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 0,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2160.62843,
+        "digital": "0:36:00",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 0,
+        "percent": 100
+      }
+    ]
   }
 ]

@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 36,
-      "total_seconds": 2160.62843,
-      "digital": "0:36",
-      "decimal": "0.60",
-      "text": "36 mins"
-    },
-    "range": {
-      "start": "2024-12-16T17:00:00Z",
-      "end": "2024-12-17T16:59:59Z",
-      "date": "2024-12-17",
-      "text": "Tue Dec 17th 2024",
-      "timezone": "Asia/Bangkok"
-    },
-    "projects": [
-      {
-        "name": "newtest",
-        "total_seconds": 2160.62843,
-        "color": null,
-        "digital": "0:36:00",
-        "decimal": "0.60",
-        "text": "36 mins",
-        "hours": 0,
-        "minutes": 36,
-        "seconds": 0,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "PHP",
@@ -75,44 +46,14 @@
         "percent": 0.56
       }
     ],
-    "dependencies": [
-      {
-        "name": "Illuminate",
-        "total_seconds": 185.452975,
-        "digital": "0:03:05",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 5,
-        "percent": 58.83
-      },
-      {
-        "name": "Yajra",
-        "total_seconds": 129.808981,
-        "digital": "0:02:09",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 9,
-        "percent": 41.17
-      }
-    ],
-    "machines": [
-      {
-        "name": "HS-INCAMKT001",
-        "total_seconds": 2160.62843,
-        "machine_name_id": "b1903e6c-fdb7-4c8e-b8d0-6b159691bafa",
-        "digital": "0:36:00",
-        "decimal": "0.60",
-        "text": "36 mins",
-        "hours": 0,
-        "minutes": 36,
-        "seconds": 0,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 36,
+      "total_seconds": 2160.62843,
+      "digital": "0:36",
+      "decimal": "0.60",
+      "text": "36 mins"
+    },
     "editors": [
       {
         "name": "VS Code",
@@ -151,6 +92,65 @@
         "seconds": 0,
         "percent": 100
       }
-    ]
+    ],
+    "dependencies": [
+      {
+        "name": "Illuminate",
+        "total_seconds": 185.452975,
+        "digital": "0:03:05",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 5,
+        "percent": 58.83
+      },
+      {
+        "name": "Yajra",
+        "total_seconds": 129.808981,
+        "digital": "0:02:09",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 9,
+        "percent": 41.17
+      }
+    ],
+    "machines": [
+      {
+        "name": "HS-INCAMKT001",
+        "total_seconds": 2160.62843,
+        "machine_name_id": "b1903e6c-fdb7-4c8e-b8d0-6b159691bafa",
+        "digital": "0:36:00",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 0,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "newtest",
+        "total_seconds": 2160.62843,
+        "color": null,
+        "digital": "0:36:00",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 0,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-12-16T17:00:00Z",
+      "end": "2024-12-17T16:59:59Z",
+      "date": "2024-12-17",
+      "text": "Tue Dec 17th 2024",
+      "timezone": "Asia/Bangkok"
+    }
   }
 ]

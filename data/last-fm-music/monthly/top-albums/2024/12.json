@@ -1,102 +1,6 @@
 [
   {
     "artist": {
-      "url": "https://www.last.fm/music/Beyond",
-      "name": "Beyond",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/498ce3564e570cd9c1f066850ca7f016.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/498ce3564e570cd9c1f066850ca7f016.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/498ce3564e570cd9c1f066850ca7f016.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/498ce3564e570cd9c1f066850ca7f016.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/Beyond/My+Lovely+Legend+-+Beyond",
-    "playcount": "1",
-    "@attr": {
-      "rank": "1"
-    },
-    "name": "My Lovely Legend - Beyond"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/En",
-      "name": "En",
-      "mbid": "2086dd8c-76d6-4f0b-81b0-5af8fef1b4f7"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e8d3f63d156963e4520378210c4d8e60.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e8d3f63d156963e4520378210c4d8e60.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e8d3f63d156963e4520378210c4d8e60.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e8d3f63d156963e4520378210c4d8e60.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/En/%E7%94%9F%E5%88%86",
-    "playcount": "1",
-    "@attr": {
-      "rank": "2"
-    },
-    "name": "生分"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/Eric+Chou",
-      "name": "Eric Chou",
-      "mbid": "a7779ea3-b8f6-4e58-9c33-45cb839bc7ee"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cfcf17083202ecab126cd086cdf9250f.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cfcf17083202ecab126cd086cdf9250f.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cfcf17083202ecab126cd086cdf9250f.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cfcf17083202ecab126cd086cdf9250f.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/Eric+Chou/The+Chaos+After+You",
-    "playcount": "1",
-    "@attr": {
-      "rank": "3"
-    },
-    "name": "The Chaos After You"
-  },
-  {
-    "artist": {
       "url": "https://www.last.fm/music/%E5%91%A8%E6%9D%B0%E5%80%AB",
       "name": "周杰倫",
       "mbid": ""
@@ -123,7 +27,7 @@
     "url": "https://www.last.fm/music/%E5%91%A8%E6%9D%B0%E5%80%AB/Initial+J",
     "playcount": "1",
     "@attr": {
-      "rank": "4"
+      "rank": "1"
     },
     "name": "Initial J"
   },
@@ -155,41 +59,9 @@
     "url": "https://www.last.fm/music/%E6%9D%8E%E5%A4%A2%E5%B0%B9/%E9%9B%A8%E4%B8%8B%E7%9A%84%E7%9E%AC%E9%96%93",
     "playcount": "1",
     "@attr": {
-      "rank": "5"
+      "rank": "2"
     },
     "name": "雨下的瞬間"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/%E6%9D%8E%E8%81%96%E5%82%91",
-      "name": "李聖傑",
-      "mbid": "6dc6104c-4779-4d84-8148-894a604cec96"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": ""
-      },
-      {
-        "size": "medium",
-        "#text": ""
-      },
-      {
-        "size": "large",
-        "#text": ""
-      },
-      {
-        "size": "extralarge",
-        "#text": ""
-      }
-    ],
-    "mbid": "a2b7f673-b57d-45fb-b1e4-8f47b2f593fe",
-    "url": "https://www.last.fm/music/%E6%9D%8E%E8%81%96%E5%82%91/Jue+Dui+Chi+Xin+.+Shou+Fang+Kai",
-    "playcount": "1",
-    "@attr": {
-      "rank": "6"
-    },
-    "name": "Jue Dui Chi Xin . Shou Fang Kai"
   },
   {
     "artist": {
@@ -219,7 +91,7 @@
     "url": "https://www.last.fm/music/%E6%9E%97%E4%BF%8A%E5%82%91/Stories+Untold",
     "playcount": "1",
     "@attr": {
-      "rank": "7"
+      "rank": "3"
     },
     "name": "Stories Untold"
   },
@@ -251,7 +123,7 @@
     "url": "https://www.last.fm/music/%E7%8E%8B%E8%B2%B3%E6%B5%AA/%E6%8A%8A%E5%9B%9E%E5%BF%86%E6%8B%BC%E5%A5%BD%E7%BB%99%E4%BD%A0",
     "playcount": "1",
     "@attr": {
-      "rank": "8"
+      "rank": "4"
     },
     "name": "把回忆拼好给你"
   }

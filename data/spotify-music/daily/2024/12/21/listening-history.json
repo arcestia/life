@@ -1,0 +1,59 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+          "id": "3yfUy4dhvq5DwrSMsEE6od",
+          "name": "Palmy",
+          "type": "artist",
+          "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7e9xxHtERlHASAVBSzEyoS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ed39f3d0a430e57ab6ee95be",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ed39f3d0a430e57ab6ee95be",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ed39f3d0a430e57ab6ee95be",
+          "width": 64
+        }
+      ],
+      "name": "ซ่อนกลิ่น - Single",
+      "release_date": "2018-10-20",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7e9xxHtERlHASAVBSzEyoS"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+        "id": "3yfUy4dhvq5DwrSMsEE6od",
+        "name": "Palmy",
+        "type": "artist",
+        "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1kVPMuzq81K8pufq7zKSuM",
+    "is_local": false,
+    "name": "ซ่อนกลิ่น",
+    "preview_url": null
+  }
+]

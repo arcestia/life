@@ -1,5 +1,94 @@
 [
   {
+    "grand_total": {
+      "hours": 1,
+      "minutes": 14,
+      "total_seconds": 4477.415007,
+      "digital": "1:14",
+      "decimal": "1.23",
+      "text": "1 hr 14 mins"
+    },
+    "range": {
+      "start": "2024-12-18T17:00:00Z",
+      "end": "2024-12-19T16:59:59Z",
+      "date": "2024-12-19",
+      "text": "Thu Dec 19th 2024",
+      "timezone": "Asia/Bangkok"
+    },
+    "projects": [
+      {
+        "name": "testing",
+        "total_seconds": 1987.681962,
+        "color": null,
+        "digital": "0:33:07",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 7,
+        "percent": 44.39
+      },
+      {
+        "name": "namecheap-domain-manager",
+        "total_seconds": 1777.515631,
+        "color": null,
+        "digital": "0:29:37",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 37,
+        "percent": 39.7
+      },
+      {
+        "name": "namecheap",
+        "total_seconds": 414.371766,
+        "color": null,
+        "digital": "0:06:54",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 54,
+        "percent": 9.25
+      },
+      {
+        "name": "horde-worker-reGen",
+        "total_seconds": 157.427211,
+        "color": null,
+        "digital": "0:02:37",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 37,
+        "percent": 3.52
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 124.265284,
+        "color": null,
+        "digital": "0:02:04",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 4,
+        "percent": 2.78
+      },
+      {
+        "name": "Dashboard(Admin)",
+        "total_seconds": 16.153153,
+        "color": null,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.36
+      }
+    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -10,7 +99,7 @@
         "hours": 0,
         "minutes": 23,
         "seconds": 15,
-        "percent": 31.19
+        "percent": 31.17
       },
       {
         "name": "JSON",
@@ -21,18 +110,18 @@
         "hours": 0,
         "minutes": 23,
         "seconds": 14,
-        "percent": 31.17
+        "percent": 31.15
       },
       {
         "name": "Other",
-        "total_seconds": 1154.522333,
-        "digital": "0:19:14",
+        "total_seconds": 1157.115301,
+        "digital": "0:19:17",
         "decimal": "0.32",
         "text": "19 mins",
         "hours": 0,
         "minutes": 19,
-        "seconds": 14,
-        "percent": 25.8
+        "seconds": 17,
+        "percent": 25.84
       },
       {
         "name": "YAML",
@@ -65,7 +154,7 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 32,
-        "percent": 2.07
+        "percent": 2.06
       },
       {
         "name": "TSConfig",
@@ -121,75 +210,6 @@
         "minutes": 0,
         "seconds": 0,
         "percent": 0.02
-      }
-    ],
-    "grand_total": {
-      "hours": 1,
-      "minutes": 14,
-      "total_seconds": 4474.822039,
-      "digital": "1:14",
-      "decimal": "1.23",
-      "text": "1 hr 14 mins"
-    },
-    "editors": [
-      {
-        "name": "VS Code",
-        "total_seconds": 3815.131039,
-        "digital": "1:03:35",
-        "decimal": "1.05",
-        "text": "1 hr 3 mins",
-        "hours": 1,
-        "minutes": 3,
-        "seconds": 35,
-        "percent": 85.26
-      },
-      {
-        "name": "Chrome",
-        "total_seconds": 659.691,
-        "digital": "0:10:59",
-        "decimal": "0.17",
-        "text": "10 mins",
-        "hours": 0,
-        "minutes": 10,
-        "seconds": 59,
-        "percent": 14.74
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 4474.822039,
-        "digital": "1:14:34",
-        "decimal": "1.23",
-        "text": "1 hr 14 mins",
-        "hours": 1,
-        "minutes": 14,
-        "seconds": 34,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 3815.131039,
-        "digital": "1:03:35",
-        "decimal": "1.05",
-        "text": "1 hr 3 mins",
-        "hours": 1,
-        "minutes": 3,
-        "seconds": 35,
-        "percent": 85.26
-      },
-      {
-        "name": "Browsing",
-        "total_seconds": 659.691,
-        "digital": "0:10:59",
-        "decimal": "0.17",
-        "text": "10 mins",
-        "hours": 0,
-        "minutes": 10,
-        "seconds": 59,
-        "percent": 14.74
       }
     ],
     "dependencies": [
@@ -293,6 +313,17 @@
         "percent": 1.5
       },
       {
+        "name": "@emotion/styled",
+        "total_seconds": 78.396436,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 1.5
+      },
+      {
         "name": "cra-template-typescript",
         "total_seconds": 78.396436,
         "digital": "0:01:18",
@@ -315,40 +346,29 @@
         "percent": 1.5
       },
       {
+        "name": "@babel/plugin-proposal-private-property-in-object",
+        "total_seconds": 78.396436,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 1.5
+      },
+      {
+        "name": "@emotion/react",
+        "total_seconds": 78.396436,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 1.5
+      },
+      {
         "name": "@types/react-dom",
-        "total_seconds": 78.396436,
-        "digital": "0:01:18",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 18,
-        "percent": 1.5
-      },
-      {
-        "name": "@mui/material",
-        "total_seconds": 78.396436,
-        "digital": "0:01:18",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 18,
-        "percent": 1.5
-      },
-      {
-        "name": "@testing-library/jest-dom",
-        "total_seconds": 78.396436,
-        "digital": "0:01:18",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 18,
-        "percent": 1.5
-      },
-      {
-        "name": "@testing-library/react",
         "total_seconds": 78.396436,
         "digital": "0:01:18",
         "decimal": "0.02",
@@ -370,7 +390,29 @@
         "percent": 1.5
       },
       {
+        "name": "@testing-library/jest-dom",
+        "total_seconds": 78.396436,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 1.5
+      },
+      {
         "name": "@types/react",
+        "total_seconds": 78.396436,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 1.5
+      },
+      {
+        "name": "@mui/material",
         "total_seconds": 78.396436,
         "digital": "0:01:18",
         "decimal": "0.02",
@@ -403,17 +445,6 @@
         "percent": 1.5
       },
       {
-        "name": "@babel/plugin-proposal-private-property-in-object",
-        "total_seconds": 78.396436,
-        "digital": "0:01:18",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 18,
-        "percent": 1.5
-      },
-      {
         "name": "npm",
         "total_seconds": 78.396436,
         "digital": "0:01:18",
@@ -425,18 +456,7 @@
         "percent": 1.5
       },
       {
-        "name": "@emotion/react",
-        "total_seconds": 78.396436,
-        "digital": "0:01:18",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 18,
-        "percent": 1.5
-      },
-      {
-        "name": "@emotion/styled",
+        "name": "@testing-library/react",
         "total_seconds": 78.396436,
         "digital": "0:01:18",
         "decimal": "0.02",
@@ -491,6 +511,17 @@
         "percent": 1.32
       },
       {
+        "name": "reportWebVitals",
+        "total_seconds": 8.883652,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.17
+      },
+      {
         "name": "client",
         "total_seconds": 8.883652,
         "digital": "0:00:08",
@@ -513,17 +544,6 @@
         "percent": 0.17
       },
       {
-        "name": "reportWebVitals",
-        "total_seconds": 8.883652,
-        "digital": "0:00:08",
-        "decimal": "0.00",
-        "text": "8 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 8,
-        "percent": 0.17
-      },
-      {
         "name": "Illuminate",
         "total_seconds": 3.582982,
         "digital": "0:00:03",
@@ -533,6 +553,17 @@
         "minutes": 0,
         "seconds": 3,
         "percent": 0.07
+      },
+      {
+        "name": "static",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
       },
       {
         "name": "elysia",
@@ -546,7 +577,7 @@
         "percent": 0
       },
       {
-        "name": "static",
+        "name": "html",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -577,31 +608,20 @@
         "minutes": 0,
         "seconds": 0,
         "percent": 0
-      },
-      {
-        "name": "html",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
       }
     ],
     "machines": [
       {
         "name": "HS-INCAMKT001",
-        "total_seconds": 3815.131039,
+        "total_seconds": 3817.724007,
         "machine_name_id": "b1903e6c-fdb7-4c8e-b8d0-6b159691bafa",
-        "digital": "1:03:35",
+        "digital": "1:03:37",
         "decimal": "1.05",
         "text": "1 hr 3 mins",
         "hours": 1,
         "minutes": 3,
-        "seconds": 35,
-        "percent": 85.26
+        "seconds": 37,
+        "percent": 85.27
       },
       {
         "name": "Unknown Hostname",
@@ -613,83 +633,69 @@
         "hours": 0,
         "minutes": 10,
         "seconds": 59,
-        "percent": 14.74
+        "percent": 14.73
       }
     ],
-    "projects": [
+    "editors": [
       {
-        "name": "testing",
-        "total_seconds": 1987.681962,
-        "digital": "0:33:07",
-        "decimal": "0.55",
-        "text": "33 mins",
-        "hours": 0,
-        "minutes": 33,
-        "seconds": 7,
-        "percent": 44.42
-      },
-      {
-        "name": "namecheap-domain-manager",
-        "total_seconds": 1777.515631,
-        "digital": "0:29:37",
-        "decimal": "0.48",
-        "text": "29 mins",
-        "hours": 0,
-        "minutes": 29,
+        "name": "VS Code",
+        "total_seconds": 3817.724007,
+        "digital": "1:03:37",
+        "decimal": "1.05",
+        "text": "1 hr 3 mins",
+        "hours": 1,
+        "minutes": 3,
         "seconds": 37,
-        "percent": 39.72
+        "percent": 85.27
       },
       {
-        "name": "namecheap",
-        "total_seconds": 414.371766,
-        "digital": "0:06:54",
-        "decimal": "0.10",
-        "text": "6 mins",
+        "name": "Chrome",
+        "total_seconds": 659.691,
+        "digital": "0:10:59",
+        "decimal": "0.17",
+        "text": "10 mins",
         "hours": 0,
-        "minutes": 6,
-        "seconds": 54,
-        "percent": 9.26
-      },
-      {
-        "name": "horde-worker-reGen",
-        "total_seconds": 157.427211,
-        "digital": "0:02:37",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 37,
-        "percent": 3.52
-      },
-      {
-        "name": "Unknown Project",
-        "total_seconds": 121.672316,
-        "digital": "0:02:01",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 1,
-        "percent": 2.72
-      },
-      {
-        "name": "Dashboard(Admin)",
-        "total_seconds": 16.153153,
-        "digital": "0:00:16",
-        "decimal": "0.00",
-        "text": "16 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 16,
-        "percent": 0.36
+        "minutes": 10,
+        "seconds": 59,
+        "percent": 14.73
       }
     ],
-    "range": {
-      "start": "2024-12-18T17:00:00Z",
-      "end": "2024-12-19T16:59:59Z",
-      "date": "2024-12-19",
-      "text": "Thu Dec 19th 2024",
-      "timezone": "Asia/Bangkok"
-    }
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4477.415007,
+        "digital": "1:14:37",
+        "decimal": "1.23",
+        "text": "1 hr 14 mins",
+        "hours": 1,
+        "minutes": 14,
+        "seconds": 37,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3817.724007,
+        "digital": "1:03:37",
+        "decimal": "1.05",
+        "text": "1 hr 3 mins",
+        "hours": 1,
+        "minutes": 3,
+        "seconds": 37,
+        "percent": 85.27
+      },
+      {
+        "name": "Browsing",
+        "total_seconds": 659.691,
+        "digital": "0:10:59",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 59,
+        "percent": 14.73
+      }
+    ]
   }
 ]

@@ -1,0 +1,1142 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1FeE27dT4UOntdjYV9uUgt"
+          },
+          "href": "https://api.spotify.com/v1/artists/1FeE27dT4UOntdjYV9uUgt",
+          "id": "1FeE27dT4UOntdjYV9uUgt",
+          "name": "Trevor Martin",
+          "type": "artist",
+          "uri": "spotify:artist:1FeE27dT4UOntdjYV9uUgt"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4JvT1ernciRd7rXrD48tqM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a0cc2ce13624b80aad5e0da3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a0cc2ce13624b80aad5e0da3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a0cc2ce13624b80aad5e0da3",
+          "width": 64
+        }
+      ],
+      "name": "Girl Like You",
+      "release_date": "2023-10-06",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4JvT1ernciRd7rXrD48tqM"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1FeE27dT4UOntdjYV9uUgt"
+        },
+        "href": "https://api.spotify.com/v1/artists/1FeE27dT4UOntdjYV9uUgt",
+        "id": "1FeE27dT4UOntdjYV9uUgt",
+        "name": "Trevor Martin",
+        "type": "artist",
+        "uri": "spotify:artist:1FeE27dT4UOntdjYV9uUgt"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/45j2K3lDzWNkNUq8v02XaK",
+    "is_local": false,
+    "name": "Girl Like You",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iRcNlPUgLcb7ypcVzSOCh",
+          "id": "7iRcNlPUgLcb7ypcVzSOCh",
+          "name": "Zac & George",
+          "type": "artist",
+          "uri": "spotify:artist:7iRcNlPUgLcb7ypcVzSOCh"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3yqvPiEiFWBeB1YqUISBOt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27392e1d3bfdd2c5e099c5723c1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0292e1d3bfdd2c5e099c5723c1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485192e1d3bfdd2c5e099c5723c1",
+          "width": 64
+        }
+      ],
+      "name": "Red Wine & Roses",
+      "release_date": "2022-08-26",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3yqvPiEiFWBeB1YqUISBOt"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh"
+        },
+        "href": "https://api.spotify.com/v1/artists/7iRcNlPUgLcb7ypcVzSOCh",
+        "id": "7iRcNlPUgLcb7ypcVzSOCh",
+        "name": "Zac & George",
+        "type": "artist",
+        "uri": "spotify:artist:7iRcNlPUgLcb7ypcVzSOCh"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0FUoUaj9LmQQ1uMWpYlEIM",
+    "is_local": false,
+    "name": "Red Wine & Roses",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M"
+          },
+          "href": "https://api.spotify.com/v1/artists/1aPmWgDU4JXEWg1d2BwH5M",
+          "id": "1aPmWgDU4JXEWg1d2BwH5M",
+          "name": "Smithfield",
+          "type": "artist",
+          "uri": "spotify:artist:1aPmWgDU4JXEWg1d2BwH5M"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3NDDLNB7cZE7D79a4OC0yl",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732dc1df000ea1f47147c159f7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022dc1df000ea1f47147c159f7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512dc1df000ea1f47147c159f7",
+          "width": 64
+        }
+      ],
+      "name": "We'll Figure It Out",
+      "release_date": "2020-06-19",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3NDDLNB7cZE7D79a4OC0yl"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M"
+        },
+        "href": "https://api.spotify.com/v1/artists/1aPmWgDU4JXEWg1d2BwH5M",
+        "id": "1aPmWgDU4JXEWg1d2BwH5M",
+        "name": "Smithfield",
+        "type": "artist",
+        "uri": "spotify:artist:1aPmWgDU4JXEWg1d2BwH5M"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4BDkZub3bRlFy1umRrMUdN",
+    "is_local": false,
+    "name": "We'll Figure It Out",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
+          },
+          "href": "https://api.spotify.com/v1/artists/0AtQAehoytV7j1r4O16dRb",
+          "id": "0AtQAehoytV7j1r4O16dRb",
+          "name": "Cooper Alan",
+          "type": "artist",
+          "uri": "spotify:artist:0AtQAehoytV7j1r4O16dRb"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0A9pp8RhqncFeWsS3XlYU8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739dca4db781723dbffc09a4d2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029dca4db781723dbffc09a4d2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519dca4db781723dbffc09a4d2",
+          "width": 64
+        }
+      ],
+      "name": "Take Forever",
+      "release_date": "2023-11-10",
+      "release_date_precision": "day",
+      "total_tracks": 5,
+      "type": "album",
+      "uri": "spotify:album:0A9pp8RhqncFeWsS3XlYU8"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
+        },
+        "href": "https://api.spotify.com/v1/artists/0AtQAehoytV7j1r4O16dRb",
+        "id": "0AtQAehoytV7j1r4O16dRb",
+        "name": "Cooper Alan",
+        "type": "artist",
+        "uri": "spotify:artist:0AtQAehoytV7j1r4O16dRb"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6musAegGP7reTcXrALp4XE",
+    "is_local": false,
+    "name": "Keep It to Myself",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+          },
+          "href": "https://api.spotify.com/v1/artists/69HMYPrcstafeCTHI3Dcp1",
+          "id": "69HMYPrcstafeCTHI3Dcp1",
+          "name": "James Johnston",
+          "type": "artist",
+          "uri": "spotify:artist:69HMYPrcstafeCTHI3Dcp1"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5uNnUouM3cuuYYzGoHd6Kb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737852cbaf2e23003347883fa5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027852cbaf2e23003347883fa5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517852cbaf2e23003347883fa5",
+          "width": 64
+        }
+      ],
+      "name": "RAISED LIKE THAT",
+      "release_date": "2023-09-29",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:5uNnUouM3cuuYYzGoHd6Kb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        },
+        "href": "https://api.spotify.com/v1/artists/69HMYPrcstafeCTHI3Dcp1",
+        "id": "69HMYPrcstafeCTHI3Dcp1",
+        "name": "James Johnston",
+        "type": "artist",
+        "uri": "spotify:artist:69HMYPrcstafeCTHI3Dcp1"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7jMWJQCZpBHfBrpKyAn3tw",
+    "is_local": false,
+    "name": "KEEPIN IT COUNTRY",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
+          },
+          "href": "https://api.spotify.com/v1/artists/6LcdklijxllKGfl4FWiv3D",
+          "id": "6LcdklijxllKGfl4FWiv3D",
+          "name": "Canaan Cox",
+          "type": "artist",
+          "uri": "spotify:artist:6LcdklijxllKGfl4FWiv3D"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6yHRH8gbd5zyeN5sZcaZ2Z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736f0ea90a400cba41b0981c57",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026f0ea90a400cba41b0981c57",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516f0ea90a400cba41b0981c57",
+          "width": 64
+        }
+      ],
+      "name": "Long Way Home",
+      "release_date": "2019-01-25",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6yHRH8gbd5zyeN5sZcaZ2Z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
+        },
+        "href": "https://api.spotify.com/v1/artists/6LcdklijxllKGfl4FWiv3D",
+        "id": "6LcdklijxllKGfl4FWiv3D",
+        "name": "Canaan Cox",
+        "type": "artist",
+        "uri": "spotify:artist:6LcdklijxllKGfl4FWiv3D"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4ulGPvckAA1HAGGUUPVXOH",
+    "is_local": false,
+    "name": "Long Way Home",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1FeE27dT4UOntdjYV9uUgt"
+          },
+          "href": "https://api.spotify.com/v1/artists/1FeE27dT4UOntdjYV9uUgt",
+          "id": "1FeE27dT4UOntdjYV9uUgt",
+          "name": "Trevor Martin",
+          "type": "artist",
+          "uri": "spotify:artist:1FeE27dT4UOntdjYV9uUgt"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/19u0bXNkPWffSQwnsUTi2S",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c402edd48d350e041988dd2b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c402edd48d350e041988dd2b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c402edd48d350e041988dd2b",
+          "width": 64
+        }
+      ],
+      "name": "Can't Call You Beautiful",
+      "release_date": "2023-02-17",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:19u0bXNkPWffSQwnsUTi2S"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1FeE27dT4UOntdjYV9uUgt"
+        },
+        "href": "https://api.spotify.com/v1/artists/1FeE27dT4UOntdjYV9uUgt",
+        "id": "1FeE27dT4UOntdjYV9uUgt",
+        "name": "Trevor Martin",
+        "type": "artist",
+        "uri": "spotify:artist:1FeE27dT4UOntdjYV9uUgt"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5JbwjJGfajXcvuR23N4chq",
+    "is_local": false,
+    "name": "Can't Call You Beautiful",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iRcNlPUgLcb7ypcVzSOCh",
+          "id": "7iRcNlPUgLcb7ypcVzSOCh",
+          "name": "Zac & George",
+          "type": "artist",
+          "uri": "spotify:artist:7iRcNlPUgLcb7ypcVzSOCh"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5bb1vKHBhujvkX7ziKLijA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a408eafe4c6a973b57e9ce98",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a408eafe4c6a973b57e9ce98",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a408eafe4c6a973b57e9ce98",
+          "width": 64
+        }
+      ],
+      "name": "Call It A Day",
+      "release_date": "2023-11-03",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5bb1vKHBhujvkX7ziKLijA"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh"
+        },
+        "href": "https://api.spotify.com/v1/artists/7iRcNlPUgLcb7ypcVzSOCh",
+        "id": "7iRcNlPUgLcb7ypcVzSOCh",
+        "name": "Zac & George",
+        "type": "artist",
+        "uri": "spotify:artist:7iRcNlPUgLcb7ypcVzSOCh"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4qLUfteMobl6D5b9psoyrV",
+    "is_local": false,
+    "name": "Call It A Day",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB"
+          },
+          "href": "https://api.spotify.com/v1/artists/5zmTJA6eWcsmxevyQoK9iB",
+          "id": "5zmTJA6eWcsmxevyQoK9iB",
+          "name": "Josh Mirenda",
+          "type": "artist",
+          "uri": "spotify:artist:5zmTJA6eWcsmxevyQoK9iB"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2nVclao14iNLBhGZENjKzf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732f757193b5385803ee03d5a8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022f757193b5385803ee03d5a8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512f757193b5385803ee03d5a8",
+          "width": 64
+        }
+      ],
+      "name": "Wind Up",
+      "release_date": "2024-06-28",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:2nVclao14iNLBhGZENjKzf"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB"
+        },
+        "href": "https://api.spotify.com/v1/artists/5zmTJA6eWcsmxevyQoK9iB",
+        "id": "5zmTJA6eWcsmxevyQoK9iB",
+        "name": "Josh Mirenda",
+        "type": "artist",
+        "uri": "spotify:artist:5zmTJA6eWcsmxevyQoK9iB"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0w627PGdQpAIs129dufxSV",
+    "is_local": false,
+    "name": "Til the Neon's Gone",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
+          },
+          "href": "https://api.spotify.com/v1/artists/0AtQAehoytV7j1r4O16dRb",
+          "id": "0AtQAehoytV7j1r4O16dRb",
+          "name": "Cooper Alan",
+          "type": "artist",
+          "uri": "spotify:artist:0AtQAehoytV7j1r4O16dRb"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0A9pp8RhqncFeWsS3XlYU8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739dca4db781723dbffc09a4d2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029dca4db781723dbffc09a4d2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519dca4db781723dbffc09a4d2",
+          "width": 64
+        }
+      ],
+      "name": "Take Forever",
+      "release_date": "2023-11-10",
+      "release_date_precision": "day",
+      "total_tracks": 5,
+      "type": "album",
+      "uri": "spotify:album:0A9pp8RhqncFeWsS3XlYU8"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
+        },
+        "href": "https://api.spotify.com/v1/artists/0AtQAehoytV7j1r4O16dRb",
+        "id": "0AtQAehoytV7j1r4O16dRb",
+        "name": "Cooper Alan",
+        "type": "artist",
+        "uri": "spotify:artist:0AtQAehoytV7j1r4O16dRb"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3pBYIDSYwHpGMjq0nss6KZ",
+    "is_local": false,
+    "name": "Take Forever (Hally's Song)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+          },
+          "href": "https://api.spotify.com/v1/artists/69HMYPrcstafeCTHI3Dcp1",
+          "id": "69HMYPrcstafeCTHI3Dcp1",
+          "name": "James Johnston",
+          "type": "artist",
+          "uri": "spotify:artist:69HMYPrcstafeCTHI3Dcp1"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5uNnUouM3cuuYYzGoHd6Kb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737852cbaf2e23003347883fa5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027852cbaf2e23003347883fa5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517852cbaf2e23003347883fa5",
+          "width": 64
+        }
+      ],
+      "name": "RAISED LIKE THAT",
+      "release_date": "2023-09-29",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:5uNnUouM3cuuYYzGoHd6Kb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        },
+        "href": "https://api.spotify.com/v1/artists/69HMYPrcstafeCTHI3Dcp1",
+        "id": "69HMYPrcstafeCTHI3Dcp1",
+        "name": "James Johnston",
+        "type": "artist",
+        "uri": "spotify:artist:69HMYPrcstafeCTHI3Dcp1"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5N1Uvvs6I8n04ys69ZXgbE",
+    "is_local": false,
+    "name": "RAISED LIKE THAT",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7dWCUs7VGjsopOEB6VoQYv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c853c4b9e0523f82f17c5e20",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c853c4b9e0523f82f17c5e20",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c853c4b9e0523f82f17c5e20",
+          "width": 64
+        }
+      ],
+      "name": "Keith",
+      "release_date": "2019-02-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7dWCUs7VGjsopOEB6VoQYv"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7pcekwb2T8L4MIc29f9GXB",
+    "is_local": false,
+    "name": "Keith",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1hra5qxSyd8G5CyYcDCkby",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737b5670708b442ba8fee8bc3e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027b5670708b442ba8fee8bc3e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517b5670708b442ba8fee8bc3e",
+          "width": 64
+        }
+      ],
+      "name": "That's What I Call Crazy",
+      "release_date": "2016-02-29",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1hra5qxSyd8G5CyYcDCkby"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/58btmgW4B1gb7pWwtYfDlz",
+    "is_local": false,
+    "name": "That's What I Call Crazy",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0tNwjC1u2Zp7jTr37Jr9S1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27345e81664ab0dd7de83ac671b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0245e81664ab0dd7de83ac671b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485145e81664ab0dd7de83ac671b",
+          "width": 64
+        }
+      ],
+      "name": "Getting Closer",
+      "release_date": "2016-11-11",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:0tNwjC1u2Zp7jTr37Jr9S1"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6qV9RTzZrsKFBn4em0YqNF",
+    "is_local": false,
+    "name": "Getting Closer - Pop Version",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0tNwjC1u2Zp7jTr37Jr9S1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27345e81664ab0dd7de83ac671b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0245e81664ab0dd7de83ac671b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485145e81664ab0dd7de83ac671b",
+          "width": 64
+        }
+      ],
+      "name": "Getting Closer",
+      "release_date": "2016-11-11",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:0tNwjC1u2Zp7jTr37Jr9S1"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7CsBG6lhMnoOs4WFLm8PiM",
+    "is_local": false,
+    "name": "Getting Closer",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4paLUQ47b32pjgATxP0QOT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273440b8c7d93d81b0b237b1bae",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02440b8c7d93d81b0b237b1bae",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851440b8c7d93d81b0b237b1bae",
+          "width": 64
+        }
+      ],
+      "name": "Next Somebody",
+      "release_date": "2017-09-01",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4paLUQ47b32pjgATxP0QOT"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0fQOo9V9DS2mW0r1f9NO4J",
+    "is_local": false,
+    "name": "Next Somebody",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/03mEQh2PTqU0aCQaHMuaBV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273981ed06aaf3df24635c9bfa2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02981ed06aaf3df24635c9bfa2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851981ed06aaf3df24635c9bfa2",
+          "width": 64
+        }
+      ],
+      "name": "One More Shot",
+      "release_date": "2018-09-28",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:03mEQh2PTqU0aCQaHMuaBV"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6LZZkjZy4JFrLwm7llsekd",
+    "is_local": false,
+    "name": "One More Shot",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6wD6QCOFnre3KkIcfpzcRf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733f652320323bfca72b89eb11",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023f652320323bfca72b89eb11",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513f652320323bfca72b89eb11",
+          "width": 64
+        }
+      ],
+      "name": "Who I Am",
+      "release_date": "2018-10-05",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6wD6QCOFnre3KkIcfpzcRf"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3cE59sgiySgKoct3UqGiVf",
+    "is_local": false,
+    "name": "Who I Am",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7dWCUs7VGjsopOEB6VoQYv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c853c4b9e0523f82f17c5e20",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c853c4b9e0523f82f17c5e20",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c853c4b9e0523f82f17c5e20",
+          "width": 64
+        }
+      ],
+      "name": "Keith",
+      "release_date": "2019-02-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7dWCUs7VGjsopOEB6VoQYv"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7pcekwb2T8L4MIc29f9GXB",
+    "is_local": false,
+    "name": "Keith",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0ep9Seb6imsd0tY8YEJmgN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fa750b1e35a4f4606e2c0ca2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fa750b1e35a4f4606e2c0ca2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fa750b1e35a4f4606e2c0ca2",
+          "width": 64
+        }
+      ],
+      "name": "Wasted On You",
+      "release_date": "2019-10-04",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0ep9Seb6imsd0tY8YEJmgN"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/18TvtpuhO6exRI6W7XTjSb",
+    "is_local": false,
+    "name": "Wasted On You",
+    "preview_url": null
+  }
+]

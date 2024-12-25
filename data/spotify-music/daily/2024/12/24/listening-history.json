@@ -1,0 +1,1152 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+          "id": "3yfUy4dhvq5DwrSMsEE6od",
+          "name": "Palmy",
+          "type": "artist",
+          "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6emxnujWpJ8pxBjLBXsXi7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dc363bbaa7a0a515e4fafdb7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dc363bbaa7a0a515e4fafdb7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dc363bbaa7a0a515e4fafdb7",
+          "width": 64
+        }
+      ],
+      "name": "สนิทใจ - Single",
+      "release_date": "2023-03-16",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6emxnujWpJ8pxBjLBXsXi7"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+        "id": "3yfUy4dhvq5DwrSMsEE6od",
+        "name": "Palmy",
+        "type": "artist",
+        "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/72dE9KXQCNPKP0bCAhtqBz",
+    "is_local": false,
+    "name": "สนิทใจ (เพลงจากละคร รักร้าย)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+          "id": "3yfUy4dhvq5DwrSMsEE6od",
+          "name": "Palmy",
+          "type": "artist",
+          "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7qccqk9A5ZyNzO6NTQDcCQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27388ef68b1efe79fca6fe47469",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0288ef68b1efe79fca6fe47469",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485188ef68b1efe79fca6fe47469",
+          "width": 64
+        }
+      ],
+      "name": "ดวงใจ - Single",
+      "release_date": "2019-09-11",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7qccqk9A5ZyNzO6NTQDcCQ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+        "id": "3yfUy4dhvq5DwrSMsEE6od",
+        "name": "Palmy",
+        "type": "artist",
+        "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6N6gsaHf5GYJAvEKfg6iEv",
+    "is_local": false,
+    "name": "ดวงใจ",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+          "id": "3yfUy4dhvq5DwrSMsEE6od",
+          "name": "Palmy",
+          "type": "artist",
+          "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7e9xxHtERlHASAVBSzEyoS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ed39f3d0a430e57ab6ee95be",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ed39f3d0a430e57ab6ee95be",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ed39f3d0a430e57ab6ee95be",
+          "width": 64
+        }
+      ],
+      "name": "ซ่อนกลิ่น - Single",
+      "release_date": "2018-10-20",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7e9xxHtERlHASAVBSzEyoS"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+        "id": "3yfUy4dhvq5DwrSMsEE6od",
+        "name": "Palmy",
+        "type": "artist",
+        "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1kVPMuzq81K8pufq7zKSuM",
+    "is_local": false,
+    "name": "ซ่อนกลิ่น",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7dWCUs7VGjsopOEB6VoQYv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c853c4b9e0523f82f17c5e20",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c853c4b9e0523f82f17c5e20",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c853c4b9e0523f82f17c5e20",
+          "width": 64
+        }
+      ],
+      "name": "Keith",
+      "release_date": "2019-02-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7dWCUs7VGjsopOEB6VoQYv"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7pcekwb2T8L4MIc29f9GXB",
+    "is_local": false,
+    "name": "Keith",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Pwc4xIPtQLFEnJriah9YJ",
+          "id": "5Pwc4xIPtQLFEnJriah9YJ",
+          "name": "OneRepublic",
+          "type": "artist",
+          "uri": "spotify:artist:5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4yHDaLGrPSwUfJNVUIvFgg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d9b914089ee1525387783989",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d9b914089ee1525387783989",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d9b914089ee1525387783989",
+          "width": 64
+        }
+      ],
+      "name": "Artificial Paradise (Deluxe)",
+      "release_date": "2024-07-12",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:4yHDaLGrPSwUfJNVUIvFgg"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/5Pwc4xIPtQLFEnJriah9YJ",
+        "id": "5Pwc4xIPtQLFEnJriah9YJ",
+        "name": "OneRepublic",
+        "type": "artist",
+        "uri": "spotify:artist:5Pwc4xIPtQLFEnJriah9YJ"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3SiVMpHxTS1gspWzRZE50S",
+    "is_local": false,
+    "name": "Nobody - from Kaiju No. 8",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/013zmpwJVA8E15pb1hM68O"
+          },
+          "href": "https://api.spotify.com/v1/artists/013zmpwJVA8E15pb1hM68O",
+          "id": "013zmpwJVA8E15pb1hM68O",
+          "name": "TakaseToya",
+          "type": "artist",
+          "uri": "spotify:artist:013zmpwJVA8E15pb1hM68O"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5Fc8bxHb3MyoD1Ygi7QeKB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ec2e7acee9fe2041e6b0a853",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ec2e7acee9fe2041e6b0a853",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ec2e7acee9fe2041e6b0a853",
+          "width": 64
+        }
+      ],
+      "name": "The 2nd of Undecimber",
+      "release_date": "2022-12-07",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:5Fc8bxHb3MyoD1Ygi7QeKB"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/013zmpwJVA8E15pb1hM68O"
+        },
+        "href": "https://api.spotify.com/v1/artists/013zmpwJVA8E15pb1hM68O",
+        "id": "013zmpwJVA8E15pb1hM68O",
+        "name": "TakaseToya",
+        "type": "artist",
+        "uri": "spotify:artist:013zmpwJVA8E15pb1hM68O"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5Ls8r3Cgwahu5qArnlyaR4"
+        },
+        "href": "https://api.spotify.com/v1/artists/5Ls8r3Cgwahu5qArnlyaR4",
+        "id": "5Ls8r3Cgwahu5qArnlyaR4",
+        "name": "emi noda",
+        "type": "artist",
+        "uri": "spotify:artist:5Ls8r3Cgwahu5qArnlyaR4"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6wGkomWcIw53tCdLa2rBfN",
+    "is_local": false,
+    "name": "Doushite (feat. Emi Noda)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+          },
+          "href": "https://api.spotify.com/v1/artists/7k73EtZwoPs516ZxE72KsO",
+          "id": "7k73EtZwoPs516ZxE72KsO",
+          "name": "ONE OK ROCK",
+          "type": "artist",
+          "uri": "spotify:artist:7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7bR908SDBENoC7rqC0k4h4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731084ce965d5e2d358934198e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021084ce965d5e2d358934198e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511084ce965d5e2d358934198e",
+          "width": 64
+        }
+      ],
+      "name": "Luxury Disease",
+      "release_date": "2022-09-09",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:7bR908SDBENoC7rqC0k4h4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        },
+        "href": "https://api.spotify.com/v1/artists/7k73EtZwoPs516ZxE72KsO",
+        "id": "7k73EtZwoPs516ZxE72KsO",
+        "name": "ONE OK ROCK",
+        "type": "artist",
+        "uri": "spotify:artist:7k73EtZwoPs516ZxE72KsO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1l6fmXCPtTpJrKpYBe9bBw",
+    "is_local": false,
+    "name": "Let Me Let You Go",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+          },
+          "href": "https://api.spotify.com/v1/artists/7k73EtZwoPs516ZxE72KsO",
+          "id": "7k73EtZwoPs516ZxE72KsO",
+          "name": "ONE OK ROCK",
+          "type": "artist",
+          "uri": "spotify:artist:7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6FRkntES0AkBOQu9AOHNeo",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27305af603f75faebf6092506ac",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0205af603f75faebf6092506ac",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485105af603f75faebf6092506ac",
+          "width": 64
+        }
+      ],
+      "name": "Make It Out Alive",
+      "release_date": "2023-08-24",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6FRkntES0AkBOQu9AOHNeo"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        },
+        "href": "https://api.spotify.com/v1/artists/7k73EtZwoPs516ZxE72KsO",
+        "id": "7k73EtZwoPs516ZxE72KsO",
+        "name": "ONE OK ROCK",
+        "type": "artist",
+        "uri": "spotify:artist:7k73EtZwoPs516ZxE72KsO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4WVJeRP6hjMMBkmWsV4TtF",
+    "is_local": false,
+    "name": "Make It Out Alive",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+          "id": "3yfUy4dhvq5DwrSMsEE6od",
+          "name": "Palmy",
+          "type": "artist",
+          "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1Snw51H4UEjCIiZMoZbZ7Z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738b3f4046342f846f71df4c80",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028b3f4046342f846f71df4c80",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518b3f4046342f846f71df4c80",
+          "width": 64
+        }
+      ],
+      "name": "PALMY GREATEST HITS",
+      "release_date": "2014-03-27",
+      "release_date_precision": "day",
+      "total_tracks": 30,
+      "type": "album",
+      "uri": "spotify:album:1Snw51H4UEjCIiZMoZbZ7Z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+        "id": "3yfUy4dhvq5DwrSMsEE6od",
+        "name": "Palmy",
+        "type": "artist",
+        "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7teUEREnFnLH5p9MCBpPfZ",
+    "is_local": false,
+    "name": "ความทรงจำสีจาง (เพลงประกอบภาพยนตร์ แฟนฉัน)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+          "id": "3yfUy4dhvq5DwrSMsEE6od",
+          "name": "Palmy",
+          "type": "artist",
+          "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1Snw51H4UEjCIiZMoZbZ7Z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738b3f4046342f846f71df4c80",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028b3f4046342f846f71df4c80",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518b3f4046342f846f71df4c80",
+          "width": 64
+        }
+      ],
+      "name": "PALMY GREATEST HITS",
+      "release_date": "2014-03-27",
+      "release_date_precision": "day",
+      "total_tracks": 30,
+      "type": "album",
+      "uri": "spotify:album:1Snw51H4UEjCIiZMoZbZ7Z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+        "id": "3yfUy4dhvq5DwrSMsEE6od",
+        "name": "Palmy",
+        "type": "artist",
+        "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0OMwwI1LhDehVbNspTo9GJ",
+    "is_local": false,
+    "name": "อยากหยุดเวลา (Cover Version) [เพลงประกอบภาพยนตร์ พี่มากพระโขนง]",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+          "id": "3yfUy4dhvq5DwrSMsEE6od",
+          "name": "Palmy",
+          "type": "artist",
+          "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1Snw51H4UEjCIiZMoZbZ7Z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738b3f4046342f846f71df4c80",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028b3f4046342f846f71df4c80",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518b3f4046342f846f71df4c80",
+          "width": 64
+        }
+      ],
+      "name": "PALMY GREATEST HITS",
+      "release_date": "2014-03-27",
+      "release_date_precision": "day",
+      "total_tracks": 30,
+      "type": "album",
+      "uri": "spotify:album:1Snw51H4UEjCIiZMoZbZ7Z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+        "id": "3yfUy4dhvq5DwrSMsEE6od",
+        "name": "Palmy",
+        "type": "artist",
+        "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/66KddTHkDlZbvn3kESJ7gV",
+    "is_local": false,
+    "name": "ความเจ็บปวด",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+          "id": "3yfUy4dhvq5DwrSMsEE6od",
+          "name": "Palmy",
+          "type": "artist",
+          "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1Snw51H4UEjCIiZMoZbZ7Z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738b3f4046342f846f71df4c80",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028b3f4046342f846f71df4c80",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518b3f4046342f846f71df4c80",
+          "width": 64
+        }
+      ],
+      "name": "PALMY GREATEST HITS",
+      "release_date": "2014-03-27",
+      "release_date_precision": "day",
+      "total_tracks": 30,
+      "type": "album",
+      "uri": "spotify:album:1Snw51H4UEjCIiZMoZbZ7Z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+        "id": "3yfUy4dhvq5DwrSMsEE6od",
+        "name": "Palmy",
+        "type": "artist",
+        "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6NariK20171zG4Kxp7hQeC",
+    "is_local": false,
+    "name": "ROCK STAR SYNDROME",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+          "id": "3yfUy4dhvq5DwrSMsEE6od",
+          "name": "Palmy",
+          "type": "artist",
+          "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1Snw51H4UEjCIiZMoZbZ7Z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738b3f4046342f846f71df4c80",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028b3f4046342f846f71df4c80",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518b3f4046342f846f71df4c80",
+          "width": 64
+        }
+      ],
+      "name": "PALMY GREATEST HITS",
+      "release_date": "2014-03-27",
+      "release_date_precision": "day",
+      "total_tracks": 30,
+      "type": "album",
+      "uri": "spotify:album:1Snw51H4UEjCIiZMoZbZ7Z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+        "id": "3yfUy4dhvq5DwrSMsEE6od",
+        "name": "Palmy",
+        "type": "artist",
+        "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4tvAVftQUF535qkgl8EhoN",
+    "is_local": false,
+    "name": "Tick Tock",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+          "id": "3yfUy4dhvq5DwrSMsEE6od",
+          "name": "Palmy",
+          "type": "artist",
+          "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1Snw51H4UEjCIiZMoZbZ7Z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738b3f4046342f846f71df4c80",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028b3f4046342f846f71df4c80",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518b3f4046342f846f71df4c80",
+          "width": 64
+        }
+      ],
+      "name": "PALMY GREATEST HITS",
+      "release_date": "2014-03-27",
+      "release_date_precision": "day",
+      "total_tracks": 30,
+      "type": "album",
+      "uri": "spotify:album:1Snw51H4UEjCIiZMoZbZ7Z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+        "id": "3yfUy4dhvq5DwrSMsEE6od",
+        "name": "Palmy",
+        "type": "artist",
+        "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7mjmf9AoNdR2Vrihojtaty",
+    "is_local": false,
+    "name": "คิดมาก",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+          "id": "3yfUy4dhvq5DwrSMsEE6od",
+          "name": "Palmy",
+          "type": "artist",
+          "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1Snw51H4UEjCIiZMoZbZ7Z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738b3f4046342f846f71df4c80",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028b3f4046342f846f71df4c80",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518b3f4046342f846f71df4c80",
+          "width": 64
+        }
+      ],
+      "name": "PALMY GREATEST HITS",
+      "release_date": "2014-03-27",
+      "release_date_precision": "day",
+      "total_tracks": 30,
+      "type": "album",
+      "uri": "spotify:album:1Snw51H4UEjCIiZMoZbZ7Z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+        "id": "3yfUy4dhvq5DwrSMsEE6od",
+        "name": "Palmy",
+        "type": "artist",
+        "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4PveDo8BIMyj2xu3h9AsMS",
+    "is_local": false,
+    "name": "Stay",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+          "id": "3yfUy4dhvq5DwrSMsEE6od",
+          "name": "Palmy",
+          "type": "artist",
+          "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1Snw51H4UEjCIiZMoZbZ7Z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738b3f4046342f846f71df4c80",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028b3f4046342f846f71df4c80",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518b3f4046342f846f71df4c80",
+          "width": 64
+        }
+      ],
+      "name": "PALMY GREATEST HITS",
+      "release_date": "2014-03-27",
+      "release_date_precision": "day",
+      "total_tracks": 30,
+      "type": "album",
+      "uri": "spotify:album:1Snw51H4UEjCIiZMoZbZ7Z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+        "id": "3yfUy4dhvq5DwrSMsEE6od",
+        "name": "Palmy",
+        "type": "artist",
+        "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7JuO2Ct81VluoY5vUFO3OJ",
+    "is_local": false,
+    "name": "หนึ่งนาที",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+          "id": "3yfUy4dhvq5DwrSMsEE6od",
+          "name": "Palmy",
+          "type": "artist",
+          "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1Snw51H4UEjCIiZMoZbZ7Z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738b3f4046342f846f71df4c80",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028b3f4046342f846f71df4c80",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518b3f4046342f846f71df4c80",
+          "width": 64
+        }
+      ],
+      "name": "PALMY GREATEST HITS",
+      "release_date": "2014-03-27",
+      "release_date_precision": "day",
+      "total_tracks": 30,
+      "type": "album",
+      "uri": "spotify:album:1Snw51H4UEjCIiZMoZbZ7Z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+        "id": "3yfUy4dhvq5DwrSMsEE6od",
+        "name": "Palmy",
+        "type": "artist",
+        "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/79DSqGBzMJuB2spINyTlSk",
+    "is_local": false,
+    "name": "ฟ้าส่งฉันมา",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+          "id": "3yfUy4dhvq5DwrSMsEE6od",
+          "name": "Palmy",
+          "type": "artist",
+          "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1Snw51H4UEjCIiZMoZbZ7Z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738b3f4046342f846f71df4c80",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028b3f4046342f846f71df4c80",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518b3f4046342f846f71df4c80",
+          "width": 64
+        }
+      ],
+      "name": "PALMY GREATEST HITS",
+      "release_date": "2014-03-27",
+      "release_date_precision": "day",
+      "total_tracks": 30,
+      "type": "album",
+      "uri": "spotify:album:1Snw51H4UEjCIiZMoZbZ7Z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+        "id": "3yfUy4dhvq5DwrSMsEE6od",
+        "name": "Palmy",
+        "type": "artist",
+        "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0C1saY3YyIIycXuBgI2bYw",
+    "is_local": false,
+    "name": "เจตนา",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+          "id": "3yfUy4dhvq5DwrSMsEE6od",
+          "name": "Palmy",
+          "type": "artist",
+          "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1Snw51H4UEjCIiZMoZbZ7Z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738b3f4046342f846f71df4c80",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028b3f4046342f846f71df4c80",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518b3f4046342f846f71df4c80",
+          "width": 64
+        }
+      ],
+      "name": "PALMY GREATEST HITS",
+      "release_date": "2014-03-27",
+      "release_date_precision": "day",
+      "total_tracks": 30,
+      "type": "album",
+      "uri": "spotify:album:1Snw51H4UEjCIiZMoZbZ7Z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+        "id": "3yfUy4dhvq5DwrSMsEE6od",
+        "name": "Palmy",
+        "type": "artist",
+        "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3ZosaasADRvvUcsJrMQVUs",
+    "is_local": false,
+    "name": "ทุ่งสีดำ",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+          "id": "3yfUy4dhvq5DwrSMsEE6od",
+          "name": "Palmy",
+          "type": "artist",
+          "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1Snw51H4UEjCIiZMoZbZ7Z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738b3f4046342f846f71df4c80",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028b3f4046342f846f71df4c80",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518b3f4046342f846f71df4c80",
+          "width": 64
+        }
+      ],
+      "name": "PALMY GREATEST HITS",
+      "release_date": "2014-03-27",
+      "release_date_precision": "day",
+      "total_tracks": 30,
+      "type": "album",
+      "uri": "spotify:album:1Snw51H4UEjCIiZMoZbZ7Z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+        "id": "3yfUy4dhvq5DwrSMsEE6od",
+        "name": "Palmy",
+        "type": "artist",
+        "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0TZeCI7T2SPNx29hl3HCSw",
+    "is_local": false,
+    "name": "พูดไม่เต็มปาก",
+    "preview_url": null
+  }
+]

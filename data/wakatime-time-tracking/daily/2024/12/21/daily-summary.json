@@ -161,7 +161,7 @@
         "percent": 13.53
       },
       {
-        "name": "elysia",
+        "name": "xml-js",
         "total_seconds": 1159.404536,
         "digital": "0:19:19",
         "decimal": "0.32",
@@ -172,7 +172,7 @@
         "percent": 13.53
       },
       {
-        "name": "xml-js",
+        "name": "elysia",
         "total_seconds": 1159.404536,
         "digital": "0:19:19",
         "decimal": "0.32",
@@ -194,7 +194,7 @@
         "percent": 13.44
       },
       {
-        "name": "db",
+        "name": "html",
         "total_seconds": 1151.791614,
         "digital": "0:19:11",
         "decimal": "0.32",
@@ -205,7 +205,7 @@
         "percent": 13.44
       },
       {
-        "name": "html",
+        "name": "db",
         "total_seconds": 1151.791614,
         "digital": "0:19:11",
         "decimal": "0.32",
@@ -238,7 +238,7 @@
         "percent": 0.43
       },
       {
-        "name": "@elysiajs/static",
+        "name": "bun-types",
         "total_seconds": 7.612922,
         "digital": "0:00:07",
         "decimal": "0.00",
@@ -260,18 +260,7 @@
         "percent": 0.09
       },
       {
-        "name": "npm",
-        "total_seconds": 7.612922,
-        "digital": "0:00:07",
-        "decimal": "0.00",
-        "text": "7 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 7,
-        "percent": 0.09
-      },
-      {
-        "name": "bun-types",
+        "name": "@elysiajs/static",
         "total_seconds": 7.612922,
         "digital": "0:00:07",
         "decimal": "0.00",
@@ -283,6 +272,17 @@
       },
       {
         "name": "mysql2",
+        "total_seconds": 7.612922,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.09
+      },
+      {
+        "name": "npm",
         "total_seconds": 7.612922,
         "digital": "0:00:07",
         "decimal": "0.00",

@@ -25,7 +25,7 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/LOJ+Worship/Brighter+Days",
-    "playcount": "2081",
+    "playcount": "2093",
     "@attr": {
       "rank": "1"
     },
@@ -185,7 +185,7 @@
     ],
     "mbid": "29d9882a-0e55-4ef2-aa6c-f68e613c638d",
     "url": "https://www.last.fm/music/Palmy/Palmy+Greatest+Hits",
-    "playcount": "626",
+    "playcount": "647",
     "@attr": {
       "rank": "6"
     },
@@ -313,7 +313,7 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/LOJ+Worship/Brave",
-    "playcount": "451",
+    "playcount": "455",
     "@attr": {
       "rank": "10"
     },
@@ -345,7 +345,7 @@
     ],
     "mbid": "31a74b42-0bcd-42fe-9a55-6120b8b29808",
     "url": "https://www.last.fm/music/Palmy/Palmy",
-    "playcount": "406",
+    "playcount": "408",
     "@attr": {
       "rank": "11"
     },
@@ -441,7 +441,7 @@
     ],
     "mbid": "3780d74c-dabd-430e-9072-0c518b9cd890",
     "url": "https://www.last.fm/music/Palmy/Palmy+5",
-    "playcount": "371",
+    "playcount": "373",
     "@attr": {
       "rank": "14"
     },
@@ -473,7 +473,7 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/Palmy/%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99+-+Single",
-    "playcount": "360",
+    "playcount": "362",
     "@attr": {
       "rank": "15"
     },
@@ -609,34 +609,34 @@
   },
   {
     "artist": {
-      "url": "https://www.last.fm/music/Palmy",
-      "name": "Palmy",
-      "mbid": "21f8e84f-f6ce-4fb4-b79f-9c4c24774f64"
+      "url": "https://www.last.fm/music/LOJ+Worship",
+      "name": "LOJ Worship",
+      "mbid": ""
     },
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4bf6c9e1ebde4e98ce17be2f608ca0eb.jpg"
+        "#text": ""
       },
       {
         "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4bf6c9e1ebde4e98ce17be2f608ca0eb.jpg"
+        "#text": ""
       },
       {
         "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4bf6c9e1ebde4e98ce17be2f608ca0eb.jpg"
+        "#text": ""
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4bf6c9e1ebde4e98ce17be2f608ca0eb.jpg"
+        "#text": ""
       }
     ],
     "mbid": "",
-    "url": "https://www.last.fm/music/Palmy/The+Best+Hits+of+PALMY",
+    "url": "https://www.last.fm/music/LOJ+Worship/Forward",
     "playcount": "320",
     "@attr": {
       "rank": "20"
     },
-    "name": "The Best Hits of PALMY"
+    "name": "Forward"
   }
 ]

@@ -1,0 +1,1242 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/49tcLtFqwq1xhzLWHddssL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d1b41099dd186f703660eb50",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d1b41099dd186f703660eb50",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d1b41099dd186f703660eb50",
+          "width": 64
+        }
+      ],
+      "name": "Cowboy Up",
+      "release_date": "2024-11-14",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:49tcLtFqwq1xhzLWHddssL"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4d4vlF9uJtiJRajBPZlKMa",
+    "is_local": false,
+    "name": "Cowboy Up",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+          },
+          "href": "https://api.spotify.com/v1/artists/69HMYPrcstafeCTHI3Dcp1",
+          "id": "69HMYPrcstafeCTHI3Dcp1",
+          "name": "James Johnston",
+          "type": "artist",
+          "uri": "spotify:artist:69HMYPrcstafeCTHI3Dcp1"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5uNnUouM3cuuYYzGoHd6Kb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737852cbaf2e23003347883fa5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027852cbaf2e23003347883fa5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517852cbaf2e23003347883fa5",
+          "width": 64
+        }
+      ],
+      "name": "RAISED LIKE THAT",
+      "release_date": "2023-09-29",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:5uNnUouM3cuuYYzGoHd6Kb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        },
+        "href": "https://api.spotify.com/v1/artists/69HMYPrcstafeCTHI3Dcp1",
+        "id": "69HMYPrcstafeCTHI3Dcp1",
+        "name": "James Johnston",
+        "type": "artist",
+        "uri": "spotify:artist:69HMYPrcstafeCTHI3Dcp1"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6v95FnJmLnVs4mAUAIm1vx",
+    "is_local": false,
+    "name": "SAME SONGS",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7dWCUs7VGjsopOEB6VoQYv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c853c4b9e0523f82f17c5e20",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c853c4b9e0523f82f17c5e20",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c853c4b9e0523f82f17c5e20",
+          "width": 64
+        }
+      ],
+      "name": "Keith",
+      "release_date": "2019-02-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7dWCUs7VGjsopOEB6VoQYv"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7pcekwb2T8L4MIc29f9GXB",
+    "is_local": false,
+    "name": "Keith",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+          "id": "3yfUy4dhvq5DwrSMsEE6od",
+          "name": "Palmy",
+          "type": "artist",
+          "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/00REgtqxyIlnPYP3Js64aV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732b71a3a6062e0ab5adc9c398",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022b71a3a6062e0ab5adc9c398",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512b71a3a6062e0ab5adc9c398",
+          "width": 64
+        }
+      ],
+      "name": "Palmy",
+      "release_date": "2001-12-21",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:00REgtqxyIlnPYP3Js64aV"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+        "id": "3yfUy4dhvq5DwrSMsEE6od",
+        "name": "Palmy",
+        "type": "artist",
+        "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4Q9hNRHnGikmQPbXzbzhdR",
+    "is_local": false,
+    "name": "กลัว",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+          "id": "3yfUy4dhvq5DwrSMsEE6od",
+          "name": "Palmy",
+          "type": "artist",
+          "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7AZzEoVUQgqDIC4o30YCpS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273789e4336cd77281e1cafb3e7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02789e4336cd77281e1cafb3e7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851789e4336cd77281e1cafb3e7",
+          "width": 64
+        }
+      ],
+      "name": "คิดถึง - Single",
+      "release_date": "2019-02-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7AZzEoVUQgqDIC4o30YCpS"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+        "id": "3yfUy4dhvq5DwrSMsEE6od",
+        "name": "Palmy",
+        "type": "artist",
+        "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/39TrXFs2mDHCPlGpfTrOX3",
+    "is_local": false,
+    "name": "คิดถึง",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+          "id": "3yfUy4dhvq5DwrSMsEE6od",
+          "name": "Palmy",
+          "type": "artist",
+          "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6s4vzIY9Xe8VJGk5ovsASn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273931ccfdc488da3ff4a62154b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02931ccfdc488da3ff4a62154b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851931ccfdc488da3ff4a62154b",
+          "width": 64
+        }
+      ],
+      "name": "PALMY 5",
+      "release_date": "2011-12-09",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:6s4vzIY9Xe8VJGk5ovsASn"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+        "id": "3yfUy4dhvq5DwrSMsEE6od",
+        "name": "Palmy",
+        "type": "artist",
+        "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/28juEYgIIi652aGhcuaxqs",
+    "is_local": false,
+    "name": "นาฬิกาเรือนเก่า",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+          "id": "3yfUy4dhvq5DwrSMsEE6od",
+          "name": "Palmy",
+          "type": "artist",
+          "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/00REgtqxyIlnPYP3Js64aV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732b71a3a6062e0ab5adc9c398",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022b71a3a6062e0ab5adc9c398",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512b71a3a6062e0ab5adc9c398",
+          "width": 64
+        }
+      ],
+      "name": "Palmy",
+      "release_date": "2001-12-21",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:00REgtqxyIlnPYP3Js64aV"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+        "id": "3yfUy4dhvq5DwrSMsEE6od",
+        "name": "Palmy",
+        "type": "artist",
+        "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6hFmwFScmYBHQxhEUxq1IS",
+    "is_local": false,
+    "name": "แปดโมงเช้าวันอังคาร",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0u6cacnTKSAP04yozOR3L4"
+          },
+          "href": "https://api.spotify.com/v1/artists/0u6cacnTKSAP04yozOR3L4",
+          "id": "0u6cacnTKSAP04yozOR3L4",
+          "name": "Maria Calista",
+          "type": "artist",
+          "uri": "spotify:artist:0u6cacnTKSAP04yozOR3L4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5Bxv37boSWjBlXWvmGKooW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27321b99d670e73a95b4b1f5081",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0221b99d670e73a95b4b1f5081",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485121b99d670e73a95b4b1f5081",
+          "width": 64
+        }
+      ],
+      "name": "Terima Kasih Tuhanku",
+      "release_date": "2017-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:5Bxv37boSWjBlXWvmGKooW"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0u6cacnTKSAP04yozOR3L4"
+        },
+        "href": "https://api.spotify.com/v1/artists/0u6cacnTKSAP04yozOR3L4",
+        "id": "0u6cacnTKSAP04yozOR3L4",
+        "name": "Maria Calista",
+        "type": "artist",
+        "uri": "spotify:artist:0u6cacnTKSAP04yozOR3L4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7tjDyNIjJMQqTQcCiogxgA"
+        },
+        "href": "https://api.spotify.com/v1/artists/7tjDyNIjJMQqTQcCiogxgA",
+        "id": "7tjDyNIjJMQqTQcCiogxgA",
+        "name": "Michael Joe",
+        "type": "artist",
+        "uri": "spotify:artist:7tjDyNIjJMQqTQcCiogxgA"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/33izMUGFCrlB4iIZsAUEkO",
+    "is_local": false,
+    "name": "Kau Terbaik Bagiku",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7jaPn2Zi7CqpdRDEtiLhh3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731e431c10bf5a387daa5e7ec1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021e431c10bf5a387daa5e7ec1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511e431c10bf5a387daa5e7ec1",
+          "width": 64
+        }
+      ],
+      "name": "Inspirational Worship 2",
+      "release_date": "2016-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:7jaPn2Zi7CqpdRDEtiLhh3"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1PZlHMK0IXznZHnFR45PhS"
+        },
+        "href": "https://api.spotify.com/v1/artists/1PZlHMK0IXznZHnFR45PhS",
+        "id": "1PZlHMK0IXznZHnFR45PhS",
+        "name": "Asmirandah",
+        "type": "artist",
+        "uri": "spotify:artist:1PZlHMK0IXznZHnFR45PhS"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0LuDkWwkxwqJM8mxakBXIH",
+    "is_local": false,
+    "name": "Hatiku MenyembahMu (with Jonas Rivanno)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6Y7IIXfKAgewd3ST87R6xt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733884c72b1afb6c9cc0c7682f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023884c72b1afb6c9cc0c7682f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513884c72b1afb6c9cc0c7682f",
+          "width": 64
+        }
+      ],
+      "name": "Kuasa Dalam Penyembahan (Worship Leader 3)",
+      "release_date": "2012-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:6Y7IIXfKAgewd3ST87R6xt"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7dQddaUvQDfK6TS3GNhw7h"
+        },
+        "href": "https://api.spotify.com/v1/artists/7dQddaUvQDfK6TS3GNhw7h",
+        "id": "7dQddaUvQDfK6TS3GNhw7h",
+        "name": "Jason Irwanto",
+        "type": "artist",
+        "uri": "spotify:artist:7dQddaUvQDfK6TS3GNhw7h"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4sSAje76uLpXi1SDcLHQ3F",
+    "is_local": false,
+    "name": "Kusembah Kau",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0p8hh2OM0WjsT772VC1Mgj"
+          },
+          "href": "https://api.spotify.com/v1/artists/0p8hh2OM0WjsT772VC1Mgj",
+          "id": "0p8hh2OM0WjsT772VC1Mgj",
+          "name": "Symphony Worship",
+          "type": "artist",
+          "uri": "spotify:artist:0p8hh2OM0WjsT772VC1Mgj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3D7rvVeSa7CM7qRngJ1OsR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736cbd85060c6f93ba8dc64d75",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026cbd85060c6f93ba8dc64d75",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516cbd85060c6f93ba8dc64d75",
+          "width": 64
+        }
+      ],
+      "name": "page ii (Kuasa Kasih)",
+      "release_date": "2023-07-01",
+      "release_date_precision": "day",
+      "total_tracks": 5,
+      "type": "album",
+      "uri": "spotify:album:3D7rvVeSa7CM7qRngJ1OsR"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0p8hh2OM0WjsT772VC1Mgj"
+        },
+        "href": "https://api.spotify.com/v1/artists/0p8hh2OM0WjsT772VC1Mgj",
+        "id": "0p8hh2OM0WjsT772VC1Mgj",
+        "name": "Symphony Worship",
+        "type": "artist",
+        "uri": "spotify:artist:0p8hh2OM0WjsT772VC1Mgj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4WtRt8QHLdpoPvutbQk0FH",
+    "is_local": false,
+    "name": "Ingat KasihNya",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7ACfqIqZKmDoUsNc4bRiX8"
+          },
+          "href": "https://api.spotify.com/v1/artists/7ACfqIqZKmDoUsNc4bRiX8",
+          "id": "7ACfqIqZKmDoUsNc4bRiX8",
+          "name": "JPCC Worship Youth",
+          "type": "artist",
+          "uri": "spotify:artist:7ACfqIqZKmDoUsNc4bRiX8"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/36IF17l9aRLRLpZYDGH3KU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c9bb5e1b6ac97db9036f179c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c9bb5e1b6ac97db9036f179c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c9bb5e1b6ac97db9036f179c",
+          "width": 64
+        }
+      ],
+      "name": "You In Me",
+      "release_date": "2016-07-03",
+      "release_date_precision": "day",
+      "total_tracks": 6,
+      "type": "album",
+      "uri": "spotify:album:36IF17l9aRLRLpZYDGH3KU"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7ACfqIqZKmDoUsNc4bRiX8"
+        },
+        "href": "https://api.spotify.com/v1/artists/7ACfqIqZKmDoUsNc4bRiX8",
+        "id": "7ACfqIqZKmDoUsNc4bRiX8",
+        "name": "JPCC Worship Youth",
+        "type": "artist",
+        "uri": "spotify:artist:7ACfqIqZKmDoUsNc4bRiX8"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1X37tyZPkUyRdTvgPH9r5D",
+    "is_local": false,
+    "name": "Kumilik-Mu",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+          "id": "7KLAD4XVPPCQ9G4Hgox94N",
+          "name": "LOJ Worship",
+          "type": "artist",
+          "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4nMJuyKmxb7MWpwLQz0MC6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27367686b38f6d9d34e8679b046",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0267686b38f6d9d34e8679b046",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485167686b38f6d9d34e8679b046",
+          "width": 64
+        }
+      ],
+      "name": "Brave",
+      "release_date": "2020-08-17",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:4nMJuyKmxb7MWpwLQz0MC6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+        },
+        "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+        "id": "7KLAD4XVPPCQ9G4Hgox94N",
+        "name": "LOJ Worship",
+        "type": "artist",
+        "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4saI1LNm6tCzDEn9RkiR42",
+    "is_local": false,
+    "name": "Hatiku MenyembahMu",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6SY2Eq0rtKAVSa38ZzwzO6"
+          },
+          "href": "https://api.spotify.com/v1/artists/6SY2Eq0rtKAVSa38ZzwzO6",
+          "id": "6SY2Eq0rtKAVSa38ZzwzO6",
+          "name": "HSM Worship",
+          "type": "artist",
+          "uri": "spotify:artist:6SY2Eq0rtKAVSa38ZzwzO6"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/77xHEkKKKkNcsSRCnJAy5p",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273978f8acc8b122e78d7f6df79",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02978f8acc8b122e78d7f6df79",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851978f8acc8b122e78d7f6df79",
+          "width": 64
+        }
+      ],
+      "name": "Move On",
+      "release_date": "2020-06-01",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:77xHEkKKKkNcsSRCnJAy5p"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6SY2Eq0rtKAVSa38ZzwzO6"
+        },
+        "href": "https://api.spotify.com/v1/artists/6SY2Eq0rtKAVSa38ZzwzO6",
+        "id": "6SY2Eq0rtKAVSa38ZzwzO6",
+        "name": "HSM Worship",
+        "type": "artist",
+        "uri": "spotify:artist:6SY2Eq0rtKAVSa38ZzwzO6"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3BrPrByHFqIqk5DrAY9OA1",
+    "is_local": false,
+    "name": "Sujud Menyembah",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3jy75uTMcQfKtgqc3FrgaE"
+          },
+          "href": "https://api.spotify.com/v1/artists/3jy75uTMcQfKtgqc3FrgaE",
+          "id": "3jy75uTMcQfKtgqc3FrgaE",
+          "name": "Marini Nainggolan & Misi Lesar",
+          "type": "artist",
+          "uri": "spotify:artist:3jy75uTMcQfKtgqc3FrgaE"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1vkPtnXwAdCVaF45RoezvE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273abd4246dd8f9f9289b7cf422",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02abd4246dd8f9f9289b7cf422",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851abd4246dd8f9f9289b7cf422",
+          "width": 64
+        }
+      ],
+      "name": "Hymn for Him 2",
+      "release_date": "2022-08-28",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:1vkPtnXwAdCVaF45RoezvE"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3jy75uTMcQfKtgqc3FrgaE"
+        },
+        "href": "https://api.spotify.com/v1/artists/3jy75uTMcQfKtgqc3FrgaE",
+        "id": "3jy75uTMcQfKtgqc3FrgaE",
+        "name": "Marini Nainggolan & Misi Lesar",
+        "type": "artist",
+        "uri": "spotify:artist:3jy75uTMcQfKtgqc3FrgaE"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1vG64eyyVbT5IUfYx4WWYd",
+    "is_local": false,
+    "name": "Tak Ku Tahu Kan Hari Esok",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0uGUpFXAdhKMgiHwbueiuf"
+          },
+          "href": "https://api.spotify.com/v1/artists/0uGUpFXAdhKMgiHwbueiuf",
+          "id": "0uGUpFXAdhKMgiHwbueiuf",
+          "name": "Mike Mohede",
+          "type": "artist",
+          "uri": "spotify:artist:0uGUpFXAdhKMgiHwbueiuf"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5PLbYSIA7wiBkoyblPSaNo",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d6a44f5816b95748758ee7e0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d6a44f5816b95748758ee7e0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d6a44f5816b95748758ee7e0",
+          "width": 64
+        }
+      ],
+      "name": "Kemenanganku",
+      "release_date": "2013-08-13",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:5PLbYSIA7wiBkoyblPSaNo"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0uGUpFXAdhKMgiHwbueiuf"
+        },
+        "href": "https://api.spotify.com/v1/artists/0uGUpFXAdhKMgiHwbueiuf",
+        "id": "0uGUpFXAdhKMgiHwbueiuf",
+        "name": "Mike Mohede",
+        "type": "artist",
+        "uri": "spotify:artist:0uGUpFXAdhKMgiHwbueiuf"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6lYNbr982xry1aDs1hGqdE",
+    "is_local": false,
+    "name": "Terlalu Besar",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0w4J4OLBTvKF6GlplzpRv0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bbcc826888167c4bf13477d8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bbcc826888167c4bf13477d8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bbcc826888167c4bf13477d8",
+          "width": 64
+        }
+      ],
+      "name": "Love to Worship You (Live) [feat. Ps Djohan Handojo]",
+      "release_date": "2015-05-13",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:0w4J4OLBTvKF6GlplzpRv0"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0p8hh2OM0WjsT772VC1Mgj"
+        },
+        "href": "https://api.spotify.com/v1/artists/0p8hh2OM0WjsT772VC1Mgj",
+        "id": "0p8hh2OM0WjsT772VC1Mgj",
+        "name": "Symphony Worship",
+        "type": "artist",
+        "uri": "spotify:artist:0p8hh2OM0WjsT772VC1Mgj"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3i9vHjSBHiZ7LM0IyuuTh6"
+        },
+        "href": "https://api.spotify.com/v1/artists/3i9vHjSBHiZ7LM0IyuuTh6",
+        "id": "3i9vHjSBHiZ7LM0IyuuTh6",
+        "name": "Nicholas Sarasta",
+        "type": "artist",
+        "uri": "spotify:artist:3i9vHjSBHiZ7LM0IyuuTh6"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/70uuGiiX4QT3KqS2fGBSTU"
+        },
+        "href": "https://api.spotify.com/v1/artists/70uuGiiX4QT3KqS2fGBSTU",
+        "id": "70uuGiiX4QT3KqS2fGBSTU",
+        "name": "Ivan Handojo",
+        "type": "artist",
+        "uri": "spotify:artist:70uuGiiX4QT3KqS2fGBSTU"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3kOjs6qy8cYn8EXFxLYHQs"
+        },
+        "href": "https://api.spotify.com/v1/artists/3kOjs6qy8cYn8EXFxLYHQs",
+        "id": "3kOjs6qy8cYn8EXFxLYHQs",
+        "name": "Widia",
+        "type": "artist",
+        "uri": "spotify:artist:3kOjs6qy8cYn8EXFxLYHQs"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4K2e6vwAtiZ03E3nikhy6N"
+        },
+        "href": "https://api.spotify.com/v1/artists/4K2e6vwAtiZ03E3nikhy6N",
+        "id": "4K2e6vwAtiZ03E3nikhy6N",
+        "name": "Fasya",
+        "type": "artist",
+        "uri": "spotify:artist:4K2e6vwAtiZ03E3nikhy6N"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7dwheGU2lGvdmHzXhPqzUD"
+        },
+        "href": "https://api.spotify.com/v1/artists/7dwheGU2lGvdmHzXhPqzUD",
+        "id": "7dwheGU2lGvdmHzXhPqzUD",
+        "name": "Ps Djohan Handojo",
+        "type": "artist",
+        "uri": "spotify:artist:7dwheGU2lGvdmHzXhPqzUD"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5520qo11oPaIAcDm1QKgNf",
+    "is_local": false,
+    "name": "S'bab Dia Baik (Live)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vs2uJq3G13Xk2wuDNfjfw"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vs2uJq3G13Xk2wuDNfjfw",
+          "id": "6vs2uJq3G13Xk2wuDNfjfw",
+          "name": "Wawan Yap",
+          "type": "artist",
+          "uri": "spotify:artist:6vs2uJq3G13Xk2wuDNfjfw"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4TVzgRQiJNNKYxLKyk0cnl",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b3b651b2eab56e52ea6e8fc2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b3b651b2eab56e52ea6e8fc2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b3b651b2eab56e52ea6e8fc2",
+          "width": 64
+        }
+      ],
+      "name": "Tuhan Tetap Setia",
+      "release_date": "2017-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:4TVzgRQiJNNKYxLKyk0cnl"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6vs2uJq3G13Xk2wuDNfjfw"
+        },
+        "href": "https://api.spotify.com/v1/artists/6vs2uJq3G13Xk2wuDNfjfw",
+        "id": "6vs2uJq3G13Xk2wuDNfjfw",
+        "name": "Wawan Yap",
+        "type": "artist",
+        "uri": "spotify:artist:6vs2uJq3G13Xk2wuDNfjfw"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2vZSrFTqZHkGG91KyuEN4k",
+    "is_local": false,
+    "name": "Yesus KemuliaanMu",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+          "id": "7KLAD4XVPPCQ9G4Hgox94N",
+          "name": "LOJ Worship",
+          "type": "artist",
+          "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7cXPksLJ9rNDFlvCnL74Hp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273db6d0ac4f7f5f45c29d25384",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02db6d0ac4f7f5f45c29d25384",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851db6d0ac4f7f5f45c29d25384",
+          "width": 64
+        }
+      ],
+      "name": "Forward",
+      "release_date": "2018-09-03",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:7cXPksLJ9rNDFlvCnL74Hp"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+        },
+        "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+        "id": "7KLAD4XVPPCQ9G4Hgox94N",
+        "name": "LOJ Worship",
+        "type": "artist",
+        "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1YWwzkoGbCR9XCgXpCB6fv"
+        },
+        "href": "https://api.spotify.com/v1/artists/1YWwzkoGbCR9XCgXpCB6fv",
+        "id": "1YWwzkoGbCR9XCgXpCB6fv",
+        "name": "Igor Saykoji",
+        "type": "artist",
+        "uri": "spotify:artist:1YWwzkoGbCR9XCgXpCB6fv"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7agIZwOVMOfuSZmf769tH3",
+    "is_local": false,
+    "name": "Menari dan Bernyanyi",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/65xcSIZjq3i6OZt4UZy9CL"
+          },
+          "href": "https://api.spotify.com/v1/artists/65xcSIZjq3i6OZt4UZy9CL",
+          "id": "65xcSIZjq3i6OZt4UZy9CL",
+          "name": "IGNITE GKI",
+          "type": "artist",
+          "uri": "spotify:artist:65xcSIZjq3i6OZt4UZy9CL"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0OmVawB0wm67FfUxuKJ4yq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d4a2824568b027b4a999e737",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d4a2824568b027b4a999e737",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d4a2824568b027b4a999e737",
+          "width": 64
+        }
+      ],
+      "name": "Batu Penjuru Gereja (Kj 252)",
+      "release_date": "2019-11-23",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0OmVawB0wm67FfUxuKJ4yq"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/65xcSIZjq3i6OZt4UZy9CL"
+        },
+        "href": "https://api.spotify.com/v1/artists/65xcSIZjq3i6OZt4UZy9CL",
+        "id": "65xcSIZjq3i6OZt4UZy9CL",
+        "name": "IGNITE GKI",
+        "type": "artist",
+        "uri": "spotify:artist:65xcSIZjq3i6OZt4UZy9CL"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2ZSqXUBO8GN7wH4q3hp5Zp"
+        },
+        "href": "https://api.spotify.com/v1/artists/2ZSqXUBO8GN7wH4q3hp5Zp",
+        "id": "2ZSqXUBO8GN7wH4q3hp5Zp",
+        "name": "Jeocoustic",
+        "type": "artist",
+        "uri": "spotify:artist:2ZSqXUBO8GN7wH4q3hp5Zp"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2NxTb2iaYgwimtcITUfpo1"
+        },
+        "href": "https://api.spotify.com/v1/artists/2NxTb2iaYgwimtcITUfpo1",
+        "id": "2NxTb2iaYgwimtcITUfpo1",
+        "name": "Tria Rafael",
+        "type": "artist",
+        "uri": "spotify:artist:2NxTb2iaYgwimtcITUfpo1"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/37yYyBPTDckaoDdvWATKhU",
+    "is_local": false,
+    "name": "Batu Penjuru Gereja (Kj 252)",
+    "preview_url": null
+  }
+]

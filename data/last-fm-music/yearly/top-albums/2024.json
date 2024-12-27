@@ -25,7 +25,7 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/LOJ+Worship/Brighter+Days",
-    "playcount": "2093",
+    "playcount": "2103",
     "@attr": {
       "rank": "1"
     },
@@ -257,6 +257,38 @@
   },
   {
     "artist": {
+      "url": "https://www.last.fm/music/LOJ+Worship",
+      "name": "LOJ Worship",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9b6595c8fb4dc5a196b0cd00d2ea17b3.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9b6595c8fb4dc5a196b0cd00d2ea17b3.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9b6595c8fb4dc5a196b0cd00d2ea17b3.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9b6595c8fb4dc5a196b0cd00d2ea17b3.jpg"
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/LOJ+Worship/Brave",
+    "playcount": "458",
+    "@attr": {
+      "rank": "9"
+    },
+    "name": "Brave"
+  },
+  {
+    "artist": {
       "url": "https://www.last.fm/music/Alice+Merton",
       "name": "Alice Merton",
       "mbid": "7292ba91-0465-4679-a697-6891570ae06c"
@@ -283,41 +315,9 @@
     "url": "https://www.last.fm/music/Alice+Merton/Mint",
     "playcount": "457",
     "@attr": {
-      "rank": "9"
-    },
-    "name": "Mint"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/LOJ+Worship",
-      "name": "LOJ Worship",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9b6595c8fb4dc5a196b0cd00d2ea17b3.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9b6595c8fb4dc5a196b0cd00d2ea17b3.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9b6595c8fb4dc5a196b0cd00d2ea17b3.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9b6595c8fb4dc5a196b0cd00d2ea17b3.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/LOJ+Worship/Brave",
-    "playcount": "455",
-    "@attr": {
       "rank": "10"
     },
-    "name": "Brave"
+    "name": "Mint"
   },
   {
     "artist": {

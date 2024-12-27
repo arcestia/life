@@ -1,6 +1,42 @@
 [
   {
     "artist": {
+      "mbid": "327a36ef-1065-4e76-96d6-b5a89c01a64d",
+      "#text": "Kaylee Bell"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dca274dd08711214a03032bbf4a26b25.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dca274dd08711214a03032bbf4a26b25.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dca274dd08711214a03032bbf4a26b25.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dca274dd08711214a03032bbf4a26b25.jpg"
+      }
+    ],
+    "mbid": "",
+    "album": {
+      "mbid": "ceb88a9c-1da4-428b-ad5f-bbe600a495f4",
+      "#text": "Cowboy Up"
+    },
+    "name": "Cowboy Up",
+    "url": "https://www.last.fm/music/Kaylee+Bell/_/Cowboy+Up",
+    "date": {
+      "uts": "1735135483",
+      "#text": "25 Dec 2024, 14:04"
+    }
+  },
+  {
+    "artist": {
       "mbid": "a6655d6f-fb0f-4f59-a73e-aaddf4aaf9b3",
       "#text": "James Johnston"
     },

@@ -1,58 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 34,
-      "total_seconds": 2057.327121,
-      "digital": "0:34",
-      "decimal": "0.57",
-      "text": "34 mins"
-    },
-    "range": {
-      "start": "2024-12-22T17:00:00Z",
-      "end": "2024-12-23T16:59:59Z",
-      "date": "2024-12-23",
-      "text": "Mon Dec 23rd 2024",
-      "timezone": "Asia/Bangkok"
-    },
-    "projects": [
-      {
-        "name": "Unknown Project",
-        "total_seconds": 995.867933,
-        "color": null,
-        "digital": "0:16:35",
-        "decimal": "0.27",
-        "text": "16 mins",
-        "hours": 0,
-        "minutes": 16,
-        "seconds": 35,
-        "percent": 48.41
-      },
-      {
-        "name": "api-trustpositif",
-        "total_seconds": 836.056188,
-        "color": null,
-        "digital": "0:13:56",
-        "decimal": "0.22",
-        "text": "13 mins",
-        "hours": 0,
-        "minutes": 13,
-        "seconds": 56,
-        "percent": 40.64
-      },
-      {
-        "name": "Redirect",
-        "total_seconds": 225.403,
-        "color": null,
-        "digital": "0:03:45",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 45,
-        "percent": 10.96
-      }
-    ],
     "languages": [
       {
         "name": "Other",
@@ -119,6 +66,75 @@
         "minutes": 0,
         "seconds": 3,
         "percent": 0.16
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 34,
+      "total_seconds": 2057.327121,
+      "digital": "0:34",
+      "decimal": "0.57",
+      "text": "34 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1831.924121,
+        "digital": "0:30:31",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 31,
+        "percent": 89.04
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 225.403,
+        "digital": "0:03:45",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 45,
+        "percent": 10.96
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2057.327121,
+        "digital": "0:34:17",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 17,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1831.924121,
+        "digital": "0:30:31",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 31,
+        "percent": 89.04
+      },
+      {
+        "name": "Browsing",
+        "total_seconds": 225.403,
+        "digital": "0:03:45",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 45,
+        "percent": 10.96
       }
     ],
     "dependencies": [
@@ -2052,21 +2068,35 @@
         "percent": 10.96
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 1831.924121,
-        "digital": "0:30:31",
-        "decimal": "0.50",
-        "text": "30 mins",
+        "name": "Unknown Project",
+        "total_seconds": 995.867933,
+        "color": null,
+        "digital": "0:16:35",
+        "decimal": "0.27",
+        "text": "16 mins",
         "hours": 0,
-        "minutes": 30,
-        "seconds": 31,
-        "percent": 89.04
+        "minutes": 16,
+        "seconds": 35,
+        "percent": 48.41
       },
       {
-        "name": "Chrome",
+        "name": "api-trustpositif",
+        "total_seconds": 836.056188,
+        "color": null,
+        "digital": "0:13:56",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 56,
+        "percent": 40.64
+      },
+      {
+        "name": "Redirect",
         "total_seconds": 225.403,
+        "color": null,
         "digital": "0:03:45",
         "decimal": "0.05",
         "text": "3 mins",
@@ -2076,42 +2106,12 @@
         "percent": 10.96
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 2057.327121,
-        "digital": "0:34:17",
-        "decimal": "0.57",
-        "text": "34 mins",
-        "hours": 0,
-        "minutes": 34,
-        "seconds": 17,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 1831.924121,
-        "digital": "0:30:31",
-        "decimal": "0.50",
-        "text": "30 mins",
-        "hours": 0,
-        "minutes": 30,
-        "seconds": 31,
-        "percent": 89.04
-      },
-      {
-        "name": "Browsing",
-        "total_seconds": 225.403,
-        "digital": "0:03:45",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 45,
-        "percent": 10.96
-      }
-    ]
+    "range": {
+      "start": "2024-12-22T17:00:00Z",
+      "end": "2024-12-23T16:59:59Z",
+      "date": "2024-12-23",
+      "text": "Mon Dec 23rd 2024",
+      "timezone": "Asia/Bangkok"
+    }
   }
 ]

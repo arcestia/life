@@ -31,6 +31,42 @@
     "name": "Magnificat - Live",
     "url": "https://www.last.fm/music/LOJ+Worship/_/Magnificat+-+Live",
     "date": {
+      "uts": "1735219998",
+      "#text": "26 Dec 2024, 13:33"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "",
+      "#text": "LOJ Worship"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "mbid": "",
+    "album": {
+      "mbid": "",
+      "#text": "Unfailing Promises (Live)"
+    },
+    "name": "Magnificat - Live",
+    "url": "https://www.last.fm/music/LOJ+Worship/_/Magnificat+-+Live",
+    "date": {
       "uts": "1735219674",
       "#text": "26 Dec 2024, 13:27"
     }

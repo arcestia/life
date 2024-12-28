@@ -25,7 +25,7 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/LOJ+Worship/Brighter+Days",
-    "playcount": "22",
+    "playcount": "23",
     "@attr": {
       "rank": "1"
     },
@@ -65,6 +65,70 @@
   },
   {
     "artist": {
+      "url": "https://www.last.fm/music/LOJ+Worship",
+      "name": "LOJ Worship",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9b6595c8fb4dc5a196b0cd00d2ea17b3.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9b6595c8fb4dc5a196b0cd00d2ea17b3.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9b6595c8fb4dc5a196b0cd00d2ea17b3.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9b6595c8fb4dc5a196b0cd00d2ea17b3.jpg"
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/LOJ+Worship/Brave",
+    "playcount": "10",
+    "@attr": {
+      "rank": "3"
+    },
+    "name": "Brave"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/LOJ+Worship",
+      "name": "LOJ Worship",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": ""
+      },
+      {
+        "size": "medium",
+        "#text": ""
+      },
+      {
+        "size": "large",
+        "#text": ""
+      },
+      {
+        "size": "extralarge",
+        "#text": ""
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/LOJ+Worship/Unfailing+Promises+(Live)",
+    "playcount": "9",
+    "@attr": {
+      "rank": "4"
+    },
+    "name": "Unfailing Promises (Live)"
+  },
+  {
+    "artist": {
       "url": "https://www.last.fm/music/HSM+Worship",
       "name": "HSM Worship",
       "mbid": ""
@@ -91,7 +155,7 @@
     "url": "https://www.last.fm/music/HSM+Worship/Move+On",
     "playcount": "8",
     "@attr": {
-      "rank": "3"
+      "rank": "5"
     },
     "name": "Move On"
   },
@@ -123,7 +187,7 @@
     "url": "https://www.last.fm/music/Kaylee+Bell/NIGHTS+LIKE+THIS",
     "playcount": "8",
     "@attr": {
-      "rank": "4"
+      "rank": "6"
     },
     "name": "NIGHTS LIKE THIS"
   },
@@ -155,41 +219,9 @@
     "url": "https://www.last.fm/music/Kaylee+Bell/Silver+Linings",
     "playcount": "8",
     "@attr": {
-      "rank": "5"
+      "rank": "7"
     },
     "name": "Silver Linings"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/LOJ+Worship",
-      "name": "LOJ Worship",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9b6595c8fb4dc5a196b0cd00d2ea17b3.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9b6595c8fb4dc5a196b0cd00d2ea17b3.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9b6595c8fb4dc5a196b0cd00d2ea17b3.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9b6595c8fb4dc5a196b0cd00d2ea17b3.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/LOJ+Worship/Brave",
-    "playcount": "7",
-    "@attr": {
-      "rank": "6"
-    },
-    "name": "Brave"
   },
   {
     "artist": {
@@ -219,7 +251,7 @@
     "url": "https://www.last.fm/music/James+Johnston/RAISED+LIKE+THAT",
     "playcount": "6",
     "@attr": {
-      "rank": "7"
+      "rank": "8"
     },
     "name": "RAISED LIKE THAT"
   },
@@ -251,7 +283,7 @@
     "url": "https://www.last.fm/music/Kaylee+Bell/Heartfirst",
     "playcount": "6",
     "@attr": {
-      "rank": "8"
+      "rank": "9"
     },
     "name": "Heartfirst"
   },
@@ -283,41 +315,9 @@
     "url": "https://www.last.fm/music/Various+Artists/Love+to+Worship+You+(Live)+%5Bfeat.+Ps+Djohan+Handojo%5D",
     "playcount": "6",
     "@attr": {
-      "rank": "9"
-    },
-    "name": "Love to Worship You (Live) [feat. Ps Djohan Handojo]"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/LOJ+Worship",
-      "name": "LOJ Worship",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": ""
-      },
-      {
-        "size": "medium",
-        "#text": ""
-      },
-      {
-        "size": "large",
-        "#text": ""
-      },
-      {
-        "size": "extralarge",
-        "#text": ""
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/LOJ+Worship/Unfailing+Promises+(Live)",
-    "playcount": "5",
-    "@attr": {
       "rank": "10"
     },
-    "name": "Unfailing Promises (Live)"
+    "name": "Love to Worship You (Live) [feat. Ps Djohan Handojo]"
   },
   {
     "artist": {
@@ -545,6 +545,70 @@
   },
   {
     "artist": {
+      "url": "https://www.last.fm/music/LOJ+Worship",
+      "name": "LOJ Worship",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": ""
+      },
+      {
+        "size": "medium",
+        "#text": ""
+      },
+      {
+        "size": "large",
+        "#text": ""
+      },
+      {
+        "size": "extralarge",
+        "#text": ""
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/LOJ+Worship/Forward",
+    "playcount": "2",
+    "@attr": {
+      "rank": "18"
+    },
+    "name": "Forward"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/LOJ+Worship",
+      "name": "LOJ Worship",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": ""
+      },
+      {
+        "size": "medium",
+        "#text": ""
+      },
+      {
+        "size": "large",
+        "#text": ""
+      },
+      {
+        "size": "extralarge",
+        "#text": ""
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/LOJ+Worship/Greater",
+    "playcount": "2",
+    "@attr": {
+      "rank": "19"
+    },
+    "name": "Greater"
+  },
+  {
+    "artist": {
       "url": "https://www.last.fm/music/Maria+Calista",
       "name": "Maria Calista",
       "mbid": ""
@@ -571,72 +635,8 @@
     "url": "https://www.last.fm/music/Maria+Calista/Terima+Kasih+Tuhanku",
     "playcount": "2",
     "@attr": {
-      "rank": "18"
-    },
-    "name": "Terima Kasih Tuhanku"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/Marini+Nainggolan+&+Misi+Lesar",
-      "name": "Marini Nainggolan & Misi Lesar",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": ""
-      },
-      {
-        "size": "medium",
-        "#text": ""
-      },
-      {
-        "size": "large",
-        "#text": ""
-      },
-      {
-        "size": "extralarge",
-        "#text": ""
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/Marini+Nainggolan+&+Misi+Lesar/Hymn+for+Him+2",
-    "playcount": "2",
-    "@attr": {
-      "rank": "19"
-    },
-    "name": "Hymn for Him 2"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/Palmy",
-      "name": "Palmy",
-      "mbid": "21f8e84f-f6ce-4fb4-b79f-9c4c24774f64"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5c3d7fda54874ce0929205100bc74560.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5c3d7fda54874ce0929205100bc74560.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5c3d7fda54874ce0929205100bc74560.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5c3d7fda54874ce0929205100bc74560.jpg"
-      }
-    ],
-    "mbid": "31a74b42-0bcd-42fe-9a55-6120b8b29808",
-    "url": "https://www.last.fm/music/Palmy/Palmy",
-    "playcount": "2",
-    "@attr": {
       "rank": "20"
     },
-    "name": "Palmy"
+    "name": "Terima Kasih Tuhanku"
   }
 ]

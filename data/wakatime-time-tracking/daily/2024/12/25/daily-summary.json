@@ -1,16 +1,57 @@
 [
   {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 32,
+      "total_seconds": 1961.89756,
+      "digital": "0:32",
+      "decimal": "0.53",
+      "text": "32 mins"
+    },
+    "range": {
+      "start": "2024-12-25T17:00:00Z",
+      "end": "2024-12-26T16:59:59Z",
+      "date": "2024-12-26",
+      "text": "Thu Dec 26th 2024",
+      "timezone": "Asia/Bangkok"
+    },
+    "projects": [
+      {
+        "name": "Unknown Project",
+        "total_seconds": 1445.82387,
+        "color": null,
+        "digital": "0:24:05",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 5,
+        "percent": 73.7
+      },
+      {
+        "name": "cloudflare",
+        "total_seconds": 516.07369,
+        "color": null,
+        "digital": "0:08:36",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 36,
+        "percent": 26.3
+      }
+    ],
     "languages": [
       {
         "name": "Other",
-        "total_seconds": 1776.606561,
-        "digital": "0:29:36",
-        "decimal": "0.48",
-        "text": "29 mins",
+        "total_seconds": 1812.854727,
+        "digital": "0:30:12",
+        "decimal": "0.50",
+        "text": "30 mins",
         "hours": 0,
-        "minutes": 29,
-        "seconds": 36,
-        "percent": 92.26
+        "minutes": 30,
+        "seconds": 12,
+        "percent": 92.4
       },
       {
         "name": "PHP",
@@ -21,7 +62,7 @@
         "hours": 0,
         "minutes": 2,
         "seconds": 19,
-        "percent": 7.26
+        "percent": 7.12
       },
       {
         "name": "Bash",
@@ -32,54 +73,7 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 9,
-        "percent": 0.48
-      }
-    ],
-    "grand_total": {
-      "hours": 0,
-      "minutes": 32,
-      "total_seconds": 1925.649394,
-      "digital": "0:32",
-      "decimal": "0.53",
-      "text": "32 mins"
-    },
-    "editors": [
-      {
-        "name": "VS Code",
-        "total_seconds": 1925.649394,
-        "digital": "0:32:05",
-        "decimal": "0.53",
-        "text": "32 mins",
-        "hours": 0,
-        "minutes": 32,
-        "seconds": 5,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 1925.649394,
-        "digital": "0:32:05",
-        "decimal": "0.53",
-        "text": "32 mins",
-        "hours": 0,
-        "minutes": 32,
-        "seconds": 5,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 1925.649394,
-        "digital": "0:32:05",
-        "decimal": "0.53",
-        "text": "32 mins",
-        "hours": 0,
-        "minutes": 32,
-        "seconds": 5,
-        "percent": 100
+        "percent": 0.47
       }
     ],
     "dependencies": [
@@ -98,47 +92,55 @@
     "machines": [
       {
         "name": "HS-INCAMKT001",
-        "total_seconds": 1925.649394,
+        "total_seconds": 1961.89756,
         "machine_name_id": "b1903e6c-fdb7-4c8e-b8d0-6b159691bafa",
-        "digital": "0:32:05",
+        "digital": "0:32:41",
         "decimal": "0.53",
         "text": "32 mins",
         "hours": 0,
         "minutes": 32,
-        "seconds": 5,
+        "seconds": 41,
         "percent": 100
       }
     ],
-    "projects": [
+    "editors": [
       {
-        "name": "Unknown Project",
-        "total_seconds": 1445.82387,
-        "digital": "0:24:05",
-        "decimal": "0.40",
-        "text": "24 mins",
+        "name": "VS Code",
+        "total_seconds": 1961.89756,
+        "digital": "0:32:41",
+        "decimal": "0.53",
+        "text": "32 mins",
         "hours": 0,
-        "minutes": 24,
-        "seconds": 5,
-        "percent": 75.08
-      },
-      {
-        "name": "cloudflare",
-        "total_seconds": 479.825524,
-        "digital": "0:07:59",
-        "decimal": "0.12",
-        "text": "7 mins",
-        "hours": 0,
-        "minutes": 7,
-        "seconds": 59,
-        "percent": 24.92
+        "minutes": 32,
+        "seconds": 41,
+        "percent": 100
       }
     ],
-    "range": {
-      "start": "2024-12-25T17:00:00Z",
-      "end": "2024-12-26T16:59:59Z",
-      "date": "2024-12-26",
-      "text": "Thu Dec 26th 2024",
-      "timezone": "Asia/Bangkok"
-    }
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1961.89756,
+        "digital": "0:32:41",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 41,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1961.89756,
+        "digital": "0:32:41",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 41,
+        "percent": 100
+      }
+    ]
   }
 ]

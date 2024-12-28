@@ -34,7 +34,7 @@
     "@attr": {
       "rank": "1"
     },
-    "playcount": "5"
+    "playcount": "7"
   },
   {
     "streamable": {
@@ -116,6 +116,43 @@
       "#text": "0"
     },
     "mbid": "",
+    "name": "Hidupku Diberkati",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "artist": {
+      "url": "https://www.last.fm/music/LOJ+Worship",
+      "name": "LOJ Worship",
+      "mbid": ""
+    },
+    "url": "https://www.last.fm/music/LOJ+Worship/_/Hidupku+Diberkati",
+    "duration": "274",
+    "@attr": {
+      "rank": "4"
+    },
+    "playcount": "3"
+  },
+  {
+    "streamable": {
+      "fulltrack": "0",
+      "#text": "0"
+    },
+    "mbid": "",
     "name": "Laut Tak Bertepi (Worship Xperience)",
     "image": [
       {
@@ -143,7 +180,81 @@
     "url": "https://www.last.fm/music/LOJ+Worship/_/Laut+Tak+Bertepi+(Worship+Xperience)",
     "duration": "0",
     "@attr": {
-      "rank": "4"
+      "rank": "5"
+    },
+    "playcount": "3"
+  },
+  {
+    "streamable": {
+      "fulltrack": "0",
+      "#text": "0"
+    },
+    "mbid": "",
+    "name": "Nyata KebesaranMu",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "artist": {
+      "url": "https://www.last.fm/music/LOJ+Worship",
+      "name": "LOJ Worship",
+      "mbid": ""
+    },
+    "url": "https://www.last.fm/music/LOJ+Worship/_/Nyata+KebesaranMu",
+    "duration": "277",
+    "@attr": {
+      "rank": "6"
+    },
+    "playcount": "3"
+  },
+  {
+    "streamable": {
+      "fulltrack": "0",
+      "#text": "0"
+    },
+    "mbid": "",
+    "name": "Rayakan KasihMu",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "artist": {
+      "url": "https://www.last.fm/music/LOJ+Worship",
+      "name": "LOJ Worship",
+      "mbid": ""
+    },
+    "url": "https://www.last.fm/music/LOJ+Worship/_/Rayakan+KasihMu",
+    "duration": "251",
+    "@attr": {
+      "rank": "7"
     },
     "playcount": "3"
   },
@@ -180,7 +291,7 @@
     "url": "https://www.last.fm/music/Angel+Pieters/_/Tuhan+Selalu+Punya+Cara",
     "duration": "231",
     "@attr": {
-      "rank": "5"
+      "rank": "8"
     },
     "playcount": "2"
   },
@@ -217,7 +328,7 @@
     "url": "https://www.last.fm/music/Bethel+Worship/_/Yesus+Sukacitaku",
     "duration": "0",
     "@attr": {
-      "rank": "6"
+      "rank": "9"
     },
     "playcount": "2"
   },
@@ -254,7 +365,7 @@
     "url": "https://www.last.fm/music/Ezra+Lewina/_/Kurasakan+Kemuliaan-Mu",
     "duration": "233",
     "@attr": {
-      "rank": "7"
+      "rank": "10"
     },
     "playcount": "2"
   },
@@ -291,7 +402,7 @@
     "url": "https://www.last.fm/music/HSM+Worship/_/Aku+Punya+Yesus",
     "duration": "0",
     "@attr": {
-      "rank": "8"
+      "rank": "11"
     },
     "playcount": "2"
   },
@@ -328,7 +439,7 @@
     "url": "https://www.last.fm/music/HSM+Worship/_/Imanuel+-+Live",
     "duration": "0",
     "@attr": {
-      "rank": "9"
+      "rank": "12"
     },
     "playcount": "2"
   },
@@ -365,7 +476,7 @@
     "url": "https://www.last.fm/music/HSM+Worship/_/Karena+KasihMu",
     "duration": "0",
     "@attr": {
-      "rank": "10"
+      "rank": "13"
     },
     "playcount": "2"
   },
@@ -402,7 +513,7 @@
     "url": "https://www.last.fm/music/HSM+Worship/_/Kekuatanku",
     "duration": "0",
     "@attr": {
-      "rank": "11"
+      "rank": "14"
     },
     "playcount": "2"
   },
@@ -439,7 +550,7 @@
     "url": "https://www.last.fm/music/HSM+Worship/_/RancanganMu+Sempurna",
     "duration": "0",
     "@attr": {
-      "rank": "12"
+      "rank": "15"
     },
     "playcount": "2"
   },
@@ -476,7 +587,7 @@
     "url": "https://www.last.fm/music/HSM+Worship/_/Sepasti+Mentari",
     "duration": "0",
     "@attr": {
-      "rank": "13"
+      "rank": "16"
     },
     "playcount": "2"
   },
@@ -513,7 +624,7 @@
     "url": "https://www.last.fm/music/James+Johnston/_/SAME+SONGS",
     "duration": "167",
     "@attr": {
-      "rank": "14"
+      "rank": "17"
     },
     "playcount": "2"
   },
@@ -550,7 +661,7 @@
     "url": "https://www.last.fm/music/JHCC+Worship/_/Jadikan+Kami+Satu",
     "duration": "253",
     "@attr": {
-      "rank": "15"
+      "rank": "18"
     },
     "playcount": "2"
   },
@@ -587,7 +698,7 @@
     "url": "https://www.last.fm/music/Kaylee+Bell/_/A+Heart+Don%27t+Break+Like+That",
     "duration": "179",
     "@attr": {
-      "rank": "16"
+      "rank": "19"
     },
     "playcount": "2"
   },
@@ -623,117 +734,6 @@
     },
     "url": "https://www.last.fm/music/Kaylee+Bell/_/That+Summer",
     "duration": "184",
-    "@attr": {
-      "rank": "17"
-    },
-    "playcount": "2"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "Ada Dalam Hatiku",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/LOJ+Worship",
-      "name": "LOJ Worship",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/LOJ+Worship/_/Ada+Dalam+Hatiku",
-    "duration": "286",
-    "@attr": {
-      "rank": "18"
-    },
-    "playcount": "2"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "Awan Tak Memutih - Live",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/LOJ+Worship",
-      "name": "LOJ Worship",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/LOJ+Worship/_/Awan+Tak+Memutih+-+Live",
-    "duration": "0",
-    "@attr": {
-      "rank": "19"
-    },
-    "playcount": "2"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "Brighter Day",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/LOJ+Worship",
-      "name": "LOJ Worship",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/LOJ+Worship/_/Brighter+Day",
-    "duration": "267",
     "@attr": {
       "rank": "20"
     },

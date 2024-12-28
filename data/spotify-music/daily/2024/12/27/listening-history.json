@@ -1,0 +1,753 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+          "id": "7KLAD4XVPPCQ9G4Hgox94N",
+          "name": "LOJ Worship",
+          "type": "artist",
+          "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2C3Q9oP4vrk7H3wBn3M9sV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732d65295f47231b02c6362e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022d65295f47231b02c6362e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512d65295f47231b02c6362e48",
+          "width": 64
+        }
+      ],
+      "name": "Unfailing Promises (Live)",
+      "release_date": "2024-10-04",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:2C3Q9oP4vrk7H3wBn3M9sV"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+        },
+        "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+        "id": "7KLAD4XVPPCQ9G4Hgox94N",
+        "name": "LOJ Worship",
+        "type": "artist",
+        "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7cXTFY7zQC37nVhWLtszSC",
+    "is_local": false,
+    "name": "Mengerti HatiMu - Live",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+          "id": "7KLAD4XVPPCQ9G4Hgox94N",
+          "name": "LOJ Worship",
+          "type": "artist",
+          "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6SY2Eq0rtKAVSa38ZzwzO6"
+          },
+          "href": "https://api.spotify.com/v1/artists/6SY2Eq0rtKAVSa38ZzwzO6",
+          "id": "6SY2Eq0rtKAVSa38ZzwzO6",
+          "name": "HSM Worship",
+          "type": "artist",
+          "uri": "spotify:artist:6SY2Eq0rtKAVSa38ZzwzO6"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1FZbg6PrG1Q6Tc4IQSC2p7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d2582ea596d2aa8bda678b21",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d2582ea596d2aa8bda678b21",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d2582ea596d2aa8bda678b21",
+          "width": 64
+        }
+      ],
+      "name": "Brighter Days",
+      "release_date": "2022-10-17",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:1FZbg6PrG1Q6Tc4IQSC2p7"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+        },
+        "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+        "id": "7KLAD4XVPPCQ9G4Hgox94N",
+        "name": "LOJ Worship",
+        "type": "artist",
+        "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5PSq4MfbndF4MM8tHtVUxF",
+    "is_local": false,
+    "name": "Hidupku Diberkati",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+          "id": "7KLAD4XVPPCQ9G4Hgox94N",
+          "name": "LOJ Worship",
+          "type": "artist",
+          "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7cXPksLJ9rNDFlvCnL74Hp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273db6d0ac4f7f5f45c29d25384",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02db6d0ac4f7f5f45c29d25384",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851db6d0ac4f7f5f45c29d25384",
+          "width": 64
+        }
+      ],
+      "name": "Forward",
+      "release_date": "2018-09-03",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:7cXPksLJ9rNDFlvCnL74Hp"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+        },
+        "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+        "id": "7KLAD4XVPPCQ9G4Hgox94N",
+        "name": "LOJ Worship",
+        "type": "artist",
+        "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0NsIAIOOrQkSpMIiO7UTRS",
+    "is_local": false,
+    "name": "Berdiam di HadiratMu",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+          "id": "7KLAD4XVPPCQ9G4Hgox94N",
+          "name": "LOJ Worship",
+          "type": "artist",
+          "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7nuXqYLxHNOSi4GmYnUX3y",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273240b32ef0a9c9295d7f0578b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02240b32ef0a9c9295d7f0578b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851240b32ef0a9c9295d7f0578b",
+          "width": 64
+        }
+      ],
+      "name": "Champions Arise",
+      "release_date": "2018-10-16",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:7nuXqYLxHNOSi4GmYnUX3y"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+        },
+        "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+        "id": "7KLAD4XVPPCQ9G4Hgox94N",
+        "name": "LOJ Worship",
+        "type": "artist",
+        "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0E8ygoXNHORDVnf3Ua8Cr7",
+    "is_local": false,
+    "name": "Allah Yang Pasti",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+          "id": "7KLAD4XVPPCQ9G4Hgox94N",
+          "name": "LOJ Worship",
+          "type": "artist",
+          "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2C3Q9oP4vrk7H3wBn3M9sV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732d65295f47231b02c6362e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022d65295f47231b02c6362e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512d65295f47231b02c6362e48",
+          "width": 64
+        }
+      ],
+      "name": "Unfailing Promises (Live)",
+      "release_date": "2024-10-04",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:2C3Q9oP4vrk7H3wBn3M9sV"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+        },
+        "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+        "id": "7KLAD4XVPPCQ9G4Hgox94N",
+        "name": "LOJ Worship",
+        "type": "artist",
+        "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2fhAC3MJYMAMEbJEFWNvkl",
+    "is_local": false,
+    "name": "Sesuatu Yang Pasti - Live",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+          "id": "7KLAD4XVPPCQ9G4Hgox94N",
+          "name": "LOJ Worship",
+          "type": "artist",
+          "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4nMJuyKmxb7MWpwLQz0MC6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27367686b38f6d9d34e8679b046",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0267686b38f6d9d34e8679b046",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485167686b38f6d9d34e8679b046",
+          "width": 64
+        }
+      ],
+      "name": "Brave",
+      "release_date": "2020-08-17",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:4nMJuyKmxb7MWpwLQz0MC6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+        },
+        "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+        "id": "7KLAD4XVPPCQ9G4Hgox94N",
+        "name": "LOJ Worship",
+        "type": "artist",
+        "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4k3lHSbZ4qs0xVqtyUY1tn",
+    "is_local": false,
+    "name": "Kaulah Harapanku",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+          "id": "7KLAD4XVPPCQ9G4Hgox94N",
+          "name": "LOJ Worship",
+          "type": "artist",
+          "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7tsYx8ENFzqY1noIzm84Yj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273917b7fc226dbe37450d86b42",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02917b7fc226dbe37450d86b42",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851917b7fc226dbe37450d86b42",
+          "width": 64
+        }
+      ],
+      "name": "Greater",
+      "release_date": "2023-06-09",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:7tsYx8ENFzqY1noIzm84Yj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+        },
+        "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+        "id": "7KLAD4XVPPCQ9G4Hgox94N",
+        "name": "LOJ Worship",
+        "type": "artist",
+        "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5UbAdzUamkJEc5VvBzUlpz",
+    "is_local": false,
+    "name": "Hal Yang Lebih Besar",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+          "id": "7KLAD4XVPPCQ9G4Hgox94N",
+          "name": "LOJ Worship",
+          "type": "artist",
+          "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3tYc0mPokMqGcVNJwQ50AZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273137baddf3d828cff6422da81",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02137baddf3d828cff6422da81",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851137baddf3d828cff6422da81",
+          "width": 64
+        }
+      ],
+      "name": "Grand Feast 2016 \"Unshakeable\" (Live)",
+      "release_date": "2017-03-22",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:3tYc0mPokMqGcVNJwQ50AZ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+        },
+        "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+        "id": "7KLAD4XVPPCQ9G4Hgox94N",
+        "name": "LOJ Worship",
+        "type": "artist",
+        "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/125pF6o7exMubVgQEl0VaF",
+    "is_local": false,
+    "name": "Ku Bersyukur",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+          "id": "7KLAD4XVPPCQ9G4Hgox94N",
+          "name": "LOJ Worship",
+          "type": "artist",
+          "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2C3Q9oP4vrk7H3wBn3M9sV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732d65295f47231b02c6362e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022d65295f47231b02c6362e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512d65295f47231b02c6362e48",
+          "width": 64
+        }
+      ],
+      "name": "Unfailing Promises (Live)",
+      "release_date": "2024-10-04",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:2C3Q9oP4vrk7H3wBn3M9sV"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+        },
+        "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+        "id": "7KLAD4XVPPCQ9G4Hgox94N",
+        "name": "LOJ Worship",
+        "type": "artist",
+        "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6CojJVBb2fnevd5Gtkqbcr",
+    "is_local": false,
+    "name": "Magnificat - Live",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+          "id": "7KLAD4XVPPCQ9G4Hgox94N",
+          "name": "LOJ Worship",
+          "type": "artist",
+          "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2C3Q9oP4vrk7H3wBn3M9sV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732d65295f47231b02c6362e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022d65295f47231b02c6362e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512d65295f47231b02c6362e48",
+          "width": 64
+        }
+      ],
+      "name": "Unfailing Promises (Live)",
+      "release_date": "2024-10-04",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:2C3Q9oP4vrk7H3wBn3M9sV"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+        },
+        "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+        "id": "7KLAD4XVPPCQ9G4Hgox94N",
+        "name": "LOJ Worship",
+        "type": "artist",
+        "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6EIMw130Jr24QXktW3CfHy",
+    "is_local": false,
+    "name": "Sukacitaku - Live",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+          "id": "7KLAD4XVPPCQ9G4Hgox94N",
+          "name": "LOJ Worship",
+          "type": "artist",
+          "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4nMJuyKmxb7MWpwLQz0MC6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27367686b38f6d9d34e8679b046",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0267686b38f6d9d34e8679b046",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485167686b38f6d9d34e8679b046",
+          "width": 64
+        }
+      ],
+      "name": "Brave",
+      "release_date": "2020-08-17",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:4nMJuyKmxb7MWpwLQz0MC6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+        },
+        "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+        "id": "7KLAD4XVPPCQ9G4Hgox94N",
+        "name": "LOJ Worship",
+        "type": "artist",
+        "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0xzeRn9UApZUT7Qhonim3R",
+    "is_local": false,
+    "name": "Nyata KebesaranMu",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+          "id": "7KLAD4XVPPCQ9G4Hgox94N",
+          "name": "LOJ Worship",
+          "type": "artist",
+          "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4nMJuyKmxb7MWpwLQz0MC6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27367686b38f6d9d34e8679b046",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0267686b38f6d9d34e8679b046",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485167686b38f6d9d34e8679b046",
+          "width": 64
+        }
+      ],
+      "name": "Brave",
+      "release_date": "2020-08-17",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:4nMJuyKmxb7MWpwLQz0MC6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+        },
+        "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+        "id": "7KLAD4XVPPCQ9G4Hgox94N",
+        "name": "LOJ Worship",
+        "type": "artist",
+        "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/24oIbGAdGTTaGaewQnyhfN",
+    "is_local": false,
+    "name": "Rayakan KasihMu",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+          "id": "7KLAD4XVPPCQ9G4Hgox94N",
+          "name": "LOJ Worship",
+          "type": "artist",
+          "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2C3Q9oP4vrk7H3wBn3M9sV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732d65295f47231b02c6362e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022d65295f47231b02c6362e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512d65295f47231b02c6362e48",
+          "width": 64
+        }
+      ],
+      "name": "Unfailing Promises (Live)",
+      "release_date": "2024-10-04",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:2C3Q9oP4vrk7H3wBn3M9sV"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7KLAD4XVPPCQ9G4Hgox94N"
+        },
+        "href": "https://api.spotify.com/v1/artists/7KLAD4XVPPCQ9G4Hgox94N",
+        "id": "7KLAD4XVPPCQ9G4Hgox94N",
+        "name": "LOJ Worship",
+        "type": "artist",
+        "uri": "spotify:artist:7KLAD4XVPPCQ9G4Hgox94N"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6CojJVBb2fnevd5Gtkqbcr",
+    "is_local": false,
+    "name": "Magnificat - Live",
+    "preview_url": null
+  }
+]

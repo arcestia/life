@@ -26,6 +26,42 @@
     "mbid": "",
     "album": {
       "mbid": "",
+      "#text": "Unfailing Promises (Live)"
+    },
+    "name": "Mengerti HatiMu - Live",
+    "url": "https://www.last.fm/music/LOJ+Worship/_/Mengerti+HatiMu+-+Live",
+    "date": {
+      "uts": "1735305643",
+      "#text": "27 Dec 2024, 13:20"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "",
+      "#text": "LOJ Worship"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "mbid": "",
+    "album": {
+      "mbid": "",
       "#text": "Brighter Days"
     },
     "name": "Hidupku Diberkati",

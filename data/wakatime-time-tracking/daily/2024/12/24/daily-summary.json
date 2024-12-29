@@ -1,130 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 39,
-      "total_seconds": 2363.326345,
-      "digital": "0:39",
-      "decimal": "0.65",
-      "text": "39 mins"
-    },
-    "range": {
-      "start": "2024-12-24T17:00:00Z",
-      "end": "2024-12-25T16:59:59Z",
-      "date": "2024-12-25",
-      "text": "Wed Dec 25th 2024",
-      "timezone": "Asia/Bangkok"
-    },
-    "projects": [
-      {
-        "name": "codewars",
-        "total_seconds": 802.809377,
-        "color": null,
-        "digital": "0:13:22",
-        "decimal": "0.22",
-        "text": "13 mins",
-        "hours": 0,
-        "minutes": 13,
-        "seconds": 22,
-        "percent": 33.97
-      },
-      {
-        "name": "api-trustpositif",
-        "total_seconds": 544.725365,
-        "color": null,
-        "digital": "0:09:04",
-        "decimal": "0.15",
-        "text": "9 mins",
-        "hours": 0,
-        "minutes": 9,
-        "seconds": 4,
-        "percent": 23.05
-      },
-      {
-        "name": "namecheap",
-        "total_seconds": 332.983156,
-        "color": null,
-        "digital": "0:05:32",
-        "decimal": "0.08",
-        "text": "5 mins",
-        "hours": 0,
-        "minutes": 5,
-        "seconds": 32,
-        "percent": 14.09
-      },
-      {
-        "name": "namecheap-domain-manager",
-        "total_seconds": 205.119557,
-        "color": null,
-        "digital": "0:03:25",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 25,
-        "percent": 8.68
-      },
-      {
-        "name": "atprotoblog",
-        "total_seconds": 181.012531,
-        "color": null,
-        "digital": "0:03:01",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 1,
-        "percent": 7.66
-      },
-      {
-        "name": "livedraw",
-        "total_seconds": 158.116165,
-        "color": null,
-        "digital": "0:02:38",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 38,
-        "percent": 6.69
-      },
-      {
-        "name": "websocket",
-        "total_seconds": 61.605152,
-        "color": null,
-        "digital": "0:01:01",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 1,
-        "percent": 2.61
-      },
-      {
-        "name": "myprediksi",
-        "total_seconds": 42.719077,
-        "color": null,
-        "digital": "0:00:42",
-        "decimal": "0.00",
-        "text": "42 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 42,
-        "percent": 1.81
-      },
-      {
-        "name": "Checkipos",
-        "total_seconds": 34.235965,
-        "color": null,
-        "digital": "0:00:34",
-        "decimal": "0.00",
-        "text": "34 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 34,
-        "percent": 1.45
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -191,6 +66,53 @@
         "minutes": 0,
         "seconds": 6,
         "percent": 0.26
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 39,
+      "total_seconds": 2363.326345,
+      "digital": "0:39",
+      "decimal": "0.65",
+      "text": "39 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2363.326345,
+        "digital": "0:39:23",
+        "decimal": "0.65",
+        "text": "39 mins",
+        "hours": 0,
+        "minutes": 39,
+        "seconds": 23,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2363.326345,
+        "digital": "0:39:23",
+        "decimal": "0.65",
+        "text": "39 mins",
+        "hours": 0,
+        "minutes": 39,
+        "seconds": 23,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2363.326345,
+        "digital": "0:39:23",
+        "decimal": "0.65",
+        "text": "39 mins",
+        "hours": 0,
+        "minutes": 39,
+        "seconds": 23,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -880,44 +802,122 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 2363.326345,
-        "digital": "0:39:23",
-        "decimal": "0.65",
-        "text": "39 mins",
+        "name": "codewars",
+        "total_seconds": 802.809377,
+        "color": null,
+        "digital": "0:13:22",
+        "decimal": "0.22",
+        "text": "13 mins",
         "hours": 0,
-        "minutes": 39,
-        "seconds": 23,
-        "percent": 100
+        "minutes": 13,
+        "seconds": 22,
+        "percent": 33.97
+      },
+      {
+        "name": "api-trustpositif",
+        "total_seconds": 544.725365,
+        "color": null,
+        "digital": "0:09:04",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 4,
+        "percent": 23.05
+      },
+      {
+        "name": "namecheap",
+        "total_seconds": 332.983156,
+        "color": null,
+        "digital": "0:05:32",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 32,
+        "percent": 14.09
+      },
+      {
+        "name": "namecheap-domain-manager",
+        "total_seconds": 205.119557,
+        "color": null,
+        "digital": "0:03:25",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 25,
+        "percent": 8.68
+      },
+      {
+        "name": "atprotoblog",
+        "total_seconds": 181.012531,
+        "color": null,
+        "digital": "0:03:01",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 1,
+        "percent": 7.66
+      },
+      {
+        "name": "livedraw",
+        "total_seconds": 158.116165,
+        "color": null,
+        "digital": "0:02:38",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 38,
+        "percent": 6.69
+      },
+      {
+        "name": "websocket",
+        "total_seconds": 61.605152,
+        "color": null,
+        "digital": "0:01:01",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 1,
+        "percent": 2.61
+      },
+      {
+        "name": "myprediksi",
+        "total_seconds": 42.719077,
+        "color": null,
+        "digital": "0:00:42",
+        "decimal": "0.00",
+        "text": "42 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 42,
+        "percent": 1.81
+      },
+      {
+        "name": "Checkipos",
+        "total_seconds": 34.235965,
+        "color": null,
+        "digital": "0:00:34",
+        "decimal": "0.00",
+        "text": "34 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 34,
+        "percent": 1.45
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 2363.326345,
-        "digital": "0:39:23",
-        "decimal": "0.65",
-        "text": "39 mins",
-        "hours": 0,
-        "minutes": 39,
-        "seconds": 23,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 2363.326345,
-        "digital": "0:39:23",
-        "decimal": "0.65",
-        "text": "39 mins",
-        "hours": 0,
-        "minutes": 39,
-        "seconds": 23,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-12-24T17:00:00Z",
+      "end": "2024-12-25T16:59:59Z",
+      "date": "2024-12-25",
+      "text": "Wed Dec 25th 2024",
+      "timezone": "Asia/Bangkok"
+    }
   }
 ]

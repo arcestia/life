@@ -1,5 +1,58 @@
 [
   {
+    "grand_total": {
+      "hours": 1,
+      "minutes": 36,
+      "total_seconds": 5816.654615,
+      "digital": "1:36",
+      "decimal": "1.60",
+      "text": "1 hr 36 mins"
+    },
+    "range": {
+      "start": "2024-12-26T17:00:00Z",
+      "end": "2024-12-27T16:59:59Z",
+      "date": "2024-12-27",
+      "text": "Fri Dec 27th 2024",
+      "timezone": "Asia/Bangkok"
+    },
+    "projects": [
+      {
+        "name": "domainchecker",
+        "total_seconds": 3324.730261,
+        "color": null,
+        "digital": "0:55:24",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 24,
+        "percent": 57.16
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 1740.388915,
+        "color": null,
+        "digital": "0:29:00",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 0,
+        "percent": 29.92
+      },
+      {
+        "name": "nawalacheck",
+        "total_seconds": 751.535439,
+        "color": null,
+        "digital": "0:12:31",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 31,
+        "percent": 12.92
+      }
+    ],
     "languages": [
       {
         "name": "SQL",
@@ -10,7 +63,7 @@
         "hours": 0,
         "minutes": 37,
         "seconds": 39,
-        "percent": 39.08
+        "percent": 38.84
       },
       {
         "name": "TypeScript",
@@ -21,18 +74,18 @@
         "hours": 0,
         "minutes": 29,
         "seconds": 58,
-        "percent": 31.11
+        "percent": 30.91
       },
       {
         "name": "Other",
-        "total_seconds": 1719.080708,
-        "digital": "0:28:39",
-        "decimal": "0.47",
-        "text": "28 mins",
+        "total_seconds": 1754.960215,
+        "digital": "0:29:14",
+        "decimal": "0.48",
+        "text": "29 mins",
         "hours": 0,
-        "minutes": 28,
-        "seconds": 39,
-        "percent": 29.74
+        "minutes": 29,
+        "seconds": 14,
+        "percent": 30.17
       },
       {
         "name": "TOML",
@@ -46,54 +99,18 @@
         "percent": 0.07
       }
     ],
-    "grand_total": {
-      "hours": 1,
-      "minutes": 36,
-      "total_seconds": 5780.775108,
-      "digital": "1:36",
-      "decimal": "1.60",
-      "text": "1 hr 36 mins"
-    },
-    "editors": [
-      {
-        "name": "VS Code",
-        "total_seconds": 5780.775108,
-        "digital": "1:36:20",
-        "decimal": "1.60",
-        "text": "1 hr 36 mins",
-        "hours": 1,
-        "minutes": 36,
-        "seconds": 20,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 5780.775108,
-        "digital": "1:36:20",
-        "decimal": "1.60",
-        "text": "1 hr 36 mins",
-        "hours": 1,
-        "minutes": 36,
-        "seconds": 20,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 5780.775108,
-        "digital": "1:36:20",
-        "decimal": "1.60",
-        "text": "1 hr 36 mins",
-        "hours": 1,
-        "minutes": 36,
-        "seconds": 20,
-        "percent": 100
-      }
-    ],
     "dependencies": [
+      {
+        "name": "hono",
+        "total_seconds": 1798.190821,
+        "digital": "0:29:58",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 58,
+        "percent": 33.33
+      },
       {
         "name": "logger",
         "total_seconds": 1798.190821,
@@ -115,74 +132,60 @@
         "minutes": 29,
         "seconds": 58,
         "percent": 33.33
-      },
-      {
-        "name": "hono",
-        "total_seconds": 1798.190821,
-        "digital": "0:29:58",
-        "decimal": "0.48",
-        "text": "29 mins",
-        "hours": 0,
-        "minutes": 29,
-        "seconds": 58,
-        "percent": 33.33
       }
     ],
     "machines": [
       {
         "name": "HS-INCAMKT001",
-        "total_seconds": 5780.775108,
+        "total_seconds": 5816.654615,
         "machine_name_id": "b1903e6c-fdb7-4c8e-b8d0-6b159691bafa",
-        "digital": "1:36:20",
+        "digital": "1:36:56",
         "decimal": "1.60",
         "text": "1 hr 36 mins",
         "hours": 1,
         "minutes": 36,
-        "seconds": 20,
+        "seconds": 56,
         "percent": 100
       }
     ],
-    "projects": [
+    "editors": [
       {
-        "name": "domainchecker",
-        "total_seconds": 3324.730261,
-        "digital": "0:55:24",
-        "decimal": "0.92",
-        "text": "55 mins",
-        "hours": 0,
-        "minutes": 55,
-        "seconds": 24,
-        "percent": 57.51
-      },
-      {
-        "name": "Unknown Project",
-        "total_seconds": 1704.509408,
-        "digital": "0:28:24",
-        "decimal": "0.47",
-        "text": "28 mins",
-        "hours": 0,
-        "minutes": 28,
-        "seconds": 24,
-        "percent": 29.49
-      },
-      {
-        "name": "nawalacheck",
-        "total_seconds": 751.535439,
-        "digital": "0:12:31",
-        "decimal": "0.20",
-        "text": "12 mins",
-        "hours": 0,
-        "minutes": 12,
-        "seconds": 31,
-        "percent": 13
+        "name": "VS Code",
+        "total_seconds": 5816.654615,
+        "digital": "1:36:56",
+        "decimal": "1.60",
+        "text": "1 hr 36 mins",
+        "hours": 1,
+        "minutes": 36,
+        "seconds": 56,
+        "percent": 100
       }
     ],
-    "range": {
-      "start": "2024-12-26T17:00:00Z",
-      "end": "2024-12-27T16:59:59Z",
-      "date": "2024-12-27",
-      "text": "Fri Dec 27th 2024",
-      "timezone": "Asia/Bangkok"
-    }
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 5816.654615,
+        "digital": "1:36:56",
+        "decimal": "1.60",
+        "text": "1 hr 36 mins",
+        "hours": 1,
+        "minutes": 36,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5816.654615,
+        "digital": "1:36:56",
+        "decimal": "1.60",
+        "text": "1 hr 36 mins",
+        "hours": 1,
+        "minutes": 36,
+        "seconds": 56,
+        "percent": 100
+      }
+    ]
   }
 ]

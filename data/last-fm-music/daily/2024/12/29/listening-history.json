@@ -1,0 +1,38 @@
+[
+  {
+    "artist": {
+      "mbid": "21f8e84f-f6ce-4fb4-b79f-9c4c24774f64",
+      "#text": "Palmy"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b4e5f985ba8971f80b4936098b3d2fc0.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b4e5f985ba8971f80b4936098b3d2fc0.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b4e5f985ba8971f80b4936098b3d2fc0.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b4e5f985ba8971f80b4936098b3d2fc0.jpg"
+      }
+    ],
+    "mbid": "",
+    "album": {
+      "mbid": "",
+      "#text": "ขวัญเอยขวัญมา - Single"
+    },
+    "name": "ขวัญเอยขวัญมา",
+    "url": "https://www.last.fm/music/Palmy/_/%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D%E0%B9%80%E0%B8%AD%E0%B8%A2%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D%E0%B8%A1%E0%B8%B2",
+    "date": {
+      "uts": "1735440071",
+      "#text": "29 Dec 2024, 02:41"
+    }
+  }
+]

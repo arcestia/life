@@ -1,46 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 32,
-      "total_seconds": 1961.89756,
-      "digital": "0:32",
-      "decimal": "0.53",
-      "text": "32 mins"
-    },
-    "range": {
-      "start": "2024-12-25T17:00:00Z",
-      "end": "2024-12-26T16:59:59Z",
-      "date": "2024-12-26",
-      "text": "Thu Dec 26th 2024",
-      "timezone": "Asia/Bangkok"
-    },
-    "projects": [
-      {
-        "name": "Unknown Project",
-        "total_seconds": 1445.82387,
-        "color": null,
-        "digital": "0:24:05",
-        "decimal": "0.40",
-        "text": "24 mins",
-        "hours": 0,
-        "minutes": 24,
-        "seconds": 5,
-        "percent": 73.7
-      },
-      {
-        "name": "cloudflare",
-        "total_seconds": 516.07369,
-        "color": null,
-        "digital": "0:08:36",
-        "decimal": "0.13",
-        "text": "8 mins",
-        "hours": 0,
-        "minutes": 8,
-        "seconds": 36,
-        "percent": 26.3
-      }
-    ],
     "languages": [
       {
         "name": "Other",
@@ -76,33 +35,14 @@
         "percent": 0.47
       }
     ],
-    "dependencies": [
-      {
-        "name": "Illuminate",
-        "total_seconds": 139.773866,
-        "digital": "0:02:19",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 19,
-        "percent": 100
-      }
-    ],
-    "machines": [
-      {
-        "name": "HS-INCAMKT001",
-        "total_seconds": 1961.89756,
-        "machine_name_id": "b1903e6c-fdb7-4c8e-b8d0-6b159691bafa",
-        "digital": "0:32:41",
-        "decimal": "0.53",
-        "text": "32 mins",
-        "hours": 0,
-        "minutes": 32,
-        "seconds": 41,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 32,
+      "total_seconds": 1961.89756,
+      "digital": "0:32",
+      "decimal": "0.53",
+      "text": "32 mins"
+    },
     "editors": [
       {
         "name": "VS Code",
@@ -141,6 +81,66 @@
         "seconds": 41,
         "percent": 100
       }
-    ]
+    ],
+    "dependencies": [
+      {
+        "name": "Illuminate",
+        "total_seconds": 139.773866,
+        "digital": "0:02:19",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 19,
+        "percent": 100
+      }
+    ],
+    "machines": [
+      {
+        "name": "HS-INCAMKT001",
+        "total_seconds": 1961.89756,
+        "machine_name_id": "b1903e6c-fdb7-4c8e-b8d0-6b159691bafa",
+        "digital": "0:32:41",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 41,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "Unknown Project",
+        "total_seconds": 1445.82387,
+        "color": null,
+        "digital": "0:24:05",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 5,
+        "percent": 73.7
+      },
+      {
+        "name": "cloudflare",
+        "total_seconds": 516.07369,
+        "color": null,
+        "digital": "0:08:36",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 36,
+        "percent": 26.3
+      }
+    ],
+    "range": {
+      "start": "2024-12-25T17:00:00Z",
+      "end": "2024-12-26T16:59:59Z",
+      "date": "2024-12-26",
+      "text": "Thu Dec 26th 2024",
+      "timezone": "Asia/Bangkok"
+    }
   }
 ]

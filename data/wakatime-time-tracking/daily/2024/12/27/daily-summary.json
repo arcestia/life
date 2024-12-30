@@ -1,62 +1,44 @@
 [
   {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 5,
+      "total_seconds": 334.182943,
+      "digital": "0:05",
+      "decimal": "0.08",
+      "text": "5 mins"
+    },
+    "range": {
+      "start": "2024-12-27T17:00:00Z",
+      "end": "2024-12-28T16:59:59Z",
+      "date": "2024-12-28",
+      "text": "Sat Dec 28th 2024",
+      "timezone": "Asia/Bangkok"
+    },
+    "projects": [
+      {
+        "name": "Unknown Project",
+        "total_seconds": 334.182943,
+        "color": null,
+        "digital": "0:05:34",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
     "languages": [
       {
         "name": "Other",
-        "total_seconds": 233.465059,
-        "digital": "0:03:53",
-        "decimal": "0.05",
-        "text": "3 mins",
+        "total_seconds": 334.182943,
+        "digital": "0:05:34",
+        "decimal": "0.08",
+        "text": "5 mins",
         "hours": 0,
-        "minutes": 3,
-        "seconds": 53,
-        "percent": 100
-      }
-    ],
-    "grand_total": {
-      "hours": 0,
-      "minutes": 3,
-      "total_seconds": 233.465059,
-      "digital": "0:03",
-      "decimal": "0.05",
-      "text": "3 mins"
-    },
-    "editors": [
-      {
-        "name": "VS Code",
-        "total_seconds": 233.465059,
-        "digital": "0:03:53",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 53,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 233.465059,
-        "digital": "0:03:53",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 53,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 233.465059,
-        "digital": "0:03:53",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 53,
+        "minutes": 5,
+        "seconds": 34,
         "percent": 100
       }
     ],
@@ -64,36 +46,55 @@
     "machines": [
       {
         "name": "HS-INCAMKT001",
-        "total_seconds": 233.465059,
+        "total_seconds": 334.182943,
         "machine_name_id": "b1903e6c-fdb7-4c8e-b8d0-6b159691bafa",
-        "digital": "0:03:53",
-        "decimal": "0.05",
-        "text": "3 mins",
+        "digital": "0:05:34",
+        "decimal": "0.08",
+        "text": "5 mins",
         "hours": 0,
-        "minutes": 3,
-        "seconds": 53,
+        "minutes": 5,
+        "seconds": 34,
         "percent": 100
       }
     ],
-    "projects": [
+    "editors": [
       {
-        "name": "Unknown Project",
-        "total_seconds": 233.465059,
-        "digital": "0:03:53",
-        "decimal": "0.05",
-        "text": "3 mins",
+        "name": "VS Code",
+        "total_seconds": 334.182943,
+        "digital": "0:05:34",
+        "decimal": "0.08",
+        "text": "5 mins",
         "hours": 0,
-        "minutes": 3,
-        "seconds": 53,
+        "minutes": 5,
+        "seconds": 34,
         "percent": 100
       }
     ],
-    "range": {
-      "start": "2024-12-27T17:00:00Z",
-      "end": "2024-12-28T16:59:59Z",
-      "date": "2024-12-28",
-      "text": "Sat Dec 28th 2024",
-      "timezone": "Asia/Bangkok"
-    }
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 334.182943,
+        "digital": "0:05:34",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 334.182943,
+        "digital": "0:05:34",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 34,
+        "percent": 100
+      }
+    ]
   }
 ]

@@ -1,0 +1,116 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+          "id": "3yfUy4dhvq5DwrSMsEE6od",
+          "name": "Palmy",
+          "type": "artist",
+          "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6jwg6qfqYEROEjMQFjj0sD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27366a6d23cc41b113f0d4fd7e2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0266a6d23cc41b113f0d4fd7e2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485166a6d23cc41b113f0d4fd7e2",
+          "width": 64
+        }
+      ],
+      "name": "ขวัญเอยขวัญมา - Single",
+      "release_date": "2020-09-24",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6jwg6qfqYEROEjMQFjj0sD"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+        "id": "3yfUy4dhvq5DwrSMsEE6od",
+        "name": "Palmy",
+        "type": "artist",
+        "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6tlri15Qe4k8VQd1rKlv3W",
+    "is_local": false,
+    "name": "ขวัญเอยขวัญมา",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+          "id": "3yfUy4dhvq5DwrSMsEE6od",
+          "name": "Palmy",
+          "type": "artist",
+          "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4wMUed8AVSFznqnlgAdPiN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27359481006ad24db68d7fd9eed",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0259481006ad24db68d7fd9eed",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485159481006ad24db68d7fd9eed",
+          "width": 64
+        }
+      ],
+      "name": "สนิทใจ - Single",
+      "release_date": "2023-03-16",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4wMUed8AVSFznqnlgAdPiN"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+        "id": "3yfUy4dhvq5DwrSMsEE6od",
+        "name": "Palmy",
+        "type": "artist",
+        "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2PIcsOlzu5uiEZewakBanj",
+    "is_local": false,
+    "name": "สนิทใจ (เพลงจากละคร รักร้าย)",
+    "preview_url": null
+  }
+]

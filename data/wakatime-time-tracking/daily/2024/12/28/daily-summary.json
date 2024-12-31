@@ -1,16 +1,45 @@
 [
   {
+    "grand_total": {
+      "hours": 1,
+      "minutes": 4,
+      "total_seconds": 3880.725522,
+      "digital": "1:04",
+      "decimal": "1.07",
+      "text": "1 hr 4 mins"
+    },
+    "range": {
+      "start": "2024-12-28T17:00:00Z",
+      "end": "2024-12-29T16:59:59Z",
+      "date": "2024-12-29",
+      "text": "Sun Dec 29th 2024",
+      "timezone": "Asia/Bangkok"
+    },
+    "projects": [
+      {
+        "name": "Unknown Project",
+        "total_seconds": 3880.725522,
+        "color": null,
+        "digital": "1:04:40",
+        "decimal": "1.07",
+        "text": "1 hr 4 mins",
+        "hours": 1,
+        "minutes": 4,
+        "seconds": 40,
+        "percent": 100
+      }
+    ],
     "languages": [
       {
         "name": "Caddyfile",
-        "total_seconds": 2747.019458,
-        "digital": "0:45:47",
+        "total_seconds": 2756.950104,
+        "digital": "0:45:56",
         "decimal": "0.75",
         "text": "45 mins",
         "hours": 0,
         "minutes": 45,
-        "seconds": 47,
-        "percent": 70.97
+        "seconds": 56,
+        "percent": 71.04
       },
       {
         "name": "YAML",
@@ -21,90 +50,62 @@
         "hours": 0,
         "minutes": 18,
         "seconds": 43,
-        "percent": 29.03
-      }
-    ],
-    "grand_total": {
-      "hours": 1,
-      "minutes": 4,
-      "total_seconds": 3870.794876,
-      "digital": "1:04",
-      "decimal": "1.07",
-      "text": "1 hr 4 mins"
-    },
-    "editors": [
-      {
-        "name": "VS Code",
-        "total_seconds": 3870.794876,
-        "digital": "1:04:30",
-        "decimal": "1.07",
-        "text": "1 hr 4 mins",
-        "hours": 1,
-        "minutes": 4,
-        "seconds": 30,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 3870.794876,
-        "digital": "1:04:30",
-        "decimal": "1.07",
-        "text": "1 hr 4 mins",
-        "hours": 1,
-        "minutes": 4,
-        "seconds": 30,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 3870.794876,
-        "digital": "1:04:30",
-        "decimal": "1.07",
-        "text": "1 hr 4 mins",
-        "hours": 1,
-        "minutes": 4,
-        "seconds": 30,
-        "percent": 100
+        "percent": 28.96
       }
     ],
     "dependencies": [],
     "machines": [
       {
         "name": "HS-INCAMKT001",
-        "total_seconds": 3870.794876,
+        "total_seconds": 3880.725522,
         "machine_name_id": "b1903e6c-fdb7-4c8e-b8d0-6b159691bafa",
-        "digital": "1:04:30",
+        "digital": "1:04:40",
         "decimal": "1.07",
         "text": "1 hr 4 mins",
         "hours": 1,
         "minutes": 4,
-        "seconds": 30,
+        "seconds": 40,
         "percent": 100
       }
     ],
-    "projects": [
+    "editors": [
       {
-        "name": "Unknown Project",
-        "total_seconds": 3870.794876,
-        "digital": "1:04:30",
+        "name": "VS Code",
+        "total_seconds": 3880.725522,
+        "digital": "1:04:40",
         "decimal": "1.07",
         "text": "1 hr 4 mins",
         "hours": 1,
         "minutes": 4,
-        "seconds": 30,
+        "seconds": 40,
         "percent": 100
       }
     ],
-    "range": {
-      "start": "2024-12-28T17:00:00Z",
-      "end": "2024-12-29T16:59:59Z",
-      "date": "2024-12-29",
-      "text": "Sun Dec 29th 2024",
-      "timezone": "Asia/Bangkok"
-    }
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 3880.725522,
+        "digital": "1:04:40",
+        "decimal": "1.07",
+        "text": "1 hr 4 mins",
+        "hours": 1,
+        "minutes": 4,
+        "seconds": 40,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3880.725522,
+        "digital": "1:04:40",
+        "decimal": "1.07",
+        "text": "1 hr 4 mins",
+        "hours": 1,
+        "minutes": 4,
+        "seconds": 40,
+        "percent": 100
+      }
+    ]
   }
 ]

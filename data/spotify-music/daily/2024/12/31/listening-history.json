@@ -1,0 +1,1212 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+          },
+          "href": "https://api.spotify.com/v1/artists/2SWWw5uB9cO5m7zJQZqwmr",
+          "id": "2SWWw5uB9cO5m7zJQZqwmr",
+          "name": "BOWKYLION",
+          "type": "artist",
+          "uri": "spotify:artist:2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4fDluc4TkGuKBDVVzQwBW5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27363baacc502d627170164ed0f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0263baacc502d627170164ed0f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485163baacc502d627170164ed0f",
+          "width": 64
+        }
+      ],
+      "name": "แสนวิเศษ",
+      "release_date": "2022-11-12",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4fDluc4TkGuKBDVVzQwBW5"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        },
+        "href": "https://api.spotify.com/v1/artists/2SWWw5uB9cO5m7zJQZqwmr",
+        "id": "2SWWw5uB9cO5m7zJQZqwmr",
+        "name": "BOWKYLION",
+        "type": "artist",
+        "uri": "spotify:artist:2SWWw5uB9cO5m7zJQZqwmr"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1Kn5e36MsMHmlJYQNI4Vkb",
+    "is_local": false,
+    "name": "แสนวิเศษ",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ncWdDNCY4fQHIaGdfme4d",
+          "id": "6ncWdDNCY4fQHIaGdfme4d",
+          "name": "Bow Maylada",
+          "type": "artist",
+          "uri": "spotify:artist:6ncWdDNCY4fQHIaGdfme4d"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2rFDr7JyK6wHOM0ou28ncj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27314a0587cf089e8d0baac694b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0214a0587cf089e8d0baac694b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485114a0587cf089e8d0baac694b",
+          "width": 64
+        }
+      ],
+      "name": "เเฟนผมน่ารัก",
+      "release_date": "2022-09-19",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2rFDr7JyK6wHOM0ou28ncj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d"
+        },
+        "href": "https://api.spotify.com/v1/artists/6ncWdDNCY4fQHIaGdfme4d",
+        "id": "6ncWdDNCY4fQHIaGdfme4d",
+        "name": "Bow Maylada",
+        "type": "artist",
+        "uri": "spotify:artist:6ncWdDNCY4fQHIaGdfme4d"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
+        },
+        "href": "https://api.spotify.com/v1/artists/2DaMrZndfGgM3yd9ivadRC",
+        "id": "2DaMrZndfGgM3yd9ivadRC",
+        "name": "Lipta",
+        "type": "artist",
+        "uri": "spotify:artist:2DaMrZndfGgM3yd9ivadRC"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0GJHuhvKkuAnocAGNJvNw5",
+    "is_local": false,
+    "name": "เเฟนผมน่ารัก",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6chmC6o0wvACYVGTITw3Pz",
+          "id": "6chmC6o0wvACYVGTITw3Pz",
+          "name": "NONT TANONT",
+          "type": "artist",
+          "uri": "spotify:artist:6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0WgyERgiBxZTMyzpZbv0Mu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ee90e3018520f75add41cdba",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ee90e3018520f75add41cdba",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ee90e3018520f75add41cdba",
+          "width": 64
+        }
+      ],
+      "name": "Cigarette Candy & Vanilla Sky",
+      "release_date": "2022-08-01",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0WgyERgiBxZTMyzpZbv0Mu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        },
+        "href": "https://api.spotify.com/v1/artists/6chmC6o0wvACYVGTITw3Pz",
+        "id": "6chmC6o0wvACYVGTITw3Pz",
+        "name": "NONT TANONT",
+        "type": "artist",
+        "uri": "spotify:artist:6chmC6o0wvACYVGTITw3Pz"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+        "id": "1Twi7NfmUzbXF7lEMaGCqF",
+        "name": "Ink Waruntorn",
+        "type": "artist",
+        "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6ah5ZmdllIdUK0VAhkCLkN",
+    "is_local": false,
+    "name": "ถ้าเธอไม่อยากโชคร้ายเรื่องความรัก",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5h3gT12qsHsSQhWo2mRqox"
+          },
+          "href": "https://api.spotify.com/v1/artists/5h3gT12qsHsSQhWo2mRqox",
+          "id": "5h3gT12qsHsSQhWo2mRqox",
+          "name": "TheChanisara",
+          "type": "artist",
+          "uri": "spotify:artist:5h3gT12qsHsSQhWo2mRqox"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4jEtlQzKbQhriwj494khVj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738ceeffced1199808b961e527",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028ceeffced1199808b961e527",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518ceeffced1199808b961e527",
+          "width": 64
+        }
+      ],
+      "name": "เฮอร์ไมโอน้อง (Hermionong)",
+      "release_date": "2022-06-29",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4jEtlQzKbQhriwj494khVj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5h3gT12qsHsSQhWo2mRqox"
+        },
+        "href": "https://api.spotify.com/v1/artists/5h3gT12qsHsSQhWo2mRqox",
+        "id": "5h3gT12qsHsSQhWo2mRqox",
+        "name": "TheChanisara",
+        "type": "artist",
+        "uri": "spotify:artist:5h3gT12qsHsSQhWo2mRqox"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6YArEquYF9TDuqofFO9CY7",
+    "is_local": false,
+    "name": "เฮอร์ไมโอน้อง - Hermionong",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ssEwBiz4ZKrbgR6o8vOeg",
+          "id": "1ssEwBiz4ZKrbgR6o8vOeg",
+          "name": "Polycat",
+          "type": "artist",
+          "uri": "spotify:artist:1ssEwBiz4ZKrbgR6o8vOeg"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4z8dyovQ2XGFESeEeRam95",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d35e746a33990773fa9a7fb9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d35e746a33990773fa9a7fb9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d35e746a33990773fa9a7fb9",
+          "width": 64
+        }
+      ],
+      "name": "80 Kisses",
+      "release_date": "2016-03-18",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:4z8dyovQ2XGFESeEeRam95"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg"
+        },
+        "href": "https://api.spotify.com/v1/artists/1ssEwBiz4ZKrbgR6o8vOeg",
+        "id": "1ssEwBiz4ZKrbgR6o8vOeg",
+        "name": "Polycat",
+        "type": "artist",
+        "uri": "spotify:artist:1ssEwBiz4ZKrbgR6o8vOeg"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/06DPpk0hUJEgpzl5cuWNI6",
+    "is_local": false,
+    "name": "เวลาเธอยิ้ม",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+          },
+          "href": "https://api.spotify.com/v1/artists/5pokGZ1K9Hr6etaKPDxSG8",
+          "id": "5pokGZ1K9Hr6etaKPDxSG8",
+          "name": "THE TOYS",
+          "type": "artist",
+          "uri": "spotify:artist:5pokGZ1K9Hr6etaKPDxSG8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6chmC6o0wvACYVGTITw3Pz",
+          "id": "6chmC6o0wvACYVGTITw3Pz",
+          "name": "NONT TANONT",
+          "type": "artist",
+          "uri": "spotify:artist:6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3c507rxKQ6lmPMw7l3Ut6r",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27340595baf412657af206343ba",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0240595baf412657af206343ba",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485140595baf412657af206343ba",
+          "width": 64
+        }
+      ],
+      "name": "ดอกไม้ที่รอฝน (spring)",
+      "release_date": "2024-07-19",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3c507rxKQ6lmPMw7l3Ut6r"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+        },
+        "href": "https://api.spotify.com/v1/artists/5pokGZ1K9Hr6etaKPDxSG8",
+        "id": "5pokGZ1K9Hr6etaKPDxSG8",
+        "name": "THE TOYS",
+        "type": "artist",
+        "uri": "spotify:artist:5pokGZ1K9Hr6etaKPDxSG8"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        },
+        "href": "https://api.spotify.com/v1/artists/6chmC6o0wvACYVGTITw3Pz",
+        "id": "6chmC6o0wvACYVGTITw3Pz",
+        "name": "NONT TANONT",
+        "type": "artist",
+        "uri": "spotify:artist:6chmC6o0wvACYVGTITw3Pz"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4kE80JWRissrodmXuo0xYi",
+    "is_local": false,
+    "name": "ดอกไม้ที่รอฝน (spring)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
+          },
+          "href": "https://api.spotify.com/v1/artists/2DaMrZndfGgM3yd9ivadRC",
+          "id": "2DaMrZndfGgM3yd9ivadRC",
+          "name": "Lipta",
+          "type": "artist",
+          "uri": "spotify:artist:2DaMrZndfGgM3yd9ivadRC"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7v34vOU4Mf0666FHQmmIQJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732df09ab7b75fd426ace824c9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022df09ab7b75fd426ace824c9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512df09ab7b75fd426ace824c9",
+          "width": 64
+        }
+      ],
+      "name": "ไปอยู่ที่ไหนมา (From \"ก๊วนคานทองกับแก๊งพ่อปลาไหล\")",
+      "release_date": "2014-04-16",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7v34vOU4Mf0666FHQmmIQJ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
+        },
+        "href": "https://api.spotify.com/v1/artists/2DaMrZndfGgM3yd9ivadRC",
+        "id": "2DaMrZndfGgM3yd9ivadRC",
+        "name": "Lipta",
+        "type": "artist",
+        "uri": "spotify:artist:2DaMrZndfGgM3yd9ivadRC"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0afUkf9Zlh2SMCN1syltUq",
+    "is_local": false,
+    "name": "ไปอยู่ที่ไหนมา - From \"ก๊วนคานทองกับแก๊งพ่อปลาไหล\"",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw"
+          },
+          "href": "https://api.spotify.com/v1/artists/1DsSoeOUg0YS2hl2czNcbw",
+          "id": "1DsSoeOUg0YS2hl2czNcbw",
+          "name": "Safeplanet",
+          "type": "artist",
+          "uri": "spotify:artist:1DsSoeOUg0YS2hl2czNcbw"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/31PTsm7KH7Ad8ZXLXaJR2g",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732e143e19a7142f938ea90f95",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022e143e19a7142f938ea90f95",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512e143e19a7142f938ea90f95",
+          "width": 64
+        }
+      ],
+      "name": "Safeboys",
+      "release_date": "2019-09-10",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:31PTsm7KH7Ad8ZXLXaJR2g"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw"
+        },
+        "href": "https://api.spotify.com/v1/artists/1DsSoeOUg0YS2hl2czNcbw",
+        "id": "1DsSoeOUg0YS2hl2czNcbw",
+        "name": "Safeplanet",
+        "type": "artist",
+        "uri": "spotify:artist:1DsSoeOUg0YS2hl2czNcbw"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/13y3BLdlSdVH7wJwavs06O",
+    "is_local": false,
+    "name": "กอดความเจ็บช้ำ ( Carry )",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5fYMwzhko3iLCsqNhy07NG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5fYMwzhko3iLCsqNhy07NG",
+          "id": "5fYMwzhko3iLCsqNhy07NG",
+          "name": "MEAN Band",
+          "type": "artist",
+          "uri": "spotify:artist:5fYMwzhko3iLCsqNhy07NG"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/63au6hvg3aKYo64wQFoqKI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cfe28dbb7c9422ad31ef36bf",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cfe28dbb7c9422ad31ef36bf",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cfe28dbb7c9422ad31ef36bf",
+          "width": 64
+        }
+      ],
+      "name": "พอเถอะ",
+      "release_date": "2019-05-07",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:63au6hvg3aKYo64wQFoqKI"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5fYMwzhko3iLCsqNhy07NG"
+        },
+        "href": "https://api.spotify.com/v1/artists/5fYMwzhko3iLCsqNhy07NG",
+        "id": "5fYMwzhko3iLCsqNhy07NG",
+        "name": "MEAN Band",
+        "type": "artist",
+        "uri": "spotify:artist:5fYMwzhko3iLCsqNhy07NG"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7CFEgj1Fn9XRRV3H2WWJke",
+    "is_local": false,
+    "name": "พอเถอะ",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+          "id": "3yfUy4dhvq5DwrSMsEE6od",
+          "name": "Palmy",
+          "type": "artist",
+          "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/00REgtqxyIlnPYP3Js64aV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732b71a3a6062e0ab5adc9c398",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022b71a3a6062e0ab5adc9c398",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512b71a3a6062e0ab5adc9c398",
+          "width": 64
+        }
+      ],
+      "name": "Palmy",
+      "release_date": "2001-12-21",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:00REgtqxyIlnPYP3Js64aV"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+        "id": "3yfUy4dhvq5DwrSMsEE6od",
+        "name": "Palmy",
+        "type": "artist",
+        "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5dJovWUQMzSQPmn3Lt7q1G",
+    "is_local": false,
+    "name": "ทบทวน",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl"
+          },
+          "href": "https://api.spotify.com/v1/artists/4e3QCzBNkr0t3GGqo86Ofl",
+          "id": "4e3QCzBNkr0t3GGqo86Ofl",
+          "name": "Stamp",
+          "type": "artist",
+          "uri": "spotify:artist:4e3QCzBNkr0t3GGqo86Ofl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+          },
+          "href": "https://api.spotify.com/v1/artists/0XkEUMM4lJHAzfTK9vR0cu",
+          "id": "0XkEUMM4lJHAzfTK9vR0cu",
+          "name": "Violette Wautier",
+          "type": "artist",
+          "uri": "spotify:artist:0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5ZyBwGsykmsxmxk8qNu7pD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e5d98497a18b08bd8a679962",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e5d98497a18b08bd8a679962",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e5d98497a18b08bd8a679962",
+          "width": 64
+        }
+      ],
+      "name": "ถ้าเธอ",
+      "release_date": "2022-01-21",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5ZyBwGsykmsxmxk8qNu7pD"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl"
+        },
+        "href": "https://api.spotify.com/v1/artists/4e3QCzBNkr0t3GGqo86Ofl",
+        "id": "4e3QCzBNkr0t3GGqo86Ofl",
+        "name": "Stamp",
+        "type": "artist",
+        "uri": "spotify:artist:4e3QCzBNkr0t3GGqo86Ofl"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        },
+        "href": "https://api.spotify.com/v1/artists/0XkEUMM4lJHAzfTK9vR0cu",
+        "id": "0XkEUMM4lJHAzfTK9vR0cu",
+        "name": "Violette Wautier",
+        "type": "artist",
+        "uri": "spotify:artist:0XkEUMM4lJHAzfTK9vR0cu"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2bGK8OZkr2IH4XHFMWS3CZ",
+    "is_local": false,
+    "name": "ถ้าเธอ feat. Violette Wautier",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+          "id": "3yfUy4dhvq5DwrSMsEE6od",
+          "name": "Palmy",
+          "type": "artist",
+          "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5alxV5Lo4HZXwJEhwvrMHQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bf80c52678d519721de411c1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bf80c52678d519721de411c1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bf80c52678d519721de411c1",
+          "width": 64
+        }
+      ],
+      "name": "PALMY SHOWCASE",
+      "release_date": "2005-03-15",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:5alxV5Lo4HZXwJEhwvrMHQ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+        "id": "3yfUy4dhvq5DwrSMsEE6od",
+        "name": "Palmy",
+        "type": "artist",
+        "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4T3fVcoqTBxFMHuxUxyUDr",
+    "is_local": false,
+    "name": "ความทรงจำสีจาง (เพลงประกอบภาพยนตร์ แฟนฉัน)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
+          },
+          "href": "https://api.spotify.com/v1/artists/2DaMrZndfGgM3yd9ivadRC",
+          "id": "2DaMrZndfGgM3yd9ivadRC",
+          "name": "Lipta",
+          "type": "artist",
+          "uri": "spotify:artist:2DaMrZndfGgM3yd9ivadRC"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4QCpZmpuRq2ulKKBeHxNfa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a35df4ad75a1a460ee9c7087",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a35df4ad75a1a460ee9c7087",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a35df4ad75a1a460ee9c7087",
+          "width": 64
+        }
+      ],
+      "name": "Super Serious",
+      "release_date": "2021-10-22",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:4QCpZmpuRq2ulKKBeHxNfa"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
+        },
+        "href": "https://api.spotify.com/v1/artists/2DaMrZndfGgM3yd9ivadRC",
+        "id": "2DaMrZndfGgM3yd9ivadRC",
+        "name": "Lipta",
+        "type": "artist",
+        "uri": "spotify:artist:2DaMrZndfGgM3yd9ivadRC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4zPopbZZriwgfpEnxjtcOc"
+        },
+        "href": "https://api.spotify.com/v1/artists/4zPopbZZriwgfpEnxjtcOc",
+        "id": "4zPopbZZriwgfpEnxjtcOc",
+        "name": "KOB FLAT BOY",
+        "type": "artist",
+        "uri": "spotify:artist:4zPopbZZriwgfpEnxjtcOc"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5ZRFzbx0UdYhYTTj9G2L8I",
+    "is_local": false,
+    "name": "นี่ฉันเอง",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh"
+          },
+          "href": "https://api.spotify.com/v1/artists/6f38IgFJNrepAhVQzVRSdh",
+          "id": "6f38IgFJNrepAhVQzVRSdh",
+          "name": "Whal & Dolph",
+          "type": "artist",
+          "uri": "spotify:artist:6f38IgFJNrepAhVQzVRSdh"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7nNAJmV2ohLa1DZsqsC9Jw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27372011b538ad5fd890f09dfa9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0272011b538ad5fd890f09dfa9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485172011b538ad5fd890f09dfa9",
+          "width": 64
+        }
+      ],
+      "name": "WILLISHMARA (วิลิศมาหรา)",
+      "release_date": "2021-03-31",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:7nNAJmV2ohLa1DZsqsC9Jw"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh"
+        },
+        "href": "https://api.spotify.com/v1/artists/6f38IgFJNrepAhVQzVRSdh",
+        "id": "6f38IgFJNrepAhVQzVRSdh",
+        "name": "Whal & Dolph",
+        "type": "artist",
+        "uri": "spotify:artist:6f38IgFJNrepAhVQzVRSdh"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0TM8yOGueqFxCw85eaSdtF",
+    "is_local": false,
+    "name": "ใจเดียว",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+          },
+          "href": "https://api.spotify.com/v1/artists/5pokGZ1K9Hr6etaKPDxSG8",
+          "id": "5pokGZ1K9Hr6etaKPDxSG8",
+          "name": "THE TOYS",
+          "type": "artist",
+          "uri": "spotify:artist:5pokGZ1K9Hr6etaKPDxSG8"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5SntqKVAPjrv7hmtsJKx4p",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fcb272235bb3cdeac7a40755",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fcb272235bb3cdeac7a40755",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fcb272235bb3cdeac7a40755",
+          "width": 64
+        }
+      ],
+      "name": "ไวน์ลดา",
+      "release_date": "2021-03-01",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5SntqKVAPjrv7hmtsJKx4p"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+        },
+        "href": "https://api.spotify.com/v1/artists/5pokGZ1K9Hr6etaKPDxSG8",
+        "id": "5pokGZ1K9Hr6etaKPDxSG8",
+        "name": "THE TOYS",
+        "type": "artist",
+        "uri": "spotify:artist:5pokGZ1K9Hr6etaKPDxSG8"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1RVYucT3tc32YzRDsP30t3",
+    "is_local": false,
+    "name": "ไวน์ลดา",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+          "id": "3yfUy4dhvq5DwrSMsEE6od",
+          "name": "Palmy",
+          "type": "artist",
+          "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/00REgtqxyIlnPYP3Js64aV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732b71a3a6062e0ab5adc9c398",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022b71a3a6062e0ab5adc9c398",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512b71a3a6062e0ab5adc9c398",
+          "width": 64
+        }
+      ],
+      "name": "Palmy",
+      "release_date": "2001-12-21",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:00REgtqxyIlnPYP3Js64aV"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+        "id": "3yfUy4dhvq5DwrSMsEE6od",
+        "name": "Palmy",
+        "type": "artist",
+        "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4Q9hNRHnGikmQPbXzbzhdR",
+    "is_local": false,
+    "name": "กลัว",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+          },
+          "href": "https://api.spotify.com/v1/artists/2SWWw5uB9cO5m7zJQZqwmr",
+          "id": "2SWWw5uB9cO5m7zJQZqwmr",
+          "name": "BOWKYLION",
+          "type": "artist",
+          "uri": "spotify:artist:2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3qyFShIWhPpf4lgxZ1EaWE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f3887c56bde16342cc0e8fb6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f3887c56bde16342cc0e8fb6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f3887c56bde16342cc0e8fb6",
+          "width": 64
+        }
+      ],
+      "name": "รู้กันแค่นี้ (mint)",
+      "release_date": "2023-02-14",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3qyFShIWhPpf4lgxZ1EaWE"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        },
+        "href": "https://api.spotify.com/v1/artists/2SWWw5uB9cO5m7zJQZqwmr",
+        "id": "2SWWw5uB9cO5m7zJQZqwmr",
+        "name": "BOWKYLION",
+        "type": "artist",
+        "uri": "spotify:artist:2SWWw5uB9cO5m7zJQZqwmr"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6ck9dK5Wh0lZvvBsX49HZD",
+    "is_local": false,
+    "name": "รู้กันแค่นี้ - mint",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+          "id": "3yfUy4dhvq5DwrSMsEE6od",
+          "name": "Palmy",
+          "type": "artist",
+          "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/00REgtqxyIlnPYP3Js64aV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732b71a3a6062e0ab5adc9c398",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022b71a3a6062e0ab5adc9c398",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512b71a3a6062e0ab5adc9c398",
+          "width": 64
+        }
+      ],
+      "name": "Palmy",
+      "release_date": "2001-12-21",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:00REgtqxyIlnPYP3Js64aV"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yfUy4dhvq5DwrSMsEE6od",
+        "id": "3yfUy4dhvq5DwrSMsEE6od",
+        "name": "Palmy",
+        "type": "artist",
+        "uri": "spotify:artist:3yfUy4dhvq5DwrSMsEE6od"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6hFmwFScmYBHQxhEUxq1IS",
+    "is_local": false,
+    "name": "แปดโมงเช้าวันอังคาร",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+          },
+          "href": "https://api.spotify.com/v1/artists/2SWWw5uB9cO5m7zJQZqwmr",
+          "id": "2SWWw5uB9cO5m7zJQZqwmr",
+          "name": "BOWKYLION",
+          "type": "artist",
+          "uri": "spotify:artist:2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7r8dBkF7ABMLXIFQEuVbk2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f08be4d1f8d904aba351b4a7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f08be4d1f8d904aba351b4a7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f08be4d1f8d904aba351b4a7",
+          "width": 64
+        }
+      ],
+      "name": "ทราบแล้วเปลี่ยน (attention please)",
+      "release_date": "2022-03-17",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7r8dBkF7ABMLXIFQEuVbk2"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        },
+        "href": "https://api.spotify.com/v1/artists/2SWWw5uB9cO5m7zJQZqwmr",
+        "id": "2SWWw5uB9cO5m7zJQZqwmr",
+        "name": "BOWKYLION",
+        "type": "artist",
+        "uri": "spotify:artist:2SWWw5uB9cO5m7zJQZqwmr"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7MxhdBolnOFvWu4WMURsX5",
+    "is_local": false,
+    "name": "ทราบแล้วเปลี่ยน - attention please",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jZzFwB8FGHZVcQXrtliop"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jZzFwB8FGHZVcQXrtliop",
+          "id": "7jZzFwB8FGHZVcQXrtliop",
+          "name": "Gene Kasidit",
+          "type": "artist",
+          "uri": "spotify:artist:7jZzFwB8FGHZVcQXrtliop"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2EHKntBaH8zm0V2kZIbiBh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e95a1090217993a6c58e8271",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e95a1090217993a6c58e8271",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e95a1090217993a6c58e8271",
+          "width": 64
+        }
+      ],
+      "name": "BLONDE",
+      "release_date": "2014-08-16",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:2EHKntBaH8zm0V2kZIbiBh"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7jZzFwB8FGHZVcQXrtliop"
+        },
+        "href": "https://api.spotify.com/v1/artists/7jZzFwB8FGHZVcQXrtliop",
+        "id": "7jZzFwB8FGHZVcQXrtliop",
+        "name": "Gene Kasidit",
+        "type": "artist",
+        "uri": "spotify:artist:7jZzFwB8FGHZVcQXrtliop"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3zc9UfgETcTMGiazW58Klg",
+    "is_local": false,
+    "name": "ร W8",
+    "preview_url": null
+  }
+]

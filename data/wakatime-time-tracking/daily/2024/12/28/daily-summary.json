@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 4,
-      "total_seconds": 3880.725522,
-      "digital": "1:04",
-      "decimal": "1.07",
-      "text": "1 hr 4 mins"
-    },
-    "range": {
-      "start": "2024-12-28T17:00:00Z",
-      "end": "2024-12-29T16:59:59Z",
-      "date": "2024-12-29",
-      "text": "Sun Dec 29th 2024",
-      "timezone": "Asia/Bangkok"
-    },
-    "projects": [
-      {
-        "name": "Unknown Project",
-        "total_seconds": 3880.725522,
-        "color": null,
-        "digital": "1:04:40",
-        "decimal": "1.07",
-        "text": "1 hr 4 mins",
-        "hours": 1,
-        "minutes": 4,
-        "seconds": 40,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "Caddyfile",
@@ -53,21 +24,14 @@
         "percent": 28.96
       }
     ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "HS-INCAMKT001",
-        "total_seconds": 3880.725522,
-        "machine_name_id": "b1903e6c-fdb7-4c8e-b8d0-6b159691bafa",
-        "digital": "1:04:40",
-        "decimal": "1.07",
-        "text": "1 hr 4 mins",
-        "hours": 1,
-        "minutes": 4,
-        "seconds": 40,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 4,
+      "total_seconds": 3880.725522,
+      "digital": "1:04",
+      "decimal": "1.07",
+      "text": "1 hr 4 mins"
+    },
     "editors": [
       {
         "name": "VS Code",
@@ -106,6 +70,41 @@
         "seconds": 40,
         "percent": 100
       }
-    ]
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "HS-INCAMKT001",
+        "total_seconds": 3880.725522,
+        "machine_name_id": "b1903e6c-fdb7-4c8e-b8d0-6b159691bafa",
+        "digital": "1:04:40",
+        "decimal": "1.07",
+        "text": "1 hr 4 mins",
+        "hours": 1,
+        "minutes": 4,
+        "seconds": 40,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "Unknown Project",
+        "total_seconds": 3880.725522,
+        "digital": "1:04:40",
+        "decimal": "1.07",
+        "text": "1 hr 4 mins",
+        "hours": 1,
+        "minutes": 4,
+        "seconds": 40,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-12-28T17:00:00Z",
+      "end": "2024-12-29T16:59:59Z",
+      "date": "2024-12-29",
+      "text": "Sun Dec 29th 2024",
+      "timezone": "Asia/Bangkok"
+    }
   }
 ]

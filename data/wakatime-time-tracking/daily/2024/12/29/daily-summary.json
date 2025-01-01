@@ -2,7 +2,40 @@
   {
     "languages": [
       {
+        "name": "TypeScript",
+        "total_seconds": 22.045067,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 53.95
+      },
+      {
         "name": "Git Config",
+        "total_seconds": 17.567423,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 42.99
+      },
+      {
+        "name": "TSConfig",
+        "total_seconds": 1.246909,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 3.05
+      },
+      {
+        "name": "Markdown",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -16,7 +49,7 @@
     "grand_total": {
       "hours": 0,
       "minutes": 0,
-      "total_seconds": 0,
+      "total_seconds": 40.859399,
       "digital": "0:00",
       "decimal": "0.00",
       "text": "0 secs"
@@ -24,68 +57,102 @@
     "editors": [
       {
         "name": "VS Code",
-        "total_seconds": 0,
-        "digital": "0:00:00",
+        "total_seconds": 40.859399,
+        "digital": "0:00:40",
         "decimal": "0.00",
-        "text": "0 secs",
+        "text": "40 secs",
         "hours": 0,
         "minutes": 0,
-        "seconds": 0,
-        "percent": 0
+        "seconds": 40,
+        "percent": 100
       }
     ],
     "operating_systems": [
       {
         "name": "Windows",
-        "total_seconds": 0,
-        "digital": "0:00:00",
+        "total_seconds": 40.859399,
+        "digital": "0:00:40",
         "decimal": "0.00",
-        "text": "0 secs",
+        "text": "40 secs",
         "hours": 0,
         "minutes": 0,
-        "seconds": 0,
-        "percent": 0
+        "seconds": 40,
+        "percent": 100
       }
     ],
     "categories": [
       {
         "name": "Coding",
-        "total_seconds": 0,
-        "digital": "0:00:00",
+        "total_seconds": 40.859399,
+        "digital": "0:00:40",
         "decimal": "0.00",
-        "text": "0 secs",
+        "text": "40 secs",
         "hours": 0,
         "minutes": 0,
-        "seconds": 0,
-        "percent": 0
+        "seconds": 40,
+        "percent": 100
       }
     ],
-    "dependencies": [],
+    "dependencies": [
+      {
+        "name": "cors",
+        "total_seconds": 22.045067,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 33.33
+      },
+      {
+        "name": "hono",
+        "total_seconds": 22.045067,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 33.33
+      },
+      {
+        "name": "logger",
+        "total_seconds": 22.045067,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 33.33
+      }
+    ],
     "machines": [
       {
         "name": "HS-INCAMKT001",
-        "total_seconds": 0,
+        "total_seconds": 40.859399,
         "machine_name_id": "b1903e6c-fdb7-4c8e-b8d0-6b159691bafa",
-        "digital": "0:00:00",
+        "digital": "0:00:40",
         "decimal": "0.00",
-        "text": "0 secs",
+        "text": "40 secs",
         "hours": 0,
         "minutes": 0,
-        "seconds": 0,
-        "percent": 0
+        "seconds": 40,
+        "percent": 100
       }
     ],
     "projects": [
       {
         "name": "domainchecker",
-        "total_seconds": 0,
-        "digital": "0:00:00",
+        "total_seconds": 40.859399,
+        "digital": "0:00:40",
         "decimal": "0.00",
-        "text": "0 secs",
+        "text": "40 secs",
         "hours": 0,
         "minutes": 0,
-        "seconds": 0,
-        "percent": 0
+        "seconds": 40,
+        "percent": 100
       }
     ],
     "range": {

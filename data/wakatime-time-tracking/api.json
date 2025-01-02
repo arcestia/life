@@ -1,7 +1,8 @@
 {
   "days": "days.json",
   "months": [
-    "2024.json"
+    "2024.json",
+    "2025.json"
   ],
   "weeks": {
     "2024": [

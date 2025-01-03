@@ -1,0 +1,1222 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Kxlr1PRlDKEB0ekOCyHgX",
+          "id": "4Kxlr1PRlDKEB0ekOCyHgX",
+          "name": "BIGBANG",
+          "type": "artist",
+          "uri": "spotify:artist:4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2SPrl8C8pgSM5gXbAiyJHY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fd0d9a33127c1d3f58ba3504",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fd0d9a33127c1d3f58ba3504",
+          "width": 64
+        }
+      ],
+      "name": "MADE",
+      "release_date": "2016-12-13",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2SPrl8C8pgSM5gXbAiyJHY"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        },
+        "href": "https://api.spotify.com/v1/artists/4Kxlr1PRlDKEB0ekOCyHgX",
+        "id": "4Kxlr1PRlDKEB0ekOCyHgX",
+        "name": "BIGBANG",
+        "type": "artist",
+        "uri": "spotify:artist:4Kxlr1PRlDKEB0ekOCyHgX"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3dI59jLoFMjMAyUAyRZnkE",
+    "is_local": false,
+    "name": "BANG BANG BANG",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6OwKE9Ez6ALxpTaKcT5ayv",
+          "id": "6OwKE9Ez6ALxpTaKcT5ayv",
+          "name": "AKMU",
+          "type": "artist",
+          "uri": "spotify:artist:6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1eu07xRE0vQfN5et0Y3DAy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0278551e802bd7b81d7af67dfb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485178551e802bd7b81d7af67dfb",
+          "width": 64
+        }
+      ],
+      "name": "PLAY",
+      "release_date": "2014-04-07",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:1eu07xRE0vQfN5et0Y3DAy"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        },
+        "href": "https://api.spotify.com/v1/artists/6OwKE9Ez6ALxpTaKcT5ayv",
+        "id": "6OwKE9Ez6ALxpTaKcT5ayv",
+        "name": "AKMU",
+        "type": "artist",
+        "uri": "spotify:artist:6OwKE9Ez6ALxpTaKcT5ayv"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6qkx0tenDglbF21CU4wa1k",
+    "is_local": false,
+    "name": "200%",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/67GVCR4Gh0Z0TS36AfhRJd",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273527ad36b7207f2cde36b4350",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02527ad36b7207f2cde36b4350",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851527ad36b7207f2cde36b4350",
+          "width": 64
+        }
+      ],
+      "name": "G-DRAGON 2017 WORLD TOUR <ACT III, M.O.T.T.E> IN JAPAN",
+      "release_date": "2018-02-07",
+      "release_date_precision": "day",
+      "total_tracks": 22,
+      "type": "album",
+      "uri": "spotify:album:67GVCR4Gh0Z0TS36AfhRJd"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3Xf7SAddPL9CRSIsJZfVoQ",
+    "is_local": false,
+    "name": "INTRO. KWON JI YONG (Middle Fingers-Up) - G-DRAGON 2017 WORLD TOUR <ACT III, M.O.T.T.E> IN JAPAN",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+          },
+          "href": "https://api.spotify.com/v1/artists/3eVa5w3URK5duf6eyVDbu9",
+          "id": "3eVa5w3URK5duf6eyVDbu9",
+          "name": "ROSÉ",
+          "type": "artist",
+          "uri": "spotify:artist:3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/52MYcZ4Hzvy9vJcPicjfHZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730fdd9fc8745ed9185dc95873",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020fdd9fc8745ed9185dc95873",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510fdd9fc8745ed9185dc95873",
+          "width": 64
+        }
+      ],
+      "name": "R",
+      "release_date": "2021-03-12",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:52MYcZ4Hzvy9vJcPicjfHZ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        "href": "https://api.spotify.com/v1/artists/3eVa5w3URK5duf6eyVDbu9",
+        "id": "3eVa5w3URK5duf6eyVDbu9",
+        "name": "ROSÉ",
+        "type": "artist",
+        "uri": "spotify:artist:3eVa5w3URK5duf6eyVDbu9"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2xgACMNtJ5YktyvOC83SPO",
+    "is_local": false,
+    "name": "On The Ground",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+          },
+          "href": "https://api.spotify.com/v1/artists/3b4kLCI0ZJW47TFsNRqgCb",
+          "id": "3b4kLCI0ZJW47TFsNRqgCb",
+          "name": "SOYOU",
+          "type": "artist",
+          "uri": "spotify:artist:3b4kLCI0ZJW47TFsNRqgCb"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/36sxaODM0ii4HmNjPLWS9A",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273aedfaa9d801ec628715a79ed",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02aedfaa9d801ec628715a79ed",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851aedfaa9d801ec628715a79ed",
+          "width": 64
+        }
+      ],
+      "name": "Guardian (Original Television Soundtrack), Pt. 7",
+      "release_date": "2016-12-31",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:36sxaODM0ii4HmNjPLWS9A"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        },
+        "href": "https://api.spotify.com/v1/artists/3b4kLCI0ZJW47TFsNRqgCb",
+        "id": "3b4kLCI0ZJW47TFsNRqgCb",
+        "name": "SOYOU",
+        "type": "artist",
+        "uri": "spotify:artist:3b4kLCI0ZJW47TFsNRqgCb"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3SfbB0Y3saMIQnNctxMVhj",
+    "is_local": false,
+    "name": "I Miss You",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3e3oLJehq4vQl2H0FAJnvn"
+          },
+          "href": "https://api.spotify.com/v1/artists/3e3oLJehq4vQl2H0FAJnvn",
+          "id": "3e3oLJehq4vQl2H0FAJnvn",
+          "name": "GD&TOP",
+          "type": "artist",
+          "uri": "spotify:artist:3e3oLJehq4vQl2H0FAJnvn"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6M11igFHxA92s2ks2uqu6F",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735f1fdcba9a677d0c124e2c15",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025f1fdcba9a677d0c124e2c15",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515f1fdcba9a677d0c124e2c15",
+          "width": 64
+        }
+      ],
+      "name": "GD&TOP",
+      "release_date": "2010-12-24",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:6M11igFHxA92s2ks2uqu6F"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3e3oLJehq4vQl2H0FAJnvn"
+        },
+        "href": "https://api.spotify.com/v1/artists/3e3oLJehq4vQl2H0FAJnvn",
+        "id": "3e3oLJehq4vQl2H0FAJnvn",
+        "name": "GD&TOP",
+        "type": "artist",
+        "uri": "spotify:artist:3e3oLJehq4vQl2H0FAJnvn"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/2vcQDCJ2u67N9wkV4B31Um",
+    "is_local": false,
+    "name": "Don't Leave",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Kxlr1PRlDKEB0ekOCyHgX",
+          "id": "4Kxlr1PRlDKEB0ekOCyHgX",
+          "name": "BIGBANG",
+          "type": "artist",
+          "uri": "spotify:artist:4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2SPrl8C8pgSM5gXbAiyJHY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fd0d9a33127c1d3f58ba3504",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fd0d9a33127c1d3f58ba3504",
+          "width": 64
+        }
+      ],
+      "name": "MADE",
+      "release_date": "2016-12-13",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2SPrl8C8pgSM5gXbAiyJHY"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        },
+        "href": "https://api.spotify.com/v1/artists/4Kxlr1PRlDKEB0ekOCyHgX",
+        "id": "4Kxlr1PRlDKEB0ekOCyHgX",
+        "name": "BIGBANG",
+        "type": "artist",
+        "uri": "spotify:artist:4Kxlr1PRlDKEB0ekOCyHgX"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6UgkB0xM45TR3Zjqm3GQ6T",
+    "is_local": false,
+    "name": "LET'S NOT FALL IN LOVE",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz"
+          },
+          "href": "https://api.spotify.com/v1/artists/0MU0Hxwaz1daT4FVqx3Smz",
+          "id": "0MU0Hxwaz1daT4FVqx3Smz",
+          "name": "CHO JUNG SEOK",
+          "type": "artist",
+          "uri": "spotify:artist:0MU0Hxwaz1daT4FVqx3Smz"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3GHYyymoaYQFxj7GWv1Ccs",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736fa3ae4086a3822771daec6d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026fa3ae4086a3822771daec6d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516fa3ae4086a3822771daec6d",
+          "width": 64
+        }
+      ],
+      "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 3",
+      "release_date": "2020-03-27",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:3GHYyymoaYQFxj7GWv1Ccs"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz"
+        },
+        "href": "https://api.spotify.com/v1/artists/0MU0Hxwaz1daT4FVqx3Smz",
+        "id": "0MU0Hxwaz1daT4FVqx3Smz",
+        "name": "CHO JUNG SEOK",
+        "type": "artist",
+        "uri": "spotify:artist:0MU0Hxwaz1daT4FVqx3Smz"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1hOEq5q9L41E2YbLhVvW5x",
+    "is_local": false,
+    "name": "Aloha",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/67GVCR4Gh0Z0TS36AfhRJd",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273527ad36b7207f2cde36b4350",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02527ad36b7207f2cde36b4350",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851527ad36b7207f2cde36b4350",
+          "width": 64
+        }
+      ],
+      "name": "G-DRAGON 2017 WORLD TOUR <ACT III, M.O.T.T.E> IN JAPAN",
+      "release_date": "2018-02-07",
+      "release_date_precision": "day",
+      "total_tracks": 22,
+      "type": "album",
+      "uri": "spotify:album:67GVCR4Gh0Z0TS36AfhRJd"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2aLreCO2GCYhLNAqNhCjbX",
+    "is_local": false,
+    "name": "Untitled, 2014 - G-DRAGON 2017 WORLD TOUR <ACT III, M.O.T.T.E> IN JAPAN",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+          },
+          "href": "https://api.spotify.com/v1/artists/0UEP2XBR9aC5NBKcAKnBIq",
+          "id": "0UEP2XBR9aC5NBKcAKnBIq",
+          "name": "CHEN",
+          "type": "artist",
+          "uri": "spotify:artist:0UEP2XBR9aC5NBKcAKnBIq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+          },
+          "href": "https://api.spotify.com/v1/artists/2FgZrgTMX6Sk0VNcOsEPmm",
+          "id": "2FgZrgTMX6Sk0VNcOsEPmm",
+          "name": "Punch",
+          "type": "artist",
+          "uri": "spotify:artist:2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5TVsuCwCLLBk9qpElbX7nE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27352b4a39a68f595936012712e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0252b4a39a68f595936012712e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485152b4a39a68f595936012712e",
+          "width": 64
+        }
+      ],
+      "name": "Descendants Of The Sun Pt.2 (Original Television Soundtrack)",
+      "release_date": "2016-02-25",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:5TVsuCwCLLBk9qpElbX7nE"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        },
+        "href": "https://api.spotify.com/v1/artists/0UEP2XBR9aC5NBKcAKnBIq",
+        "id": "0UEP2XBR9aC5NBKcAKnBIq",
+        "name": "CHEN",
+        "type": "artist",
+        "uri": "spotify:artist:0UEP2XBR9aC5NBKcAKnBIq"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        },
+        "href": "https://api.spotify.com/v1/artists/2FgZrgTMX6Sk0VNcOsEPmm",
+        "id": "2FgZrgTMX6Sk0VNcOsEPmm",
+        "name": "Punch",
+        "type": "artist",
+        "uri": "spotify:artist:2FgZrgTMX6Sk0VNcOsEPmm"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1D6lK8qADoErTTLkY4YBfM",
+    "is_local": false,
+    "name": "Everytime",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          },
+          "href": "https://api.spotify.com/v1/artists/7n2Ycct7Beij7Dj7meI4X0",
+          "id": "7n2Ycct7Beij7Dj7meI4X0",
+          "name": "TWICE",
+          "type": "artist",
+          "uri": "spotify:artist:7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2GKTroaa4ysyhEdvzpvUoM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0240d7efd2594a2b6bda60ea18",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485140d7efd2594a2b6bda60ea18",
+          "width": 64
+        }
+      ],
+      "name": "Summer Nights",
+      "release_date": "2018-07-09",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:2GKTroaa4ysyhEdvzpvUoM"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        "href": "https://api.spotify.com/v1/artists/7n2Ycct7Beij7Dj7meI4X0",
+        "id": "7n2Ycct7Beij7Dj7meI4X0",
+        "name": "TWICE",
+        "type": "artist",
+        "uri": "spotify:artist:7n2Ycct7Beij7Dj7meI4X0"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4DYIDSMIB5y2UmZFv9fxeX",
+    "is_local": false,
+    "name": "Dance The Night Away",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3HJVw8aEtFqoc3raJVE8am"
+          },
+          "href": "https://api.spotify.com/v1/artists/3HJVw8aEtFqoc3raJVE8am",
+          "id": "3HJVw8aEtFqoc3raJVE8am",
+          "name": "GD X TAEYANG",
+          "type": "artist",
+          "uri": "spotify:artist:3HJVw8aEtFqoc3raJVE8am"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2rhq834A24z7ucY39moYdb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27345f6b424c7891849cf19057c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0245f6b424c7891849cf19057c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485145f6b424c7891849cf19057c",
+          "width": 64
+        }
+      ],
+      "name": "GOOD BOY",
+      "release_date": "2014-11-21",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2rhq834A24z7ucY39moYdb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3HJVw8aEtFqoc3raJVE8am"
+        },
+        "href": "https://api.spotify.com/v1/artists/3HJVw8aEtFqoc3raJVE8am",
+        "id": "3HJVw8aEtFqoc3raJVE8am",
+        "name": "GD X TAEYANG",
+        "type": "artist",
+        "uri": "spotify:artist:3HJVw8aEtFqoc3raJVE8am"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/52mglSL6bdbrg9zig7nazP",
+    "is_local": false,
+    "name": "GOOD BOY",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          },
+          "href": "https://api.spotify.com/v1/artists/3HqSLMAZ3g3d5poNaI7GOU",
+          "id": "3HqSLMAZ3g3d5poNaI7GOU",
+          "name": "IU",
+          "type": "artist",
+          "uri": "spotify:artist:3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5V8n6fqyAPxvFTibPhQVcp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c06f0e8b33ac2d246158253e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c06f0e8b33ac2d246158253e",
+          "width": 64
+        }
+      ],
+      "name": "Palette",
+      "release_date": "2017-04-21",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:5V8n6fqyAPxvFTibPhQVcp"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        },
+        "href": "https://api.spotify.com/v1/artists/3HqSLMAZ3g3d5poNaI7GOU",
+        "id": "3HqSLMAZ3g3d5poNaI7GOU",
+        "name": "IU",
+        "type": "artist",
+        "uri": "spotify:artist:3HqSLMAZ3g3d5poNaI7GOU"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3y7ByLZ05tluscOTRgEJ9Y",
+    "is_local": false,
+    "name": "Palette (feat. G-DRAGON)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+          },
+          "href": "https://api.spotify.com/v1/artists/3eVa5w3URK5duf6eyVDbu9",
+          "id": "3eVa5w3URK5duf6eyVDbu9",
+          "name": "ROSÉ",
+          "type": "artist",
+          "uri": "spotify:artist:3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7kFyd5oyJdVX2pIi6P4iHE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735074bd0894cb1340b8d8a678",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025074bd0894cb1340b8d8a678",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515074bd0894cb1340b8d8a678",
+          "width": 64
+        }
+      ],
+      "name": "rosie",
+      "release_date": "2024-12-06",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:7kFyd5oyJdVX2pIi6P4iHE"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        "href": "https://api.spotify.com/v1/artists/3eVa5w3URK5duf6eyVDbu9",
+        "id": "3eVa5w3URK5duf6eyVDbu9",
+        "name": "ROSÉ",
+        "type": "artist",
+        "uri": "spotify:artist:3eVa5w3URK5duf6eyVDbu9"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1z5ebC9238uGoBgzYyvGpQ",
+    "is_local": false,
+    "name": "toxic till the end",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Kxlr1PRlDKEB0ekOCyHgX",
+          "id": "4Kxlr1PRlDKEB0ekOCyHgX",
+          "name": "BIGBANG",
+          "type": "artist",
+          "uri": "spotify:artist:4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4qpzzLtl5ksEnhryRUrNQC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a53603b939bd213df9d6d886",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a53603b939bd213df9d6d886",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a53603b939bd213df9d6d886",
+          "width": 64
+        }
+      ],
+      "name": "Hot Issue",
+      "release_date": "2007-11-22",
+      "release_date_precision": "day",
+      "total_tracks": 6,
+      "type": "album",
+      "uri": "spotify:album:4qpzzLtl5ksEnhryRUrNQC"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5DGzLXYIcoHWbYKmvLdrF2",
+    "is_local": false,
+    "name": "But I Love You",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3MRRdIIKzXd0NbemIwnRNP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733b4ed6cda8378feb135c9351",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023b4ed6cda8378feb135c9351",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513b4ed6cda8378feb135c9351",
+          "width": 64
+        }
+      ],
+      "name": "Heartbreaker",
+      "release_date": "2009-08-18",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:3MRRdIIKzXd0NbemIwnRNP"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5q56EIQGye3cS86ui2t39G",
+    "is_local": false,
+    "name": "1 Year",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3MRRdIIKzXd0NbemIwnRNP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733b4ed6cda8378feb135c9351",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023b4ed6cda8378feb135c9351",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513b4ed6cda8378feb135c9351",
+          "width": 64
+        }
+      ],
+      "name": "Heartbreaker",
+      "release_date": "2009-08-18",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:3MRRdIIKzXd0NbemIwnRNP"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4OiLGOExR5sXyMtyKccRgY"
+        },
+        "href": "https://api.spotify.com/v1/artists/4OiLGOExR5sXyMtyKccRgY",
+        "id": "4OiLGOExR5sXyMtyKccRgY",
+        "name": "KUSH",
+        "type": "artist",
+        "uri": "spotify:artist:4OiLGOExR5sXyMtyKccRgY"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3CqXsVC0JqWYxz5YQEwE9d",
+    "is_local": false,
+    "name": "She's Gone (Feat. Kush)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3MRRdIIKzXd0NbemIwnRNP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733b4ed6cda8378feb135c9351",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023b4ed6cda8378feb135c9351",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513b4ed6cda8378feb135c9351",
+          "width": 64
+        }
+      ],
+      "name": "Heartbreaker",
+      "release_date": "2009-08-18",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:3MRRdIIKzXd0NbemIwnRNP"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2QDHZGfyq70z6T4e4Dr2t0"
+        },
+        "href": "https://api.spotify.com/v1/artists/2QDHZGfyq70z6T4e4Dr2t0",
+        "id": "2QDHZGfyq70z6T4e4Dr2t0",
+        "name": "TEDDY",
+        "type": "artist",
+        "uri": "spotify:artist:2QDHZGfyq70z6T4e4Dr2t0"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
+        },
+        "href": "https://api.spotify.com/v1/artists/0tzSBCPJZmHTdOA3ZV2mN3",
+        "id": "0tzSBCPJZmHTdOA3ZV2mN3",
+        "name": "CL",
+        "type": "artist",
+        "uri": "spotify:artist:0tzSBCPJZmHTdOA3ZV2mN3"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3k8nvicUBXisxer57q4LWc",
+    "is_local": false,
+    "name": "The Leaders (Feat. Teddy & CL)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3MRRdIIKzXd0NbemIwnRNP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733b4ed6cda8378feb135c9351",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023b4ed6cda8378feb135c9351",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513b4ed6cda8378feb135c9351",
+          "width": 64
+        }
+      ],
+      "name": "Heartbreaker",
+      "release_date": "2009-08-18",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:3MRRdIIKzXd0NbemIwnRNP"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+        "id": "6udveWUgX4vu75FF0DTrXV",
+        "name": "TAEYANG",
+        "type": "artist",
+        "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/5mmzEA6NYltYrHBJVE1jqV",
+    "is_local": false,
+    "name": "Korean Dream (Feat. TAEYANG)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          },
+          "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+          "id": "30b9WulBM8sFuBo17nNq9c",
+          "name": "G-DRAGON",
+          "type": "artist",
+          "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3MRRdIIKzXd0NbemIwnRNP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733b4ed6cda8378feb135c9351",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023b4ed6cda8378feb135c9351",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513b4ed6cda8378feb135c9351",
+          "width": 64
+        }
+      ],
+      "name": "Heartbreaker",
+      "release_date": "2009-08-18",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:3MRRdIIKzXd0NbemIwnRNP"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+        "id": "30b9WulBM8sFuBo17nNq9c",
+        "name": "G-DRAGON",
+        "type": "artist",
+        "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        },
+        "href": "https://api.spotify.com/v1/artists/7ueOlHsDGBjqZfjpDj4oJO",
+        "id": "7ueOlHsDGBjqZfjpDj4oJO",
+        "name": "Kim Gun Mo",
+        "type": "artist",
+        "uri": "spotify:artist:7ueOlHsDGBjqZfjpDj4oJO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2PAPZaGi99CaNivO5IHYLs",
+    "is_local": false,
+    "name": "Gossip Man (Feat. Kim Gun Mo)",
+    "preview_url": null
+  }
+]

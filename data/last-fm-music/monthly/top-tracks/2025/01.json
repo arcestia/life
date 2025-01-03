@@ -41,6 +41,117 @@
       "fulltrack": "0",
       "#text": "0"
     },
+    "mbid": "78ddab65-8dfe-4c2b-80f8-5155b94e3998",
+    "name": "CROOKED",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "artist": {
+      "url": "https://www.last.fm/music/G-DRAGON",
+      "name": "G-DRAGON",
+      "mbid": "b4f66d7f-3282-404e-a682-97374d63b5ab"
+    },
+    "url": "https://www.last.fm/music/G-DRAGON/_/CROOKED",
+    "duration": "0",
+    "@attr": {
+      "rank": "2"
+    },
+    "playcount": "4"
+  },
+  {
+    "streamable": {
+      "fulltrack": "0",
+      "#text": "0"
+    },
+    "mbid": "",
+    "name": "NILIRIA - Missy Elliott Version",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "artist": {
+      "url": "https://www.last.fm/music/G-DRAGON",
+      "name": "G-DRAGON",
+      "mbid": ""
+    },
+    "url": "https://www.last.fm/music/G-DRAGON/_/NILIRIA+-+Missy+Elliott+Version",
+    "duration": "0",
+    "@attr": {
+      "rank": "3"
+    },
+    "playcount": "4"
+  },
+  {
+    "streamable": {
+      "fulltrack": "0",
+      "#text": "0"
+    },
+    "mbid": "783eac25-7bb9-4357-a50a-14a952f0635f",
+    "name": "WHO YOU?",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "artist": {
+      "url": "https://www.last.fm/music/G-DRAGON",
+      "name": "G-DRAGON",
+      "mbid": "b4f66d7f-3282-404e-a682-97374d63b5ab"
+    },
+    "url": "https://www.last.fm/music/G-DRAGON/_/WHO+YOU%3F",
+    "duration": "0",
+    "@attr": {
+      "rank": "4"
+    },
+    "playcount": "4"
+  },
+  {
+    "streamable": {
+      "fulltrack": "0",
+      "#text": "0"
+    },
     "mbid": "593d5c3c-207a-485a-bc3e-a3f1ae357849",
     "name": "A Heart Don't Break Like That",
     "image": [
@@ -69,7 +180,7 @@
     "url": "https://www.last.fm/music/Kaylee+Bell/_/A+Heart+Don%27t+Break+Like+That",
     "duration": "179",
     "@attr": {
-      "rank": "2"
+      "rank": "5"
     },
     "playcount": "4"
   },
@@ -106,7 +217,7 @@
     "url": "https://www.last.fm/music/Kaylee+Bell/_/Keith",
     "duration": "171",
     "@attr": {
-      "rank": "3"
+      "rank": "6"
     },
     "playcount": "4"
   },
@@ -143,7 +254,7 @@
     "url": "https://www.last.fm/music/Kaylee+Bell/_/That+Summer",
     "duration": "184",
     "@attr": {
-      "rank": "4"
+      "rank": "7"
     },
     "playcount": "4"
   },
@@ -180,7 +291,7 @@
     "url": "https://www.last.fm/music/Palmy/_/%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D%E0%B9%80%E0%B8%AD%E0%B8%A2%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D%E0%B8%A1%E0%B8%B2",
     "duration": "211",
     "@attr": {
-      "rank": "5"
+      "rank": "8"
     },
     "playcount": "4"
   },
@@ -217,7 +328,7 @@
     "url": "https://www.last.fm/music/Palmy/_/%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99",
     "duration": "252",
     "@attr": {
-      "rank": "6"
+      "rank": "9"
     },
     "playcount": "4"
   },
@@ -254,7 +365,7 @@
     "url": "https://www.last.fm/music/Palmy/_/%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B9%83%E0%B8%88",
     "duration": "207",
     "@attr": {
-      "rank": "7"
+      "rank": "10"
     },
     "playcount": "4"
   },
@@ -263,45 +374,8 @@
       "fulltrack": "0",
       "#text": "0"
     },
-    "mbid": "5a30eb21-d05b-436b-8e39-e1322ed9cbd6",
-    "name": "Love wins all",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/IU",
-      "name": "IU",
-      "mbid": "b9545342-1e6d-4dae-84ac-013374ad8d7c"
-    },
-    "url": "https://www.last.fm/music/IU/_/Love+wins+all",
-    "duration": "271",
-    "@attr": {
-      "rank": "8"
-    },
-    "playcount": "3"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
     "mbid": "",
-    "name": "SAME SONGS",
+    "name": "1 Year",
     "image": [
       {
         "size": "small",
@@ -321,86 +395,12 @@
       }
     ],
     "artist": {
-      "url": "https://www.last.fm/music/James+Johnston",
-      "name": "James Johnston",
-      "mbid": "a6655d6f-fb0f-4f59-a73e-aaddf4aaf9b3"
+      "url": "https://www.last.fm/music/G-DRAGON",
+      "name": "G-DRAGON",
+      "mbid": "b4f66d7f-3282-404e-a682-97374d63b5ab"
     },
-    "url": "https://www.last.fm/music/James+Johnston/_/SAME+SONGS",
-    "duration": "167",
-    "@attr": {
-      "rank": "9"
-    },
-    "playcount": "3"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "Hari Terbaik (Worship Xperience)",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/LOJ+Worship",
-      "name": "LOJ Worship",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/LOJ+Worship/_/Hari+Terbaik+(Worship+Xperience)",
+    "url": "https://www.last.fm/music/G-DRAGON/_/1+Year",
     "duration": "0",
-    "@attr": {
-      "rank": "10"
-    },
-    "playcount": "3"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "Hidupku Diberkati",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/LOJ+Worship",
-      "name": "LOJ Worship",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/LOJ+Worship/_/Hidupku+Diberkati",
-    "duration": "274",
     "@attr": {
       "rank": "11"
     },
@@ -412,7 +412,7 @@
       "#text": "0"
     },
     "mbid": "",
-    "name": "Laut Tak Bertepi (Worship Xperience)",
+    "name": "A Boy",
     "image": [
       {
         "size": "small",
@@ -432,11 +432,11 @@
       }
     ],
     "artist": {
-      "url": "https://www.last.fm/music/LOJ+Worship",
-      "name": "LOJ Worship",
-      "mbid": ""
+      "url": "https://www.last.fm/music/G-DRAGON",
+      "name": "G-DRAGON",
+      "mbid": "b4f66d7f-3282-404e-a682-97374d63b5ab"
     },
-    "url": "https://www.last.fm/music/LOJ+Worship/_/Laut+Tak+Bertepi+(Worship+Xperience)",
+    "url": "https://www.last.fm/music/G-DRAGON/_/A+Boy",
     "duration": "0",
     "@attr": {
       "rank": "12"
@@ -449,7 +449,7 @@
       "#text": "0"
     },
     "mbid": "",
-    "name": "Nyata KebesaranMu",
+    "name": "Black (feat. JENNIE of BLACKPINK)",
     "image": [
       {
         "size": "small",
@@ -469,12 +469,12 @@
       }
     ],
     "artist": {
-      "url": "https://www.last.fm/music/LOJ+Worship",
-      "name": "LOJ Worship",
+      "url": "https://www.last.fm/music/G-DRAGON",
+      "name": "G-DRAGON",
       "mbid": ""
     },
-    "url": "https://www.last.fm/music/LOJ+Worship/_/Nyata+KebesaranMu",
-    "duration": "277",
+    "url": "https://www.last.fm/music/G-DRAGON/_/Black+(feat.+JENNIE+of+BLACKPINK)",
+    "duration": "0",
     "@attr": {
       "rank": "13"
     },
@@ -486,7 +486,7 @@
       "#text": "0"
     },
     "mbid": "",
-    "name": "Rayakan KasihMu",
+    "name": "Breathe",
     "image": [
       {
         "size": "small",
@@ -506,12 +506,12 @@
       }
     ],
     "artist": {
-      "url": "https://www.last.fm/music/LOJ+Worship",
-      "name": "LOJ Worship",
-      "mbid": ""
+      "url": "https://www.last.fm/music/G-DRAGON",
+      "name": "G-DRAGON",
+      "mbid": "b4f66d7f-3282-404e-a682-97374d63b5ab"
     },
-    "url": "https://www.last.fm/music/LOJ+Worship/_/Rayakan+KasihMu",
-    "duration": "251",
+    "url": "https://www.last.fm/music/G-DRAGON/_/Breathe",
+    "duration": "0",
     "@attr": {
       "rank": "14"
     },
@@ -522,8 +522,8 @@
       "fulltrack": "0",
       "#text": "0"
     },
-    "mbid": "a2ae9669-d6f3-3dec-adc4-2e6957cc1c1b",
-    "name": "กลัว",
+    "mbid": "",
+    "name": "Butterfly (feat. Jin Jung)",
     "image": [
       {
         "size": "small",
@@ -543,12 +543,12 @@
       }
     ],
     "artist": {
-      "url": "https://www.last.fm/music/Palmy",
-      "name": "Palmy",
-      "mbid": "21f8e84f-f6ce-4fb4-b79f-9c4c24774f64"
+      "url": "https://www.last.fm/music/G-DRAGON",
+      "name": "G-DRAGON",
+      "mbid": "b4f66d7f-3282-404e-a682-97374d63b5ab"
     },
-    "url": "https://www.last.fm/music/Palmy/_/%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%A7",
-    "duration": "196",
+    "url": "https://www.last.fm/music/G-DRAGON/_/Butterfly+(feat.+Jin+Jung)",
+    "duration": "0",
     "@attr": {
       "rank": "15"
     },
@@ -560,7 +560,7 @@
       "#text": "0"
     },
     "mbid": "",
-    "name": "คิดถึง",
+    "name": "COUP D'ETAT",
     "image": [
       {
         "size": "small",
@@ -580,12 +580,12 @@
       }
     ],
     "artist": {
-      "url": "https://www.last.fm/music/Palmy",
-      "name": "Palmy",
-      "mbid": "21f8e84f-f6ce-4fb4-b79f-9c4c24774f64"
+      "url": "https://www.last.fm/music/G-DRAGON",
+      "name": "G-DRAGON",
+      "mbid": "b4f66d7f-3282-404e-a682-97374d63b5ab"
     },
-    "url": "https://www.last.fm/music/Palmy/_/%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%96%E0%B8%B6%E0%B8%87",
-    "duration": "220",
+    "url": "https://www.last.fm/music/G-DRAGON/_/COUP+D%27ETAT",
+    "duration": "0",
     "@attr": {
       "rank": "16"
     },
@@ -596,8 +596,8 @@
       "fulltrack": "0",
       "#text": "0"
     },
-    "mbid": "848bbe5a-3b36-3bd5-881d-443a8bef8e58",
-    "name": "คิดมาก",
+    "mbid": "e13458f6-f90f-4bdd-9b93-570a536b7ee1",
+    "name": "Crayon",
     "image": [
       {
         "size": "small",
@@ -617,12 +617,12 @@
       }
     ],
     "artist": {
-      "url": "https://www.last.fm/music/Palmy",
-      "name": "Palmy",
-      "mbid": "21f8e84f-f6ce-4fb4-b79f-9c4c24774f64"
+      "url": "https://www.last.fm/music/G-DRAGON",
+      "name": "G-DRAGON",
+      "mbid": "b4f66d7f-3282-404e-a682-97374d63b5ab"
     },
-    "url": "https://www.last.fm/music/Palmy/_/%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%A1%E0%B8%B2%E0%B8%81",
-    "duration": "218",
+    "url": "https://www.last.fm/music/G-DRAGON/_/Crayon",
+    "duration": "212",
     "@attr": {
       "rank": "17"
     },
@@ -633,8 +633,8 @@
       "fulltrack": "0",
       "#text": "0"
     },
-    "mbid": "1aa81ca5-fa36-3743-87c3-d24cb00e9661",
-    "name": "นาฬิกาเรือนเก่า",
+    "mbid": "bb364a07-eafc-46fc-a66c-5a6b2919c962",
+    "name": "Go",
     "image": [
       {
         "size": "small",
@@ -654,12 +654,12 @@
       }
     ],
     "artist": {
-      "url": "https://www.last.fm/music/Palmy",
-      "name": "Palmy",
-      "mbid": "21f8e84f-f6ce-4fb4-b79f-9c4c24774f64"
+      "url": "https://www.last.fm/music/G-DRAGON",
+      "name": "G-DRAGON",
+      "mbid": "b4f66d7f-3282-404e-a682-97374d63b5ab"
     },
-    "url": "https://www.last.fm/music/Palmy/_/%E0%B8%99%E0%B8%B2%E0%B8%AC%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2",
-    "duration": "282",
+    "url": "https://www.last.fm/music/G-DRAGON/_/Go",
+    "duration": "0",
     "@attr": {
       "rank": "18"
     },
@@ -671,7 +671,7 @@
       "#text": "0"
     },
     "mbid": "",
-    "name": "สนิทใจ (เพลงจากละคร รักร้าย)",
+    "name": "Gossip Man (feat. Kim Gun Mo)",
     "image": [
       {
         "size": "small",
@@ -691,11 +691,11 @@
       }
     ],
     "artist": {
-      "url": "https://www.last.fm/music/Palmy",
-      "name": "Palmy",
+      "url": "https://www.last.fm/music/G-DRAGON",
+      "name": "G-DRAGON",
       "mbid": ""
     },
-    "url": "https://www.last.fm/music/Palmy/_/%E0%B8%AA%E0%B8%99%E0%B8%B4%E0%B8%97%E0%B9%83%E0%B8%88+(%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3+%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2)",
+    "url": "https://www.last.fm/music/G-DRAGON/_/Gossip+Man+(feat.+Kim+Gun+Mo)",
     "duration": "0",
     "@attr": {
       "rank": "19"
@@ -708,7 +708,7 @@
       "#text": "0"
     },
     "mbid": "",
-    "name": "อยากหยุดเวลา (Cover Version) [เพลงประกอบภาพยนตร์ พี่มากพระโขนง]",
+    "name": "Heartbreaker",
     "image": [
       {
         "size": "small",
@@ -728,11 +728,11 @@
       }
     ],
     "artist": {
-      "url": "https://www.last.fm/music/Palmy",
-      "name": "Palmy",
-      "mbid": ""
+      "url": "https://www.last.fm/music/G-DRAGON",
+      "name": "G-DRAGON",
+      "mbid": "b4f66d7f-3282-404e-a682-97374d63b5ab"
     },
-    "url": "https://www.last.fm/music/Palmy/_/%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2+(Cover+Version)+%5B%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C+%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%82%E0%B8%99%E0%B8%87%5D",
+    "url": "https://www.last.fm/music/G-DRAGON/_/Heartbreaker",
     "duration": "0",
     "@attr": {
       "rank": "20"

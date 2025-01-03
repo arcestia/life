@@ -1,6 +1,42 @@
 [
   {
     "artist": {
+      "mbid": "bcac469d-7676-4266-89c6-4ab480a08746",
+      "#text": "bowkylion"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/85109f667e2f562260a38e01110a399c.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/85109f667e2f562260a38e01110a399c.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/85109f667e2f562260a38e01110a399c.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/85109f667e2f562260a38e01110a399c.jpg"
+      }
+    ],
+    "mbid": "",
+    "album": {
+      "mbid": "",
+      "#text": "แสนวิเศษ"
+    },
+    "name": "แสนวิเศษ",
+    "url": "https://www.last.fm/music/bowkylion/_/%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9",
+    "date": {
+      "uts": "1735652639",
+      "#text": "31 Dec 2024, 13:43"
+    }
+  },
+  {
+    "artist": {
       "mbid": "",
       "#text": "Bow Maylada"
     },

@@ -9,10 +9,10 @@
       "text": "0 secs"
     },
     "range": {
-      "start": "2024-12-31T17:00:00Z",
-      "end": "2025-01-01T16:59:59Z",
-      "date": "2025-01-01",
-      "text": "Wed Jan 1st 2025",
+      "start": "2025-01-02T17:00:00Z",
+      "end": "2025-01-03T16:59:59Z",
+      "date": "2025-01-03",
+      "text": "Fri Jan 3rd 2025",
       "timezone": "Asia/Bangkok"
     },
     "projects": [],

@@ -1,26 +1,276 @@
 [
   {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 1030.138507,
+        "digital": "0:17:10",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 10,
+        "percent": 56.13
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 786.374597,
+        "digital": "0:13:06",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 6,
+        "percent": 42.85
+      },
+      {
+        "name": "Text",
+        "total_seconds": 14.13301,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 0.77
+      },
+      {
+        "name": "Other",
+        "total_seconds": 4.662002,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.25
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 30,
+      "total_seconds": 1835.308116,
+      "digital": "0:30",
+      "decimal": "0.50",
+      "text": "30 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1835.308116,
+        "digital": "0:30:35",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1835.308116,
+        "digital": "0:30:35",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1835.308116,
+        "digital": "0:30:35",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "config",
+        "total_seconds": 629.797638,
+        "digital": "0:10:29",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 29,
+        "percent": 11.49
+      },
+      {
+        "name": "redis",
+        "total_seconds": 629.797638,
+        "digital": "0:10:29",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 29,
+        "percent": 11.49
+      },
+      {
+        "name": "logger",
+        "total_seconds": 629.797638,
+        "digital": "0:10:29",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 29,
+        "percent": 11.49
+      },
+      {
+        "name": "crypto",
+        "total_seconds": 629.797638,
+        "digital": "0:10:29",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 29,
+        "percent": 11.49
+      },
+      {
+        "name": "axios",
+        "total_seconds": 629.797638,
+        "digital": "0:10:29",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 29,
+        "percent": 11.49
+      },
+      {
+        "name": "https",
+        "total_seconds": 629.797638,
+        "digital": "0:10:29",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 29,
+        "percent": 11.49
+      },
+      {
+        "name": "metrics",
+        "total_seconds": 629.797638,
+        "digital": "0:10:29",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 29,
+        "percent": 11.49
+      },
+      {
+        "name": "chalk",
+        "total_seconds": 537.264868,
+        "digital": "0:08:57",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 57,
+        "percent": 9.8
+      },
+      {
+        "name": "node-fetch",
+        "total_seconds": 537.264868,
+        "digital": "0:08:57",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 57,
+        "percent": 9.8
+      },
+      {
+        "name": "promise",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "HS-INCAMKT001",
+        "total_seconds": 1835.308116,
+        "machine_name_id": "b1903e6c-fdb7-4c8e-b8d0-6b159691bafa",
+        "digital": "0:30:35",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "Unknown Project",
+        "total_seconds": 1830.824165,
+        "digital": "0:30:30",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 30,
+        "percent": 99.76
+      },
+      {
+        "name": "test",
+        "total_seconds": 4.483951,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.24
+      },
+      {
+        "name": "namecheap",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "range": {
       "start": "2025-01-03T17:00:00Z",
       "end": "2025-01-04T16:59:59Z",
       "date": "2025-01-04",
       "text": "Sat Jan 4th 2025",
       "timezone": "Asia/Bangkok"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]

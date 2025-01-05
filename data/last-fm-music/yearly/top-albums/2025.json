@@ -153,7 +153,7 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/Ink+Waruntorn/INK",
-    "playcount": "746",
+    "playcount": "754",
     "@attr": {
       "rank": "5"
     },
@@ -449,6 +449,38 @@
   },
   {
     "artist": {
+      "url": "https://www.last.fm/music/Palmy",
+      "name": "Palmy",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/457bdbde232d1eda0f90c7a06062e68c.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/457bdbde232d1eda0f90c7a06062e68c.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/457bdbde232d1eda0f90c7a06062e68c.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/457bdbde232d1eda0f90c7a06062e68c.jpg"
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/Palmy/%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99+-+Single",
+    "playcount": "365",
+    "@attr": {
+      "rank": "15"
+    },
+    "name": "ซ่อนกลิ่น - Single"
+  },
+  {
+    "artist": {
       "url": "https://www.last.fm/music/IU",
       "name": "IU",
       "mbid": "b9545342-1e6d-4dae-84ac-013374ad8d7c"
@@ -475,41 +507,9 @@
     "url": "https://www.last.fm/music/IU/Palette",
     "playcount": "364",
     "@attr": {
-      "rank": "15"
-    },
-    "name": "Palette"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/Palmy",
-      "name": "Palmy",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/457bdbde232d1eda0f90c7a06062e68c.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/457bdbde232d1eda0f90c7a06062e68c.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/457bdbde232d1eda0f90c7a06062e68c.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/457bdbde232d1eda0f90c7a06062e68c.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/Palmy/%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99+-+Single",
-    "playcount": "364",
-    "@attr": {
       "rank": "16"
     },
-    "name": "ซ่อนกลิ่น - Single"
+    "name": "Palette"
   },
   {
     "artist": {

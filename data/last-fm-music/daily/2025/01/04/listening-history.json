@@ -2,6 +2,42 @@
   {
     "artist": {
       "mbid": "",
+      "#text": "Three Man Down"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fa5fb823431e387a5e6bcf3f91a76b54.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fa5fb823431e387a5e6bcf3f91a76b54.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fa5fb823431e387a5e6bcf3f91a76b54.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fa5fb823431e387a5e6bcf3f91a76b54.jpg"
+      }
+    ],
+    "mbid": "",
+    "album": {
+      "mbid": "",
+      "#text": "This City Won’t Be Lonely Anymore"
+    },
+    "name": "ไปเถอะเธอ",
+    "url": "https://www.last.fm/music/Three+Man+Down/_/%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0%E0%B9%80%E0%B8%98%E0%B8%AD",
+    "date": {
+      "uts": "1735995652",
+      "#text": "04 Jan 2025, 13:00"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "",
       "#text": "Ink Waruntorn"
     },
     "streamable": "0",

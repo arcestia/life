@@ -1,0 +1,116 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7"
+          },
+          "href": "https://api.spotify.com/v1/artists/5zSQoNQ9o2dnT1LPTzDxg7",
+          "id": "5zSQoNQ9o2dnT1LPTzDxg7",
+          "name": "Mirrr",
+          "type": "artist",
+          "uri": "spotify:artist:5zSQoNQ9o2dnT1LPTzDxg7"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4Mqmd8JPbyBmSW7cWsSkUT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a4dfbb8687954790297a7d66",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a4dfbb8687954790297a7d66",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a4dfbb8687954790297a7d66",
+          "width": 64
+        }
+      ],
+      "name": "กำแพงหัวใจ",
+      "release_date": "2023-08-17",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4Mqmd8JPbyBmSW7cWsSkUT"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7"
+        },
+        "href": "https://api.spotify.com/v1/artists/5zSQoNQ9o2dnT1LPTzDxg7",
+        "id": "5zSQoNQ9o2dnT1LPTzDxg7",
+        "name": "Mirrr",
+        "type": "artist",
+        "uri": "spotify:artist:5zSQoNQ9o2dnT1LPTzDxg7"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5BmF05GWZpmm5JZ5p3yMJr",
+    "is_local": false,
+    "name": "กำแพงหัวใจ",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
+          },
+          "href": "https://api.spotify.com/v1/artists/1qAOsY7jv9GFTv4HoVof5P",
+          "id": "1qAOsY7jv9GFTv4HoVof5P",
+          "name": "Three Man Down",
+          "type": "artist",
+          "uri": "spotify:artist:1qAOsY7jv9GFTv4HoVof5P"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1PXfHhI9H5CoWbVZDMqc3S",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27386b3df9048ca00db239d40fa",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0286b3df9048ca00db239d40fa",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485186b3df9048ca00db239d40fa",
+          "width": 64
+        }
+      ],
+      "name": "This City Won’t Be Lonely Anymore",
+      "release_date": "2021-03-25",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:1PXfHhI9H5CoWbVZDMqc3S"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
+        },
+        "href": "https://api.spotify.com/v1/artists/1qAOsY7jv9GFTv4HoVof5P",
+        "id": "1qAOsY7jv9GFTv4HoVof5P",
+        "name": "Three Man Down",
+        "type": "artist",
+        "uri": "spotify:artist:1qAOsY7jv9GFTv4HoVof5P"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5awVKZyFoOT77P7wFRT4f2",
+    "is_local": false,
+    "name": "ไปเถอะเธอ",
+    "preview_url": null
+  }
+]

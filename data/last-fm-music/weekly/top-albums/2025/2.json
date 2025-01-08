@@ -57,7 +57,7 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/Ink+Waruntorn/INK",
-    "playcount": "38",
+    "playcount": "40",
     "@attr": {
       "rank": "2"
     },
@@ -225,38 +225,6 @@
   },
   {
     "artist": {
-      "url": "https://www.last.fm/music/PolyCat",
-      "name": "PolyCat",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/117891456d7e77504fe31611164aa2be.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/117891456d7e77504fe31611164aa2be.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/117891456d7e77504fe31611164aa2be.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/117891456d7e77504fe31611164aa2be.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/PolyCat/80+Kisses",
-    "playcount": "15",
-    "@attr": {
-      "rank": "8"
-    },
-    "name": "80 Kisses"
-  },
-  {
-    "artist": {
       "url": "https://www.last.fm/music/G-DRAGON",
       "name": "G-DRAGON",
       "mbid": "b4f66d7f-3282-404e-a682-97374d63b5ab"
@@ -283,7 +251,7 @@
     "url": "https://www.last.fm/music/G-DRAGON/2013+G-Dragon+World+Tour+%27One+of+a+Kind+in+SEOUL%27",
     "playcount": "14",
     "@attr": {
-      "rank": "9"
+      "rank": "8"
     },
     "name": "2013 G-Dragon World Tour 'One of a Kind in SEOUL'"
   },
@@ -315,7 +283,7 @@
     "url": "https://www.last.fm/music/G-DRAGON/COUP+D%27ETAT",
     "playcount": "14",
     "@attr": {
-      "rank": "10"
+      "rank": "9"
     },
     "name": "COUP D'ETAT"
   },
@@ -347,9 +315,41 @@
     "url": "https://www.last.fm/music/G-DRAGON/Coup+D%27Etat+(Korean+Version)",
     "playcount": "13",
     "@attr": {
-      "rank": "11"
+      "rank": "10"
     },
     "name": "Coup D'Etat (Korean Version)"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/PolyCat",
+      "name": "PolyCat",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/117891456d7e77504fe31611164aa2be.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/117891456d7e77504fe31611164aa2be.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/117891456d7e77504fe31611164aa2be.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/117891456d7e77504fe31611164aa2be.jpg"
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/PolyCat/80+Kisses",
+    "playcount": "13",
+    "@attr": {
+      "rank": "11"
+    },
+    "name": "80 Kisses"
   },
   {
     "artist": {
@@ -449,70 +449,6 @@
   },
   {
     "artist": {
-      "url": "https://www.last.fm/music/Nont+Tanont",
-      "name": "Nont Tanont",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1c70991e69c0f4f1dbbbde078297f9ad.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1c70991e69c0f4f1dbbbde078297f9ad.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1c70991e69c0f4f1dbbbde078297f9ad.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1c70991e69c0f4f1dbbbde078297f9ad.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/Nont+Tanont/Cigarette+Candy+&+Vanilla+Sky",
-    "playcount": "9",
-    "@attr": {
-      "rank": "15"
-    },
-    "name": "Cigarette Candy & Vanilla Sky"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/Kaylee+Bell",
-      "name": "Kaylee Bell",
-      "mbid": "327a36ef-1065-4e76-96d6-b5a89c01a64d"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bf6212a2961e24ec47797b631867e9fc.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bf6212a2961e24ec47797b631867e9fc.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bf6212a2961e24ec47797b631867e9fc.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bf6212a2961e24ec47797b631867e9fc.jpg"
-      }
-    ],
-    "mbid": "56a43de5-ac86-4946-82c7-459e053ac3b4",
-    "url": "https://www.last.fm/music/Kaylee+Bell/Silver+Linings",
-    "playcount": "8",
-    "@attr": {
-      "rank": "16"
-    },
-    "name": "Silver Linings"
-  },
-  {
-    "artist": {
       "url": "https://www.last.fm/music/Three+Man+Down",
       "name": "Three Man Down",
       "mbid": ""
@@ -537,11 +473,107 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/Three+Man+Down/This+City+Won%E2%80%99t+Be+Lonely+Anymore",
+    "playcount": "10",
+    "@attr": {
+      "rank": "15"
+    },
+    "name": "This City Won’t Be Lonely Anymore"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/SERIOUS+BACON",
+      "name": "SERIOUS BACON",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/409453c2eb61d182d57fdb3e3bcb812e.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/409453c2eb61d182d57fdb3e3bcb812e.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/409453c2eb61d182d57fdb3e3bcb812e.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/409453c2eb61d182d57fdb3e3bcb812e.jpg"
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/SERIOUS+BACON/Are+You+Serious%3F",
+    "playcount": "8",
+    "@attr": {
+      "rank": "16"
+    },
+    "name": "Are You Serious?"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/Ink+Waruntorn",
+      "name": "Ink Waruntorn",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a9ede627060865c6b3255cee7d623e10.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a9ede627060865c6b3255cee7d623e10.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a9ede627060865c6b3255cee7d623e10.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a9ede627060865c6b3255cee7d623e10.jpg"
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/Ink+Waruntorn/%E0%B8%9E%E0%B8%9A%E0%B8%A3%E0%B8%B1%E0%B8%81",
     "playcount": "7",
     "@attr": {
       "rank": "17"
     },
-    "name": "This City Won’t Be Lonely Anymore"
+    "name": "พบรัก"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/Nont+Tanont",
+      "name": "Nont Tanont",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1c70991e69c0f4f1dbbbde078297f9ad.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1c70991e69c0f4f1dbbbde078297f9ad.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1c70991e69c0f4f1dbbbde078297f9ad.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1c70991e69c0f4f1dbbbde078297f9ad.jpg"
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/Nont+Tanont/Cigarette+Candy+&+Vanilla+Sky",
+    "playcount": "7",
+    "@attr": {
+      "rank": "18"
+    },
+    "name": "Cigarette Candy & Vanilla Sky"
   },
   {
     "artist": {
@@ -571,7 +603,7 @@
     "url": "https://www.last.fm/music/G-DRAGON/KWON+JI+YONG",
     "playcount": "6",
     "@attr": {
-      "rank": "18"
+      "rank": "19"
     },
     "name": "KWON JI YONG"
   },
@@ -603,40 +635,8 @@
     "url": "https://www.last.fm/music/Ink+Waruntorn/Bliss",
     "playcount": "6",
     "@attr": {
-      "rank": "19"
-    },
-    "name": "Bliss"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/Ink+Waruntorn",
-      "name": "Ink Waruntorn",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a9ede627060865c6b3255cee7d623e10.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a9ede627060865c6b3255cee7d623e10.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a9ede627060865c6b3255cee7d623e10.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a9ede627060865c6b3255cee7d623e10.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/Ink+Waruntorn/%E0%B8%9E%E0%B8%9A%E0%B8%A3%E0%B8%B1%E0%B8%81",
-    "playcount": "6",
-    "@attr": {
       "rank": "20"
     },
-    "name": "พบรัก"
+    "name": "Bliss"
   }
 ]

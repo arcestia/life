@@ -1,0 +1,1262 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5DKFj8QL05LWzVG82W29CG",
+          "id": "5DKFj8QL05LWzVG82W29CG",
+          "name": "Donne Maula",
+          "type": "artist",
+          "uri": "spotify:artist:5DKFj8QL05LWzVG82W29CG"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3IFEYguF6Emu9MmS0J3IGe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a8b594bdc6837394e8e7f630",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a8b594bdc6837394e8e7f630",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a8b594bdc6837394e8e7f630",
+          "width": 64
+        }
+      ],
+      "name": "Sejuk",
+      "release_date": "2022-02-02",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3IFEYguF6Emu9MmS0J3IGe"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
+        },
+        "href": "https://api.spotify.com/v1/artists/5DKFj8QL05LWzVG82W29CG",
+        "id": "5DKFj8QL05LWzVG82W29CG",
+        "name": "Donne Maula",
+        "type": "artist",
+        "uri": "spotify:artist:5DKFj8QL05LWzVG82W29CG"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/23xT5wDMiCunkBxRk5xs9A",
+    "is_local": false,
+    "name": "Sejuk",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+          },
+          "href": "https://api.spotify.com/v1/artists/5DSVjHy2YWufmRUHBM3PLX",
+          "id": "5DSVjHy2YWufmRUHBM3PLX",
+          "name": "RAN",
+          "type": "artist",
+          "uri": "spotify:artist:5DSVjHy2YWufmRUHBM3PLX"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6z3bQ2C26jxl3sSCRJgNUf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27367b382f3cfcdea001e568927",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0267b382f3cfcdea001e568927",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485167b382f3cfcdea001e568927",
+          "width": 64
+        }
+      ],
+      "name": "TEATER NESTAPA",
+      "release_date": "2024-10-23",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:6z3bQ2C26jxl3sSCRJgNUf"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+        },
+        "href": "https://api.spotify.com/v1/artists/5DSVjHy2YWufmRUHBM3PLX",
+        "id": "5DSVjHy2YWufmRUHBM3PLX",
+        "name": "RAN",
+        "type": "artist",
+        "uri": "spotify:artist:5DSVjHy2YWufmRUHBM3PLX"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+        },
+        "href": "https://api.spotify.com/v1/artists/1y46m0kIaKwnodL0ElvQIs",
+        "id": "1y46m0kIaKwnodL0ElvQIs",
+        "name": "Salma Salsabil",
+        "type": "artist",
+        "uri": "spotify:artist:1y46m0kIaKwnodL0ElvQIs"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4cWvKdsd9egRGO4CnwFqEg",
+    "is_local": false,
+    "name": "Hey Tunggu Dulu",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC"
+          },
+          "href": "https://api.spotify.com/v1/artists/327ipGIr9bD3MkLb2eucqC",
+          "id": "327ipGIr9bD3MkLb2eucqC",
+          "name": "Suara Kayu",
+          "type": "artist",
+          "uri": "spotify:artist:327ipGIr9bD3MkLb2eucqC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
+          },
+          "href": "https://api.spotify.com/v1/artists/66NmU5epI0ONGmdCRbLpmW",
+          "id": "66NmU5epI0ONGmdCRbLpmW",
+          "name": "Feby Putri",
+          "type": "artist",
+          "uri": "spotify:artist:66NmU5epI0ONGmdCRbLpmW"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3oCPm4IKeaWJy666uZPKih",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273eca409ddd639be75c4d998b9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02eca409ddd639be75c4d998b9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851eca409ddd639be75c4d998b9",
+          "width": 64
+        }
+      ],
+      "name": "Kembali Pulang",
+      "release_date": "2022-10-28",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3oCPm4IKeaWJy666uZPKih"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC"
+        },
+        "href": "https://api.spotify.com/v1/artists/327ipGIr9bD3MkLb2eucqC",
+        "id": "327ipGIr9bD3MkLb2eucqC",
+        "name": "Suara Kayu",
+        "type": "artist",
+        "uri": "spotify:artist:327ipGIr9bD3MkLb2eucqC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
+        },
+        "href": "https://api.spotify.com/v1/artists/66NmU5epI0ONGmdCRbLpmW",
+        "id": "66NmU5epI0ONGmdCRbLpmW",
+        "name": "Feby Putri",
+        "type": "artist",
+        "uri": "spotify:artist:66NmU5epI0ONGmdCRbLpmW"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6xeqCawPZngDVqw2W2aGaR",
+    "is_local": false,
+    "name": "Kembali Pulang",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Wf4i7kB01QI2wQlEgxKFm",
+          "id": "3Wf4i7kB01QI2wQlEgxKFm",
+          "name": "Laleilmanino",
+          "type": "artist",
+          "uri": "spotify:artist:3Wf4i7kB01QI2wQlEgxKFm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
+          },
+          "href": "https://api.spotify.com/v1/artists/4ubEZ6sMsrrbQChueyouCC",
+          "id": "4ubEZ6sMsrrbQChueyouCC",
+          "name": "Hivi!",
+          "type": "artist",
+          "uri": "spotify:artist:4ubEZ6sMsrrbQChueyouCC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2R0LdMQd1EpziRZpCnKmvh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2R0LdMQd1EpziRZpCnKmvh",
+          "id": "2R0LdMQd1EpziRZpCnKmvh",
+          "name": "Sheila Dara Aisha",
+          "type": "artist",
+          "uri": "spotify:artist:2R0LdMQd1EpziRZpCnKmvh"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/47CBITCbtM5gv9UfHf1azO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27350af6605e06cbcceb8839910",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0250af6605e06cbcceb8839910",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485150af6605e06cbcceb8839910",
+          "width": 64
+        }
+      ],
+      "name": "Dengar Alam Bernyanyi",
+      "release_date": "2022-04-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:47CBITCbtM5gv9UfHf1azO"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm"
+        },
+        "href": "https://api.spotify.com/v1/artists/3Wf4i7kB01QI2wQlEgxKFm",
+        "id": "3Wf4i7kB01QI2wQlEgxKFm",
+        "name": "Laleilmanino",
+        "type": "artist",
+        "uri": "spotify:artist:3Wf4i7kB01QI2wQlEgxKFm"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
+        },
+        "href": "https://api.spotify.com/v1/artists/4ubEZ6sMsrrbQChueyouCC",
+        "id": "4ubEZ6sMsrrbQChueyouCC",
+        "name": "Hivi!",
+        "type": "artist",
+        "uri": "spotify:artist:4ubEZ6sMsrrbQChueyouCC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2R0LdMQd1EpziRZpCnKmvh"
+        },
+        "href": "https://api.spotify.com/v1/artists/2R0LdMQd1EpziRZpCnKmvh",
+        "id": "2R0LdMQd1EpziRZpCnKmvh",
+        "name": "Sheila Dara Aisha",
+        "type": "artist",
+        "uri": "spotify:artist:2R0LdMQd1EpziRZpCnKmvh"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5MYkpUXI3KIlbNdoTf8VpH"
+        },
+        "href": "https://api.spotify.com/v1/artists/5MYkpUXI3KIlbNdoTf8VpH",
+        "id": "5MYkpUXI3KIlbNdoTf8VpH",
+        "name": "Chicco Jerikho",
+        "type": "artist",
+        "uri": "spotify:artist:5MYkpUXI3KIlbNdoTf8VpH"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0wSx4uFpWwwEGzRXurEiEx",
+    "is_local": false,
+    "name": "Dengar Alam Bernyanyi",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI"
+          },
+          "href": "https://api.spotify.com/v1/artists/3EaScgA3zh2rORlbrAL8RI",
+          "id": "3EaScgA3zh2rORlbrAL8RI",
+          "name": "Daun Jatuh",
+          "type": "artist",
+          "uri": "spotify:artist:3EaScgA3zh2rORlbrAL8RI"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1y01TGVfIZQEvWUkHOgHSw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731ef12ca4a5e9b16de3c7cbf4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021ef12ca4a5e9b16de3c7cbf4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511ef12ca4a5e9b16de3c7cbf4",
+          "width": 64
+        }
+      ],
+      "name": "Sekedar Mengagumi",
+      "release_date": "2023-05-26",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1y01TGVfIZQEvWUkHOgHSw"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI"
+        },
+        "href": "https://api.spotify.com/v1/artists/3EaScgA3zh2rORlbrAL8RI",
+        "id": "3EaScgA3zh2rORlbrAL8RI",
+        "name": "Daun Jatuh",
+        "type": "artist",
+        "uri": "spotify:artist:3EaScgA3zh2rORlbrAL8RI"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3Y6pg5cbfAVdpU9DHsMSX4",
+    "is_local": false,
+    "name": "Sekedar Mengagumi",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
+          },
+          "href": "https://api.spotify.com/v1/artists/4AhHkaGz7W2bKKJK90IaV2",
+          "id": "4AhHkaGz7W2bKKJK90IaV2",
+          "name": "Batas Senja",
+          "type": "artist",
+          "uri": "spotify:artist:4AhHkaGz7W2bKKJK90IaV2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4dyBsn9yy3PXeBgIEUvZI5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c6092bd9b2579479e5fa9891",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c6092bd9b2579479e5fa9891",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c6092bd9b2579479e5fa9891",
+          "width": 64
+        }
+      ],
+      "name": "Nanti Kita Seperti Ini",
+      "release_date": "2022-09-27",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4dyBsn9yy3PXeBgIEUvZI5"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
+        },
+        "href": "https://api.spotify.com/v1/artists/4AhHkaGz7W2bKKJK90IaV2",
+        "id": "4AhHkaGz7W2bKKJK90IaV2",
+        "name": "Batas Senja",
+        "type": "artist",
+        "uri": "spotify:artist:4AhHkaGz7W2bKKJK90IaV2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3y8RcMPYG22fRnrOi4oFJ1",
+    "is_local": false,
+    "name": "Nanti Kita Seperti Ini",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5DKFj8QL05LWzVG82W29CG",
+          "id": "5DKFj8QL05LWzVG82W29CG",
+          "name": "Donne Maula",
+          "type": "artist",
+          "uri": "spotify:artist:5DKFj8QL05LWzVG82W29CG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2R0LdMQd1EpziRZpCnKmvh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2R0LdMQd1EpziRZpCnKmvh",
+          "id": "2R0LdMQd1EpziRZpCnKmvh",
+          "name": "Sheila Dara Aisha",
+          "type": "artist",
+          "uri": "spotify:artist:2R0LdMQd1EpziRZpCnKmvh"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0tLRivrRiezwVrkbWo9nXX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273295887186ea12b2f31b4be64",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02295887186ea12b2f31b4be64",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851295887186ea12b2f31b4be64",
+          "width": 64
+        }
+      ],
+      "name": "Teruntuk Jiwa Yang Kupuja",
+      "release_date": "2020-09-10",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0tLRivrRiezwVrkbWo9nXX"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
+        },
+        "href": "https://api.spotify.com/v1/artists/5DKFj8QL05LWzVG82W29CG",
+        "id": "5DKFj8QL05LWzVG82W29CG",
+        "name": "Donne Maula",
+        "type": "artist",
+        "uri": "spotify:artist:5DKFj8QL05LWzVG82W29CG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2R0LdMQd1EpziRZpCnKmvh"
+        },
+        "href": "https://api.spotify.com/v1/artists/2R0LdMQd1EpziRZpCnKmvh",
+        "id": "2R0LdMQd1EpziRZpCnKmvh",
+        "name": "Sheila Dara Aisha",
+        "type": "artist",
+        "uri": "spotify:artist:2R0LdMQd1EpziRZpCnKmvh"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6dP8zfB3zmgJNBC4uaUJEt",
+    "is_local": false,
+    "name": "Teruntuk Jiwa Yang Kupuja",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+          },
+          "href": "https://api.spotify.com/v1/artists/6UgERnTHmjk3qXM9x5vzyO",
+          "id": "6UgERnTHmjk3qXM9x5vzyO",
+          "name": "Nadhif Basalamah",
+          "type": "artist",
+          "uri": "spotify:artist:6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/19zDJ0Nd8Xfv7ctcQrlT5k",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27325001f594384ffb7fb952347",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0225001f594384ffb7fb952347",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485125001f594384ffb7fb952347",
+          "width": 64
+        }
+      ],
+      "name": "Nadhif",
+      "release_date": "2024-06-21",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:19zDJ0Nd8Xfv7ctcQrlT5k"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        },
+        "href": "https://api.spotify.com/v1/artists/6UgERnTHmjk3qXM9x5vzyO",
+        "id": "6UgERnTHmjk3qXM9x5vzyO",
+        "name": "Nadhif Basalamah",
+        "type": "artist",
+        "uri": "spotify:artist:6UgERnTHmjk3qXM9x5vzyO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5BgA2jaO1D9tdhsGHFrBj1",
+    "is_local": false,
+    "name": "tulis / terapi",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dOswEYzOtTMECumrZ3NHY",
+          "id": "7dOswEYzOtTMECumrZ3NHY",
+          "name": "Teddy Adhitya",
+          "type": "artist",
+          "uri": "spotify:artist:7dOswEYzOtTMECumrZ3NHY"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4afbOrtCfY6DZRe9Mrbmz7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a1478e5df65994132da43ae5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a1478e5df65994132da43ae5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a1478e5df65994132da43ae5",
+          "width": 64
+        }
+      ],
+      "name": "Langit Favoritku",
+      "release_date": "2021-08-25",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4afbOrtCfY6DZRe9Mrbmz7"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY"
+        },
+        "href": "https://api.spotify.com/v1/artists/7dOswEYzOtTMECumrZ3NHY",
+        "id": "7dOswEYzOtTMECumrZ3NHY",
+        "name": "Teddy Adhitya",
+        "type": "artist",
+        "uri": "spotify:artist:7dOswEYzOtTMECumrZ3NHY"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/22erAHtusIHAIuIMhHMKhR",
+    "is_local": false,
+    "name": "Langit Favoritku",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+          },
+          "href": "https://api.spotify.com/v1/artists/7pFWMC2E7h8eL3SZyHRsRq",
+          "id": "7pFWMC2E7h8eL3SZyHRsRq",
+          "name": "Idgitaf",
+          "type": "artist",
+          "uri": "spotify:artist:7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2bImEPBpff6jnVIqzPw643",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e00786796a9dc022dd6af859",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e00786796a9dc022dd6af859",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e00786796a9dc022dd6af859",
+          "width": 64
+        }
+      ],
+      "name": "Terpikat Senyummu",
+      "release_date": "2021-02-16",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2bImEPBpff6jnVIqzPw643"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        },
+        "href": "https://api.spotify.com/v1/artists/7pFWMC2E7h8eL3SZyHRsRq",
+        "id": "7pFWMC2E7h8eL3SZyHRsRq",
+        "name": "Idgitaf",
+        "type": "artist",
+        "uri": "spotify:artist:7pFWMC2E7h8eL3SZyHRsRq"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4TD6qEtz3KAJ6JWv1nNOCu",
+    "is_local": false,
+    "name": "Terpikat Senyummu",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
+          },
+          "href": "https://api.spotify.com/v1/artists/3t4MHnVggiFLOuSSh4odBk",
+          "id": "3t4MHnVggiFLOuSSh4odBk",
+          "name": "TheOvertunes",
+          "type": "artist",
+          "uri": "spotify:artist:3t4MHnVggiFLOuSSh4odBk"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4kGiYX3VXOTPJPqCgphG0C",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273109818075c8eed1a2ed132d8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02109818075c8eed1a2ed132d8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851109818075c8eed1a2ed132d8",
+          "width": 64
+        }
+      ],
+      "name": "Memory Lane",
+      "release_date": "2019-03-15",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:4kGiYX3VXOTPJPqCgphG0C"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
+        },
+        "href": "https://api.spotify.com/v1/artists/3t4MHnVggiFLOuSSh4odBk",
+        "id": "3t4MHnVggiFLOuSSh4odBk",
+        "name": "TheOvertunes",
+        "type": "artist",
+        "uri": "spotify:artist:3t4MHnVggiFLOuSSh4odBk"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1NhDc9mj96iCwgP5TniyY7",
+    "is_local": false,
+    "name": "Takkan Kemana",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51ChTfIJLjhAf8vd09W35d"
+          },
+          "href": "https://api.spotify.com/v1/artists/51ChTfIJLjhAf8vd09W35d",
+          "id": "51ChTfIJLjhAf8vd09W35d",
+          "name": "Faith",
+          "type": "artist",
+          "uri": "spotify:artist:51ChTfIJLjhAf8vd09W35d"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3inHbBdJGMnn0hHqfFaKDj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c436044c23eff4294a3116ca",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c436044c23eff4294a3116ca",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c436044c23eff4294a3116ca",
+          "width": 64
+        }
+      ],
+      "name": "Akulah Rumahmu",
+      "release_date": "2023-07-21",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3inHbBdJGMnn0hHqfFaKDj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/51ChTfIJLjhAf8vd09W35d"
+        },
+        "href": "https://api.spotify.com/v1/artists/51ChTfIJLjhAf8vd09W35d",
+        "id": "51ChTfIJLjhAf8vd09W35d",
+        "name": "Faith",
+        "type": "artist",
+        "uri": "spotify:artist:51ChTfIJLjhAf8vd09W35d"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0XNyU0BzNvjCywpp3i9Ej5",
+    "is_local": false,
+    "name": "Akulah Rumahmu",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+          },
+          "href": "https://api.spotify.com/v1/artists/1NjxFrpEGZTV2Ny0OJxeWu",
+          "id": "1NjxFrpEGZTV2Ny0OJxeWu",
+          "name": "Sal Priadi",
+          "type": "artist",
+          "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5uAcLj2EJLtQtKMyDYCI0Q",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273686acaaa87bfc6ebb42b3bd2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02686acaaa87bfc6ebb42b3bd2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851686acaaa87bfc6ebb42b3bd2",
+          "width": 64
+        }
+      ],
+      "name": "MARKERS AND SUCH PENS FLASHDISKS",
+      "release_date": "2024-04-30",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:5uAcLj2EJLtQtKMyDYCI0Q"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+        },
+        "href": "https://api.spotify.com/v1/artists/1NjxFrpEGZTV2Ny0OJxeWu",
+        "id": "1NjxFrpEGZTV2Ny0OJxeWu",
+        "name": "Sal Priadi",
+        "type": "artist",
+        "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/71ZLnmvl1AUO0gqWvhPBw2",
+    "is_local": false,
+    "name": "Dari planet lain",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Bh3L78YDNSWljRR1JO5C5",
+          "id": "5Bh3L78YDNSWljRR1JO5C5",
+          "name": "Marion Jola",
+          "type": "artist",
+          "uri": "spotify:artist:5Bh3L78YDNSWljRR1JO5C5"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6syB0IkH8vdpQBUQAnY25C",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e977a396ef821369d2edb037",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e977a396ef821369d2edb037",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e977a396ef821369d2edb037",
+          "width": 64
+        }
+      ],
+      "name": "Aku Takdirmu",
+      "release_date": "2024-05-16",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6syB0IkH8vdpQBUQAnY25C"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
+        },
+        "href": "https://api.spotify.com/v1/artists/5Bh3L78YDNSWljRR1JO5C5",
+        "id": "5Bh3L78YDNSWljRR1JO5C5",
+        "name": "Marion Jola",
+        "type": "artist",
+        "uri": "spotify:artist:5Bh3L78YDNSWljRR1JO5C5"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7yDYXmJ8NAoYeVolXv9E5K",
+    "is_local": false,
+    "name": "Aku Takdirmu",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y29W8mEcA2gKqUr1SPLJ",
+          "id": "13y29W8mEcA2gKqUr1SPLJ",
+          "name": "Rony Parulian",
+          "type": "artist",
+          "uri": "spotify:artist:13y29W8mEcA2gKqUr1SPLJ"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6IUPSmTT3qHfALuaS1GMiW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735d2e53fbcef5d8d00bed2d8d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025d2e53fbcef5d8d00bed2d8d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515d2e53fbcef5d8d00bed2d8d",
+          "width": 64
+        }
+      ],
+      "name": "Tak Ada Ujungnya",
+      "release_date": "2024-11-14",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6IUPSmTT3qHfALuaS1GMiW"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/13y29W8mEcA2gKqUr1SPLJ",
+        "id": "13y29W8mEcA2gKqUr1SPLJ",
+        "name": "Rony Parulian",
+        "type": "artist",
+        "uri": "spotify:artist:13y29W8mEcA2gKqUr1SPLJ"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2JekYbWANgDe54Dndi2I2C",
+    "is_local": false,
+    "name": "Tak Ada Ujungnya",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5DKFj8QL05LWzVG82W29CG",
+          "id": "5DKFj8QL05LWzVG82W29CG",
+          "name": "Donne Maula",
+          "type": "artist",
+          "uri": "spotify:artist:5DKFj8QL05LWzVG82W29CG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2R0LdMQd1EpziRZpCnKmvh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2R0LdMQd1EpziRZpCnKmvh",
+          "id": "2R0LdMQd1EpziRZpCnKmvh",
+          "name": "Sheila Dara Aisha",
+          "type": "artist",
+          "uri": "spotify:artist:2R0LdMQd1EpziRZpCnKmvh"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/69lOQPLrVZxETs7bcVT3mt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27339b1902790acfa8b1662a573",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0239b1902790acfa8b1662a573",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485139b1902790acfa8b1662a573",
+          "width": 64
+        }
+      ],
+      "name": "Peka",
+      "release_date": "2021-03-19",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:69lOQPLrVZxETs7bcVT3mt"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
+        },
+        "href": "https://api.spotify.com/v1/artists/5DKFj8QL05LWzVG82W29CG",
+        "id": "5DKFj8QL05LWzVG82W29CG",
+        "name": "Donne Maula",
+        "type": "artist",
+        "uri": "spotify:artist:5DKFj8QL05LWzVG82W29CG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2R0LdMQd1EpziRZpCnKmvh"
+        },
+        "href": "https://api.spotify.com/v1/artists/2R0LdMQd1EpziRZpCnKmvh",
+        "id": "2R0LdMQd1EpziRZpCnKmvh",
+        "name": "Sheila Dara Aisha",
+        "type": "artist",
+        "uri": "spotify:artist:2R0LdMQd1EpziRZpCnKmvh"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3O9tqnx7jyb8yP60iFx1yr",
+    "is_local": false,
+    "name": "Peka",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f"
+          },
+          "href": "https://api.spotify.com/v1/artists/4FZ6V3q8zMyFvSMeT2ld2f",
+          "id": "4FZ6V3q8zMyFvSMeT2ld2f",
+          "name": "Aku Jeje",
+          "type": "artist",
+          "uri": "spotify:artist:4FZ6V3q8zMyFvSMeT2ld2f"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7BKrpeMHhLmtJBPvhnISfu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737f8c31ff8af04ddd781bde54",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027f8c31ff8af04ddd781bde54",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517f8c31ff8af04ddd781bde54",
+          "width": 64
+        }
+      ],
+      "name": "Waktu",
+      "release_date": "2023-08-30",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7BKrpeMHhLmtJBPvhnISfu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f"
+        },
+        "href": "https://api.spotify.com/v1/artists/4FZ6V3q8zMyFvSMeT2ld2f",
+        "id": "4FZ6V3q8zMyFvSMeT2ld2f",
+        "name": "Aku Jeje",
+        "type": "artist",
+        "uri": "spotify:artist:4FZ6V3q8zMyFvSMeT2ld2f"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/32PrzTj1QzqPKBp6YgZXSM",
+    "is_local": false,
+    "name": "Waktu",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Sv2jkzH9sWQjwghW5ArMG",
+          "id": "6Sv2jkzH9sWQjwghW5ArMG",
+          "name": "Lyodra",
+          "type": "artist",
+          "uri": "spotify:artist:6Sv2jkzH9sWQjwghW5ArMG"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2y28ojd9lBvtJjgoGgCLov",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738d4a3bdf4236f3e5d4d28dd2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028d4a3bdf4236f3e5d4d28dd2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518d4a3bdf4236f3e5d4d28dd2",
+          "width": 64
+        }
+      ],
+      "name": "Melangkah",
+      "release_date": "2024-10-10",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:2y28ojd9lBvtJjgoGgCLov"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        },
+        "href": "https://api.spotify.com/v1/artists/6Sv2jkzH9sWQjwghW5ArMG",
+        "id": "6Sv2jkzH9sWQjwghW5ArMG",
+        "name": "Lyodra",
+        "type": "artist",
+        "uri": "spotify:artist:6Sv2jkzH9sWQjwghW5ArMG"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1jKyWssDMP83VtugbwCJ6g",
+    "is_local": false,
+    "name": "Malu Malu Tapi Nyaman",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
+          },
+          "href": "https://api.spotify.com/v1/artists/4ubEZ6sMsrrbQChueyouCC",
+          "id": "4ubEZ6sMsrrbQChueyouCC",
+          "name": "Hivi!",
+          "type": "artist",
+          "uri": "spotify:artist:4ubEZ6sMsrrbQChueyouCC"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3GXsFGyViN6r1JYvuHYYSG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e23b66f0e9b868f275412e14",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e23b66f0e9b868f275412e14",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e23b66f0e9b868f275412e14",
+          "width": 64
+        }
+      ],
+      "name": "CERITERA",
+      "release_date": "2019-11-13",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:3GXsFGyViN6r1JYvuHYYSG"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
+        },
+        "href": "https://api.spotify.com/v1/artists/4ubEZ6sMsrrbQChueyouCC",
+        "id": "4ubEZ6sMsrrbQChueyouCC",
+        "name": "Hivi!",
+        "type": "artist",
+        "uri": "spotify:artist:4ubEZ6sMsrrbQChueyouCC"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2OgW9sf0iYEx3zNdygaOqe",
+    "is_local": false,
+    "name": "Bahagia",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Ag6luL11YrL1Znq0xsVuh",
+          "id": "5Ag6luL11YrL1Znq0xsVuh",
+          "name": "Mahen",
+          "type": "artist",
+          "uri": "spotify:artist:5Ag6luL11YrL1Znq0xsVuh"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4ejyv5o7RBYzo7YRjrjPak",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27378f131faeb14e0b77e126973",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0278f131faeb14e0b77e126973",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485178f131faeb14e0b77e126973",
+          "width": 64
+        }
+      ],
+      "name": "Chapter 1.5 (Acoustic Version)",
+      "release_date": "2024-04-26",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:4ejyv5o7RBYzo7YRjrjPak"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh"
+        },
+        "href": "https://api.spotify.com/v1/artists/5Ag6luL11YrL1Znq0xsVuh",
+        "id": "5Ag6luL11YrL1Znq0xsVuh",
+        "name": "Mahen",
+        "type": "artist",
+        "uri": "spotify:artist:5Ag6luL11YrL1Znq0xsVuh"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5Hl1MoirusAn9TIzIXIWrR",
+    "is_local": false,
+    "name": "Memilih Berhenti - Acoustic Version",
+    "preview_url": null
+  }
+]

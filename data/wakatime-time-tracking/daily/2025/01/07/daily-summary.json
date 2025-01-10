@@ -1,5 +1,58 @@
 [
   {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 14,
+      "total_seconds": 879.301434,
+      "digital": "0:14",
+      "decimal": "0.23",
+      "text": "14 mins"
+    },
+    "range": {
+      "start": "2025-01-07T17:00:00Z",
+      "end": "2025-01-08T16:59:59Z",
+      "date": "2025-01-08",
+      "text": "Wed Jan 8th 2025",
+      "timezone": "Asia/Bangkok"
+    },
+    "projects": [
+      {
+        "name": "api-geolocate",
+        "total_seconds": 856.264118,
+        "color": null,
+        "digital": "0:14:16",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 16,
+        "percent": 97.38
+      },
+      {
+        "name": "cloudflare",
+        "total_seconds": 13.400948,
+        "color": null,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.52
+      },
+      {
+        "name": "namecheap",
+        "total_seconds": 9.636368,
+        "color": null,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 1.1
+      }
+    ],
     "languages": [
       {
         "name": "JavaScript",
@@ -79,53 +132,6 @@
         "percent": 0
       }
     ],
-    "grand_total": {
-      "hours": 0,
-      "minutes": 14,
-      "total_seconds": 879.301434,
-      "digital": "0:14",
-      "decimal": "0.23",
-      "text": "14 mins"
-    },
-    "editors": [
-      {
-        "name": "VS Code",
-        "total_seconds": 879.301434,
-        "digital": "0:14:39",
-        "decimal": "0.23",
-        "text": "14 mins",
-        "hours": 0,
-        "minutes": 14,
-        "seconds": 39,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 879.301434,
-        "digital": "0:14:39",
-        "decimal": "0.23",
-        "text": "14 mins",
-        "hours": 0,
-        "minutes": 14,
-        "seconds": 39,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 879.301434,
-        "digital": "0:14:39",
-        "decimal": "0.23",
-        "text": "14 mins",
-        "hours": 0,
-        "minutes": 14,
-        "seconds": 39,
-        "percent": 100
-      }
-    ],
     "dependencies": [
       {
         "name": "ipinfo",
@@ -197,47 +203,44 @@
         "percent": 100
       }
     ],
-    "projects": [
+    "editors": [
       {
-        "name": "api-geolocate",
-        "total_seconds": 856.264118,
-        "digital": "0:14:16",
+        "name": "VS Code",
+        "total_seconds": 879.301434,
+        "digital": "0:14:39",
         "decimal": "0.23",
         "text": "14 mins",
         "hours": 0,
         "minutes": 14,
-        "seconds": 16,
-        "percent": 97.38
-      },
-      {
-        "name": "cloudflare",
-        "total_seconds": 13.400948,
-        "digital": "0:00:13",
-        "decimal": "0.00",
-        "text": "13 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 13,
-        "percent": 1.52
-      },
-      {
-        "name": "namecheap",
-        "total_seconds": 9.636368,
-        "digital": "0:00:09",
-        "decimal": "0.00",
-        "text": "9 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 9,
-        "percent": 1.1
+        "seconds": 39,
+        "percent": 100
       }
     ],
-    "range": {
-      "start": "2025-01-07T17:00:00Z",
-      "end": "2025-01-08T16:59:59Z",
-      "date": "2025-01-08",
-      "text": "Wed Jan 8th 2025",
-      "timezone": "Asia/Bangkok"
-    }
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 879.301434,
+        "digital": "0:14:39",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 39,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 879.301434,
+        "digital": "0:14:39",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 39,
+        "percent": 100
+      }
+    ]
   }
 ]

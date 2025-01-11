@@ -1,16 +1,45 @@
 [
   {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 21,
+      "total_seconds": 1274.21504,
+      "digital": "0:21",
+      "decimal": "0.35",
+      "text": "21 mins"
+    },
+    "range": {
+      "start": "2025-01-08T17:00:00Z",
+      "end": "2025-01-09T16:59:59Z",
+      "date": "2025-01-09",
+      "text": "Thu Jan 9th 2025",
+      "timezone": "Asia/Bangkok"
+    },
+    "projects": [
+      {
+        "name": "BACKUP",
+        "total_seconds": 1274.21504,
+        "color": null,
+        "digital": "0:21:14",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 14,
+        "percent": 100
+      }
+    ],
     "languages": [
       {
         "name": "HTML",
-        "total_seconds": 1049.675743,
-        "digital": "0:17:29",
-        "decimal": "0.28",
-        "text": "17 mins",
+        "total_seconds": 1119.259783,
+        "digital": "0:18:39",
+        "decimal": "0.30",
+        "text": "18 mins",
         "hours": 0,
-        "minutes": 17,
-        "seconds": 29,
-        "percent": 87.14
+        "minutes": 18,
+        "seconds": 39,
+        "percent": 87.84
       },
       {
         "name": "Text",
@@ -21,100 +50,31 @@
         "hours": 0,
         "minutes": 2,
         "seconds": 34,
-        "percent": 12.86
-      }
-    ],
-    "grand_total": {
-      "hours": 0,
-      "minutes": 20,
-      "total_seconds": 1204.631,
-      "digital": "0:20",
-      "decimal": "0.33",
-      "text": "20 mins"
-    },
-    "editors": [
-      {
-        "name": "VS Code",
-        "total_seconds": 1204.631,
-        "digital": "0:20:04",
-        "decimal": "0.33",
-        "text": "20 mins",
-        "hours": 0,
-        "minutes": 20,
-        "seconds": 4,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 1204.631,
-        "digital": "0:20:04",
-        "decimal": "0.33",
-        "text": "20 mins",
-        "hours": 0,
-        "minutes": 20,
-        "seconds": 4,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 1204.631,
-        "digital": "0:20:04",
-        "decimal": "0.33",
-        "text": "20 mins",
-        "hours": 0,
-        "minutes": 20,
-        "seconds": 4,
-        "percent": 100
+        "percent": 12.16
       }
     ],
     "dependencies": [
       {
         "name": "\"https://www.googletagmanager.com/gtag/js?id=G-ZLM1SBG3T6\"",
-        "total_seconds": 460.524012,
-        "digital": "0:07:40",
-        "decimal": "0.12",
-        "text": "7 mins",
+        "total_seconds": 506.765054,
+        "digital": "0:08:26",
+        "decimal": "0.13",
+        "text": "8 mins",
         "hours": 0,
-        "minutes": 7,
-        "seconds": 40,
-        "percent": 58.95
+        "minutes": 8,
+        "seconds": 26,
+        "percent": 58.01
       },
       {
         "name": "\"https://cdn.d32jers.com/others/snowy-js/snowy.js\"",
-        "total_seconds": 256.36034,
-        "digital": "0:04:16",
-        "decimal": "0.07",
-        "text": "4 mins",
+        "total_seconds": 302.601382,
+        "digital": "0:05:02",
+        "decimal": "0.08",
+        "text": "5 mins",
         "hours": 0,
-        "minutes": 4,
-        "seconds": 16,
-        "percent": 32.82
-      },
-      {
-        "name": "\"https://cdn.socket.io/4.7.2/socket.io.min.js\"",
-        "total_seconds": 21.428962,
-        "digital": "0:00:21",
-        "decimal": "0.00",
-        "text": "21 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 21,
-        "percent": 2.74
-      },
-      {
-        "name": "\"https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js\"",
-        "total_seconds": 21.428962,
-        "digital": "0:00:21",
-        "decimal": "0.00",
-        "text": "21 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 21,
-        "percent": 2.74
+        "minutes": 5,
+        "seconds": 2,
+        "percent": 34.64
       },
       {
         "name": "\"https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js\"",
@@ -125,42 +85,83 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 21,
-        "percent": 2.74
+        "percent": 2.45
+      },
+      {
+        "name": "\"https://cdn.socket.io/4.7.2/socket.io.min.js\"",
+        "total_seconds": 21.428962,
+        "digital": "0:00:21",
+        "decimal": "0.00",
+        "text": "21 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 21,
+        "percent": 2.45
+      },
+      {
+        "name": "\"https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js\"",
+        "total_seconds": 21.428962,
+        "digital": "0:00:21",
+        "decimal": "0.00",
+        "text": "21 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 21,
+        "percent": 2.45
       }
     ],
     "machines": [
       {
         "name": "HS-INCAMKT001",
-        "total_seconds": 1204.631,
+        "total_seconds": 1274.21504,
         "machine_name_id": "b1903e6c-fdb7-4c8e-b8d0-6b159691bafa",
-        "digital": "0:20:04",
-        "decimal": "0.33",
-        "text": "20 mins",
+        "digital": "0:21:14",
+        "decimal": "0.35",
+        "text": "21 mins",
         "hours": 0,
-        "minutes": 20,
-        "seconds": 4,
+        "minutes": 21,
+        "seconds": 14,
         "percent": 100
       }
     ],
-    "projects": [
+    "editors": [
       {
-        "name": "BACKUP",
-        "total_seconds": 1204.631,
-        "digital": "0:20:04",
-        "decimal": "0.33",
-        "text": "20 mins",
+        "name": "VS Code",
+        "total_seconds": 1274.21504,
+        "digital": "0:21:14",
+        "decimal": "0.35",
+        "text": "21 mins",
         "hours": 0,
-        "minutes": 20,
-        "seconds": 4,
+        "minutes": 21,
+        "seconds": 14,
         "percent": 100
       }
     ],
-    "range": {
-      "start": "2025-01-08T17:00:00Z",
-      "end": "2025-01-09T16:59:59Z",
-      "date": "2025-01-09",
-      "text": "Thu Jan 9th 2025",
-      "timezone": "Asia/Bangkok"
-    }
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1274.21504,
+        "digital": "0:21:14",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 14,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1274.21504,
+        "digital": "0:21:14",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 14,
+        "percent": 100
+      }
+    ]
   }
 ]

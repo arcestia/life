@@ -1,0 +1,1302 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
+          },
+          "href": "https://api.spotify.com/v1/artists/0OjRa6r1EIPF5RZPy1SGz9",
+          "id": "0OjRa6r1EIPF5RZPy1SGz9",
+          "name": "Musketeers",
+          "type": "artist",
+          "uri": "spotify:artist:0OjRa6r1EIPF5RZPy1SGz9"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3GPJ0Z4IvhB948RrCGIoPj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b0f744fa9ec23266c747a606",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b0f744fa9ec23266c747a606",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b0f744fa9ec23266c747a606",
+          "width": 64
+        }
+      ],
+      "name": "Left Right And Something",
+      "release_date": "2015-12-16",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:3GPJ0Z4IvhB948RrCGIoPj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
+        },
+        "href": "https://api.spotify.com/v1/artists/0OjRa6r1EIPF5RZPy1SGz9",
+        "id": "0OjRa6r1EIPF5RZPy1SGz9",
+        "name": "Musketeers",
+        "type": "artist",
+        "uri": "spotify:artist:0OjRa6r1EIPF5RZPy1SGz9"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/24VfUtHxbkCrscWC00toom",
+    "is_local": false,
+    "name": "ความทรงจำ",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi"
+          },
+          "href": "https://api.spotify.com/v1/artists/5pxvW2nJ0a77b9oX24Unwi",
+          "id": "5pxvW2nJ0a77b9oX24Unwi",
+          "name": "Tattoo Colour",
+          "type": "artist",
+          "uri": "spotify:artist:5pxvW2nJ0a77b9oX24Unwi"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2I9sAfirDryTyaWzd5iSgy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27346219c16ac4eca021bdb1bae",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0246219c16ac4eca021bdb1bae",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485146219c16ac4eca021bdb1bae",
+          "width": 64
+        }
+      ],
+      "name": "เรือนแพ ชุดที่ 6",
+      "release_date": "2022-11-12",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:2I9sAfirDryTyaWzd5iSgy"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi"
+        },
+        "href": "https://api.spotify.com/v1/artists/5pxvW2nJ0a77b9oX24Unwi",
+        "id": "5pxvW2nJ0a77b9oX24Unwi",
+        "name": "Tattoo Colour",
+        "type": "artist",
+        "uri": "spotify:artist:5pxvW2nJ0a77b9oX24Unwi"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg"
+        },
+        "href": "https://api.spotify.com/v1/artists/1k7MP2tMC43vM0b0wg8HHg",
+        "id": "1k7MP2tMC43vM0b0wg8HHg",
+        "name": "D Gerrard",
+        "type": "artist",
+        "uri": "spotify:artist:1k7MP2tMC43vM0b0wg8HHg"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5tEnHO4CoBczsvjhYgmfuD",
+    "is_local": false,
+    "name": "SuperCarCare",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wd5kKWvp9e1i7rBtvvGSc",
+          "id": "2wd5kKWvp9e1i7rBtvvGSc",
+          "name": "DIDIxDADA",
+          "type": "artist",
+          "uri": "spotify:artist:2wd5kKWvp9e1i7rBtvvGSc"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3HQlEa7YeAL1idA9iFHEYx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737614e8b24d453aa31efedd21",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027614e8b24d453aa31efedd21",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517614e8b24d453aa31efedd21",
+          "width": 64
+        }
+      ],
+      "name": "จังหวะตกหลุมรัก (Magic Moment)",
+      "release_date": "2023-03-17",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3HQlEa7YeAL1idA9iFHEYx"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc"
+        },
+        "href": "https://api.spotify.com/v1/artists/2wd5kKWvp9e1i7rBtvvGSc",
+        "id": "2wd5kKWvp9e1i7rBtvvGSc",
+        "name": "DIDIxDADA",
+        "type": "artist",
+        "uri": "spotify:artist:2wd5kKWvp9e1i7rBtvvGSc"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7KmY6wBpheP60rFEJPJBqN",
+    "is_local": false,
+    "name": "จังหวะตกหลุมรัก - Magic Moment",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+          "id": "1Twi7NfmUzbXF7lEMaGCqF",
+          "name": "Ink Waruntorn",
+          "type": "artist",
+          "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3C1L1CgjEjjHoyAPZwePgs",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739fe49afc06c36334c06715f7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029fe49afc06c36334c06715f7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519fe49afc06c36334c06715f7",
+          "width": 64
+        }
+      ],
+      "name": "พบรัก",
+      "release_date": "2024-06-20",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3C1L1CgjEjjHoyAPZwePgs"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+        "id": "1Twi7NfmUzbXF7lEMaGCqF",
+        "name": "Ink Waruntorn",
+        "type": "artist",
+        "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2LJerOY5jSwO5K6OF9Cyuz",
+    "is_local": false,
+    "name": "พบรัก",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+          },
+          "href": "https://api.spotify.com/v1/artists/2SWWw5uB9cO5m7zJQZqwmr",
+          "id": "2SWWw5uB9cO5m7zJQZqwmr",
+          "name": "BOWKYLION",
+          "type": "artist",
+          "uri": "spotify:artist:2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4SA6tqiAo2pg10QwwSUtfR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273870ae2d51ea36cd6e67a6300",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02870ae2d51ea36cd6e67a6300",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851870ae2d51ea36cd6e67a6300",
+          "width": 64
+        }
+      ],
+      "name": "Lionheart",
+      "release_date": "2020-09-09",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:4SA6tqiAo2pg10QwwSUtfR"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        },
+        "href": "https://api.spotify.com/v1/artists/2SWWw5uB9cO5m7zJQZqwmr",
+        "id": "2SWWw5uB9cO5m7zJQZqwmr",
+        "name": "BOWKYLION",
+        "type": "artist",
+        "uri": "spotify:artist:2SWWw5uB9cO5m7zJQZqwmr"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/69ubzIqMB8QgoWZiazDrQ3",
+    "is_local": false,
+    "name": "ลงใจ",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ORibfYGMt8fuIimSDCTq1",
+          "id": "2ORibfYGMt8fuIimSDCTq1",
+          "name": "bamm",
+          "type": "artist",
+          "uri": "spotify:artist:2ORibfYGMt8fuIimSDCTq1"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1C45xLNvMc8HqJD5jHEP4q",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dc1db626799e1a381dc8d165",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dc1db626799e1a381dc8d165",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dc1db626799e1a381dc8d165",
+          "width": 64
+        }
+      ],
+      "name": "เศร้าศาสตร์",
+      "release_date": "2022-08-17",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:1C45xLNvMc8HqJD5jHEP4q"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1"
+        },
+        "href": "https://api.spotify.com/v1/artists/2ORibfYGMt8fuIimSDCTq1",
+        "id": "2ORibfYGMt8fuIimSDCTq1",
+        "name": "bamm",
+        "type": "artist",
+        "uri": "spotify:artist:2ORibfYGMt8fuIimSDCTq1"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/47WfK6QKlLwIOxJaonJ3bA",
+    "is_local": false,
+    "name": "ใครเพื่อนแก",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+          },
+          "href": "https://api.spotify.com/v1/artists/1WLKjYJX9YHSlwufclauhg",
+          "id": "1WLKjYJX9YHSlwufclauhg",
+          "name": "URBOYTJ",
+          "type": "artist",
+          "uri": "spotify:artist:1WLKjYJX9YHSlwufclauhg"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4YQqcCKXLmZcJkzijUfSiy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c475c4795627112c1d52c7dc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c475c4795627112c1d52c7dc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c475c4795627112c1d52c7dc",
+          "width": 64
+        }
+      ],
+      "name": "เป็นได้ทุกอย่าง",
+      "release_date": "2021-12-25",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4YQqcCKXLmZcJkzijUfSiy"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+        },
+        "href": "https://api.spotify.com/v1/artists/1WLKjYJX9YHSlwufclauhg",
+        "id": "1WLKjYJX9YHSlwufclauhg",
+        "name": "URBOYTJ",
+        "type": "artist",
+        "uri": "spotify:artist:1WLKjYJX9YHSlwufclauhg"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/27qlKjzLoCOzltggfY8FPy",
+    "is_local": false,
+    "name": "เป็นได้ทุกอย่าง",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7"
+          },
+          "href": "https://api.spotify.com/v1/artists/5zSQoNQ9o2dnT1LPTzDxg7",
+          "id": "5zSQoNQ9o2dnT1LPTzDxg7",
+          "name": "Mirrr",
+          "type": "artist",
+          "uri": "spotify:artist:5zSQoNQ9o2dnT1LPTzDxg7"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7g6iCekuVO1Xx6WP1pPfB0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bfcaba937c10b5bd49b1e2b9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bfcaba937c10b5bd49b1e2b9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bfcaba937c10b5bd49b1e2b9",
+          "width": 64
+        }
+      ],
+      "name": "Q.E.D",
+      "release_date": "2022-03-24",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:7g6iCekuVO1Xx6WP1pPfB0"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7"
+        },
+        "href": "https://api.spotify.com/v1/artists/5zSQoNQ9o2dnT1LPTzDxg7",
+        "id": "5zSQoNQ9o2dnT1LPTzDxg7",
+        "name": "Mirrr",
+        "type": "artist",
+        "uri": "spotify:artist:5zSQoNQ9o2dnT1LPTzDxg7"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1rNYuv63emsYt4Jjv8RlgJ",
+    "is_local": false,
+    "name": "เจ้าของที่",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+          "id": "1Twi7NfmUzbXF7lEMaGCqF",
+          "name": "Ink Waruntorn",
+          "type": "artist",
+          "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/51Rw7tcvPFoW5jB24DXnby",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273513fe660d34cafdc65476138",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02513fe660d34cafdc65476138",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851513fe660d34cafdc65476138",
+          "width": 64
+        }
+      ],
+      "name": "เพื่อใคร - Young Play Project",
+      "release_date": "2023-11-02",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:51Rw7tcvPFoW5jB24DXnby"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+        "id": "1Twi7NfmUzbXF7lEMaGCqF",
+        "name": "Ink Waruntorn",
+        "type": "artist",
+        "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/37nTmLlO3b6x7rqpAsjIOO",
+    "is_local": false,
+    "name": "เพื่อใคร - Young Play Project",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6chmC6o0wvACYVGTITw3Pz",
+          "id": "6chmC6o0wvACYVGTITw3Pz",
+          "name": "NONT TANONT",
+          "type": "artist",
+          "uri": "spotify:artist:6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7hxZ6ENhTfRAqYTAIO5DYH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736449901b3c0a16e51a24ebcc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026449901b3c0a16e51a24ebcc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516449901b3c0a16e51a24ebcc",
+          "width": 64
+        }
+      ],
+      "name": "จำนน",
+      "release_date": "2024-03-14",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7hxZ6ENhTfRAqYTAIO5DYH"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        },
+        "href": "https://api.spotify.com/v1/artists/6chmC6o0wvACYVGTITw3Pz",
+        "id": "6chmC6o0wvACYVGTITw3Pz",
+        "name": "NONT TANONT",
+        "type": "artist",
+        "uri": "spotify:artist:6chmC6o0wvACYVGTITw3Pz"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5jj7yXcilVsZPpyYtmD28X",
+    "is_local": false,
+    "name": "จำนน",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+          },
+          "href": "https://api.spotify.com/v1/artists/2SWWw5uB9cO5m7zJQZqwmr",
+          "id": "2SWWw5uB9cO5m7zJQZqwmr",
+          "name": "BOWKYLION",
+          "type": "artist",
+          "uri": "spotify:artist:2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4SA6tqiAo2pg10QwwSUtfR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273870ae2d51ea36cd6e67a6300",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02870ae2d51ea36cd6e67a6300",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851870ae2d51ea36cd6e67a6300",
+          "width": 64
+        }
+      ],
+      "name": "Lionheart",
+      "release_date": "2020-09-09",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:4SA6tqiAo2pg10QwwSUtfR"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        },
+        "href": "https://api.spotify.com/v1/artists/2SWWw5uB9cO5m7zJQZqwmr",
+        "id": "2SWWw5uB9cO5m7zJQZqwmr",
+        "name": "BOWKYLION",
+        "type": "artist",
+        "uri": "spotify:artist:2SWWw5uB9cO5m7zJQZqwmr"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0isUMGq0NrzYHulY0lThxy",
+    "is_local": false,
+    "name": "คิดถึงแต่",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UinDJmeOYHabAbh1SZadg"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UinDJmeOYHabAbh1SZadg",
+          "id": "3UinDJmeOYHabAbh1SZadg",
+          "name": "Kinkaworn",
+          "type": "artist",
+          "uri": "spotify:artist:3UinDJmeOYHabAbh1SZadg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6rkiZwshBMorgls8PbDzSY",
+          "id": "6rkiZwshBMorgls8PbDzSY",
+          "name": "BELL WARISARA",
+          "type": "artist",
+          "uri": "spotify:artist:6rkiZwshBMorgls8PbDzSY"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1J4dG82e0Pln7i5PxodQuV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733f3249fdb71bdb217ebd9bf4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023f3249fdb71bdb217ebd9bf4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513f3249fdb71bdb217ebd9bf4",
+          "width": 64
+        }
+      ],
+      "name": "ตกหลุมรักรอบที่ล้าน",
+      "release_date": "2021-12-17",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1J4dG82e0Pln7i5PxodQuV"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3UinDJmeOYHabAbh1SZadg"
+        },
+        "href": "https://api.spotify.com/v1/artists/3UinDJmeOYHabAbh1SZadg",
+        "id": "3UinDJmeOYHabAbh1SZadg",
+        "name": "Kinkaworn",
+        "type": "artist",
+        "uri": "spotify:artist:3UinDJmeOYHabAbh1SZadg"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY"
+        },
+        "href": "https://api.spotify.com/v1/artists/6rkiZwshBMorgls8PbDzSY",
+        "id": "6rkiZwshBMorgls8PbDzSY",
+        "name": "BELL WARISARA",
+        "type": "artist",
+        "uri": "spotify:artist:6rkiZwshBMorgls8PbDzSY"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0h5J891lpMTlU4o6oPg3VJ",
+    "is_local": false,
+    "name": "ตกหลุมรักรอบที่ล้าน",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ssEwBiz4ZKrbgR6o8vOeg",
+          "id": "1ssEwBiz4ZKrbgR6o8vOeg",
+          "name": "Polycat",
+          "type": "artist",
+          "uri": "spotify:artist:1ssEwBiz4ZKrbgR6o8vOeg"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6sYl8jS1YLFwKoYCxvsgmP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27346f19ad1f6fd32baa3e1abe9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0246f19ad1f6fd32baa3e1abe9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485146f19ad1f6fd32baa3e1abe9",
+          "width": 64
+        }
+      ],
+      "name": "Pillow War",
+      "release_date": "2021-03-01",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:6sYl8jS1YLFwKoYCxvsgmP"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg"
+        },
+        "href": "https://api.spotify.com/v1/artists/1ssEwBiz4ZKrbgR6o8vOeg",
+        "id": "1ssEwBiz4ZKrbgR6o8vOeg",
+        "name": "Polycat",
+        "type": "artist",
+        "uri": "spotify:artist:1ssEwBiz4ZKrbgR6o8vOeg"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4egcuK8qzq7DXeU4YfpEBR",
+    "is_local": false,
+    "name": "อาวรณ์",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+          "id": "1Twi7NfmUzbXF7lEMaGCqF",
+          "name": "Ink Waruntorn",
+          "type": "artist",
+          "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3S8wLd9kZqvibuEQoAKd7I",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736334da2e440762adf9996484",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026334da2e440762adf9996484",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516334da2e440762adf9996484",
+          "width": 64
+        }
+      ],
+      "name": "เผลอหรือตั้งใจ",
+      "release_date": "2021-04-12",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3S8wLd9kZqvibuEQoAKd7I"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+        "id": "1Twi7NfmUzbXF7lEMaGCqF",
+        "name": "Ink Waruntorn",
+        "type": "artist",
+        "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7GfFmnGewokTR7RwkMpbW5",
+    "is_local": false,
+    "name": "เผลอหรือตั้งใจ",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+          },
+          "href": "https://api.spotify.com/v1/artists/6HlUN1Md7UT62mNJHOYRsK",
+          "id": "6HlUN1Md7UT62mNJHOYRsK",
+          "name": "PiXXiE",
+          "type": "artist",
+          "uri": "spotify:artist:6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4edPsEhpxL35cl5meC5vvJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273773c25917e6912bb07c32386",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02773c25917e6912bb07c32386",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851773c25917e6912bb07c32386",
+          "width": 64
+        }
+      ],
+      "name": "BLOOM",
+      "release_date": "2022-09-28",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:4edPsEhpxL35cl5meC5vvJ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        },
+        "href": "https://api.spotify.com/v1/artists/6HlUN1Md7UT62mNJHOYRsK",
+        "id": "6HlUN1Md7UT62mNJHOYRsK",
+        "name": "PiXXiE",
+        "type": "artist",
+        "uri": "spotify:artist:6HlUN1Md7UT62mNJHOYRsK"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3GMvQQ1R91hkdoGPYBQTlu",
+    "is_local": false,
+    "name": "เกินต้าน",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6chmC6o0wvACYVGTITw3Pz",
+          "id": "6chmC6o0wvACYVGTITw3Pz",
+          "name": "NONT TANONT",
+          "type": "artist",
+          "uri": "spotify:artist:6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0WgyERgiBxZTMyzpZbv0Mu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ee90e3018520f75add41cdba",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ee90e3018520f75add41cdba",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ee90e3018520f75add41cdba",
+          "width": 64
+        }
+      ],
+      "name": "Cigarette Candy & Vanilla Sky",
+      "release_date": "2022-08-01",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0WgyERgiBxZTMyzpZbv0Mu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        },
+        "href": "https://api.spotify.com/v1/artists/6chmC6o0wvACYVGTITw3Pz",
+        "id": "6chmC6o0wvACYVGTITw3Pz",
+        "name": "NONT TANONT",
+        "type": "artist",
+        "uri": "spotify:artist:6chmC6o0wvACYVGTITw3Pz"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/60ZuPJ8kseTn6isqhyxpCi",
+    "is_local": false,
+    "name": "โต๊ะริม",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+          },
+          "href": "https://api.spotify.com/v1/artists/2SWWw5uB9cO5m7zJQZqwmr",
+          "id": "2SWWw5uB9cO5m7zJQZqwmr",
+          "name": "BOWKYLION",
+          "type": "artist",
+          "uri": "spotify:artist:2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3qyFShIWhPpf4lgxZ1EaWE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f3887c56bde16342cc0e8fb6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f3887c56bde16342cc0e8fb6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f3887c56bde16342cc0e8fb6",
+          "width": 64
+        }
+      ],
+      "name": "รู้กันแค่นี้ (mint)",
+      "release_date": "2023-02-14",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3qyFShIWhPpf4lgxZ1EaWE"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        },
+        "href": "https://api.spotify.com/v1/artists/2SWWw5uB9cO5m7zJQZqwmr",
+        "id": "2SWWw5uB9cO5m7zJQZqwmr",
+        "name": "BOWKYLION",
+        "type": "artist",
+        "uri": "spotify:artist:2SWWw5uB9cO5m7zJQZqwmr"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6ck9dK5Wh0lZvvBsX49HZD",
+    "is_local": false,
+    "name": "รู้กันแค่นี้ - mint",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UinDJmeOYHabAbh1SZadg"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UinDJmeOYHabAbh1SZadg",
+          "id": "3UinDJmeOYHabAbh1SZadg",
+          "name": "Kinkaworn",
+          "type": "artist",
+          "uri": "spotify:artist:3UinDJmeOYHabAbh1SZadg"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1X4Je0roqbsKnR5EQwUv4g",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a3e5c945a15931eca9d62048",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a3e5c945a15931eca9d62048",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a3e5c945a15931eca9d62048",
+          "width": 64
+        }
+      ],
+      "name": "ซ้อมมีแฟน (trial)",
+      "release_date": "2022-09-25",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1X4Je0roqbsKnR5EQwUv4g"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3UinDJmeOYHabAbh1SZadg"
+        },
+        "href": "https://api.spotify.com/v1/artists/3UinDJmeOYHabAbh1SZadg",
+        "id": "3UinDJmeOYHabAbh1SZadg",
+        "name": "Kinkaworn",
+        "type": "artist",
+        "uri": "spotify:artist:3UinDJmeOYHabAbh1SZadg"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1"
+        },
+        "href": "https://api.spotify.com/v1/artists/2ORibfYGMt8fuIimSDCTq1",
+        "id": "2ORibfYGMt8fuIimSDCTq1",
+        "name": "bamm",
+        "type": "artist",
+        "uri": "spotify:artist:2ORibfYGMt8fuIimSDCTq1"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5xdmFkq5uVLzhogUK8wRQk",
+    "is_local": false,
+    "name": "ซ้อมมีแฟน (trial)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3pwrHUNPM7bLu4MSYGwAOu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27303d1d501763328c3934711e5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0203d1d501763328c3934711e5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485103d1d501763328c3934711e5",
+          "width": 64
+        }
+      ],
+      "name": "เธอๆเรามีอะไรจะบอก(Tell u Somethin')",
+      "release_date": "2022-01-17",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3pwrHUNPM7bLu4MSYGwAOu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+        "id": "1Twi7NfmUzbXF7lEMaGCqF",
+        "name": "Ink Waruntorn",
+        "type": "artist",
+        "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        },
+        "href": "https://api.spotify.com/v1/artists/32qeMmjXorbPWS9JOi8O2p",
+        "id": "32qeMmjXorbPWS9JOi8O2p",
+        "name": "SERIOUS BACON",
+        "type": "artist",
+        "uri": "spotify:artist:32qeMmjXorbPWS9JOi8O2p"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6TbBwWQ668tRh7E7xs0jYO"
+        },
+        "href": "https://api.spotify.com/v1/artists/6TbBwWQ668tRh7E7xs0jYO",
+        "id": "6TbBwWQ668tRh7E7xs0jYO",
+        "name": "PORTRAIT",
+        "type": "artist",
+        "uri": "spotify:artist:6TbBwWQ668tRh7E7xs0jYO"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4UCR7MZYvPa4fdyKGI4itd"
+        },
+        "href": "https://api.spotify.com/v1/artists/4UCR7MZYvPa4fdyKGI4itd",
+        "id": "4UCR7MZYvPa4fdyKGI4itd",
+        "name": "Copter",
+        "type": "artist",
+        "uri": "spotify:artist:4UCR7MZYvPa4fdyKGI4itd"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3JP38d8r7r0trtBel5H7nu"
+        },
+        "href": "https://api.spotify.com/v1/artists/3JP38d8r7r0trtBel5H7nu",
+        "id": "3JP38d8r7r0trtBel5H7nu",
+        "name": "Bean Napason",
+        "type": "artist",
+        "uri": "spotify:artist:3JP38d8r7r0trtBel5H7nu"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5mZD78snaOoIJGOOFEbXFA"
+        },
+        "href": "https://api.spotify.com/v1/artists/5mZD78snaOoIJGOOFEbXFA",
+        "id": "5mZD78snaOoIJGOOFEbXFA",
+        "name": "O-Pavee",
+        "type": "artist",
+        "uri": "spotify:artist:5mZD78snaOoIJGOOFEbXFA"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3O22eV6QHIReAwEP6uCaEP"
+        },
+        "href": "https://api.spotify.com/v1/artists/3O22eV6QHIReAwEP6uCaEP",
+        "id": "3O22eV6QHIReAwEP6uCaEP",
+        "name": "ONEONE",
+        "type": "artist",
+        "uri": "spotify:artist:3O22eV6QHIReAwEP6uCaEP"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5TP4WtjeN7orqWOP5bHU6O"
+        },
+        "href": "https://api.spotify.com/v1/artists/5TP4WtjeN7orqWOP5bHU6O",
+        "id": "5TP4WtjeN7orqWOP5bHU6O",
+        "name": "MAIY",
+        "type": "artist",
+        "uri": "spotify:artist:5TP4WtjeN7orqWOP5bHU6O"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1l85NuUaUCqaiAHTUMYBKQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/1l85NuUaUCqaiAHTUMYBKQ",
+        "id": "1l85NuUaUCqaiAHTUMYBKQ",
+        "name": "Nann",
+        "type": "artist",
+        "uri": "spotify:artist:1l85NuUaUCqaiAHTUMYBKQ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6Jq2u22oRh1355AJXMQmJ1"
+        },
+        "href": "https://api.spotify.com/v1/artists/6Jq2u22oRh1355AJXMQmJ1",
+        "id": "6Jq2u22oRh1355AJXMQmJ1",
+        "name": "Fai Patthaya",
+        "type": "artist",
+        "uri": "spotify:artist:6Jq2u22oRh1355AJXMQmJ1"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6bgJVFxXoLzHewXZmpdpGs"
+        },
+        "href": "https://api.spotify.com/v1/artists/6bgJVFxXoLzHewXZmpdpGs",
+        "id": "6bgJVFxXoLzHewXZmpdpGs",
+        "name": "Marc Tatchapon",
+        "type": "artist",
+        "uri": "spotify:artist:6bgJVFxXoLzHewXZmpdpGs"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7ldZjCCtr8hTPq5FMkPZYu"
+        },
+        "href": "https://api.spotify.com/v1/artists/7ldZjCCtr8hTPq5FMkPZYu",
+        "id": "7ldZjCCtr8hTPq5FMkPZYu",
+        "name": "The Kastle",
+        "type": "artist",
+        "uri": "spotify:artist:7ldZjCCtr8hTPq5FMkPZYu"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4cIWnxAIRBAKt5JcjLko4D",
+    "is_local": false,
+    "name": "เธอๆเรามีอะไรจะบอก(Tell u Somethin')",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ncWdDNCY4fQHIaGdfme4d",
+          "id": "6ncWdDNCY4fQHIaGdfme4d",
+          "name": "Bow Maylada",
+          "type": "artist",
+          "uri": "spotify:artist:6ncWdDNCY4fQHIaGdfme4d"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2rFDr7JyK6wHOM0ou28ncj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27314a0587cf089e8d0baac694b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0214a0587cf089e8d0baac694b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485114a0587cf089e8d0baac694b",
+          "width": 64
+        }
+      ],
+      "name": "เเฟนผมน่ารัก",
+      "release_date": "2022-09-19",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2rFDr7JyK6wHOM0ou28ncj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d"
+        },
+        "href": "https://api.spotify.com/v1/artists/6ncWdDNCY4fQHIaGdfme4d",
+        "id": "6ncWdDNCY4fQHIaGdfme4d",
+        "name": "Bow Maylada",
+        "type": "artist",
+        "uri": "spotify:artist:6ncWdDNCY4fQHIaGdfme4d"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
+        },
+        "href": "https://api.spotify.com/v1/artists/2DaMrZndfGgM3yd9ivadRC",
+        "id": "2DaMrZndfGgM3yd9ivadRC",
+        "name": "Lipta",
+        "type": "artist",
+        "uri": "spotify:artist:2DaMrZndfGgM3yd9ivadRC"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0GJHuhvKkuAnocAGNJvNw5",
+    "is_local": false,
+    "name": "เเฟนผมน่ารัก",
+    "preview_url": null
+  }
+]

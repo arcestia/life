@@ -25,7 +25,7 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/Ink+Waruntorn/Ink+Waruntornin+Close+Up+Concert+(Live)",
-    "playcount": "69",
+    "playcount": "91",
     "@attr": {
       "rank": "1"
     },
@@ -57,11 +57,43 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/Ink+Waruntorn/INK",
-    "playcount": "63",
+    "playcount": "77",
     "@attr": {
       "rank": "2"
     },
     "name": "INK"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/Ink+Waruntorn",
+      "name": "Ink Waruntorn",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ed16372cfedf57fd4e39d04168e2a231.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ed16372cfedf57fd4e39d04168e2a231.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ed16372cfedf57fd4e39d04168e2a231.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ed16372cfedf57fd4e39d04168e2a231.jpg"
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/Ink+Waruntorn/Muzik+Move+Thai+Music",
+    "playcount": "40",
+    "@attr": {
+      "rank": "3"
+    },
+    "name": "Muzik Move Thai Music"
   },
   {
     "artist": {
@@ -91,41 +123,9 @@
     "url": "https://www.last.fm/music/G-DRAGON/COUP+D%27ETAT+%5B%252B+ONE+OF+A+KIND+&+HEARTBREAKER%5D",
     "playcount": "33",
     "@attr": {
-      "rank": "3"
-    },
-    "name": "COUP D'ETAT [+ ONE OF A KIND & HEARTBREAKER]"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/Ink+Waruntorn",
-      "name": "Ink Waruntorn",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ed16372cfedf57fd4e39d04168e2a231.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ed16372cfedf57fd4e39d04168e2a231.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ed16372cfedf57fd4e39d04168e2a231.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ed16372cfedf57fd4e39d04168e2a231.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/Ink+Waruntorn/Muzik+Move+Thai+Music",
-    "playcount": "30",
-    "@attr": {
       "rank": "4"
     },
-    "name": "Muzik Move Thai Music"
+    "name": "COUP D'ETAT [+ ONE OF A KIND & HEARTBREAKER]"
   },
   {
     "artist": {
@@ -289,6 +289,38 @@
   },
   {
     "artist": {
+      "url": "https://www.last.fm/music/Ink+Waruntorn",
+      "name": "Ink Waruntorn",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1446976b70df74ffcee2f238333b6965.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1446976b70df74ffcee2f238333b6965.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1446976b70df74ffcee2f238333b6965.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1446976b70df74ffcee2f238333b6965.jpg"
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/Ink+Waruntorn/bloom.",
+    "playcount": "21",
+    "@attr": {
+      "rank": "10"
+    },
+    "name": "bloom."
+  },
+  {
+    "artist": {
       "url": "https://www.last.fm/music/PolyCat",
       "name": "PolyCat",
       "mbid": ""
@@ -315,41 +347,9 @@
     "url": "https://www.last.fm/music/PolyCat/80+Kisses",
     "playcount": "19",
     "@attr": {
-      "rank": "10"
-    },
-    "name": "80 Kisses"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/Ink+Waruntorn",
-      "name": "Ink Waruntorn",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1446976b70df74ffcee2f238333b6965.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1446976b70df74ffcee2f238333b6965.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1446976b70df74ffcee2f238333b6965.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1446976b70df74ffcee2f238333b6965.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/Ink+Waruntorn/bloom.",
-    "playcount": "16",
-    "@attr": {
       "rank": "11"
     },
-    "name": "bloom."
+    "name": "80 Kisses"
   },
   {
     "artist": {

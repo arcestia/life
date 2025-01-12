@@ -153,7 +153,7 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/Ink+Waruntorn/INK",
-    "playcount": "794",
+    "playcount": "808",
     "@attr": {
       "rank": "5"
     },
@@ -185,7 +185,7 @@
     ],
     "mbid": "29d9882a-0e55-4ef2-aa6c-f68e613c638d",
     "url": "https://www.last.fm/music/Palmy/Palmy+Greatest+Hits",
-    "playcount": "648",
+    "playcount": "646",
     "@attr": {
       "rank": "6"
     },
@@ -345,7 +345,7 @@
     ],
     "mbid": "31a74b42-0bcd-42fe-9a55-6120b8b29808",
     "url": "https://www.last.fm/music/Palmy/Palmy",
-    "playcount": "412",
+    "playcount": "411",
     "@attr": {
       "rank": "11"
     },
@@ -505,7 +505,7 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/Palmy/%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99+-+Single",
-    "playcount": "364",
+    "playcount": "363",
     "@attr": {
       "rank": "16"
     },
@@ -545,70 +545,6 @@
   },
   {
     "artist": {
-      "url": "https://www.last.fm/music/Palmy",
-      "name": "Palmy",
-      "mbid": "21f8e84f-f6ce-4fb4-b79f-9c4c24774f64"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4d7bde7b62734e54aa0c0b6c577f5993.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4d7bde7b62734e54aa0c0b6c577f5993.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4d7bde7b62734e54aa0c0b6c577f5993.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4d7bde7b62734e54aa0c0b6c577f5993.png"
-      }
-    ],
-    "mbid": "c7cf1e2f-d9b0-4ee3-bd2c-64451c72befa",
-    "url": "https://www.last.fm/music/Palmy/Beautiful+Ride",
-    "playcount": "327",
-    "@attr": {
-      "rank": "18"
-    },
-    "name": "Beautiful Ride"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/Palmy",
-      "name": "Palmy",
-      "mbid": "21f8e84f-f6ce-4fb4-b79f-9c4c24774f64"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a4ee5c14a66e9b4d0ca5915434d32f38.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a4ee5c14a66e9b4d0ca5915434d32f38.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a4ee5c14a66e9b4d0ca5915434d32f38.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a4ee5c14a66e9b4d0ca5915434d32f38.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/Palmy/Palmy+Showcase",
-    "playcount": "324",
-    "@attr": {
-      "rank": "19"
-    },
-    "name": "Palmy Showcase"
-  },
-  {
-    "artist": {
       "url": "https://www.last.fm/music/IU",
       "name": "IU",
       "mbid": "b9545342-1e6d-4dae-84ac-013374ad8d7c"
@@ -635,8 +571,72 @@
     "url": "https://www.last.fm/music/IU/Growing+Up",
     "playcount": "321",
     "@attr": {
-      "rank": "20"
+      "rank": "18"
     },
     "name": "Growing Up"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/LOJ+Worship",
+      "name": "LOJ Worship",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": ""
+      },
+      {
+        "size": "medium",
+        "#text": ""
+      },
+      {
+        "size": "large",
+        "#text": ""
+      },
+      {
+        "size": "extralarge",
+        "#text": ""
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/LOJ+Worship/Forward",
+    "playcount": "321",
+    "@attr": {
+      "rank": "19"
+    },
+    "name": "Forward"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/Palmy",
+      "name": "Palmy",
+      "mbid": "21f8e84f-f6ce-4fb4-b79f-9c4c24774f64"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4d7bde7b62734e54aa0c0b6c577f5993.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4d7bde7b62734e54aa0c0b6c577f5993.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4d7bde7b62734e54aa0c0b6c577f5993.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4d7bde7b62734e54aa0c0b6c577f5993.png"
+      }
+    ],
+    "mbid": "c7cf1e2f-d9b0-4ee3-bd2c-64451c72befa",
+    "url": "https://www.last.fm/music/Palmy/Beautiful+Ride",
+    "playcount": "321",
+    "@attr": {
+      "rank": "20"
+    },
+    "name": "Beautiful Ride"
   }
 ]

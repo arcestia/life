@@ -3,14 +3,14 @@
     "languages": [
       {
         "name": "HTML",
-        "total_seconds": 15717.420147,
-        "digital": "4:21:57",
-        "decimal": "4.35",
-        "text": "4 hrs 21 mins",
+        "total_seconds": 15836.830374,
+        "digital": "4:23:56",
+        "decimal": "4.38",
+        "text": "4 hrs 23 mins",
         "hours": 4,
-        "minutes": 21,
-        "seconds": 57,
-        "percent": 80.5
+        "minutes": 23,
+        "seconds": 56,
+        "percent": 80.62
       },
       {
         "name": "CSS",
@@ -21,7 +21,7 @@
         "hours": 0,
         "minutes": 42,
         "seconds": 30,
-        "percent": 13.06
+        "percent": 12.98
       },
       {
         "name": "Other",
@@ -32,7 +32,7 @@
         "hours": 0,
         "minutes": 11,
         "seconds": 4,
-        "percent": 3.41
+        "percent": 3.38
       },
       {
         "name": "Text",
@@ -43,26 +43,26 @@
         "hours": 0,
         "minutes": 9,
         "seconds": 51,
-        "percent": 3.03
+        "percent": 3.01
       }
     ],
     "grand_total": {
       "hours": 5,
-      "minutes": 25,
-      "total_seconds": 19524.888213,
-      "digital": "5:25",
-      "decimal": "5.42",
-      "text": "5 hrs 25 mins"
+      "minutes": 27,
+      "total_seconds": 19644.29844,
+      "digital": "5:27",
+      "decimal": "5.45",
+      "text": "5 hrs 27 mins"
     },
     "editors": [
       {
         "name": "VS Code",
-        "total_seconds": 19524.888213,
-        "digital": "5:25:24",
-        "decimal": "5.42",
-        "text": "5 hrs 25 mins",
+        "total_seconds": 19644.29844,
+        "digital": "5:27:24",
+        "decimal": "5.45",
+        "text": "5 hrs 27 mins",
         "hours": 5,
-        "minutes": 25,
+        "minutes": 27,
         "seconds": 24,
         "percent": 100
       }
@@ -70,12 +70,12 @@
     "operating_systems": [
       {
         "name": "Windows",
-        "total_seconds": 19524.888213,
-        "digital": "5:25:24",
-        "decimal": "5.42",
-        "text": "5 hrs 25 mins",
+        "total_seconds": 19644.29844,
+        "digital": "5:27:24",
+        "decimal": "5.45",
+        "text": "5 hrs 27 mins",
         "hours": 5,
-        "minutes": 25,
+        "minutes": 27,
         "seconds": 24,
         "percent": 100
       }
@@ -83,12 +83,12 @@
     "categories": [
       {
         "name": "Coding",
-        "total_seconds": 19524.888213,
-        "digital": "5:25:24",
-        "decimal": "5.42",
-        "text": "5 hrs 25 mins",
+        "total_seconds": 19644.29844,
+        "digital": "5:27:24",
+        "decimal": "5.45",
+        "text": "5 hrs 27 mins",
         "hours": 5,
-        "minutes": 25,
+        "minutes": 27,
         "seconds": 24,
         "percent": 100
       }
@@ -103,40 +103,40 @@
         "hours": 1,
         "minutes": 45,
         "seconds": 47,
-        "percent": 30.53
+        "percent": 30.01
       },
       {
         "name": "\"https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js\"",
-        "total_seconds": 3955.319861,
-        "digital": "1:05:55",
-        "decimal": "1.08",
-        "text": "1 hr 5 mins",
+        "total_seconds": 4074.730088,
+        "digital": "1:07:54",
+        "decimal": "1.12",
+        "text": "1 hr 7 mins",
         "hours": 1,
-        "minutes": 5,
-        "seconds": 55,
-        "percent": 19.02
+        "minutes": 7,
+        "seconds": 54,
+        "percent": 19.27
       },
       {
         "name": "\"https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js\"",
-        "total_seconds": 3955.319861,
-        "digital": "1:05:55",
-        "decimal": "1.08",
-        "text": "1 hr 5 mins",
+        "total_seconds": 4074.730088,
+        "digital": "1:07:54",
+        "decimal": "1.12",
+        "text": "1 hr 7 mins",
         "hours": 1,
-        "minutes": 5,
-        "seconds": 55,
-        "percent": 19.02
+        "minutes": 7,
+        "seconds": 54,
+        "percent": 19.27
       },
       {
         "name": "\"https://cdn.socket.io/4.7.2/socket.io.min.js\"",
-        "total_seconds": 3955.319861,
-        "digital": "1:05:55",
-        "decimal": "1.08",
-        "text": "1 hr 5 mins",
+        "total_seconds": 4074.730088,
+        "digital": "1:07:54",
+        "decimal": "1.12",
+        "text": "1 hr 7 mins",
         "hours": 1,
-        "minutes": 5,
-        "seconds": 55,
-        "percent": 19.02
+        "minutes": 7,
+        "seconds": 54,
+        "percent": 19.27
       },
       {
         "name": "\"https://cdn.d32jers.com/others/snowy-js/snowy.js\"",
@@ -147,7 +147,7 @@
         "hours": 0,
         "minutes": 41,
         "seconds": 48,
-        "percent": 12.06
+        "percent": 11.86
       },
       {
         "name": "\"https://www.googletagmanager.com/gtag/js?id=G-JZDDDKZEE5\"",
@@ -175,13 +175,13 @@
     "machines": [
       {
         "name": "HS-INCAMKT001",
-        "total_seconds": 19524.888213,
+        "total_seconds": 19644.29844,
         "machine_name_id": "b1903e6c-fdb7-4c8e-b8d0-6b159691bafa",
-        "digital": "5:25:24",
-        "decimal": "5.42",
-        "text": "5 hrs 25 mins",
+        "digital": "5:27:24",
+        "decimal": "5.45",
+        "text": "5 hrs 27 mins",
         "hours": 5,
-        "minutes": 25,
+        "minutes": 27,
         "seconds": 24,
         "percent": 100
       }
@@ -189,12 +189,12 @@
     "projects": [
       {
         "name": "BACKUP",
-        "total_seconds": 19524.888213,
-        "digital": "5:25:24",
-        "decimal": "5.42",
-        "text": "5 hrs 25 mins",
+        "total_seconds": 19644.29844,
+        "digital": "5:27:24",
+        "decimal": "5.45",
+        "text": "5 hrs 27 mins",
         "hours": 5,
-        "minutes": 25,
+        "minutes": 27,
         "seconds": 24,
         "percent": 100
       }

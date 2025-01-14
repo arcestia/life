@@ -1,26 +1,177 @@
 [
   {
+    "languages": [
+      {
+        "name": "HTML",
+        "total_seconds": 4576.968817,
+        "digital": "1:16:16",
+        "decimal": "1.27",
+        "text": "1 hr 16 mins",
+        "hours": 1,
+        "minutes": 16,
+        "seconds": 16,
+        "percent": 44
+      },
+      {
+        "name": "Other",
+        "total_seconds": 3053.573549,
+        "digital": "0:50:53",
+        "decimal": "0.83",
+        "text": "50 mins",
+        "hours": 0,
+        "minutes": 50,
+        "seconds": 53,
+        "percent": 29.36
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 2692.796831,
+        "digital": "0:44:52",
+        "decimal": "0.73",
+        "text": "44 mins",
+        "hours": 0,
+        "minutes": 44,
+        "seconds": 52,
+        "percent": 25.89
+      },
+      {
+        "name": "Text",
+        "total_seconds": 78.306421,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.75
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 2,
+      "minutes": 53,
+      "total_seconds": 10401.645618,
+      "digital": "2:53",
+      "decimal": "2.88",
+      "text": "2 hrs 53 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 10401.645618,
+        "digital": "2:53:21",
+        "decimal": "2.88",
+        "text": "2 hrs 53 mins",
+        "hours": 2,
+        "minutes": 53,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 10401.645618,
+        "digital": "2:53:21",
+        "decimal": "2.88",
+        "text": "2 hrs 53 mins",
+        "hours": 2,
+        "minutes": 53,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 10401.645618,
+        "digital": "2:53:21",
+        "decimal": "2.88",
+        "text": "2 hrs 53 mins",
+        "hours": 2,
+        "minutes": 53,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"https://www.googletagmanager.com/gtag/js?id=G-PB8V690HPQ\"",
+        "total_seconds": 2308.866088,
+        "digital": "0:38:28",
+        "decimal": "0.63",
+        "text": "38 mins",
+        "hours": 0,
+        "minutes": 38,
+        "seconds": 28,
+        "percent": 61.21
+      },
+      {
+        "name": "\"https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js\"",
+        "total_seconds": 487.822666,
+        "digital": "0:08:07",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 7,
+        "percent": 12.93
+      },
+      {
+        "name": "\"https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js\"",
+        "total_seconds": 487.822666,
+        "digital": "0:08:07",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 7,
+        "percent": 12.93
+      },
+      {
+        "name": "\"https://cdn.socket.io/4.7.2/socket.io.min.js\"",
+        "total_seconds": 487.822666,
+        "digital": "0:08:07",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 7,
+        "percent": 12.93
+      }
+    ],
+    "machines": [
+      {
+        "name": "HS-INCAMKT001",
+        "total_seconds": 10401.645618,
+        "machine_name_id": "b1903e6c-fdb7-4c8e-b8d0-6b159691bafa",
+        "digital": "2:53:21",
+        "decimal": "2.88",
+        "text": "2 hrs 53 mins",
+        "hours": 2,
+        "minutes": 53,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "BACKUP",
+        "total_seconds": 10401.645618,
+        "digital": "2:53:21",
+        "decimal": "2.88",
+        "text": "2 hrs 53 mins",
+        "hours": 2,
+        "minutes": 53,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2025-01-12T17:00:00Z",
       "end": "2025-01-13T16:59:59Z",
       "date": "2025-01-13",
       "text": "Mon Jan 13th 2025",
       "timezone": "Asia/Bangkok"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]

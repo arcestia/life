@@ -1,46 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 2,
-      "minutes": 0,
-      "total_seconds": 7252.161576,
-      "digital": "2:00",
-      "decimal": "2.00",
-      "text": "2 hrs"
-    },
-    "range": {
-      "start": "2025-01-10T17:00:00Z",
-      "end": "2025-01-11T16:59:59Z",
-      "date": "2025-01-11",
-      "text": "Sat Jan 11th 2025",
-      "timezone": "Asia/Bangkok"
-    },
-    "projects": [
-      {
-        "name": "BACKUP",
-        "total_seconds": 7080.903196,
-        "color": null,
-        "digital": "1:58:00",
-        "decimal": "1.97",
-        "text": "1 hr 58 mins",
-        "hours": 1,
-        "minutes": 58,
-        "seconds": 0,
-        "percent": 97.64
-      },
-      {
-        "name": "atprotoblog",
-        "total_seconds": 171.25838,
-        "color": null,
-        "digital": "0:02:51",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 51,
-        "percent": 2.36
-      }
-    ],
     "languages": [
       {
         "name": "HTML",
@@ -98,6 +57,53 @@
         "percent": 0.46
       }
     ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 0,
+      "total_seconds": 7252.161576,
+      "digital": "2:00",
+      "decimal": "2.00",
+      "text": "2 hrs"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 7252.161576,
+        "digital": "2:00:52",
+        "decimal": "2.00",
+        "text": "2 hrs",
+        "hours": 2,
+        "minutes": 0,
+        "seconds": 52,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 7252.161576,
+        "digital": "2:00:52",
+        "decimal": "2.00",
+        "text": "2 hrs",
+        "hours": 2,
+        "minutes": 0,
+        "seconds": 52,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 7252.161576,
+        "digital": "2:00:52",
+        "decimal": "2.00",
+        "text": "2 hrs",
+        "hours": 2,
+        "minutes": 0,
+        "seconds": 52,
+        "percent": 100
+      }
+    ],
     "dependencies": [
       {
         "name": "\"https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js\"",
@@ -111,7 +117,7 @@
         "percent": 29.3
       },
       {
-        "name": "\"https://cdn.socket.io/4.7.2/socket.io.min.js\"",
+        "name": "\"https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js\"",
         "total_seconds": 3883.13516,
         "digital": "1:04:43",
         "decimal": "1.07",
@@ -122,7 +128,7 @@
         "percent": 29.3
       },
       {
-        "name": "\"https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js\"",
+        "name": "\"https://cdn.socket.io/4.7.2/socket.io.min.js\"",
         "total_seconds": 3883.13516,
         "digital": "1:04:43",
         "decimal": "1.07",
@@ -166,6 +172,17 @@
         "percent": 1.94
       },
       {
+        "name": "\"%F0%9F%90%96%F0%9F%90%96%F0%9F%90%96_files/live.js\"",
+        "total_seconds": 18.817485,
+        "digital": "0:00:18",
+        "decimal": "0.00",
+        "text": "18 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 18,
+        "percent": 0.14
+      },
+      {
         "name": "\"%F0%9F%90%96%F0%9F%90%96%F0%9F%90%96_files/browser.js\"",
         "total_seconds": 18.817485,
         "digital": "0:00:18",
@@ -177,7 +194,40 @@
         "percent": 0.14
       },
       {
-        "name": "\"%F0%9F%90%96%F0%9F%90%96%F0%9F%90%96_files/swiper-bundle.min.js\"",
+        "name": "\"%F0%9F%90%96%F0%9F%90%96%F0%9F%90%96_files/pusher.min.js\"",
+        "total_seconds": 18.817485,
+        "digital": "0:00:18",
+        "decimal": "0.00",
+        "text": "18 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 18,
+        "percent": 0.14
+      },
+      {
+        "name": "\"%F0%9F%90%96%F0%9F%90%96%F0%9F%90%96_files/videojs-http-streaming.min.js\"",
+        "total_seconds": 18.817485,
+        "digital": "0:00:18",
+        "decimal": "0.00",
+        "text": "18 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 18,
+        "percent": 0.14
+      },
+      {
+        "name": "\"%F0%9F%90%96%F0%9F%90%96%F0%9F%90%96_files/jquery-3.5.1.slim.min.js\"",
+        "total_seconds": 18.817485,
+        "digital": "0:00:18",
+        "decimal": "0.00",
+        "text": "18 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 18,
+        "percent": 0.14
+      },
+      {
+        "name": "\"%F0%9F%90%96%F0%9F%90%96%F0%9F%90%96_files/bootstrap.bundle.min.js\"",
         "total_seconds": 18.817485,
         "digital": "0:00:18",
         "decimal": "0.00",
@@ -189,6 +239,28 @@
       },
       {
         "name": "\"%F0%9F%90%96%F0%9F%90%96%F0%9F%90%96_files/video.min.js\"",
+        "total_seconds": 18.817485,
+        "digital": "0:00:18",
+        "decimal": "0.00",
+        "text": "18 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 18,
+        "percent": 0.14
+      },
+      {
+        "name": "\"%F0%9F%90%96%F0%9F%90%96%F0%9F%90%96_files/videojs-contrib-quality-levels.min.js\"",
+        "total_seconds": 18.817485,
+        "digital": "0:00:18",
+        "decimal": "0.00",
+        "text": "18 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 18,
+        "percent": 0.14
+      },
+      {
+        "name": "\"%F0%9F%90%96%F0%9F%90%96%F0%9F%90%96_files/swiper-bundle.min.js\"",
         "total_seconds": 18.817485,
         "digital": "0:00:18",
         "decimal": "0.00",
@@ -219,72 +291,6 @@
         "minutes": 0,
         "seconds": 18,
         "percent": 0.14
-      },
-      {
-        "name": "\"%F0%9F%90%96%F0%9F%90%96%F0%9F%90%96_files/jquery-3.5.1.slim.min.js\"",
-        "total_seconds": 18.817485,
-        "digital": "0:00:18",
-        "decimal": "0.00",
-        "text": "18 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 18,
-        "percent": 0.14
-      },
-      {
-        "name": "\"%F0%9F%90%96%F0%9F%90%96%F0%9F%90%96_files/videojs-http-streaming.min.js\"",
-        "total_seconds": 18.817485,
-        "digital": "0:00:18",
-        "decimal": "0.00",
-        "text": "18 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 18,
-        "percent": 0.14
-      },
-      {
-        "name": "\"%F0%9F%90%96%F0%9F%90%96%F0%9F%90%96_files/live.js\"",
-        "total_seconds": 18.817485,
-        "digital": "0:00:18",
-        "decimal": "0.00",
-        "text": "18 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 18,
-        "percent": 0.14
-      },
-      {
-        "name": "\"%F0%9F%90%96%F0%9F%90%96%F0%9F%90%96_files/bootstrap.bundle.min.js\"",
-        "total_seconds": 18.817485,
-        "digital": "0:00:18",
-        "decimal": "0.00",
-        "text": "18 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 18,
-        "percent": 0.14
-      },
-      {
-        "name": "\"%F0%9F%90%96%F0%9F%90%96%F0%9F%90%96_files/pusher.min.js\"",
-        "total_seconds": 18.817485,
-        "digital": "0:00:18",
-        "decimal": "0.00",
-        "text": "18 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 18,
-        "percent": 0.14
-      },
-      {
-        "name": "\"%F0%9F%90%96%F0%9F%90%96%F0%9F%90%96_files/videojs-contrib-quality-levels.min.js\"",
-        "total_seconds": 18.817485,
-        "digital": "0:00:18",
-        "decimal": "0.00",
-        "text": "18 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 18,
-        "percent": 0.14
       }
     ],
     "machines": [
@@ -301,44 +307,36 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 7252.161576,
-        "digital": "2:00:52",
-        "decimal": "2.00",
-        "text": "2 hrs",
-        "hours": 2,
-        "minutes": 0,
-        "seconds": 52,
-        "percent": 100
+        "name": "BACKUP",
+        "total_seconds": 7080.903196,
+        "digital": "1:58:00",
+        "decimal": "1.97",
+        "text": "1 hr 58 mins",
+        "hours": 1,
+        "minutes": 58,
+        "seconds": 0,
+        "percent": 97.64
+      },
+      {
+        "name": "atprotoblog",
+        "total_seconds": 171.25838,
+        "digital": "0:02:51",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 51,
+        "percent": 2.36
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 7252.161576,
-        "digital": "2:00:52",
-        "decimal": "2.00",
-        "text": "2 hrs",
-        "hours": 2,
-        "minutes": 0,
-        "seconds": 52,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 7252.161576,
-        "digital": "2:00:52",
-        "decimal": "2.00",
-        "text": "2 hrs",
-        "hours": 2,
-        "minutes": 0,
-        "seconds": 52,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-01-10T17:00:00Z",
+      "end": "2025-01-11T16:59:59Z",
+      "date": "2025-01-11",
+      "text": "Sat Jan 11th 2025",
+      "timezone": "Asia/Bangkok"
+    }
   }
 ]

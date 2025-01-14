@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 2,
-      "minutes": 52,
-      "total_seconds": 10328.579321,
-      "digital": "2:52",
-      "decimal": "2.87",
-      "text": "2 hrs 52 mins"
-    },
-    "range": {
-      "start": "2025-01-09T17:00:00Z",
-      "end": "2025-01-10T16:59:59Z",
-      "date": "2025-01-10",
-      "text": "Fri Jan 10th 2025",
-      "timezone": "Asia/Bangkok"
-    },
-    "projects": [
-      {
-        "name": "BACKUP",
-        "total_seconds": 10328.579321,
-        "color": null,
-        "digital": "2:52:08",
-        "decimal": "2.87",
-        "text": "2 hrs 52 mins",
-        "hours": 2,
-        "minutes": 52,
-        "seconds": 8,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "HTML",
@@ -73,6 +44,53 @@
         "minutes": 7,
         "seconds": 55,
         "percent": 4.61
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 52,
+      "total_seconds": 10328.579321,
+      "digital": "2:52",
+      "decimal": "2.87",
+      "text": "2 hrs 52 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 10328.579321,
+        "digital": "2:52:08",
+        "decimal": "2.87",
+        "text": "2 hrs 52 mins",
+        "hours": 2,
+        "minutes": 52,
+        "seconds": 8,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 10328.579321,
+        "digital": "2:52:08",
+        "decimal": "2.87",
+        "text": "2 hrs 52 mins",
+        "hours": 2,
+        "minutes": 52,
+        "seconds": 8,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 10328.579321,
+        "digital": "2:52:08",
+        "decimal": "2.87",
+        "text": "2 hrs 52 mins",
+        "hours": 2,
+        "minutes": 52,
+        "seconds": 8,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -157,10 +175,11 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "BACKUP",
         "total_seconds": 10328.579321,
+        "color": null,
         "digital": "2:52:08",
         "decimal": "2.87",
         "text": "2 hrs 52 mins",
@@ -170,31 +189,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 10328.579321,
-        "digital": "2:52:08",
-        "decimal": "2.87",
-        "text": "2 hrs 52 mins",
-        "hours": 2,
-        "minutes": 52,
-        "seconds": 8,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 10328.579321,
-        "digital": "2:52:08",
-        "decimal": "2.87",
-        "text": "2 hrs 52 mins",
-        "hours": 2,
-        "minutes": 52,
-        "seconds": 8,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-01-09T17:00:00Z",
+      "end": "2025-01-10T16:59:59Z",
+      "date": "2025-01-10",
+      "text": "Fri Jan 10th 2025",
+      "timezone": "Asia/Bangkok"
+    }
   }
 ]

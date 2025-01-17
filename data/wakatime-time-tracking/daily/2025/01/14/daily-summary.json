@@ -1,66 +1,60 @@
 [
   {
-    "languages": [
-      {
-        "name": "PHP",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      },
-      {
-        "name": "Bash",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
     "grand_total": {
       "hours": 0,
       "minutes": 0,
-      "total_seconds": 0,
+      "total_seconds": 16.451446,
       "digital": "0:00",
       "decimal": "0.00",
       "text": "0 secs"
     },
-    "editors": [
+    "range": {
+      "start": "2025-01-14T17:00:00Z",
+      "end": "2025-01-15T16:59:59Z",
+      "date": "2025-01-15",
+      "text": "Wed Jan 15th 2025",
+      "timezone": "Asia/Bangkok"
+    },
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 0,
-        "digital": "0:00:00",
+        "name": "HS Gaming",
+        "total_seconds": 10.188757,
+        "color": null,
+        "digital": "0:00:10",
         "decimal": "0.00",
-        "text": "0 secs",
+        "text": "10 secs",
         "hours": 0,
         "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
-    "operating_systems": [
+        "seconds": 10,
+        "percent": 61.93
+      },
       {
-        "name": "Windows",
-        "total_seconds": 0,
-        "digital": "0:00:00",
+        "name": "BACKUP",
+        "total_seconds": 6.262689,
+        "color": null,
+        "digital": "0:00:06",
         "decimal": "0.00",
-        "text": "0 secs",
+        "text": "6 secs",
         "hours": 0,
         "minutes": 0,
-        "seconds": 0,
-        "percent": 0
+        "seconds": 6,
+        "percent": 38.07
       }
     ],
-    "categories": [
+    "languages": [
       {
-        "name": "Coding",
+        "name": "Bash",
+        "total_seconds": 16.451446,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 100
+      },
+      {
+        "name": "PHP",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -75,47 +69,55 @@
     "machines": [
       {
         "name": "HS-INCAMKT001",
-        "total_seconds": 0,
+        "total_seconds": 16.451446,
         "machine_name_id": "b1903e6c-fdb7-4c8e-b8d0-6b159691bafa",
-        "digital": "0:00:00",
+        "digital": "0:00:16",
         "decimal": "0.00",
-        "text": "0 secs",
+        "text": "16 secs",
         "hours": 0,
         "minutes": 0,
-        "seconds": 0,
-        "percent": 0
+        "seconds": 16,
+        "percent": 100
       }
     ],
-    "projects": [
+    "editors": [
       {
-        "name": "BACKUP",
-        "total_seconds": 0,
-        "digital": "0:00:00",
+        "name": "VS Code",
+        "total_seconds": 16.451446,
+        "digital": "0:00:16",
         "decimal": "0.00",
-        "text": "0 secs",
+        "text": "16 secs",
         "hours": 0,
         "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      },
-      {
-        "name": "HS Gaming",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
+        "seconds": 16,
+        "percent": 100
       }
     ],
-    "range": {
-      "start": "2025-01-14T17:00:00Z",
-      "end": "2025-01-15T16:59:59Z",
-      "date": "2025-01-15",
-      "text": "Wed Jan 15th 2025",
-      "timezone": "Asia/Bangkok"
-    }
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 16.451446,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 16.451446,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 100
+      }
+    ]
   }
 ]

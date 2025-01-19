@@ -1,26 +1,122 @@
 [
   {
+    "languages": [
+      {
+        "name": "PHP",
+        "total_seconds": 1293.684509,
+        "digital": "0:21:33",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 33,
+        "percent": 99.86
+      },
+      {
+        "name": "SQL",
+        "total_seconds": 1.821428,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.14
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 21,
+      "total_seconds": 1295.505937,
+      "digital": "0:21",
+      "decimal": "0.35",
+      "text": "21 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1295.505937,
+        "digital": "0:21:35",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1295.505937,
+        "digital": "0:21:35",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1295.505937,
+        "digital": "0:21:35",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "Illuminate",
+        "total_seconds": 1293.684509,
+        "digital": "0:21:33",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "machines": [
+      {
+        "name": "HS-INCAMKT001",
+        "total_seconds": 1295.505937,
+        "machine_name_id": "b1903e6c-fdb7-4c8e-b8d0-6b159691bafa",
+        "digital": "0:21:35",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "HS Gaming",
+        "total_seconds": 1295.505937,
+        "digital": "0:21:35",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2025-01-17T17:00:00Z",
       "end": "2025-01-18T16:59:59Z",
       "date": "2025-01-18",
       "text": "Sat Jan 18th 2025",
       "timezone": "Asia/Bangkok"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]

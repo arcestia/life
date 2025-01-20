@@ -1,0 +1,1202 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+          "id": "1Twi7NfmUzbXF7lEMaGCqF",
+          "name": "Ink Waruntorn",
+          "type": "artist",
+          "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3C1L1CgjEjjHoyAPZwePgs",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739fe49afc06c36334c06715f7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029fe49afc06c36334c06715f7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519fe49afc06c36334c06715f7",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "พบรัก",
+      "release_date": "2024-06-20",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3C1L1CgjEjjHoyAPZwePgs"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+        "id": "1Twi7NfmUzbXF7lEMaGCqF",
+        "name": "Ink Waruntorn",
+        "type": "artist",
+        "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2LJerOY5jSwO5K6OF9Cyuz",
+    "is_local": false,
+    "name": "พบรัก",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7dWCUs7VGjsopOEB6VoQYv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c853c4b9e0523f82f17c5e20",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c853c4b9e0523f82f17c5e20",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c853c4b9e0523f82f17c5e20",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Keith",
+      "release_date": "2019-02-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7dWCUs7VGjsopOEB6VoQYv"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7pcekwb2T8L4MIc29f9GXB",
+    "is_local": false,
+    "name": "Keith",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+          "id": "1Twi7NfmUzbXF7lEMaGCqF",
+          "name": "Ink Waruntorn",
+          "type": "artist",
+          "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/42UUZAtYzoWxysrGIPmF4Z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fe541c24ab83aed46b28f56d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fe541c24ab83aed46b28f56d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fe541c24ab83aed46b28f56d",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "INK",
+      "release_date": "2022-09-26",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:42UUZAtYzoWxysrGIPmF4Z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+        "id": "1Twi7NfmUzbXF7lEMaGCqF",
+        "name": "Ink Waruntorn",
+        "type": "artist",
+        "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/09h4rEYjkeLB83ALYaUwdk",
+    "is_local": false,
+    "name": "ลบไม่ได้ช่วยให้ลืม (Erase)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+          "id": "1Twi7NfmUzbXF7lEMaGCqF",
+          "name": "Ink Waruntorn",
+          "type": "artist",
+          "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/42UUZAtYzoWxysrGIPmF4Z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fe541c24ab83aed46b28f56d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fe541c24ab83aed46b28f56d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fe541c24ab83aed46b28f56d",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "INK",
+      "release_date": "2022-09-26",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:42UUZAtYzoWxysrGIPmF4Z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+        "id": "1Twi7NfmUzbXF7lEMaGCqF",
+        "name": "Ink Waruntorn",
+        "type": "artist",
+        "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0kk2eVIMNPFi8PMF7GGBvg",
+    "is_local": false,
+    "name": "ดีใจด้วยนะ (Glad)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+          "id": "1Twi7NfmUzbXF7lEMaGCqF",
+          "name": "Ink Waruntorn",
+          "type": "artist",
+          "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6rZ8QOdZvGzPwNbZ9PGBq1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f7e57739a839ba5d0a1806e3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f7e57739a839ba5d0a1806e3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f7e57739a839ba5d0a1806e3",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "ถ้าเธอรักใครคนหนึ่ง - Single",
+      "release_date": "2022-07-14",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6rZ8QOdZvGzPwNbZ9PGBq1"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+        "id": "1Twi7NfmUzbXF7lEMaGCqF",
+        "name": "Ink Waruntorn",
+        "type": "artist",
+        "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3KSQ9KtVph3ttgOJzCpain",
+    "is_local": false,
+    "name": "ถ้าเธอรักใครคนหนึ่ง OST.บุพเพสันนิวาส 2",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+          "id": "1Twi7NfmUzbXF7lEMaGCqF",
+          "name": "Ink Waruntorn",
+          "type": "artist",
+          "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1PXCXG0vrdGwIbykWKt9eB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734a2575b9729d220e6f3e506e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024a2575b9729d220e6f3e506e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514a2575b9729d220e6f3e506e",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "ชอบอยู่คนเดียว",
+      "release_date": "2022-09-29",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1PXCXG0vrdGwIbykWKt9eB"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+        "id": "1Twi7NfmUzbXF7lEMaGCqF",
+        "name": "Ink Waruntorn",
+        "type": "artist",
+        "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3LzQ0QF4Ud7CyAIWdFxUHl",
+    "is_local": false,
+    "name": "ชอบอยู่คนเดียว",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+          "id": "1Twi7NfmUzbXF7lEMaGCqF",
+          "name": "Ink Waruntorn",
+          "type": "artist",
+          "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/42UUZAtYzoWxysrGIPmF4Z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fe541c24ab83aed46b28f56d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fe541c24ab83aed46b28f56d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fe541c24ab83aed46b28f56d",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "INK",
+      "release_date": "2022-09-26",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:42UUZAtYzoWxysrGIPmF4Z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+        "id": "1Twi7NfmUzbXF7lEMaGCqF",
+        "name": "Ink Waruntorn",
+        "type": "artist",
+        "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3Rkt2LzmQkW2yzSM0NAZgT",
+    "is_local": false,
+    "name": "สายตาหลอกกันไม่ได้ (Eyes Don’t Lie)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+          "id": "1Twi7NfmUzbXF7lEMaGCqF",
+          "name": "Ink Waruntorn",
+          "type": "artist",
+          "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/42UUZAtYzoWxysrGIPmF4Z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fe541c24ab83aed46b28f56d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fe541c24ab83aed46b28f56d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fe541c24ab83aed46b28f56d",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "INK",
+      "release_date": "2022-09-26",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:42UUZAtYzoWxysrGIPmF4Z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+        "id": "1Twi7NfmUzbXF7lEMaGCqF",
+        "name": "Ink Waruntorn",
+        "type": "artist",
+        "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5JZJ2KPouMt7JQQwSmtMZL",
+    "is_local": false,
+    "name": "อยากเริ่มต้นใหม่กับคนเดิม (Repeat)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+          "id": "1Twi7NfmUzbXF7lEMaGCqF",
+          "name": "Ink Waruntorn",
+          "type": "artist",
+          "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5yEMhdP18TzDsQzIB5rU8K",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c7b17d9dc62049fbe25ee1dd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c7b17d9dc62049fbe25ee1dd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c7b17d9dc62049fbe25ee1dd",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "ฉันต้องคิดถึงเธอแบบไหน (Cloudy)",
+      "release_date": "2017-03-03",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5yEMhdP18TzDsQzIB5rU8K"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+        "id": "1Twi7NfmUzbXF7lEMaGCqF",
+        "name": "Ink Waruntorn",
+        "type": "artist",
+        "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/11APF4YlwtMOLnZFtzlT5I",
+    "is_local": false,
+    "name": "ฉันต้องคิดถึงเธอแบบไหน (Cloudy)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+          "id": "1Twi7NfmUzbXF7lEMaGCqF",
+          "name": "Ink Waruntorn",
+          "type": "artist",
+          "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6AG9NhKU4BbY5FnCG0vbYL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730efd741b1cd8fd16df6c39f0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020efd741b1cd8fd16df6c39f0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510efd741b1cd8fd16df6c39f0",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "เกี่ยวกันไหม(You?)",
+      "release_date": "2017-11-17",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6AG9NhKU4BbY5FnCG0vbYL"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+        "id": "1Twi7NfmUzbXF7lEMaGCqF",
+        "name": "Ink Waruntorn",
+        "type": "artist",
+        "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5PoQpjsj902TmAtCOKVO2A",
+    "is_local": false,
+    "name": "เกี่ยวกันไหม(You?)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+          "id": "1Twi7NfmUzbXF7lEMaGCqF",
+          "name": "Ink Waruntorn",
+          "type": "artist",
+          "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4Exq5x62LmAab6q0MmYXUY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731fd29db6ef8d1ae926e0e257",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021fd29db6ef8d1ae926e0e257",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511fd29db6ef8d1ae926e0e257",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "เหงา เหงา (Insomnia)",
+      "release_date": "2016-02-09",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4Exq5x62LmAab6q0MmYXUY"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+        "id": "1Twi7NfmUzbXF7lEMaGCqF",
+        "name": "Ink Waruntorn",
+        "type": "artist",
+        "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7vkpeMzZAqCNHKuhajD62l",
+    "is_local": false,
+    "name": "เหงา เหงา (Insomnia)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/49tcLtFqwq1xhzLWHddssL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d1b41099dd186f703660eb50",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d1b41099dd186f703660eb50",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d1b41099dd186f703660eb50",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Cowboy Up",
+      "release_date": "2024-11-14",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:49tcLtFqwq1xhzLWHddssL"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4d4vlF9uJtiJRajBPZlKMa",
+    "is_local": false,
+    "name": "Cowboy Up",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+          "id": "1Twi7NfmUzbXF7lEMaGCqF",
+          "name": "Ink Waruntorn",
+          "type": "artist",
+          "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/42UUZAtYzoWxysrGIPmF4Z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fe541c24ab83aed46b28f56d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fe541c24ab83aed46b28f56d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fe541c24ab83aed46b28f56d",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "INK",
+      "release_date": "2022-09-26",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:42UUZAtYzoWxysrGIPmF4Z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+        "id": "1Twi7NfmUzbXF7lEMaGCqF",
+        "name": "Ink Waruntorn",
+        "type": "artist",
+        "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1VKm0BD1bkl81QjQR6srFB",
+    "is_local": false,
+    "name": "รอหรือพอ (Stay)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+          "id": "1Twi7NfmUzbXF7lEMaGCqF",
+          "name": "Ink Waruntorn",
+          "type": "artist",
+          "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2z8vPho6j2x5lzmiNkJjFq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27331b51e146015d1ada0ae6b48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0231b51e146015d1ada0ae6b48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485131b51e146015d1ada0ae6b48",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "โลกที่ยังมีเธออยู่ด้วยกัน",
+      "release_date": "2022-12-19",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2z8vPho6j2x5lzmiNkJjFq"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+        "id": "1Twi7NfmUzbXF7lEMaGCqF",
+        "name": "Ink Waruntorn",
+        "type": "artist",
+        "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3EPCfGzoUNh0QOe27emXUr",
+    "is_local": false,
+    "name": "โลกที่ยังมีเธออยู่ด้วยกัน",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0H2mWrAuc4RzRwr2SkpG2y"
+          },
+          "href": "https://api.spotify.com/v1/artists/0H2mWrAuc4RzRwr2SkpG2y",
+          "id": "0H2mWrAuc4RzRwr2SkpG2y",
+          "name": "Y.O.G.A.",
+          "type": "artist",
+          "uri": "spotify:artist:0H2mWrAuc4RzRwr2SkpG2y"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5vgHNldnm1RN43ET7vWow6"
+          },
+          "href": "https://api.spotify.com/v1/artists/5vgHNldnm1RN43ET7vWow6",
+          "id": "5vgHNldnm1RN43ET7vWow6",
+          "name": "Blake O'Connor",
+          "type": "artist",
+          "uri": "spotify:artist:5vgHNldnm1RN43ET7vWow6"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6pa9tFzCCn7FQdobQ2Rdyk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732c9e4b669029c506fd5116fc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022c9e4b669029c506fd5116fc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512c9e4b669029c506fd5116fc",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Down In Boots",
+      "release_date": "2024-09-27",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6pa9tFzCCn7FQdobQ2Rdyk"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0H2mWrAuc4RzRwr2SkpG2y"
+        },
+        "href": "https://api.spotify.com/v1/artists/0H2mWrAuc4RzRwr2SkpG2y",
+        "id": "0H2mWrAuc4RzRwr2SkpG2y",
+        "name": "Y.O.G.A.",
+        "type": "artist",
+        "uri": "spotify:artist:0H2mWrAuc4RzRwr2SkpG2y"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5vgHNldnm1RN43ET7vWow6"
+        },
+        "href": "https://api.spotify.com/v1/artists/5vgHNldnm1RN43ET7vWow6",
+        "id": "5vgHNldnm1RN43ET7vWow6",
+        "name": "Blake O'Connor",
+        "type": "artist",
+        "uri": "spotify:artist:5vgHNldnm1RN43ET7vWow6"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2L2U4LFR1cYUQbckzdlnO4",
+    "is_local": false,
+    "name": "Down In Boots",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+          "id": "1Twi7NfmUzbXF7lEMaGCqF",
+          "name": "Ink Waruntorn",
+          "type": "artist",
+          "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2zNierft9WNLfFkfESUoxh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27388358fc0ca45416c937dcebb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0288358fc0ca45416c937dcebb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485188358fc0ca45416c937dcebb",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Ink Waruntornin Close Up Concert (Live)",
+      "release_date": "2024-11-29",
+      "release_date_precision": "day",
+      "total_tracks": 22,
+      "type": "album",
+      "uri": "spotify:album:2zNierft9WNLfFkfESUoxh"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+        "id": "1Twi7NfmUzbXF7lEMaGCqF",
+        "name": "Ink Waruntorn",
+        "type": "artist",
+        "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4XYx67vaeC1Wph0xyqNsqd",
+    "is_local": false,
+    "name": "INK",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+          "id": "1Twi7NfmUzbXF7lEMaGCqF",
+          "name": "Ink Waruntorn",
+          "type": "artist",
+          "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2zNierft9WNLfFkfESUoxh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27388358fc0ca45416c937dcebb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0288358fc0ca45416c937dcebb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485188358fc0ca45416c937dcebb",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Ink Waruntornin Close Up Concert (Live)",
+      "release_date": "2024-11-29",
+      "release_date_precision": "day",
+      "total_tracks": 22,
+      "type": "album",
+      "uri": "spotify:album:2zNierft9WNLfFkfESUoxh"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+        "id": "1Twi7NfmUzbXF7lEMaGCqF",
+        "name": "Ink Waruntorn",
+        "type": "artist",
+        "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4dzgvazttim4JKxHcTSAf5",
+    "is_local": false,
+    "name": "ไม่อยากเหงาแล้ว (Call Me)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7cGYemTtKlqYqR61wETgU4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273055d0344b18d8831c996c34f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02055d0344b18d8831c996c34f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851055d0344b18d8831c996c34f",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Nights Like This",
+      "release_date": "2024-03-15",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:7cGYemTtKlqYqR61wETgU4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4g6nTnBBeaE1AOd0YtY5xv",
+    "is_local": false,
+    "name": "Good Things",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7cGYemTtKlqYqR61wETgU4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273055d0344b18d8831c996c34f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02055d0344b18d8831c996c34f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851055d0344b18d8831c996c34f",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Nights Like This",
+      "release_date": "2024-03-15",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:7cGYemTtKlqYqR61wETgU4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/60utjxPySCYZTh1gW7m8CW",
+    "is_local": false,
+    "name": "Boots 'N All",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+          "id": "4J3TXBvAMckFbTxqxNYpDj",
+          "name": "Kaylee Bell",
+          "type": "artist",
+          "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7cGYemTtKlqYqR61wETgU4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273055d0344b18d8831c996c34f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02055d0344b18d8831c996c34f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851055d0344b18d8831c996c34f",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Nights Like This",
+      "release_date": "2024-03-15",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:7cGYemTtKlqYqR61wETgU4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4J3TXBvAMckFbTxqxNYpDj",
+        "id": "4J3TXBvAMckFbTxqxNYpDj",
+        "name": "Kaylee Bell",
+        "type": "artist",
+        "uri": "spotify:artist:4J3TXBvAMckFbTxqxNYpDj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/62ydigyjJjnnDglH1F31ov",
+    "is_local": false,
+    "name": "Take It To The Highway",
+    "preview_url": null
+  }
+]

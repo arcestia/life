@@ -1,26 +1,155 @@
 [
   {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 73.128114,
+        "digital": "0:01:13",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 13,
+        "percent": 86.9
+      },
+      {
+        "name": "PHP",
+        "total_seconds": 11.026708,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 13.1
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 1,
+      "total_seconds": 84.154822,
+      "digital": "0:01",
+      "decimal": "0.02",
+      "text": "1 min"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 84.154822,
+        "digital": "0:01:24",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 24,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 84.154822,
+        "digital": "0:01:24",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 24,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 84.154822,
+        "digital": "0:01:24",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 24,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "Illuminate",
+        "total_seconds": 11.026708,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 100
+      },
+      {
+        "name": "promise",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "HS-INCAMKT001",
+        "total_seconds": 84.154822,
+        "machine_name_id": "b1903e6c-fdb7-4c8e-b8d0-6b159691bafa",
+        "digital": "0:01:24",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 24,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "HS Gaming",
+        "total_seconds": 84.154822,
+        "digital": "0:01:24",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 24,
+        "percent": 100
+      },
+      {
+        "name": "namecheap",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "range": {
       "start": "2025-01-18T17:00:00Z",
       "end": "2025-01-19T16:59:59Z",
       "date": "2025-01-19",
       "text": "Sun Jan 19th 2025",
       "timezone": "Asia/Bangkok"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]

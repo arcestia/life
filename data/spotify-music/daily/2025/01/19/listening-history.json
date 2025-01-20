@@ -1,0 +1,622 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+          },
+          "href": "https://api.spotify.com/v1/artists/1qM11R4ylJyQiPJ0DffE9z",
+          "id": "1qM11R4ylJyQiPJ0DffE9z",
+          "name": "Lilas Ikuta",
+          "type": "artist",
+          "uri": "spotify:artist:1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4szJowsqkuvKbBwZG9rYQG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b19b9af91a054b6c1b2c1605",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b19b9af91a054b6c1b2c1605",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b19b9af91a054b6c1b2c1605",
+          "width": 64
+        }
+      ],
+      "name": "青春謳歌 (feat.ano)",
+      "release_date": "2024-03-20",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4szJowsqkuvKbBwZG9rYQG"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        },
+        "href": "https://api.spotify.com/v1/artists/1qM11R4ylJyQiPJ0DffE9z",
+        "id": "1qM11R4ylJyQiPJ0DffE9z",
+        "name": "Lilas Ikuta",
+        "type": "artist",
+        "uri": "spotify:artist:1qM11R4ylJyQiPJ0DffE9z"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Il739Q5W4yJUYC3hfnX6z",
+        "id": "7Il739Q5W4yJUYC3hfnX6z",
+        "name": "ano",
+        "type": "artist",
+        "uri": "spotify:artist:7Il739Q5W4yJUYC3hfnX6z"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5N6DFXriMN64kM62mpk9uc",
+    "is_local": false,
+    "name": "青春謳歌 (feat.ano)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Il739Q5W4yJUYC3hfnX6z",
+          "id": "7Il739Q5W4yJUYC3hfnX6z",
+          "name": "ano",
+          "type": "artist",
+          "uri": "spotify:artist:7Il739Q5W4yJUYC3hfnX6z"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1BZ7jYbJGOBvNhwcv1w6Hj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27316d5fa33a697360a9f1704b4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0216d5fa33a697360a9f1704b4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485116d5fa33a697360a9f1704b4",
+          "width": 64
+        }
+      ],
+      "name": "猫猫吐吐 - 猫猫 -",
+      "release_date": "2023-12-13",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:1BZ7jYbJGOBvNhwcv1w6Hj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Il739Q5W4yJUYC3hfnX6z",
+        "id": "7Il739Q5W4yJUYC3hfnX6z",
+        "name": "ano",
+        "type": "artist",
+        "uri": "spotify:artist:7Il739Q5W4yJUYC3hfnX6z"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0AzhddCMwOKVwmlhKtGu6F",
+    "is_local": false,
+    "name": "普変",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Il739Q5W4yJUYC3hfnX6z",
+          "id": "7Il739Q5W4yJUYC3hfnX6z",
+          "name": "ano",
+          "type": "artist",
+          "uri": "spotify:artist:7Il739Q5W4yJUYC3hfnX6z"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7F5svuiFOfQk9nbukmemfV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731e18f03819c1d306f497e43d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021e18f03819c1d306f497e43d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511e18f03819c1d306f497e43d",
+          "width": 64
+        }
+      ],
+      "name": "社会の窓",
+      "release_date": "2024-08-28",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7F5svuiFOfQk9nbukmemfV"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Il739Q5W4yJUYC3hfnX6z",
+        "id": "7Il739Q5W4yJUYC3hfnX6z",
+        "name": "ano",
+        "type": "artist",
+        "uri": "spotify:artist:7Il739Q5W4yJUYC3hfnX6z"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6lUBiOrB0ilG4wQ0y86oOf",
+    "is_local": false,
+    "name": "社会の窓",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Il739Q5W4yJUYC3hfnX6z",
+          "id": "7Il739Q5W4yJUYC3hfnX6z",
+          "name": "ano",
+          "type": "artist",
+          "uri": "spotify:artist:7Il739Q5W4yJUYC3hfnX6z"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1BZ7jYbJGOBvNhwcv1w6Hj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27316d5fa33a697360a9f1704b4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0216d5fa33a697360a9f1704b4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485116d5fa33a697360a9f1704b4",
+          "width": 64
+        }
+      ],
+      "name": "猫猫吐吐 - 猫猫 -",
+      "release_date": "2023-12-13",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:1BZ7jYbJGOBvNhwcv1w6Hj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Il739Q5W4yJUYC3hfnX6z",
+        "id": "7Il739Q5W4yJUYC3hfnX6z",
+        "name": "ano",
+        "type": "artist",
+        "uri": "spotify:artist:7Il739Q5W4yJUYC3hfnX6z"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5PmOhvoMdydPWiv5A6wNaF",
+    "is_local": false,
+    "name": "スマイルあげない",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Il739Q5W4yJUYC3hfnX6z",
+          "id": "7Il739Q5W4yJUYC3hfnX6z",
+          "name": "ano",
+          "type": "artist",
+          "uri": "spotify:artist:7Il739Q5W4yJUYC3hfnX6z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+          },
+          "href": "https://api.spotify.com/v1/artists/1qM11R4ylJyQiPJ0DffE9z",
+          "id": "1qM11R4ylJyQiPJ0DffE9z",
+          "name": "Lilas Ikuta",
+          "type": "artist",
+          "uri": "spotify:artist:1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2VeVY34DDraFTeX00ou7qY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27378b398fce592e4797b042e04",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0278b398fce592e4797b042e04",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485178b398fce592e4797b042e04",
+          "width": 64
+        }
+      ],
+      "name": "Shinsekai Yori",
+      "release_date": "2024-11-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2VeVY34DDraFTeX00ou7qY"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Il739Q5W4yJUYC3hfnX6z",
+        "id": "7Il739Q5W4yJUYC3hfnX6z",
+        "name": "ano",
+        "type": "artist",
+        "uri": "spotify:artist:7Il739Q5W4yJUYC3hfnX6z"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        },
+        "href": "https://api.spotify.com/v1/artists/1qM11R4ylJyQiPJ0DffE9z",
+        "id": "1qM11R4ylJyQiPJ0DffE9z",
+        "name": "Lilas Ikuta",
+        "type": "artist",
+        "uri": "spotify:artist:1qM11R4ylJyQiPJ0DffE9z"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3NyKPMAryBkJg0Ium7AGgF",
+    "is_local": false,
+    "name": "Shinsekai Yori",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Il739Q5W4yJUYC3hfnX6z",
+          "id": "7Il739Q5W4yJUYC3hfnX6z",
+          "name": "ano",
+          "type": "artist",
+          "uri": "spotify:artist:7Il739Q5W4yJUYC3hfnX6z"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0qsnfQzcoZgycLGjJ9zKom",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f8e67806c97cd70cec4db646",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f8e67806c97cd70cec4db646",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f8e67806c97cd70cec4db646",
+          "width": 64
+        }
+      ],
+      "name": "絶絶絶絶対聖域",
+      "release_date": "2024-03-20",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0qsnfQzcoZgycLGjJ9zKom"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Il739Q5W4yJUYC3hfnX6z",
+        "id": "7Il739Q5W4yJUYC3hfnX6z",
+        "name": "ano",
+        "type": "artist",
+        "uri": "spotify:artist:7Il739Q5W4yJUYC3hfnX6z"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        },
+        "href": "https://api.spotify.com/v1/artists/1qM11R4ylJyQiPJ0DffE9z",
+        "id": "1qM11R4ylJyQiPJ0DffE9z",
+        "name": "Lilas Ikuta",
+        "type": "artist",
+        "uri": "spotify:artist:1qM11R4ylJyQiPJ0DffE9z"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3n4p9wJEgt4szBc92wPwmu",
+    "is_local": false,
+    "name": "絶絶絶絶対聖域",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+          },
+          "href": "https://api.spotify.com/v1/artists/1qM11R4ylJyQiPJ0DffE9z",
+          "id": "1qM11R4ylJyQiPJ0DffE9z",
+          "name": "Lilas Ikuta",
+          "type": "artist",
+          "uri": "spotify:artist:1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4Ov5F3jrRQcCApqS3NheI0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735ae940af0594f720f2c63ecd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025ae940af0594f720f2c63ecd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515ae940af0594f720f2c63ecd",
+          "width": 64
+        }
+      ],
+      "name": "P.S.",
+      "release_date": "2023-07-07",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4Ov5F3jrRQcCApqS3NheI0"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        },
+        "href": "https://api.spotify.com/v1/artists/1qM11R4ylJyQiPJ0DffE9z",
+        "id": "1qM11R4ylJyQiPJ0DffE9z",
+        "name": "Lilas Ikuta",
+        "type": "artist",
+        "uri": "spotify:artist:1qM11R4ylJyQiPJ0DffE9z"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5IUa0XCUrIzqjBcFv5fgRo",
+    "is_local": false,
+    "name": "P.S.",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+          },
+          "href": "https://api.spotify.com/v1/artists/1qM11R4ylJyQiPJ0DffE9z",
+          "id": "1qM11R4ylJyQiPJ0DffE9z",
+          "name": "Lilas Ikuta",
+          "type": "artist",
+          "uri": "spotify:artist:1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3H2UC7kPo1DNB4aVTiSNzE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273521ec49a2393c507863ae9c6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02521ec49a2393c507863ae9c6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851521ec49a2393c507863ae9c6",
+          "width": 64
+        }
+      ],
+      "name": "With",
+      "release_date": "2023-10-06",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3H2UC7kPo1DNB4aVTiSNzE"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        },
+        "href": "https://api.spotify.com/v1/artists/1qM11R4ylJyQiPJ0DffE9z",
+        "id": "1qM11R4ylJyQiPJ0DffE9z",
+        "name": "Lilas Ikuta",
+        "type": "artist",
+        "uri": "spotify:artist:1qM11R4ylJyQiPJ0DffE9z"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3yYu68P1WYsGCevgip6w2G",
+    "is_local": false,
+    "name": "With",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+          },
+          "href": "https://api.spotify.com/v1/artists/1qM11R4ylJyQiPJ0DffE9z",
+          "id": "1qM11R4ylJyQiPJ0DffE9z",
+          "name": "Lilas Ikuta",
+          "type": "artist",
+          "uri": "spotify:artist:1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0I7taaii2mCMOEJx0vuqSW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dcf2a351e8d3a0337dc8feb8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dcf2a351e8d3a0337dc8feb8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dcf2a351e8d3a0337dc8feb8",
+          "width": 64
+        }
+      ],
+      "name": "ノスタルジア",
+      "release_date": "2024-02-14",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0I7taaii2mCMOEJx0vuqSW"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        },
+        "href": "https://api.spotify.com/v1/artists/1qM11R4ylJyQiPJ0DffE9z",
+        "id": "1qM11R4ylJyQiPJ0DffE9z",
+        "name": "Lilas Ikuta",
+        "type": "artist",
+        "uri": "spotify:artist:1qM11R4ylJyQiPJ0DffE9z"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5LcDuMPZLDdrTPRWyiCQZC",
+    "is_local": false,
+    "name": "ノスタルジア",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+          },
+          "href": "https://api.spotify.com/v1/artists/1qM11R4ylJyQiPJ0DffE9z",
+          "id": "1qM11R4ylJyQiPJ0DffE9z",
+          "name": "Lilas Ikuta",
+          "type": "artist",
+          "uri": "spotify:artist:1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4szJowsqkuvKbBwZG9rYQG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b19b9af91a054b6c1b2c1605",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b19b9af91a054b6c1b2c1605",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b19b9af91a054b6c1b2c1605",
+          "width": 64
+        }
+      ],
+      "name": "青春謳歌 (feat.ano)",
+      "release_date": "2024-03-20",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4szJowsqkuvKbBwZG9rYQG"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        },
+        "href": "https://api.spotify.com/v1/artists/1qM11R4ylJyQiPJ0DffE9z",
+        "id": "1qM11R4ylJyQiPJ0DffE9z",
+        "name": "Lilas Ikuta",
+        "type": "artist",
+        "uri": "spotify:artist:1qM11R4ylJyQiPJ0DffE9z"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Il739Q5W4yJUYC3hfnX6z",
+        "id": "7Il739Q5W4yJUYC3hfnX6z",
+        "name": "ano",
+        "type": "artist",
+        "uri": "spotify:artist:7Il739Q5W4yJUYC3hfnX6z"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5N6DFXriMN64kM62mpk9uc",
+    "is_local": false,
+    "name": "青春謳歌 (feat.ano)",
+    "preview_url": null
+  }
+]
